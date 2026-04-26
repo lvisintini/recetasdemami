@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Frijoles](/platos-calientes/verduras/frijoles.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Frijoles]({{ site.baseurl }}/platos-calientes/verduras/frijoles.md)
 
 # Frijoles
 Remojar 2 tazas de frijoles en agua fria, durante toda la noche.

@@ -1,3 +1,4 @@
 theme: jekyll-theme-leap-day
 title: Las Recetas de Mami
 description: Una forma conveniente de ver a las recetas de Mami
+baseurl: "/recetasdemami"

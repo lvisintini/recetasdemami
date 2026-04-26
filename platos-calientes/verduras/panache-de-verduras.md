@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Panache de verduras](/platos-calientes/verduras/panache-de-verduras.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Panache de verduras]({{ site.baseurl }}/platos-calientes/verduras/panache-de-verduras.md)
 
 # Panache de verduras
 Poner en una fuente diferentes verduras por capas segun el gusto, puede ser: coliflor, zanahoria, papa, brocoli, chauchas, choclo, cebollitas de verdeo, arvejas, etc.

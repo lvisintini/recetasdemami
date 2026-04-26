@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Pollos](/platos-calientes/pollos) > [Pollo en escabeche](/platos-calientes/pollos/pollo-en-escabeche.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pollos]({{ site.baseurl }}/platos-calientes/pollos) > [Pollo en escabeche]({{ site.baseurl }}/platos-calientes/pollos/pollo-en-escabeche.md)
 
 # Pollo en escabeche
 5 pechugas o muslos y patas. 2 cebollas, 1 pimiento rojo, 1 verde, 4 zanahorias, 1 puerro, repollitos brucelas, laurel, pimienta en grano, semillas de mostaza, sal, aceite y vinagre de vino.

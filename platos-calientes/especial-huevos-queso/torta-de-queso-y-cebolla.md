@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Torta de queso y cebolla (muy buena)](/platos-calientes/especial-huevos-queso/torta-de-queso-y-cebolla.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Torta de queso y cebolla (muy buena)]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/torta-de-queso-y-cebolla.md)
 
 # Torta de queso y cebolla (muy buena)
 Puede usarse la masa de tarta de vir o la siguiente, pero precocinarlas antes de rellenarlas.

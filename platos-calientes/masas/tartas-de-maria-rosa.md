@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Masas](/platos-calientes/masas) > [Tartas de maria rosa (muy buenas; saladas)](/platos-calientes/masas/tartas-de-maria-rosa.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Tartas de maria rosa (muy buenas; saladas)]({{ site.baseurl }}/platos-calientes/masas/tartas-de-maria-rosa.md)
 
 # Tartas de maria rosa (muy buenas; saladas)
 Para dos unidades:

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Torta de queso](/platos-calientes/especial-huevos-queso/torta-de-queso.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Torta de queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/torta-de-queso.md)
 
 # Torta de queso
 500 gr queso blanco, 6 huevos, 175 gr de azucar, esencia de vainilla, 1 cucharada de crema de leche, cascara picada y jugo de un limon.
