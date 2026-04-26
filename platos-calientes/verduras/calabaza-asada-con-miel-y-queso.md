@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Verduras](platos-calientes/verduras) > [Calabaza asada con miel y queso](platos-calientes/verduras/calabaza-asada-con-miel-y-queso.md)
+[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Calabaza asada con miel y queso](/platos-calientes/verduras/calabaza-asada-con-miel-y-queso.md)
 
 # Calabaza asada con miel y queso.
 Cortar 600 gr de calabaza en pequeños cubitos, rociarlos con aceite (3 cucharadas) y hornearlos por 20 minutos a 200ª c. retirarlos y espolvorearlos con semillas de sesamo (1 cucharada)y cocinarlos por 10 minutos mas.

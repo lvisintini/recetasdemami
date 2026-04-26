@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Cerdo a la florentin (agridulce)](platos-calientes/carnes/cerdo-a-la-florentin.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Cerdo a la florentin (agridulce)](/platos-calientes/carnes/cerdo-a-la-florentin.md)
 
 # Cerdo a la florentin (agridulce)
 Se unta la carne con mostaza, pimienta, sal y se deja descansar.

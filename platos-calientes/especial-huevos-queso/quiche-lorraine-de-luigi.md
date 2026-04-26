@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Especial huevos queso](platos-calientes/especial-huevos-queso) > [Quiche lorraine de luigi](platos-calientes/especial-huevos-queso/quiche-lorraine-de-luigi.md)
+[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Quiche lorraine de luigi](/platos-calientes/especial-huevos-queso/quiche-lorraine-de-luigi.md)
 
 # Quiche lorraine de luigi.
 Masa para tarta, puede ser: 200 grs de harina,100 grs de manteca y 100 de agua salada. cocinarla un poco.

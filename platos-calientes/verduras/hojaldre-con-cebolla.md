@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Verduras](platos-calientes/verduras) > [Hojaldre con cebolla (no probado)](platos-calientes/verduras/hojaldre-con-cebolla.md)
+[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Hojaldre con cebolla (no probado)](/platos-calientes/verduras/hojaldre-con-cebolla.md)
 
 # Hojaldre con cebolla (no probado)
 Cortar la cebolla de menos de 1/2 cm de espesor, sazonarlas con sal y aceite de oliva. llevar al horno microondas por 15 minutos.

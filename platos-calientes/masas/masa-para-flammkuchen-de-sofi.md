@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Masas](platos-calientes/masas) > [Masa para flammkuchen de Sofi](platos-calientes/masas/masa-para-flammkuchen-de-sofi.md)
+[Platos calientes](/platos-calientes) > [Masas](/platos-calientes/masas) > [Masa para flammkuchen de Sofi](/platos-calientes/masas/masa-para-flammkuchen-de-sofi.md)
 
 # Masa para flammkuchen de Sofi
 Mezclar 25 gr de levadura fresca con 1 cucharadita de azucar , hasta que quede liquido.

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Bifes a la criolla](platos-calientes/carnes/bifes-a-la-criolla.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Bifes a la criolla](/platos-calientes/carnes/bifes-a-la-criolla.md)
 
 # Bifes a la criolla
 En una cacerola se pone un poco de aceite y despues por capas:

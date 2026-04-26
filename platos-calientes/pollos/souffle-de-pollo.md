@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Pollos](platos-calientes/pollos) > [Souffle de pollo](platos-calientes/pollos/souffle-de-pollo.md)
+[Platos calientes](/platos-calientes) > [Pollos](/platos-calientes/pollos) > [Souffle de pollo](/platos-calientes/pollos/souffle-de-pollo.md)
 
 # Souffle de pollo
 En 3 cucharadas de manteca cocinar 3 cucharadas de harina. agregar 1 litro de leche caliente de a poco y revolviendo hasta que espece.

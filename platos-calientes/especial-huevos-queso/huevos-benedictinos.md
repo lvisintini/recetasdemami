@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Especial huevos queso](platos-calientes/especial-huevos-queso) > [Huevos benedictinos](platos-calientes/especial-huevos-queso/huevos-benedictinos.md)
+[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Huevos benedictinos](/platos-calientes/especial-huevos-queso/huevos-benedictinos.md)
 
 # Huevos benedictinos
 Formar una torre con: tostada, panceta cocida o jamon crudo, cebollita de verdeo picada, huevo poche (ver mas abajo) y salsa holandesa.

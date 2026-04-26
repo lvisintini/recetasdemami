@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Bifes rellenos a la plancha](platos-calientes/carnes/bifes-rellenos-a-la-plancha.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Bifes rellenos a la plancha](/platos-calientes/carnes/bifes-rellenos-a-la-plancha.md)
 
 # Bifes rellenos a la plancha
 El bife debe ser cortado finito como para milanesa

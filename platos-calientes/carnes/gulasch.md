@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Gulasch](platos-calientes/carnes/gulasch.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Gulasch](/platos-calientes/carnes/gulasch.md)
 
 # Gulasch
 ½ litro agua,1/2 kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, aji molido, pimienta.

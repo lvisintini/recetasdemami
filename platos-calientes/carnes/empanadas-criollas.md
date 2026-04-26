@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Empanadas criollas](platos-calientes/carnes/empanadas-criollas.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Empanadas criollas](/platos-calientes/carnes/empanadas-criollas.md)
 
 # Empanadas criollas
 

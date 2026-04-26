@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Especial huevos queso](platos-calientes/especial-huevos-queso) > [Flammkuchen](platos-calientes/especial-huevos-queso/flammkuchen.md)
+[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Flammkuchen](/platos-calientes/especial-huevos-queso/flammkuchen.md)
 
 # Flammkuchen
 Colocar sobre una asadera un papel manteca y sobre este una masa de tarta. exparcir por toda su superficie queso crema. y sobre esta colocar tiritas de panceta ahumada,trocitos de cebollita de verdeo, quero rallado y condimentar. llevar al horno por 15 minutos y servir. no dorar demasiado.

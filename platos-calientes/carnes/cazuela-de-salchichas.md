@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Carnes](platos-calientes/carnes) > [Cazuela de salchichas](platos-calientes/carnes/cazuela-de-salchichas.md)
+[Platos calientes](/platos-calientes) > [Carnes](/platos-calientes/carnes) > [Cazuela de salchichas](/platos-calientes/carnes/cazuela-de-salchichas.md)
 
 # Cazuela de salchichas
 En un fuente para horno u horno micro ondas, colocar salchichas (2 por persona) cortadas en trocitos, tomates en rodajas finas, 1 huevo por persona y queso mantecoso.

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Pollos](platos-calientes/pollos) > [Arroz con pollo a la multichef( o sin multichef)](platos-calientes/pollos/arroz-con-pollo-a-la-multichef.md)
+[Platos calientes](/platos-calientes) > [Pollos](/platos-calientes/pollos) > [Arroz con pollo a la multichef( o sin multichef)](/platos-calientes/pollos/arroz-con-pollo-a-la-multichef.md)
 
 # Arroz con pollo a la multichef.( o sin multichef)
 Salpimentar el pollo (muslos y pechugas (preferiblemente deshuesadas) y pasarlos por harina.

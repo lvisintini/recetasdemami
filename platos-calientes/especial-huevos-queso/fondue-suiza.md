@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Especial huevos queso](platos-calientes/especial-huevos-queso) > [Fondue suiza](platos-calientes/especial-huevos-queso/fondue-suiza.md)
+[Platos calientes](/platos-calientes) > [Especial huevos queso](/platos-calientes/especial-huevos-queso) > [Fondue suiza](/platos-calientes/especial-huevos-queso/fondue-suiza.md)
 
 # Fondue suiza
 250 gr queso gruyere. 250 gr queso elementhal, 1 vaso de vino blanco seco,1 copita de kirch, pimienta, ajo.

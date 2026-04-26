@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Verduras](platos-calientes/verduras) > [Croquetas de espinaca](platos-calientes/verduras/croquetas-de-espinaca.md)
+[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Croquetas de espinaca](/platos-calientes/verduras/croquetas-de-espinaca.md)
 
 # Croquetas de espinaca
 1 kg de espinaca, leche, 2 huevos, 1 cucharada de cebolla rallada, 2 cucharadas de jamón cocido, ¾ taza de harina, sal, pimienta, nuez moscada, 1 cucharada de queso rallado.

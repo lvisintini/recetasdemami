@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Verduras](platos-calientes/verduras) > [Humita](platos-calientes/verduras/humita.md)
+[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Humita](/platos-calientes/verduras/humita.md)
 
 # Humita
 Saltear en aceite una cebolla finamente picada, agregar 1 aji, 1 tomate picado y 1 taza de caldo de carne, cocinar hasta que se logre una salsa liviana. ingresar una lata de choclos, sal y pimienta.

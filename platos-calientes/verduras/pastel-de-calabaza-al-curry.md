@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Verduras](platos-calientes/verduras) > [Pastel de calabaza al curry (muy rico)](platos-calientes/verduras/pastel-de-calabaza-al-curry.md)
+[Platos calientes](/platos-calientes) > [Verduras](/platos-calientes/verduras) > [Pastel de calabaza al curry (muy rico)](/platos-calientes/verduras/pastel-de-calabaza-al-curry.md)
 
 # Pastel de calabaza al curry (muy rico)
 1. 1 diente de ajo

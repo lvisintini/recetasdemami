@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](platos-calientes) > [Pollos](platos-calientes/pollos) > [Pollo a la florentina](platos-calientes/pollos/pollo-a-la-florentina.md)
+[Platos calientes](/platos-calientes) > [Pollos](/platos-calientes/pollos) > [Pollo a la florentina](/platos-calientes/pollos/pollo-a-la-florentina.md)
 
 # Pollo a la florentina
 Cortar el pollo, colocarlo en una asadara y rebozarlo con sal, limon, savora y pimienta.
