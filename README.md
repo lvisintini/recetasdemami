@@ -1,4 +1,3 @@
-# Las recetas de Mami
 Las recetas de Mami
 
-[Platos Calientes](/platos-calientes)
+[Platos Calientes](/recetasdemami/platos-calientes)
