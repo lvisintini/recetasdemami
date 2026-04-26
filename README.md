@@ -1,3 +1,3 @@
-Las recetas de Mami
+# Recetas de Mami
 
-[Platos Calientes](/recetasdemami/platos-calientes)
+Un repositorio para compartir las recetas de Mami
