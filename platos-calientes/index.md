@@ -1,834 +1,834 @@
 ---
-title: Las Recetas de Mami
+Title: Las Recetas de Mami
 ---
-# PLATOS CALIENTES
+# Platos calientes
 
-## ESPECIAL HUEVOS, QUESO
+## Especial huevos, queso
 
-### HUEVOS BENEDICTINOS
-FORMAR UNA TORRE CON: TOSTADA, PANCETA COCIDA O JAMON CRUDO, CEBOLLITA DE VERDEO PICADA, HUEVO POCHE (VER MAS ABAJO) Y SALSA HOLANDESA.
+### Huevos benedictinos
+Formar una torre con: tostada, panceta cocida o jamon crudo, cebollita de verdeo picada, huevo poche (ver mas abajo) y salsa holandesa.
 
-#### SALSA HOLANDEZA
-3 CUHARADAS DE MANTECA DERRETIDA, 1 CUCHARADA DE JUGO DE LIMON Y I/2 TAZA DE MAYONESA. SERVIR TIBIO.
+#### Salsa holandeza
+3 cuharadas de manteca derretida, 1 cucharada de jugo de limon y 1/2 taza de mayonesa. servir tibio.
 
-### HUEVOS POCHE
-HERVIR AGUA CON UN CHORRO DE VINAGRE Y POCA SAL. BAJAR EL FUEGO Y HACER GIRAR EL AGUA SEGUN LAS AGUJAS DEL RELOJ. INTRODUCIR EL HUEVO (A TEMPERATURA AMBIENTE) SIN CASCARA EN EL CENTRO Y COCINAR A FUEGO FUERTE POR 2 MINUTOS. TRATANDO DE HACER MOVIMIENTOS ENVOLVENTES CON CUCHARA DE MADERA.
+### Huevos poche
+Hervir agua con un chorro de vinagre y poca sal. bajar el fuego y hacer girar el agua segun las agujas del reloj. introducir el huevo (a temperatura ambiente) sin cascara en el centro y cocinar a fuego fuerte por 2 minutos. tratando de hacer movimientos envolventes con cuchara de madera.
 
-TAMBIEN SE PUEDE COLOCAR EL HUEVO CONDIMENTADO EN UNA BOLSITA DE NYLON CERRADA CON UN BROCHE O ALAMBRE FORRADO Y COLOCARLO EN EL AGUA HIRVIENDO POR 2 o 3 MINUTOS.
+Tambien se puede colocar el huevo condimentado en una bolsita de nylon cerrada con un broche o alambre forrado y colocarlo en el agua hirviendo por 2 o 3 minutos.
 
-#### OTRA
-PONER SOBRE LA SARTEN TIBIA UN PAPEL MANTECA ENMANTECADO Y EL HUEVO ARRIBA, COCINAR HASTA QUE LA CLARA SE PONE BLANCA Y TODAVIA LA YEMA LIQUIDA. LLEVAR EL PAPEL HASTA EL PLATO Y RESBALAR EL HUEVO.
+#### Otra
+Poner sobre la sarten tibia un papel manteca enmantecado y el huevo arriba, cocinar hasta que la clara se pone blanca y todavia la yema liquida. llevar el papel hasta el plato y resbalar el huevo.
 
-### HUEVOS NAPOLEON
-DORAR EN MANTECA: CEBOLLA, AJO Y PIMIENTO PICADOS.
+### Huevos napoleon
+Dorar en manteca: cebolla, ajo y pimiento picados.
 
-SOBRE UNA RODAJA DE PAN COLOCAR LA MEZCLA ANTERIOR; SOBRE ESTA UNA RODAJA DE MUSARELA O QUESO RALLADO. ROMPER UN HUEVO SOBRE ESTA Y POR ULTIMO SAL PIMENTAR Y AGREGAR OREGANO.
+Sobre una rodaja de pan colocar la mezcla anterior; sobre esta una rodaja de musarela o queso rallado. romper un huevo sobre esta y por ultimo sal pimentar y agregar oregano.
 
-LLEVAR AL HORNO A 180ª POR 10 A 12 MINUTOS.
+Llevar al horno a 180ª por 10 a 12 minutos.
 
-### HUEVOS A LA CANASTA
-A UNA RODAJA DE PAN LACTAL, SACARLE UN CIRCULO DE MIGA. COLOCARLA EN LA SARTEN CON UNA GOTAS DE ACEITE O MANTECA, DORARLA , DARLA VUELTA Y COLOCAR EL HUEVO EN EL CENTRO. BAJAR EL FUEGO, PARA QUE SE COCINE SIN ARREBATARSE, DURANTE APROXIMADAMENTE 4 MINUTOS. CONDIMENTAR CON SAL Y PIMIENTA, O AJI MOLIDO, ETC
+### Huevos a la canasta
+A una rodaja de pan lactal, sacarle un circulo de miga. colocarla en la sarten con una gotas de aceite o manteca, dorarla , darla vuelta y colocar el huevo en el centro. bajar el fuego, para que se cocine sin arrebatarse, durante aproximadamente 4 minutos. condimentar con sal y pimienta, o aji molido, etc
 
-PUEDE AGREGARSE: CEBOLLITA DE VERDEO, QUESO RALLADO, TROCITOS DE JAMON, PANCETA, ETC.
+Puede agregarse: cebollita de verdeo, queso rallado, trocitos de jamon, panceta, etc.
 
-TAMBIEN SE PUEDE UTILIZAR LA RODAJA DE UN PIMIENTO MORRON Y COLOCAR EL HUEVO EN EL CENTRO. CONDIMENTAR Y COCINAR SOBRE LA SARTEN.
+Tambien se puede utilizar la rodaja de un pimiento morron y colocar el huevo en el centro. condimentar y cocinar sobre la sarten.
 
-PONER EL HUEVO SOBRE EL HUECO QUE DEJA LA SEMILLA DE LA PALTA, CONDIMENTAR Y COCINAR AL HORNO APROXIMADAMENTE 10 MINUTOS.
+Poner el huevo sobre el hueco que deja la semilla de la palta, condimentar y cocinar al horno aproximadamente 10 minutos.
 
-### HUEVOS EN LAS NIEVES
-BATIR LA CLARA A PUNTO NIEVE, COLOCAR EN UNA PLACA PARA HORNO. HACER UN HUECO EN LA CLARA Y UBICAR ALLI LA YEMA, CONDIMENTAR. COCINAR POR 10 MINUTOS EN HORNO A 180ª
+### Huevos en las nieves
+Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en la clara y ubicar alli la yema, condimentar. cocinar por 10 minutos en horno a 180ª
 
-### HUEVOS ABRAZADOS POR LA PANCETA
-EN UN MOLDE DE MUFINS, COLOCAR UNA FETA DE PANCETA EN FORMA CIRCULAR Y EN EL CENTRO COLOCAR EL HUEVO, CONDIMENTAR CON SAL Y AGREGAR QUESO RALLADO. LLEVAR AL HORNO A 180ª POR 10 MINUTOS.
+### Huevos abrazados por la panceta
+En un molde de mufins, colocar una feta de panceta en forma circular y en el centro colocar el huevo, condimentar con sal y agregar queso rallado. llevar al horno a 180ª por 10 minutos.
 
-IDEAL PARA HACER PARA VARIAS PERSONAS (6)
+Ideal para hacer para varias personas (6)
 
-### OMELETTE
-A PARTE DEL TRADICIONAL DE HUEVO, QUESO, CON O SIN PEREJIL PICADO, SAL Y PIMIENTA, SE PUEDEN HACER OTRAS VARIACIONES:
+### Omelette
+A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimienta, se pueden hacer otras variaciones:
 
-- PANCETA, CHAMPIGNONES, CEBOLLA Y PIMIENTO.
-- CEBOLLA, TOMATE, PIMIENTO, QUESO Y ANQUITO.
-- ESPINACA, QUESO, CREMA DE LECHE, SAL, PIMIENTAY NUEZ MOSCADA.
-- JAMON, TOMATE, CEBOLLA,NUEZ MOSCADA.
+- Panceta, champignones, cebolla y pimiento.
+- Cebolla, tomate, pimiento, queso y anquito.
+- Espinaca, queso, crema de leche, sal, pimientay nuez moscada.
+- Jamon, tomate, cebolla,nuez moscada.
 
-### PALETA DE PINTOR (1)
-COLOCAR EN EL CUARTO DE UN PLATO: 2 FETAS DE JAMON EN TIRITAS. EN OTRO CUARTO: MEDIA ZANAHORIA RALLADA, EN EL OTRO: MEDIO ZUCCHINI TAMBIEN RALLADO Y EN EL ULTIMO CUARTO: REMOLACHA RALLADA, CONDIMENTANDOSE CON ACEITE DE OLIVA Y SAL.
+### Paleta de pintor (1)
+Colocar en el cuarto de un plato: 2 fetas de jamon en tiritas. en otro cuarto: media zanahoria rallada, en el otro: medio zucchini tambien rallado y en el ultimo cuarto: remolacha rallada, condimentandose con aceite de oliva y sal.
 
-EN EL CENTRO DEL PLATO Y SOBRE TODAS LAS VERDURAS SE COLOCA UN HUEVO POCHE.
+En el centro del plato y sobre todas las verduras se coloca un huevo poche.
 
-COMO TERMINACION ADICIONAR SAL, ALGUNA SEMILLA (AMAPOLA, SESAMO, ETC) O PEREJIL PICADO.
+Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil picado.
 
-### BUÑUELOS DE PAPA Y QUESO
-PONER EN UN BOL 3 TAZAS DE HARINA LEUDANTE, EN EL CENTRO 100 GR DE QUESO FONTINA RALLADO, 3 HUEVOS, 2 CUCHARADAS DE CEBOLLA RALLADA, SAL, PIMIENTA Y EL PURE DE 4 PAPAS. MEZCLAR TODO Y HACER UNA MASA CONSISTENTE, AGREGANDOLE UN POCO DE LECHE.
+### Buñuelos de papa y queso
+Poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas. mezclar todo y hacer una masa consistente, agregandole un poco de leche.
 
-TOMAR PORCIONES POR CUCHARADAS Y FREIRLOS EN ACEITE.
+Tomar porciones por cucharadas y freirlos en aceite.
 
-UTILIZAR DOS CUCHARAS HUMEDECIDAS EN AGUA FRIA PARA MOLDEARLAS, CADA VEZ QUE SE BUSCA LA CUCHARADA DE LA MEZCLA. ESTO ES PARA QUE NO SE DESARME LA CROQUETA CUANDO SE LA LLEVA AL ACEITE.
-SERVIR CALIENTE.
+Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla. esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+Servir caliente.
 
-### BOMBA DE PAPA Y QUESO
-1 KG DE PAPA PELADAS, 50 GR MANTECA, SAL, PIMIENTA, ½ TAZA QUESO RALLADO, 1 HUEVO, PAN RALLADO, QUESO MANTECOSO.
-HACER PURE, AGREGAR SAL Y PIMIENTA, MANTECA Y QUESO RALLADO.
+### Bomba de papa y queso
+1 kg de papa peladas, 50 gr manteca, sal, pimienta, ½ taza queso rallado, 1 huevo, pan rallado, queso mantecoso.
+Hacer pure, agregar sal y pimienta, manteca y queso rallado.
 
-FORMAR BOMBAS CON UN DADO DE QUESO MANTECOSO EN EL CENTRO. PASARLOS POR HUEVO BATIDO Y PAN RALLADO, FREIRLOS EN ACEITE.
+Formar bombas con un dado de queso mantecoso en el centro. pasarlos por huevo batido y pan rallado, freirlos en aceite.
 
-UTILIZAR DOS CUCHARAS HUMEDECIDAS EN AGUA FRIA PARA MOLDEARLAS, CADA VEZ QUE SE BUSCA LA CUCHARADA DE LA MEZCLA. ESTO ES PARA QUE NO SE DESARME LA CROQUETA CUANDO SE LA LLEVA AL ACEITE.
-SERVIR CALIENTE.
+Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla. esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+Servir caliente.
 
-### QUICHE LORRAINE DE LUIGI.
-MASA PARA TARTA, PUEDE SER: 200 GRS DE HARINA,100 GRS DE MANTECA Y 100 DE AGUA SALADA. COCINARLA UN POCO.
+### Quiche lorraine de luigi.
+Masa para tarta, puede ser: 200 grs de harina,100 grs de manteca y 100 de agua salada. cocinarla un poco.
 
-#### RELLENO
-COCINAR 9 FETAS DE PANCETA
+#### Relleno
+Cocinar 9 fetas de panceta
 
-COCINAR 1 TAZA DE CEBOLLAS Y CEBOLLITAS DE VERDEO, SALPIMENTAR.
+Cocinar 1 taza de cebollas y cebollitas de verdeo, salpimentar.
 
-1 TAZA DE QUESO GRUYERE.
+1 taza de queso gruyere.
 
-#### CREMA
-- 3 HUEVOS
-- 2 YEMAS
-- 1 TAZA DE CREMA DE LECHE
-- ¾ TAZA DE LECHE.
+#### Crema
+- 3 huevos
+- 2 yemas
+- 1 taza de crema de leche
+- ¾ taza de leche.
 
-#### ARMADO
-SOBRE LA MASA PRECOCIDA PONER 1/3 DE LA PANCETA FRITA, 1/3 DE LAS CEBOLLAS Y 1/3 DEL QUESO.
+#### Armado
+Sobre la masa precocida poner 1/3 de la panceta frita, 1/3 de las cebollas y 1/3 del queso.
 
-AGREGAR 1/3 DE LA CREMA.
+Agregar 1/3 de la crema.
 
-CONTINUAR CON EL RESTO DE LOS ELEMENTOS, POR CAPAS: CEBOLLAS, QUESO. LA CREMA RESTANTE Y POR ULTIMO LOS TROZOS DE PANCETA.
+Continuar con el resto de los elementos, por capas: cebollas, queso. la crema restante y por ultimo los trozos de panceta.
 
-LLEVAR AL HORNO CALIENTE POR 45 MINUTOS.
+Llevar al horno caliente por 45 minutos.
 
-### TORTA DE QUESO
-500 GR QUESO BLANCO, 6 HUEVOS, 175 GR DE AZUCAR, ESENCIA DE VAINILLA, 1 CUCHARADA DE CREMA DE LECHE, CASCARA PICADA Y JUGO DE UN LIMON.
+### Torta de queso
+500 gr queso blanco, 6 huevos, 175 gr de azucar, esencia de vainilla, 1 cucharada de crema de leche, cascara picada y jugo de un limon.
 
-MEZCLAR TODOS LOS INGREDIENTES HASTA OBTENER UNA PREPARACION BIEN HOMOGENEA. COCINAR APROXIMADAMENTE 45 MINUTOS. TERMINADA LA COCCION DESMOLDAR. DECORAR CON CASCARA DE LIMON. ACOMPAÑAR CON SALSA DE FRUTILLA.
+Mezclar todos los ingredientes hasta obtener una preparacion bien homogenea. cocinar aproximadamente 45 minutos. terminada la coccion desmoldar. decorar con cascara de limon. acompañar con salsa de frutilla.
 
-### FONDUE SUIZA
-250 GR QUESO GRUYERE. 250 GR QUESO ELEMENTHAL, 1 VASO DE VINO BLANCO SECO,1 COPITA DE KIRCH, PIMIENTA, AJO.
+### Fondue suiza
+250 gr queso gruyere. 250 gr queso elementhal, 1 vaso de vino blanco seco,1 copita de kirch, pimienta, ajo.
 
-FROTAR EL INTERIOR DE UN RECIPIENTE DE BARRO CON UN DIENTE DE AJO, CORTAR LOS QUESOS EN LAMINAS FINAS Y PONERLOS EN LA CAZUELA JUNTO CON EL VINO Y CALENTAR SUAVEMENTE REVOLVIENDO EN FORMA DE OCHO, HASTA FORMAR UNA MASA LISA. AGREGAR EL KIRCH Y LA PIMIENTA SIN DEJAR DE REVOLVER. SERVIR CON EL MISMO VINO. AL FINAL, SERVIR UNA COPITA DE KIRCH.
+Frotar el interior de un recipiente de barro con un diente de ajo, cortar los quesos en laminas finas y ponerlos en la cazuela junto con el vino y calentar suavemente revolviendo en forma de ocho, hasta formar una masa lisa. agregar el kirch y la pimienta sin dejar de revolver. servir con el mismo vino. al final, servir una copita de kirch.
 
-### FLAMMKUCHEN
-COLOCAR SOBRE UNA ASADERA UN PAPEL MANTECA Y SOBRE ESTE UNA MASA DE TARTA. EXPARCIR POR TODA SU SUPERFICIE QUESO CREMA. Y SOBRE ESTA COLOCAR TIRITAS DE PANCETA AHUMADA,TROCITOS DE CEBOLLITA DE VERDEO, QUERO RALLADO Y CONDIMENTAR. LLEVAR AL HORNO POR 15 MINUTOS Y SERVIR. NO DORAR DEMASIADO.
+### Flammkuchen
+Colocar sobre una asadera un papel manteca y sobre este una masa de tarta. exparcir por toda su superficie queso crema. y sobre esta colocar tiritas de panceta ahumada,trocitos de cebollita de verdeo, quero rallado y condimentar. llevar al horno por 15 minutos y servir. no dorar demasiado.
 
-PUEDEN HACERSE OTRAS VARIACIONES: SOBRE EL QUESO CREMA COLOCAR ESPINACA AL AJO.
+Pueden hacerse otras variaciones: sobre el queso crema colocar espinaca al ajo.
 
-SE PUEDE HACER CON TOMATE SECO, AJO, CEBOLLA ,CHAMPIGNONES, PURE DE CHOCLO, ETC.
+Se puede hacer con tomate seco, ajo, cebolla ,champignones, pure de choclo, etc.
 
-VER MASA ESPECIAL PARA FLAMMKUCHEN EN MASAS.
+Ver masa especial para flammkuchen en masas.
 
-#### ARROLLADO CANDOMBE DE LUIGI
-DISPERSAR SOBRE UNA MASA DE TARTA RECTANGULAR, EN FORMA DE CAPAS:
+#### Arrollado candombe de Luigi
+Dispersar sobre una masa de tarta rectangular, en forma de capas:
 
-100 GR DE JAMON, 100 GR DE QUESO DE MAQUINA, 2 HUEVOS DUROS PICADOS, RODAJAS DE 1 TOMATE Y UN MANOLO DE PEREJIL BIEN PICADO.
+100 gr de jamon, 100 gr de queso de maquina, 2 huevos duros picados, rodajas de 1 tomate y un manolo de perejil bien picado.
 
-ARROLLAR LA MASA Y LLEVAR A HORNO DE FUEGO MODERADO HASTA QUE SE DORE. CUANDO SE ENTIBIE, CORTAR EN RODAJAS.
+Arrollar la masa y llevar a horno de fuego moderado hasta que se dore. cuando se entibie, cortar en rodajas.
 
-### SPÂTZLE (4 PERSONAS)
-½ KG DE HARINA, 5 HUEVOS, PISCA DE SAL, Y ENTRE 150 Y 200 DE AGUA, O MAS AGUA, DE ACUERDO A LA CONSISTENCIA DESEADA.
+### Spâtzle (4 personas)
+½ kg de harina, 5 huevos, pisca de sal, y entre 150 y 200 de agua, o mas agua, de acuerdo a la consistencia deseada.
 
-UNA CUCHARADA DEBE FLUIR SIN INTERRUMPIRSE.
+Una cucharada debe fluir sin interrumpirse.
 
-IR CORTANDO LA MASA QUE VA CAYENDO EN EL AGUA HIRVIENDO Y COCINANDOSE.
+Ir cortando la masa que va cayendo en el agua hirviendo y cocinandose.
 
-### ÑOQUIS CASEROS
-AL PURE DE 4 PAPAS CON SAL, BIEN CALIENTE SE LE AGREGA 4 TAZAS DE HARINA, 1 HUEVO ENTERO, QUESO RALLADO Y NUEZ MOSCADA.
+### Ñoquis caseros
+Al pure de 4 papas con sal, bien caliente se le agrega 4 tazas de harina, 1 huevo entero, queso rallado y nuez moscada.
 
-SI HACE FALTA PARA OBTENER UNA MASA TRABAJABLE AGREGAR MANTECA. HACER LOS CHORIZITOS, PASARLOS POR EL TENEDOR Y AL AGUA HIRVIENDO HASTA QUE FLOTEN.
+Si hace falta para obtener una masa trabajable agregar manteca. hacer los chorizitos, pasarlos por el tenedor y al agua hirviendo hasta que floten.
 
-### FLOUT
-SE PISA BIEN LA PAPA COCIDA, SE PUEDE AGRAGAR UN POCO DE AGUA, Y SE LE AGREGA HARINA MEZCLANDO BIEN SOBRE EL FUEGO.
+### Flout
+Se pisa bien la papa cocida, se puede agragar un poco de agua, y se le agrega harina mezclando bien sobre el fuego.
 
-CUANDO TIENE CIERTA CONSISTENCIA SE FRIE EN MANTECA.
+Cuando tiene cierta consistencia se frie en manteca.
 
-### TORTA DE QUESO Y CEBOLLA (Muy buena)
-PUEDE USARSE LA MASA DE TARTA DE VIR O LA SIGUIENTE, PERO PRECOCINARLAS ANTES DE RELLENARLAS.
+### Torta de queso y cebolla (muy buena)
+Puede usarse la masa de tarta de vir o la siguiente, pero precocinarlas antes de rellenarlas.
 
-AMASAR UN POCO 1 ½ TAZA DE HARINA CON ½ CUCHARADITA DE POLVO DE HORNEAR, SAL Y ½ TAZA DE MANTECA, AGREGANDOLE 4 o 5 CUCHARADAS DE AGUA. DEJAR DESCANSAR Y LUEGO FORRAR UNA FUENTE DE HORNO ENMANTECADA.
+Amasar un poco 1 ½ taza de harina con ½ cucharadita de polvo de hornear, sal y ½ taza de manteca, agregandole 4 o 5 cucharadas de agua. dejar descansar y luego forrar una fuente de horno enmantecada.
 
-SALTEAR EN 2 CUCHARADAS DE MANTECA 2 o 3 CEBOLLAS CORTADAS FINITAS, SIN DORAR. UNA VEZ FRIAS, COLOCARLAS SOBRE LA MASA.
+Saltear en 2 cucharadas de manteca 2 o 3 cebollas cortadas finitas, sin dorar. una vez frias, colocarlas sobre la masa.
 
-SE BATEN 3 HUEVOS CON SAL Y PIMIENTA, 1 TAZA DE QUESO RALLADO Y ½ TAZA DE CREMA DE LECHE O LECHE. TODO ESE LIQUIDO SE PONE SOBRE LAS CEBOLLAS Y SE LLEVA A HORNO MODERADO POR 45 MINUTOS APROXIMADAMENTE.
+Se baten 3 huevos con sal y pimienta, 1 taza de queso rallado y ½ taza de crema de leche o leche. todo ese liquido se pone sobre las cebollas y se lleva a horno moderado por 45 minutos aproximadamente.
 
-### CREPES AL CHAMPIGNON
-RELLENO: LICUAR UNA TAZA DE HARINA, 2 YEMAS, 1 CLARA, ½ CUCHARADITA DE SAL, ½ TAZA DE LECHE, ½ TAZA DE CREMA Y 1 CEBOLLITA DE VERDEO PICADISIMA.
+### Crepes al champignon
+Relleno: licuar una taza de harina, 2 yemas, 1 clara, ½ cucharadita de sal, ½ taza de leche, ½ taza de crema y 1 cebollita de verdeo picadisima.
 
-UNA VEZ LICUADO, AGREGAR 1 TAZA DE CHAMPIGNONES EN RODAJAS. HACER LOS PANQUEQUES, DOBLARLOS EN CUATRO Y ESPOLVOREARLOS CON GRUYERE RALLADO.
+Una vez licuado, agregar 1 taza de champignones en rodajas. hacer los panqueques, doblarlos en cuatro y espolvorearlos con gruyere rallado.
 
-### CREPES DE QUESO Y ALBAHACA CON SALSA DE PIMIENTOS.
-MASA PARA PANQUEQUES: PARA 10 CREPES: 1 HUEVO, 200 GR HARINA Y 600 ML LECHE.
+### Crepes de queso y albahaca con salsa de pimientos.
+Masa para panqueques: para 10 crepes: 1 huevo, 200 gr harina y 600 ml leche.
 
-RELLENO: 200 GR DE CREMA DE QUESO, 100 GR QUESO RALLADO, 100 GR QUESO MANTECOSO EN COBITOS,. 2 CUCHARADAS DE ALBAHACA PICADA, 1 CUCHARADA DE NUECES PICADAS, 1 DIENTE DE AJO PICADO, 2 CUCHARADAS DE ACEITE DE OLIVA, SAL, PIMIENTA Y NUEZ MOSCADA.
+Relleno: 200 gr de crema de queso, 100 gr queso rallado, 100 gr queso mantecoso en cobitos,. 2 cucharadas de albahaca picada, 1 cucharada de nueces picadas, 1 diente de ajo picado, 2 cucharadas de aceite de oliva, sal, pimienta y nuez moscada.
 
-PONER EN CADA CREPE 2 CUCHARADAS DEL RELLENO Y SOBRE ESTE COLOCAR LA SALSA DE PIMIENTOS.
+Poner en cada crepe 2 cucharadas del relleno y sobre este colocar la salsa de pimientos.
 
-SALSA DE PIMIENTOS: MEZCLAR 1 TAZA DE SALSA BLANCA, 1 TAZA QUESO MANTECOSO, 1 PIMIENTO ROJO PICADO Y COCIDO, Y TRES CUCHARADAS DE LECHE. LICUAR. LLEVAR A HORNO POR 10 MINUTOS Y SERVIR. DECORAR CON HOJAS DE ALBAHACA.
+Salsa de pimientos: mezclar 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pimiento rojo picado y cocido, y tres cucharadas de leche. licuar. llevar a horno por 10 minutos y servir. decorar con hojas de albahaca.
 
-### RELLENOS SALADOS PARA LOS CREPES
-1. QUESO CREMA, CEBOLLITAS DE VERDEO PICADAS, ACEITUNAS PICADAS.
-1. QUESO AZUL, NUECES PICADAS Y MANTECA BATIDA.
-1. POLLO COCIDO, CEBOLLITA DE VERDEO, SALSA BLANCA, NUEZ MOSCADA.
-1. PANCETA, CEBOLLITA DE VERDEO, HUEVO DURO, QUESO RALLADO, SAL Y PIMIENTA.
-1. ESPINACA, SALSA BLANCA, AJO, QUESO RALLADO, NUECES.
-1. ESPARRAGOS, JAMON EN TROCITOS, MANTECA BATIDA, PIMIENTO.
-1. CARNE PICADA COCIDA, HONGOS SECOS HIDRATADOS EN VINO BLANCO, CEBOLLITA DE VERDEO,SAL, CREMA DE LECHE Y CORNFLEX.
-1. POLLO COCIDO,PAPRIKA,VERDEO, CREMA.
+### Rellenos salados para los crepes
+1. Queso crema, cebollitas de verdeo picadas, aceitunas picadas.
+1. Queso azul, nueces picadas y manteca batida.
+1. Pollo cocido, cebollita de verdeo, salsa blanca, nuez moscada.
+1. Panceta, cebollita de verdeo, huevo duro, queso rallado, sal y pimienta.
+1. Espinaca, salsa blanca, ajo, queso rallado, nueces.
+1. Esparragos, jamon en trocitos, manteca batida, pimiento.
+1. Carne picada cocida, hongos secos hidratados en vino blanco, cebollita de verdeo,sal, crema de leche y cornflex.
+1. Pollo cocido,paprika,verdeo, crema.
 
-UNA VEZ RELLENADOS LOS CREPES EN SUS DIFERENTES FORMAS (ENROLLADOS, EN TRIANGULOS, TIPO CARTA), SE CALIENTAN EN EL HORNO. SE PUEDEN BAÑAR CON DIFERENTES SALSAS: HOLANDESA, SALSA DE QUESO, SALSA BLANCA CON QUESO RALLADO Y MOSTAZA, DE PIMIENTO, ETC. O ROCIARLOS CON PEREJIL PICADO, PAPRIKA, SEMILLAS DE SESAMO, DE AMAPOLA, ETC.
+Una vez rellenados los crepes en sus diferentes formas (enrollados, en triangulos, tipo carta), se calientan en el horno. se pueden bañar con diferentes salsas: holandesa, salsa de queso, salsa blanca con queso rallado y mostaza, de pimiento, etc. o rociarlos con perejil picado, paprika, semillas de sesamo, de amapola, etc.
 
-VER LA RECETA DE LOS CREPES EN DONDE FIGURAN LAS MASAS.
+Ver la receta de los crepes en donde figuran las masas.
 
-## POLLOS
+## Pollos
 
-### POLLO A LA HAITI.
-PASAR LAS RODAJAS DE ANANA DE UNA LATA POR HARINA Y FREIRLAS EN ACEITE CALIENTE.
+### Pollo a la Haiti.
+Pasar las rodajas de anana de una lata por harina y freirlas en aceite caliente.
 
-TROZAR EN PEQUEÑAS PRESAS EL POLLO, FEIRLAS EN EL ACEITE QUE SE FRIO EL ANANA, RETIRAR EL POLLO Y FREIR EN EL MISMO ACEITE 2 CEBOLLAS MEDIANAS PICADAS.
+Trozar en pequeñas presas el pollo, feirlas en el aceite que se frio el anana, retirar el pollo y freir en el mismo aceite 2 cebollas medianas picadas.
 
-AGREDARLE EL POLLO, CONDIMENTAR CON SAL Y PIMIENTA. AÑADIRLE UNA TAZA DEL ALMIBAR DEL ANANA.
+Agredarle el pollo, condimentar con sal y pimienta. añadirle una taza del almibar del anana.
 
-CONTINUAR LA COCCION POR 10 MINUTOS CON LA CACEROLA TAPADA. BATIR 2 YEMAS CON UN POCO DEL ALMIBAR Y AGREGAR AL RESTO, REVOLVER Y DEJAR ESPESAR.
+Continuar la coccion por 10 minutos con la cacerola tapada. batir 2 yemas con un poco del almibar y agregar al resto, revolver y dejar espesar.
 
-RETIRAR Y DISPONER JUNTO A LAS RODAJAS DE ANANA. SALSEAR CON EL FONDO DE COCCION Y SERVIR. PUEDE ESPOLVOREARSE CON CANELA, O SUAVISAR CON CREMA DE LECHE.
+Retirar y disponer junto a las rodajas de anana. salsear con el fondo de coccion y servir. puede espolvorearse con canela, o suavisar con crema de leche.
 
-### ARROZ CON POLLO A LA MULTICHEF.( O SIN MULTICHEF)
-SALPIMENTAR EL POLLO (MUSLOS Y PECHUGAS (PREFERIBLEMENTE DESHUESADAS) Y PASARLOS POR HARINA.
+### Arroz con pollo a la multichef.( o sin multichef)
+Salpimentar el pollo (muslos y pechugas (preferiblemente deshuesadas) y pasarlos por harina.
 
-CALENTAR ACEITE POR 5 MINUTOS A 240, FRITAR POR 3 MINUTOS DE CADA LADO Y RETIRAR.
+Calentar aceite por 5 minutos a 240, fritar por 3 minutos de cada lado y retirar.
 
-TERMOSTATO A 180. COLOCAR 3 CUCHARADAS DE ACEITE, 1 TAZA DE ARROZ Y 2 CEBOLLAS PICADAS. DORAR.
+Termostato a 180. colocar 3 cucharadas de aceite, 1 taza de arroz y 2 cebollas picadas. dorar.
 
-TERMOSTATO A 160, AGREGAR 3 TAZAS DE CALDO, AL AZAFRAN, EL CURRY, O EL CONDIMENTO DE ARROZ. TAMBIÈN PUEDE ACOMPAÑARSE CON CHAMPIGNONES Y TOMATES. SALAR.
+Termostato a 160, agregar 3 tazas de caldo, al azafran, el curry, o el condimento de arroz. tambièn puede acompañarse con champignones y tomates. salar.
 
-AGREGAR EL POLLO Y COCINAR POR 10 MINUTOS A REJILLA TAPADA. VERIFICAR QUE NO LE FALTE LIQUIDO.
+Agregar el pollo y cocinar por 10 minutos a rejilla tapada. verificar que no le falte liquido.
 
-ACORDARSE DE COLOCAR PAPEL DE ALUMINIO, PARA QUE SEA MAS FACIL LA LIMPIEZA.
+Acordarse de colocar papel de aluminio, para que sea mas facil la limpieza.
 
-### POLLO EN ESCABECHE
-5 PECHUGAS O MUSLOS Y PATAS. 2 CEBOLLAS, 1 PIMIENTO ROJO, 1 VERDE, 4 ZANAHORIAS, 1 PUERRO, REPOLLITOS BRUCELAS, LAUREL, PIMIENTA EN GRANO, SEMILLAS DE MOSTAZA, SAL, ACEITE Y VINAGRE DE VINO.
-CORTAR LA VERDURA EN JULIANA (MENOS LOS REPOLLITOS BRUSELAS) COLOCAR EN LA OLLA UNA CAMA DE VERDURAS LUEGO UNA CAMADA DE POLLO BIEN LAVADO Y SIN PIEL NI GRASA Y OTRA CAMADA DE VERDURAS. IR ADEREZANDO CON SAL, PIMIENTA, LAUREL, AJI MOLIDO, SEMILLAS DE MOSTAZA.
+### Pollo en escabeche
+5 pechugas o muslos y patas. 2 cebollas, 1 pimiento rojo, 1 verde, 4 zanahorias, 1 puerro, repollitos brucelas, laurel, pimienta en grano, semillas de mostaza, sal, aceite y vinagre de vino.
+Cortar la verdura en juliana (menos los repollitos bruselas) colocar en la olla una cama de verduras luego una camada de pollo bien lavado y sin piel ni grasa y otra camada de verduras. ir aderezando con sal, pimienta, laurel, aji molido, semillas de mostaza.
 
-HUMEDECER CON 1 ½ TAZA DE VINAGRE, 1 TAZA DE ACEITE Y UNA DE AGUA.
+Humedecer con 1 ½ taza de vinagre, 1 taza de aceite y una de agua.
 
-HERVIR HASTA QUE LAS ZANAHORIAS ESTEN TIERNAS.
+Hervir hasta que las zanahorias esten tiernas.
 
-### POLLO A LA FLORENTINA
-CORTAR EL POLLO, COLOCARLO EN UNA ASADARA Y REBOZARLO CON SAL, LIMON, SAVORA Y PIMIENTA.
+### Pollo a la florentina
+Cortar el pollo, colocarlo en una asadara y rebozarlo con sal, limon, savora y pimienta.
 
- DEJAR UN RATO.
+ dejar un rato.
 
-CORTAR 3 CEBOLLAS EN RODAJAS Y ABRIR LOS AROS; DESCORAZONAR Y CORTAR EN RODAJAS GRUESAS 6 MANZANAS Y COLOCAR TODO SOBRE EL POLLO.
+Cortar 3 cebollas en rodajas y abrir los aros; descorazonar y cortar en rodajas gruesas 6 manzanas y colocar todo sobre el pollo.
 
-AGREGAR EL JUGO DE 1 LIMON Y EL CALDO DE 1 o 2 CUBITOS DE CARNE, CUANDO SE HAN DORADO LAS MANZANAS, INVERTIR EL POLLO DE MODO QUE QUEDE ARRIBA Y ESPOLVOREARLO CON AZUCAR NEGRO. Y RECIEN AHI AGREGAR CIRUELAS ARROLLADAS CON PANCETA.
+Agregar el jugo de 1 limon y el caldo de 1 o 2 cubitos de carne, cuando se han dorado las manzanas, invertir el pollo de modo que quede arriba y espolvorearlo con azucar negro. y recien ahi agregar ciruelas arrolladas con panceta.
 
-TERMINAR DE COCINAR.
+Terminar de cocinar.
 
-### SOUFFLE DE POLLO
-EN 3 CUCHARADAS DE MANTECA COCINAR 3 CUCHARADAS DE HARINA. AGREGAR 1 LITRO DE LECHE CALIENTE DE A POCO Y REVOLVIENDO HASTA QUE ESPECE.
+### Souffle de pollo
+En 3 cucharadas de manteca cocinar 3 cucharadas de harina. agregar 1 litro de leche caliente de a poco y revolviendo hasta que espece.
 
-INCORPORAR 1 TAZA DE CEBOLLA REHOGADA, 1 TAZA DE POLLO DESMENUZADO, 1 TAZA DE QUESO RALLADO, CEBOLLITA DE VERDEO Y 4 YEMAS. CONDIMENTAR CON SAL, PIMIENTA, AJO, OREGANO, PEREJIL, ACEITUNAS, PIMIENTO, AJI MOLIDO, ETC. POR ULTIMO 4 CLARAS BATIDAS A NIEVE MEZCLANDO SUAVEMENTE PARA QUE NO SE APLASTE.
+Incorporar 1 taza de cebolla rehogada, 1 taza de pollo desmenuzado, 1 taza de queso rallado, cebollita de verdeo y 4 yemas. condimentar con sal, pimienta, ajo, oregano, perejil, aceitunas, pimiento, aji molido, etc. por ultimo 4 claras batidas a nieve mezclando suavemente para que no se aplaste.
 
-LLEVAR A HORNO POR 1 A 1 ½ HORA
+Llevar a horno por 1 a 1 ½ hora
 
-### POLLO CON CHAMPIGNONES
-CONDIMENTAR CON SAL, PIMIENTA, AJO PICADO, Y OREGANO LAS PRESAS DE POLLO. DORARLAS EN ACEITE. AGREGARLE VINO BLANCO SECO Y CALDO. CONTINUAR LA COCCION Y 3 MINUTOS ANTES DE TERMINARLA AÑADIR LOS CHAMPIGNONES CORTADOS EN LAMINAS, POR ULTIMO INCORPORAR CREMA DE LECHE O QUESO CREMA Y SALPICAR CON PEREJIL PICADO.
+### Pollo con champignones
+Condimentar con sal, pimienta, ajo picado, y oregano las presas de pollo. dorarlas en aceite. agregarle vino blanco seco y caldo. continuar la coccion y 3 minutos antes de terminarla añadir los champignones cortados en laminas, por ultimo incorporar crema de leche o queso crema y salpicar con perejil picado.
 
-### SUPREMES A LA KIEV
-SAZONAR LAS SUPREMAS DE POLLO CON SAL Y PIMIENTA, UNTARLAS CON LA SALSA A LA MAITRE D`HOTEL (MANTECA, PEREJIL PICADO Y LIMON) Y ESTRAGON PICADO. PUEDE INCLUIRSE UNA FETA DE JAMON Y ARROLLARLAS. REBOZARLAS CON HARINA, LUEGO PASARLAS POR HUEVO BATIDO Y FINALMENTE POR PAN RALLADO. FREIR HASTA QUE ESTEN COCIDAS Y DORADAS.
+### Supremes a la Kiev
+Sazonar las supremas de pollo con sal y pimienta, untarlas con la salsa a la maitre d`hotel (manteca, perejil picado y limon) y estragon picado. puede incluirse una feta de jamon y arrollarlas. rebozarlas con harina, luego pasarlas por huevo batido y finalmente por pan rallado. freir hasta que esten cocidas y doradas.
 
-### POLLO AL PUERRO
-SELLAR 4 FILETES DE POLLO EN ACEITE Y RETIRARLOS. FREIR 1 CEBOLLA PICADA. AGREGAR 3 PUERROS PICADOS, LOS FILETES Y 300 GR DE CREMA DE LECHE. CONDIMENTAR. COCINAR HASTA QUE LOS FILET ESTEN TIERNOS.
-PUEDE AGREGARSE ½ VASO DE VINO BLANCO.
+### Pollo al puerro
+Sellar 4 filetes de pollo en aceite y retirarlos. freir 1 cebolla picada. agregar 3 puerros picados, los filetes y 300 gr de crema de leche. condimentar. cocinar hasta que los filet esten tiernos.
+Puede agregarse ½ vaso de vino blanco.
 
-## ARROZ
+## Arroz
 
-### CROQUETAS DE ARROZ
-ARROZ HERVIDO, HUEVO, POLVO DE HORNEAR (IMPORTANTE), HARINA, CEBOLLITA DE VERDEO, QUESO RALLADO, SAL, AJI MOLIDO, PEREJIL PIMIENTA.
+### Croquetas de arroz
+Arroz hervido, huevo, polvo de hornear (importante), harina, cebollita de verdeo, queso rallado, sal, aji molido, perejil pimienta.
 
-HACER UNA MASA DE CONSISTENCIA COMO EL ENGRUDO O COMO PARA HACER PANQUEQUES GRUESOS.
+Hacer una masa de consistencia como el engrudo o como para hacer panqueques gruesos.
 
-UTILIZAR DOS CUCHARAS HUMEDECIDAS EN AGUA FRIA PARA MOLDEARLAS, CADA VEZ QUE SE BUSCA LA CUCHARADA DE LA MEZCLA. ESTO ES PARA QUE NO SE DESARME LA CROQUETA CUANDO SE LA LLEVA AL ACEITE.
+Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla. esto es para que no se desarme la croqueta cuando se la lleva al aceite.
 
-SERVIR CALIENTE.
+Servir caliente.
 
-### ARROZ AL CURRY
-1 CEBOLLA REHOGADA, 1 TACITA DE CAFE DE ARROZ (3 PERSONAS) SELLAR EL ARROZ. CUANDO LA CEBOLLA ESTE TRANSPARENTE, AGREGAR ¾ LITROS DE CALDO DE CARNE CALIENTE (OJO QUE SALTA), A LOS 10 MINUTOS AGREGAR SAL Y 3 CUCHARADITAS DE BUEN CURRY.
+### Arroz al curry
+1 cebolla rehogada, 1 tacita de cafe de arroz (3 personas) sellar el arroz. cuando la cebolla este transparente, agregar ¾ litros de caldo de carne caliente (ojo que salta), a los 10 minutos agregar sal y 3 cucharaditas de buen curry.
 
-COCINAR 5 MINUTOS MAS.
+Cocinar 5 minutos mas.
 
-SI QUEDA MUY LIQUIDO, ESPESAR CON MAIZENA (1 CUCHARADA AL RAZ DISUELTA EN POCA LECHE O AGUA FRIA O NATURAL)
+Si queda muy liquido, espesar con maizena (1 cucharada al raz disuelta en poca leche o agua fria o natural)
 
-SI QUEDA MUY SECO, AGREGAR CREMA DE LECHE.
+Si queda muy seco, agregar crema de leche.
 
-SE PUEDE ESPOLVOREAR CON PEREJIL PICADO.
+Se puede espolvorear con perejil picado.
 
-### ARROZ A LA ORIENTAL
-HERVIR EL ARROZ 10 MINUTOS Y PASARLO POR AGUA FRIA, EN LA SARTEN CON ACEITE FREIR CEBOLLA, AJO Y PIMIENTO CORTADOS FINITO. AGREGAR PANCETA, POLLO O CARNE DE VACA, CORTADO CHIQUITO. INCORPORAR ARVEJAS, EL ARROZ, UN HUEVO REVUELTO (PREPERADO CON ANTICIPACION) , CURRY, SALSA DE SOJA, SAL Y PIMIENTA. COCINAR POR UNOS MINUTOS MAS. SI ES NECESARIO AGREGAR UN POCO DE CALDO.
+### Arroz a la oriental
+Hervir el arroz 10 minutos y pasarlo por agua fria, en la sarten con aceite freir cebolla, ajo y pimiento cortados finito. agregar panceta, pollo o carne de vaca, cortado chiquito. incorporar arvejas, el arroz, un huevo revuelto (preperado con anticipacion) , curry, salsa de soja, sal y pimienta. cocinar por unos minutos mas. si es necesario agregar un poco de caldo.
 
-### ARROZ CON MEJILLONES (BERBERECHOS, U OTRO BICHO DE MAR)
-FREIR 1 CEBOLLA PICADA EN MANTECA, AGREGAR 1 TAZA DE ARROZ Y SELLARLO. COLOCARLE 3 TAZAS DE AGUA CALIENTE (PUEDE USARSE 1 DE LAS TAZAS CON EL AGUA EN DONDE VIENEN LOS BICHOS DE MAR), 1 CUBITO DE CALDO Y 1 MORRON COCIDO Y PICADO. CUANDO SE CONSUME EL AGUA, EL ARROZ ESTA LISTO, AGREGAR ENTONCES LOS MEJILLONES Y PEREJIL PICADO. OJO QUE NO SE PEGUE, AGREGAR CALDO SI ES NECESARIO.
+### Arroz con mejillones (berberechos, u otro bicho de mar)
+Freir 1 cebolla picada en manteca, agregar 1 taza de arroz y sellarlo. colocarle 3 tazas de agua caliente (puede usarse 1 de las tazas con el agua en donde vienen los bichos de mar), 1 cubito de caldo y 1 morron cocido y picado. cuando se consume el agua, el arroz esta listo, agregar entonces los mejillones y perejil picado. ojo que no se pegue, agregar caldo si es necesario.
 
-## CARNES
+## Carnes
 
-### CARNE A LA GRAVY.
-SE DORA UNA CEBOLLA PICADA Y SE LE AGREGAN LOS TROZOS DE CARNE PARA SELLARLOS. CONDIMENTAR CON SAL, AJI MOLIDO, PIMIENTA. AÑADIR CALDO DE CARNE Y COCINAR HASTA QUE LA CARNE ESTE TIERNA. POR ULTIMO, AGREGARLE JUGO DE LIMON Y CREMA DE LECHE. SERVIR CON PEREJIL PICADO. SI QUEDA MUY LIQUIDO, ESPEZAR CON MAIZENA.
+### Carne a la gravy.
+Se dora una cebolla picada y se le agregan los trozos de carne para sellarlos. condimentar con sal, aji molido, pimienta. añadir caldo de carne y cocinar hasta que la carne este tierna. por ultimo, agregarle jugo de limon y crema de leche. servir con perejil picado. si queda muy liquido, espezar con maizena.
 
-PODRIA AGREGARSE: APIO EN RODAJAS FINITAS, 1 PIMIENTO MORRON CORTADO CHIQUITO, CHAMPIGNONES EN TAJADAS VERTICALES Y JAMON EN TIRITAS.
+Podria agregarse: apio en rodajas finitas, 1 pimiento morron cortado chiquito, champignones en tajadas verticales y jamon en tiritas.
 
-### ALBONDIGAS
-½ CEBOLLA REHOGADA, ¾ KG CARNE PICADA, 1 CUCHARADA PEREJIL PICADO,
+### Albondigas
+½ cebolla rehogada, ¾ kg carne picada, 1 cucharada perejil picado,
 
-2 CUCHARADAS DE QUESO RALLADO, 2 HUEVOS, SAL, PIMIENTA, NUEZ MOSCADA.
+2 cucharadas de queso rallado, 2 huevos, sal, pimienta, nuez moscada.
 
-PASARLAS POR HARINA O PAN RALLADO.
+Pasarlas por harina o pan rallado.
 
-FREIRLAS O COCINARLAS EN SALSA.
+Freirlas o cocinarlas en salsa.
 
-### CIELO Y TIERRA, DEL “REPOLLO DORADO”
-PURE DE PAPA, CEBOLLA CARAMELIZADA, MORCILLA Y PURE DE MANZANA. COMO NO TENIA MANZANAS, ACOMPAÑE CON ZANAHORIAS CARAMELIZADAS Y ADICIONE CIRUELAS DESCAROZADAS RELLENAS DE NUECES CON UNA GOTA DE MIEL. RE RICO.
+### Cielo y tierra, del “repollo dorado”
+Pure de papa, cebolla caramelizada, morcilla y pure de manzana. como no tenia manzanas, acompañe con zanahorias caramelizadas y adicione ciruelas descarozadas rellenas de nueces con una gota de miel. re rico.
 
-### CERDO A LA FLORENTIN (AGRIDULCE)
-SE UNTA LA CARNE CON MOSTAZA, PIMIENTA, SAL Y SE DEJA DESCANSAR.
+### Cerdo a la florentin (agridulce)
+Se unta la carne con mostaza, pimienta, sal y se deja descansar.
 
-SE PONEN A MACERAR CIRUELAS DESCAROZADAS EN VINO BLANCO.
+Se ponen a macerar ciruelas descarozadas en vino blanco.
 
-SE COLOCA LA CARNE EN UNA ASADERA JUNTO CON 1 TAZA DE CALDO O MAS SI ES NECESARIO. SE LE PEGA A LA CARNE EN LA PARTE SUPERIOR UNA CAPITA DE AZUCAR NEGRA Y SE LLEVA AL HORNO. CUANDO ESTA BIEN DORADA, SE DA VUELTA Y SE LE PONE OTRA CAPITA DE AZUCAR NEGRA. CUANDO ESTA CASI COCIDA, SE LE AGREGA EL VINO CON LAS CIRUELAS ENVUELTAS EN PANCETA.
+Se coloca la carne en una asadera junto con 1 taza de caldo o mas si es necesario. se le pega a la carne en la parte superior una capita de azucar negra y se lleva al horno. cuando esta bien dorada, se da vuelta y se le pone otra capita de azucar negra. cuando esta casi cocida, se le agrega el vino con las ciruelas envueltas en panceta.
 
-UNA VEZ COCIDO, TAMBIEN SE PUEDE CORTAR E INTERCALAR RODAJAS DE ANANA, DANDOLE OTRO GOLPE DE HORNO.
+Una vez cocido, tambien se puede cortar e intercalar rodajas de anana, dandole otro golpe de horno.
 
-### CARNE AGRI-DULCE (RECETA DE GIGI)
-SELLAR LA CARNE (COLITA DE CUADRIL, BONDIOLA DE CERDO), RETIRAR Y FREIR CEBOLLA HASTA DORARLA. INGRESAR NUEVAMENTE LA CARNE Y CUBRIRLA CON CALDO DE CARNE. COCINAR.
+### Carne agri-dulce (receta de gigi)
+Sellar la carne (colita de cuadril, bondiola de cerdo), retirar y freir cebolla hasta dorarla. ingresar nuevamente la carne y cubrirla con caldo de carne. cocinar.
 
-PREPARAR UNA SALSA CON 2 CUCHARADAS DE KETCHUP, 3 CUCHARADAS DE MERMELADA DE DAMASCO Y 1 CUCHARADA DE SALSA INGLESA, AGREGAR ESTA SALSA UN RATO ANTES DE QUE LA CARNE ESTE TIERNA.
+Preparar una salsa con 2 cucharadas de ketchup, 3 cucharadas de mermelada de damasco y 1 cucharada de salsa inglesa, agregar esta salsa un rato antes de que la carne este tierna.
 
-PUEDE SER QUE SEA NECESARIO HACER EL DOBLE O TRIPLE DE ESTA MEZCLA, DEPENDIENDO DE LA CANTIDAD DE SALSA QUE SE DESEE.
+Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de salsa que se desee.
 
-### CAZUELA DE SALCHICHAS
-EN UN FUENTE PARA HORNO U HORNO MICRO ONDAS, COLOCAR SALCHICHAS (2 POR PERSONA) CORTADAS EN TROCITOS, TOMATES EN RODAJAS FINAS, 1 HUEVO POR PERSONA Y QUESO MANTECOSO.
+### Cazuela de salchichas
+En un fuente para horno u horno micro ondas, colocar salchichas (2 por persona) cortadas en trocitos, tomates en rodajas finas, 1 huevo por persona y queso mantecoso.
 
-SAL, PIMIENTA, OREGANO, PEREJIL, O LA AROMATICA QUE PREFIERA. PUEDE AGREGARSE TROCITOS DE PANCETA, QUESO RALLADO, CEBOLLITA DE VERDEO, ETC. COCINAR HASTA QUE LA CLARA SE SOLIDIFIQUE.
+Sal, pimienta, oregano, perejil, o la aromatica que prefiera. puede agregarse trocitos de panceta, queso rallado, cebollita de verdeo, etc. cocinar hasta que la clara se solidifique.
 
-### GULASCH
-½ LITRO AGUA,1/2 KG CARNE, UN SOBRE DE CONDIMENTO PARA GULASCH, 1 CALDITO DE CARNE, 2 CEBOLLAS, 80 GR PANCETA, HARINA, SAL, AJI MOLIDO, PIMIENTA.
+### Gulasch
+½ litro agua,1/2 kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, aji molido, pimienta.
 
-FREIR LAS CEBOLLAS PICADAS Y RETIRAR, SELLAR LA CARNE CORTADA EN CUBITOS Y PREVIAMENTE PASADA POR HARINA, AGREGAR LA CEBOLLA.
+Freir las cebollas picadas y retirar, sellar la carne cortada en cubitos y previamente pasada por harina, agregar la cebolla.
 
-DILUIR EL CALDITO Y EL POLVO GULASCH EN EL AGUA CALIENTE E INGRESARLO A LA CARNE. AGREGAR LA PANCETA CORTADA EN TROCITOS, SAL, AJI MOLIDO Y PIMIENTA. COCINAR HASTA QUE LA CARNE ESTE TIERNA.
+Diluir el caldito y el polvo gulasch en el agua caliente e ingresarlo a la carne. agregar la panceta cortada en trocitos, sal, aji molido y pimienta. cocinar hasta que la carne este tierna.
 
-ACOMPAÑAR CON PAPAS O ARROZ HERVIDO.
+Acompañar con papas o arroz hervido.
 
-### ESTOFADO DE CARNE Y VERDURAS
-TIERNIZAR EN UNA CACEROLA CON ACEITE, CEBOLLA, CEBOLLITA DE VERDEO Y PIMIENTO MORRON FINAMENTE PICADOS. CUANDO LA CEBOLLA ESTE TRANSPARENTE AGREGAR LA CARNE EN TROZOS NO MUY GRANDES. CUANDO COMIENCE A LARGAR JUGO AGREGAR PEREJIL, AJO, OREGANO, PIMENTON, SAL GRUEZA Y AGUA O CALDO. CUIDAR QUE NO SE SEQUE AGREGANDO LIQUIDO, PERO NO EN EXCESO YA QUE ES UN ESTOFADO. COCINAR POR 30 MINUTOS. AGREGAMOS LAS ZANAHORIAS EN RODAJAS, LAS PAPAS EN CUBOS MEDIANOS, TROZOS DE ZAPALLITOS, PURE DE TOMATES Y UN POCO DE AZUCAR. COCINAR CON LA HOLLA SEMI TAPADA.
+### Estofado de carne y verduras
+Tiernizar en una cacerola con aceite, cebolla, cebollita de verdeo y pimiento morron finamente picados. cuando la cebolla este transparente agregar la carne en trozos no muy grandes. cuando comience a largar jugo agregar perejil, ajo, oregano, pimenton, sal grueza y agua o caldo. cuidar que no se seque agregando liquido, pero no en exceso ya que es un estofado. cocinar por 30 minutos. agregamos las zanahorias en rodajas, las papas en cubos medianos, trozos de zapallitos, pure de tomates y un poco de azucar. cocinar con la holla semi tapada.
 
-CUANDO A LA PAPA LE FALTE POCO PARA QUE ESTE COCIDA INCLUIR LAS ARVEJAS, NO AGREGAR MAS AGUA. LA SALSA TIENE QUE HACER LOS GLOBITOS DE QUE ESTA HIRVIENDO,
+Cuando a la papa le falte poco para que este cocida incluir las arvejas, no agregar mas agua. la salsa tiene que hacer los globitos de que esta hirviendo,
 
-### BONDIOLA DE CERDO A LA CERVEZA
-SELLAR LA BONDIOLA EN ACEITE, RETIRAR. FREIR 1 CEBOLLA GRANDE PICADA, AGREGAR LA BONDIOLA, 2 PUERROS PICADOS Y COCINAR EN CALDO DURANTE 45 MINUTOS APROXIMADAMENTE. PREPARAR UNA SALSA CON CERVEZA NEGRA, MIEL, MOSTAZA, SAL Y PIMIENTA NEGRA. AGREGAR ESTA SALSA AL FINAL DE LA COCCION, CUANDO EL CALDO YA ESTE REDUCIDO. COCINAR 10 MINUTOS MAS O CUANDO LA CARNE ESTE TIERNA, Y SERVIR.
+### Bondiola de cerdo a la cerveza
+Sellar la bondiola en aceite, retirar. freir 1 cebolla grande picada, agregar la bondiola, 2 puerros picados y cocinar en caldo durante 45 minutos aproximadamente. preparar una salsa con cerveza negra, miel, mostaza, sal y pimienta negra. agregar esta salsa al final de la coccion, cuando el caldo ya este reducido. cocinar 10 minutos mas o cuando la carne este tierna, y servir.
 
-EN VEZ DE CALDO SE PUEDE COCINAR DIRECTAMANTE CON 1 LITRO DE CERVEZA NEGRA Y 2 CUCHARADAS DE MIEL A FUEGO BAJO. AL FINAL AGREGAR 2 CUCHARADAS DE MOSTAZA, SAL Y PIMIENTA NEGRA MOLIDA.
+En vez de caldo se puede cocinar directamante con 1 litro de cerveza negra y 2 cucharadas de miel a fuego bajo. al final agregar 2 cucharadas de mostaza, sal y pimienta negra molida.
 
-ESTA ES LA RECETA DE CASANCREM, POR LO QUE TAMBIEN LLEVA 150 GR DE CASANCREM QUE SE INCORPORA 10 MINUTOS ANTES DE SERVIR. NO PROBE COMO QUEDA.
+Esta es la receta de casancrem, por lo que tambien lleva 150 gr de casancrem que se incorpora 10 minutos antes de servir. no probe como queda.
 
-### BIFES A LA CRIOLLA
-EN UNA CACEROLA SE PONE UN POCO DE ACEITE Y DESPUES POR CAPAS:
+### Bifes a la criolla
+En una cacerola se pone un poco de aceite y despues por capas:
 
-CEBOLLA PICADA, PAPAS CORTADAS EN RODAJAS, ZANAHORIAS Y TOMATES TAMBIEN EN RODAJAS, LOS BIFES DE CARNE DE VACA Y REPETIMOS LAS CAPAS.
+Cebolla picada, papas cortadas en rodajas, zanahorias y tomates tambien en rodajas, los bifes de carne de vaca y repetimos las capas.
 
-ENTRE CAPA Y CAPA CONDIMENTAR CON SAL, PIMIENTA, AJI MOLIDO, OREGANO O PEREJIL. PARA HUMEDESER TODO, AGREGAR UNA TAZA O MAS DE CALDO DE CARNE.
+Entre capa y capa condimentar con sal, pimienta, aji molido, oregano o perejil. para humedeser todo, agregar una taza o mas de caldo de carne.
 
-COCINAR A FUEGO MODERADO, CONTROLANDO QUE NO SE PEGUE EN EL FONDO.
+Cocinar a fuego moderado, controlando que no se pegue en el fondo.
 
-TENGO ENTENDIDO QUE SE PUEDE COCINAR TAMBIEN EN EL HORNO DURANTE
+Tengo entendido que se puede cocinar tambien en el horno durante
 
-1 ½ HORAS, ACEITANDO Y PONIENDO PAN RALLADO SOBRE LA ASADERA.
+1 ½ horas, aceitando y poniendo pan rallado sobre la asadera.
 
-### EMPANADAS CRIOLLAS
+### Empanadas criollas
 
-#### TAPAS DE EMPANADAS:
-250 GR DE HARINA, 50 GR DE MANTECA O GRASA DE CERDO, 100 CC DE AGUA, 2 CUCHARADITAS DE JUGO DE LIMON, ¼ DE CUCHARADITA DE POLVO PARA HORNEAR, ½ DE CUCHARADITA AL RAS DE SAL.
+#### Tapas de empanadas:
+250 gr de harina, 50 gr de manteca o grasa de cerdo, 100 cc de agua, 2 cucharaditas de jugo de limon, ¼ de cucharadita de polvo para hornear, ½ de cucharadita al ras de sal.
 
-EN ½ VASO DE AGUA AGREGAMOS LAS CUCHARADITAS DE JUGO LIMON Y LA SAL, MEZCLAMOS Y RESERVAMOS . EN UN BOL PONEMOS LA HARINA CON EL POLVO DE HORNEAR, AGREGAMOS LA MANTECA (A TEMPERATURA AMBIENTE) Y TRABAJAMOS HASTA TENER UNA ARENILLA (USAR LOS DEDOS). SE HACE UN HUECO EN EL CENTRO Y SE VIERTE EL PREPARADO DE AGUA, LIMON Y SAL. HACEMOS UN BOLLO Y TERMINAMOS DE AMASAR ENTRE 1 A 2 MINUTOS EN LA MESADA (ENHARINADA) HASTA OBTENER UNA MASA SUAVE. CON EL PALO DE AMASAR ESTIRAMOS Y DOBLAMOS CADA VEZ HASTA 6 VECES. DEJAMOS DESCANSAR EL BOLLO EN LA HELADERA DE 1 A 2 HORAS TAPADO CON UN FILM.
+En ½ vaso de agua agregamos las cucharaditas de jugo limon y la sal, mezclamos y reservamos . en un bol ponemos la harina con el polvo de hornear, agregamos la manteca (a temperatura ambiente) y trabajamos hasta tener una arenilla (usar los dedos). se hace un hueco en el centro y se vierte el preparado de agua, limon y sal. hacemos un bollo y terminamos de amasar entre 1 a 2 minutos en la mesada (enharinada) hasta obtener una masa suave. con el palo de amasar estiramos y doblamos cada vez hasta 6 veces. dejamos descansar el bollo en la heladera de 1 a 2 horas tapado con un film.
 
-SACAMOS DE LA HELADERA Y ESTIRAMOS Y CORTAMOS LAS TAPAS DE 2 MM DE ESPESOR Y DE 10 A 12 CM DE DIAMETRO.
+Sacamos de la heladera y estiramos y cortamos las tapas de 2 mm de espesor y de 10 a 12 cm de diametro.
 
-ESPOLVOREAR CON HARINA ENTRE TAPA Y TAPA O PONER UN FIM. SE PUEDE DEJAR 48 HORAS EN LA HELADERA O SE PUEDE CONGELAR. PARA FREIR
+Espolvorear con harina entre tapa y tapa o poner un fim. se puede dejar 48 horas en la heladera o se puede congelar. para freir
 
-#### OTRA PARA HACER TAPAS DE EMPANADAS
+#### Otra para hacer tapas de empanadas
 
-EN EL CENTRO DE 1 KG DE HARINA SE COLOCA UNA TAZA DE GRASA DE CERDO DERRETIDA Y UNA TAZA DE SALMUERA TIBIA. SE VA INGRESANDO DE A POCO LA HARINA A LA MEZCLA DEL CENTRO, HASTA FORMAR UNA MASA FLEXIBLE. SE ESTIRA SOBRE LA MESADA DEJANDOLA DE 1,5 A 2 MM. DE ESPESOR Y SE CORTA EN CIRCULOS DE 11 A 12 CM DE DIAMETRO.
+En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y una taza de salmuera tibia. se va ingresando de a poco la harina a la mezcla del centro, hasta formar una masa flexible. se estira sobre la mesada dejandola de 1,5 a 2 mm. de espesor y se corta en circulos de 11 a 12 cm de diametro.
 
-#### RELLENO:
-SE PREPARA IGUAL CANTIDAD DE CEBOLLA QUE DE CARNE.
+#### Relleno:
+Se prepara igual cantidad de cebolla que de carne.
 
-LA CEBOLLA A UTILIZAR DEBE SER ASI: 2/3 BLANCA Y 1/3 DE CEBOLLITA DE VERDEO, PICADAS Y FRITAS EN ACEITE HASTA QUE QUEDEN TRANSPARENTES Y NO DORADAS.
+La cebolla a utilizar debe ser asi: 2/3 blanca y 1/3 de cebollita de verdeo, picadas y fritas en aceite hasta que queden transparentes y no doradas.
 
-A LA CARNE PICADA O CORTADA CHICA A CUCHILLO, SE LA SELLA, PARA QUE QUEDE JUGOSA EN SU INTERIOR. SE LA MEZCLA CON LA CEBOLLA Y SE AÑADE UN POCO DE CALDO DE CARNE Y UNA CUCHARADA DE MANTECA. CONDIMENTAR CON AJI MOLIDO, SAL, ABUNDANTE OREGANO, PIMENTON, COMINO. UNA VEZ QUE ESTA TODO COCINADO SE RETIRA DEL FUEGO Y SE LA DEJA ENFRIAR.
+A la carne picada o cortada chica a cuchillo, se la sella, para que quede jugosa en su interior. se la mezcla con la cebolla y se añade un poco de caldo de carne y una cucharada de manteca. condimentar con aji molido, sal, abundante oregano, pimenton, comino. una vez que esta todo cocinado se retira del fuego y se la deja enfriar.
 
-CUANDO SE ARMAN, SE LE PONE A CADA EMPANADA UNA RODAJA DE HUEVO DURO Y UNA ACETUNA VERDE.
+Cuando se arman, se le pone a cada empanada una rodaja de huevo duro y una acetuna verde.
 
-SI SE QUIEREN AGRIDULCE, AGREGARLE A LA COCCION PASAS DE UVA SIN SEMILLA Y ALGO DE AZUCAR.
+Si se quieren agridulce, agregarle a la coccion pasas de uva sin semilla y algo de azucar.
 
-SE FRIEN EN GRASA DE CERDO Y SE SIRVEN CALIENTES.
+Se frien en grasa de cerdo y se sirven calientes.
 
-### ESCALOPES AL VINO MARSALA.
-SE CORTAN LOS BIFES BIEN FINITOS, SE CONDIMENTAN CON SAL Y PIMIENTA, Y SE PASAN POR HARINA. SE SELLAN EN ACEITE O MANTECA Y SE RETIRAN.
+### Escalopes al vino Marsala.
+Se cortan los bifes bien finitos, se condimentan con sal y pimienta, y se pasan por harina. se sellan en aceite o manteca y se retiran.
 
-AL FONDO DE COCCION SE LE AGREGA CALDO (½ TAZA) Y ½ TAZA DE VINO MARSALA O BLANCO SECO (YO SOLO LE AGREGABA CALDO, PERO CON VINO QUEDA RE BIEN). SE VUELVEN LOS BIFES A LA CACEROLA Y SE LOS TERMINA DE COCINAR A FUEGO SUAVE. SE RETIRAN LOS BIFES Y SE LOS BAÑA CON EL FONDO DE COCCION. SI QUEDO MUY LIQUIDO, SE ESPESA CON HARINA O CON MAIZENA.
+Al fondo de coccion se le agrega caldo (½ taza) y ½ taza de vino marsala o blanco seco (yo solo le agregaba caldo, pero con vino queda re bien). se vuelven los bifes a la cacerola y se los termina de cocinar a fuego suave. se retiran los bifes y se los baña con el fondo de coccion. si quedo muy liquido, se espesa con harina o con maizena.
 
-### BIFES RELLENOS A LA PLANCHA
-EL BIFE DEBE SER CORTADO FINITO COMO PARA MILANESA
+### Bifes rellenos a la plancha
+El bife debe ser cortado finito como para milanesa
 
-DOBLAR EL BIFE EN LIBRO Y PONERLE ADENTRO:
+Doblar el bife en libro y ponerle adentro:
 
-- PANCETA Y QUESO;
-- JAMON Y PIMIENTOS;
-- JAMON, CASCARITAS DE LIMON Y PEREJIL;
-- CEBOLLA, TOMATE Y JAMON;
-- CHAMPIGNONES, ACEITUNA Y PEREJIL;
-- CEBOLLA, ANCHOAS Y PEREJIL.
-- ETC.
+- Panceta y queso;
+- Jamon y pimientos;
+- Jamon, cascaritas de limon y perejil;
+- Cebolla, tomate y jamon;
+- Champignones, aceituna y perejil;
+- Cebolla, anchoas y perejil.
+- Etc.
 
-AJUSTARLOS CON PALILLOS. PONERLOS EN LA PLANCHA CON UN POQUITO DE ACEITE Y A FUEGO SUAVE, SI ES POSIBLE TAPARLOS.
+Ajustarlos con palillos. ponerlos en la plancha con un poquito de aceite y a fuego suave, si es posible taparlos.
 
-PUEDEN TAMBIEN BAÑARSE CON DIFERENTES SALSA, COMO LA SALSA MAITRE D`HOTEL.
+Pueden tambien bañarse con diferentes salsa, como la salsa maitre d`hotel.
 
-### NIÑOS ENVUELTOS A LA CACEROLA
-6 BIFES FINITOS COMO PARA MILANESA, 6 FETAS DE JAMON, 6 FETAS DE PANCETA, 2 CEBOLLAS PICADAS, 1 AJI PICADO, SAL, PIMIENTA, PEREJIL, 1 VASO DE VINO BLANCO, CALDO.
+### Niños envueltos a la cacerola
+6 bifes finitos como para milanesa, 6 fetas de jamon, 6 fetas de panceta, 2 cebollas picadas, 1 aji picado, sal, pimienta, perejil, 1 vaso de vino blanco, caldo.
 
-COLOCAR SOBRE CADA BIFE UNA FETA DE JAMON Y UNA DE PANCETA, Y UNA CUCHARADITA DE LA MEZCLA DE UN POCO DE CEBOLLA, PEREJIL Y AJI. CONDIMENTAR Y ENROLLAR LOS BIFES, SUJETAR CON PALILLOS. DORAR EN ACEITE Y RETIRAR.
+Colocar sobre cada bife una feta de jamon y una de panceta, y una cucharadita de la mezcla de un poco de cebolla, perejil y aji. condimentar y enrollar los bifes, sujetar con palillos. dorar en aceite y retirar.
 
-LUEGO HAY 2 VARIANTES:
+Luego hay 2 variantes:
 
-1. DORAR EL RESTO DE LA CEBOLLA PICADA, AGREGAR LOS NIÑOS, EL VINO, Y CALDO SUFICIENTE PARA CUBRIR. COCINAR A FUEGO LENTO. BAÑARLOS CON EL FONDO DE COCCION.
-1. DORAR EL RESTO DE LA CEBOLLA PICADA, AGREGAR TOMATES TRITURADOS, CALDO, CONDIMENTOS Y LOS NIÑOS. ES DECIR QUE SE COCINAN CON LA SALSA.
-BAÑARLOS CON LA SALSA Y SALPICARLOS CON PEREJIL PICADO.
+1. Dorar el resto de la cebolla picada, agregar los niños, el vino, y caldo suficiente para cubrir. cocinar a fuego lento. bañarlos con el fondo de coccion.
+1. Dorar el resto de la cebolla picada, agregar tomates triturados, caldo, condimentos y los niños. es decir que se cocinan con la salsa.
+Bañarlos con la salsa y salpicarlos con perejil picado.
 
-### SORPRESA AGRIDULCE ANANA Y LOMITO
-2 RODAJAS DE LOMITO AHUMADO DE 1 CM DE ESPESOR, 2 RODAJAS DE ANANA, AZUCAR, CIBOULETTE.
+### Sorpresa agridulce anana y lomito
+2 rodajas de lomito ahumado de 1 cm de espesor, 2 rodajas de anana, azucar, ciboulette.
 
-DORAR LOS LOMITOS EN UNA PLANCHA. COCINAR LAS RODAJAS DE ANANA CON UN POCO DE AZUCAR HASTA QUE ESTEN DORADAS.
+Dorar los lomitos en una plancha. cocinar las rodajas de anana con un poco de azucar hasta que esten doradas.
 
-SE COLOCAN LAS RODAJAS DE LOMITO INTERCALADAS CON LAS DE ANANA Y SE TERMINA EL PLATO CON CIBOULETTE PICADO.
+Se colocan las rodajas de lomito intercaladas con las de anana y se termina el plato con ciboulette picado.
 
-### OTRA CON ANANA
-PAN LACTAL, EXTENDER SOBRE EL PAN MOSTAZA, JAMON COCIDO, RODAJA DE ANANA, EXPOLVOREAR CON AZUCAR Y LLEVAR AL HORNO, SOPLETEAR CON FUEGO O QUEMAR CON HIERRO CALIENTE.
+### Otra con anana
+Pan lactal, extender sobre el pan mostaza, jamon cocido, rodaja de anana, expolvorear con azucar y llevar al horno, sopletear con fuego o quemar con hierro caliente.
 
-### BROCHETTE
-LAS CARNES A UTILIZAR PUEDEN SER: VACUNA, POLLO, CERDO, LANGOSTINOS, RIÑONCITOS ( EN ESTE CASO, RETIRARLES LA PIEL Y DEJARLOS POR 2 HORAS EN AGUA FRIA Y VINAGRE).
+### Brochette
+Las carnes a utilizar pueden ser: vacuna, pollo, cerdo, langostinos, riñoncitos ( en este caso, retirarles la piel y dejarlos por 2 horas en agua fria y vinagre).
 
-SE DEBEN CORTAR TODOS LOS INGREDIENTES EN CUBITOS Y ENSARTARLOS EN LOS PINCHOS.
+Se deben cortar todos los ingredientes en cubitos y ensartarlos en los pinchos.
 
-ALTERNAR LAS CARNES MENCIONADAS CON PANCETA AHUMADA, AJIES VERDES, CEBOLLITAS, TOMATES, QUESOS DUROS, OTRAS VERDURAS, ETC.
+Alternar las carnes mencionadas con panceta ahumada, ajies verdes, cebollitas, tomates, quesos duros, otras verduras, etc.
 
-LLEVAR LOS BROCHETTES AL HORNO, PLANCHA O PARRILLA, Y ROCIARLOS PERIODICAMANTE CON 4 CUCHARADAS DERRETIDAS DE MANTECA, MARGARINA O ACEITE Y EL JUGO DE MEDIO LIMON, U OTROS ADOBOS CON DIFERENTES ESPECIAS. HACERLAS GIRAR PARA QUE SE COCINEN PAREJO.
+Llevar los brochettes al horno, plancha o parrilla, y rociarlos periodicamante con 4 cucharadas derretidas de manteca, margarina o aceite y el jugo de medio limon, u otros adobos con diferentes especias. hacerlas girar para que se cocinen parejo.
 
-TAMBIEN PUEDEN HACERSE AGRIDULCE AGREGANDO: MANZANAS, CIRUELAS, ETC Y ROCIARLOS CON MIEL DILUIDA. SON SOLO EJEMPLOS.
+Tambien pueden hacerse agridulce agregando: manzanas, ciruelas, etc y rociarlos con miel diluida. son solo ejemplos.
 
-### MATAMBRE RELLENO (2 KG)
-SALARLO Y ADOBARLO LA NOCHE ANTERIOR CON ½ TAZA DE VINAGRE, UNA TAZA DEACEITE, 8 GRANOS DE PIMIENTA NEGRA, UNA CUCHARADITA DE PIMENTON, UNA CUCHARADITA DE OREGANO Y UN DIENTE DE AJO MACHACADO.
-ABRIRLO CON LA GRASA HACIA ADENTRO Y EL TEJIDO MUSCULOSO HACIA AFUERA.
+### Matambre relleno (2 kg)
+Salarlo y adobarlo la noche anterior con ½ taza de vinagre, una taza deaceite, 8 granos de pimienta negra, una cucharadita de pimenton, una cucharadita de oregano y un diente de ajo machacado.
+Abrirlo con la grasa hacia adentro y el tejido musculoso hacia afuera.
 
-COLOCAR EN SU INTERIOR: ZANAHORIAS CRUDAS, PICLES, AJIES EN VINAGRE, TODO CORTADOS EN TIRITAS; PEREJIL PICADO, HUEVOS DUROS EN MITADES, CEBOLLA PICADA, PANCETA, ESPINACA, ACEITUNAS VERDES Y ARVEJAS.
+Colocar en su interior: zanahorias crudas, picles, ajies en vinagre, todo cortados en tiritas; perejil picado, huevos duros en mitades, cebolla picada, panceta, espinaca, aceitunas verdes y arvejas.
 
-CERRAR EL MATAMBRE ENROSCANDOLO SOBRE EL RELLENO, COSERLO O ATARLO PARA QUE TOME SU FORMA ALARGADA. COLOCARLO EN UNA CASEROLA PROFUNDA CON ABUNDANTE AGUA FRIA Y HIERBAS AROMATICAS. COCINAR A FUEGO LENTO POR 2 HORAS O MAS HASTA QUE SE NOTE TIERNO. DEJARLO EN ESE CALDO HASTA QUE SE ENFRIE. PRENSARLO PARA QUE SUELTE EL JUGO, COLOCANDOLE ALGO PESADO QUE HAGA PRESION DURANTE VARIAS HORAS.
+Cerrar el matambre enroscandolo sobre el relleno, coserlo o atarlo para que tome su forma alargada. colocarlo en una caserola profunda con abundante agua fria y hierbas aromaticas. cocinar a fuego lento por 2 horas o mas hasta que se note tierno. dejarlo en ese caldo hasta que se enfrie. prensarlo para que suelte el jugo, colocandole algo pesado que haga presion durante varias horas.
 
-### PASTEL DE PAPA Y CARNE
-FREIR 1 CEBOLLA FINAMENTE PICADA Y 1 DIENTE DE AJO PICADO, INCORPORARLE ¾ KG DE CARNE PICADA HASTA CELLARLA. AGREGAR UNA TAZA DE AGUA CALIENTE CON UN CALDITO DE CARNE. CONDIMENTAR CON SAL, PIMIENTA, OREGANO, AJI MOLIDO Y PIMIENTO MORRON CORTADITO (½). POR ULTIMO ADICIONAR, CUANDO LA CARNE ESTE COCIDA, 2 HUEVOS DUROS CORTADITOS Y UNAS 7 ACEITUNAS DESCAROZADAS Y CORTADAS EN 4. SI RESULTA MUY SECO, AGREGAR UN POCO DE MANTECA.
+### Pastel de papa y carne
+Freir 1 cebolla finamente picada y 1 diente de ajo picado, incorporarle ¾ kg de carne picada hasta cellarla. agregar una taza de agua caliente con un caldito de carne. condimentar con sal, pimienta, oregano, aji molido y pimiento morron cortadito (½). por ultimo adicionar, cuando la carne este cocida, 2 huevos duros cortaditos y unas 7 aceitunas descarozadas y cortadas en 4. si resulta muy seco, agregar un poco de manteca.
 
-EN UNA FUENTE COLOCAR LA PREPARACION, Y SOBRE ESTA, UN PURE HECHO CON 4 PAPAS MEDIANAS, MANTECA Y LECHE. ESPOLVOREAR CON QUESO RALLADO Y LLEVAR AL HORNO PARA QUE SE CALIENTE Y DORE.
+En una fuente colocar la preparacion, y sobre esta, un pure hecho con 4 papas medianas, manteca y leche. espolvorear con queso rallado y llevar al horno para que se caliente y dore.
 
-## VERDURAS
+## Verduras
 
-### BRUSELAS CALIENTES:
-CORTAR LA BASE DE LOS REPOLLITOS EN CRUZ, HERVIRLOS EN AGUA Y SAL POR 12 MINUTOS. DORAR EN POCO ACEITE CUBOS DE JAMON, AGREGAR LOS REPOLLITOS, SALPIMENTEAR Y SALTEAR UNOS MINUTOS. SERVIR CALIENTE.
-TAMBIEN QUEDA BIEN CON SALSA HOLANDESA.
+### Bruselas calientes:
+Cortar la base de los repollitos en cruz, hervirlos en agua y sal por 12 minutos. dorar en poco aceite cubos de jamon, agregar los repollitos, salpimentear y saltear unos minutos. servir caliente.
+Tambien queda bien con salsa holandesa.
 
-SALSA HOLANDEZA: 3 CUHARADAS DE MANTECA DERRETIDA, 1 CUCHARADA DE JUGO DE LIMON Y I/2 TAZA DE MAYONESA. SERVIR TIBIO.
+Salsa holandeza: 3 cuharadas de manteca derretida, 1 cucharada de jugo de limon y i/2 taza de mayonesa. servir tibio.
 
-### ZANAHORIAS A LA VICHY.
-DERRETIR UN POCO DE MANTECA Y DORAR A PENAS UN DIENTE DE AJO PICADO. AGREGARLE UNA CUCHARADA COLMADA DE HARINA, REMOVIENDO PARA QUE NO FORME GRUMOS. AÑADIRLE CALDO CALIENTE Y LAS ZANAHORIAS CORTADAS EN RODAJAS. CUANDO LAS ZANAHORIAS ESTEN TIERNAS, AGREGARLE PEREJIL PICADO Y UN CHORRITO DE VINAGRE. Y SERVIR.
+### Zanahorias a la Vichy.
+Derretir un poco de manteca y dorar a penas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. cuando las zanahorias esten tiernas, agregarle perejil picado y un chorrito de vinagre. y servir.
 
-LA CANTIDAD DE CALDO DEPENDE DE LA CANTIDAD DE ZANAHORIAS Y DE LO QUE DEMOREN EN ESTAR BLANDAS.
+La cantidad de caldo depende de la cantidad de zanahorias y de lo que demoren en estar blandas.
 
-EL HARINA ES PARA QUE LA PREPARACIÓN QUEDE ALGO ESPESA.
+El harina es para que la preparación quede algo espesa.
 
-EN VEZ DE HARINA SE PUEDE USAR, AL FINAL DE LA COCCIÓN, MAIZENA DISUELTA EN UN POQUITO DE LECHE (NI FRÍA NI TIBIA, NATURAL).
+En vez de harina se puede usar, al final de la cocción, maizena disuelta en un poquito de leche (ni fría ni tibia, natural).
 
-ES PARA ACOMPAÑAR CARNES O SERVIRLA CON PURE DE PAPAS.
+Es para acompañar carnes o servirla con pure de papas.
 
-### ZANAHORIAS CARAMELIZADAS
-3 ZANAHORIAS EN RODAJAS FINAS, 1 CUCHARADA AZUCAR, 1 CUCHARADA DE MIEL,1 CUCHARADA MANTECA, 1 CUCHARADA JUGO LIMON, ½ TAZA DE AGUA,SAL, PIMIENTA, OPCION PEREJIL PICADO.
+### Zanahorias caramelizadas
+3 zanahorias en rodajas finas, 1 cucharada azucar, 1 cucharada de miel,1 cucharada manteca, 1 cucharada jugo limon, ½ taza de agua,sal, pimienta, opcion perejil picado.
 
-DERRETIR LA MANTECA CON EL AZUCAR, LA MIEL Y EL AGUA. COLOCAR LAS RODAJAS DE ZANAHORIAS,.COCINAR CON LA SARTEN TAPADA. REVOLVER. A LOS 5 MINUTOS AGREGAR EL LIMON, SAL Y PIMIENTA. COCINAR HASTA QUE LAS ZANAHORIAS ESTEN TIERNAS. SERIAN OTROS 10 MINUTOS MAS.
+Derretir la manteca con el azucar, la miel y el agua. colocar las rodajas de zanahorias,.cocinar con la sarten tapada. revolver. a los 5 minutos agregar el limon, sal y pimienta. cocinar hasta que las zanahorias esten tiernas. serian otros 10 minutos mas.
 
-RETIRAR Y COLOCARLES EL PEREJIL PICADO.
+Retirar y colocarles el perejil picado.
 
-### CROQUETAS DE ESPINACA
-1 KG DE ESPINACA, LECHE, 2 HUEVOS, 1 CUCHARADA DE CEBOLLA RALLADA, 2 CUCHARADAS DE JAMÓN COCIDO, ¾ TAZA DE HARINA, SAL, PIMIENTA, NUEZ MOSCADA, 1 CUCHARADA DE QUESO RALLADO.
+### Croquetas de espinaca
+1 kg de espinaca, leche, 2 huevos, 1 cucharada de cebolla rallada, 2 cucharadas de jamón cocido, ¾ taza de harina, sal, pimienta, nuez moscada, 1 cucharada de queso rallado.
 
-LAVAR PICAR Y ESCURRIR BIEN LA ESPINACA. BATIR LAS YEMAS CON LA HARINA, AFLOJAR CON UN POCO DE LECHE. AGREGAR LA ESPINACA, EL JAMON, LA CEBOLLA,CONDIMENTAR. POR ULTIMO INCORPORAR LAS CLARAS BATIDAS A PUNTO NIEVE. TOMAR POR CUCHARADAS Y FREIR EN ACEITE, A FUEGO MODERADO HASTA QUE ESTEN DORADITAS.
+Lavar picar y escurrir bien la espinaca. batir las yemas con la harina, aflojar con un poco de leche. agregar la espinaca, el jamon, la cebolla,condimentar. por ultimo incorporar las claras batidas a punto nieve. tomar por cucharadas y freir en aceite, a fuego moderado hasta que esten doraditas.
 
-### CEBOLLAS CARAMELIZADAS
-4 CUCHARADAS DE ACEITE DE OLIVA, 1 CEBOLLA EN MITAD Y RODAJAS FINAS, 3 CUCHARADITAS DE AZUCAR.
+### Cebollas caramelizadas
+4 cucharadas de aceite de oliva, 1 cebolla en mitad y rodajas finas, 3 cucharaditas de azucar.
 
-A FUEGO MODERADO, REVOLVER FRECUENTEMENTE DURANTE 5 MINUTOS O HASTA QUE LA CEBOLLA SE CARAMELICE.
+A fuego moderado, revolver frecuentemente durante 5 minutos o hasta que la cebolla se caramelice.
 
-### ESCABECHE DE VERDURAS
-PUEDE SER MEZCLA DE VARIAS VERDURAS O DE UNA SOLA: COLIFLOR, ZANAHORIAS, BROCOLI, REPOLLITOS BRUCELAS, CEBOLLITAS, CEBOLLITAS DE VERDEO ETC. CONDIMENTAR CON SAL, PIMIENTA, LAUREL, AJI MOLIDO, SEMILLAS DE MOSTAZA.
+### Escabeche de verduras
+Puede ser mezcla de varias verduras o de una sola: coliflor, zanahorias, brocoli, repollitos brucelas, cebollitas, cebollitas de verdeo etc. condimentar con sal, pimienta, laurel, aji molido, semillas de mostaza.
 
-HUMEDECER CON 1 ½ TAZA DE VINAGRE, 1 TAZA DE ACEITE Y UNA DE AGUA.
+Humedecer con 1 ½ taza de vinagre, 1 taza de aceite y una de agua.
 
-PUEDE SER QUE SEA NECESARIO HACER EL DOBLE O TRIPLE DE ESTA MEZCLA, DEPENDIENDO DE LA CANTIDAD DE VERDURAS. COCINAR HASTA QUE LAS ZANAHORIAS ESTEN TIERNAS.
+Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras. cocinar hasta que las zanahorias esten tiernas.
 
-### PANACHE DE VERDURAS
-PONER EN UNA FUENTE DIFERENTES VERDURAS POR CAPAS SEGUN EL GUSTO, PUEDE SER: COLIFLOR, ZANAHORIA, PAPA, BROCOLI, CHAUCHAS, CHOCLO, CEBOLLITAS DE VERDEO, ARVEJAS, ETC.
+### Panache de verduras
+Poner en una fuente diferentes verduras por capas segun el gusto, puede ser: coliflor, zanahoria, papa, brocoli, chauchas, choclo, cebollitas de verdeo, arvejas, etc.
 
-ENTRE UNA Y OTRA CAPA COLOCAR CREMA DE LECHE O QUESO CREMA, SAL, PIMENTA, QUESO RALLADO, PIMENTON, AJI MOLIDO O LOS CONDIMENTOS QUE ACOSTUMBREN SEGUN LA VERDURA.
+Entre una y otra capa colocar crema de leche o queso crema, sal, pimenta, queso rallado, pimenton, aji molido o los condimentos que acostumbren segun la verdura.
 
-COMO LAS VERDURAS TIENEN DIFERENTES TIEMPOS DE COCCION, HAY DOS ALTERNATIVAS: HERVIR TODO POR SEPARADO O CORTAR DE DIFERENTE TAMAÑO DE ACUERDO A LA DUREZA DE CADA UNA.
+Como las verduras tienen diferentes tiempos de coccion, hay dos alternativas: hervir todo por separado o cortar de diferente tamaño de acuerdo a la dureza de cada una.
 
-LLEVAR AL HORNO HASTA QUE SE GRATINE TODO.
+Llevar al horno hasta que se gratine todo.
 
-### HUMITA
-SALTEAR EN ACEITE UNA CEBOLLA FINAMENTE PICADA, AGREGAR 1 AJI, 1 TOMATE PICADO Y 1 TAZA DE CALDO DE CARNE, COCINAR HASTA QUE SE LOGRE UNA SALSA LIVIANA. INGRESAR UNA LATA DE CHOCLOS, SAL Y PIMIENTA.
+### Humita
+Saltear en aceite una cebolla finamente picada, agregar 1 aji, 1 tomate picado y 1 taza de caldo de carne, cocinar hasta que se logre una salsa liviana. ingresar una lata de choclos, sal y pimienta.
 
-CUANDO ESTA TODO CALIENTE SE LE MEZCLA UN HUEVO BATIDO Y ABUNDANTE QUESO RALLADO.
+Cuando esta todo caliente se le mezcla un huevo batido y abundante queso rallado.
 
-DE HACERLO PARA MAS PERSONAS, PONER UNA LATA DE CHOCLOS AMARILLOS ENTEROS Y OTRA DE CHOCLOS AMARILLOS CREMOSOS.
+De hacerlo para mas personas, poner una lata de choclos amarillos enteros y otra de choclos amarillos cremosos.
 
-SI ES POSIBLE, LA HUMITA SE SIRVE ENVUELTA EN HOJAS DE LA CHALA Y SE CALIENTA AL HORNO.
+Si es posible, la humita se sirve envuelta en hojas de la chala y se calienta al horno.
 
-LOS DORADITOS DE CEBOLLA (BROWNIE DE CEBOLLA) SON IDEALES PARA ACOMPAÑARLA,
+Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla,
 
-### GUISO DE LENTEJAS
-½ KG DE LENTEJAS, ½ TAZA DE ACEITE, 1 CEBOLLA PICADA, 100 GR DE PANCETA EN CUBITOS O TIRITAS, 2 CHORIZOS COLORADOS EN RODAJAS, 3 TOMATES PICADOS, 2 DIENTES DE AJO PICADOS, 3 TAZAS DE CALDO, SAL, PIMIENTA, LAUREL, PEREJIL PICADO. OPCIONAL: 2 PAPAS, 2 ZANAHORIAS, 1 PUERRO ,1 PIMIENTO ROJO.
+### Guiso de lentejas
+½ kg de lentejas, ½ taza de aceite, 1 cebolla picada, 100 gr de panceta en cubitos o tiritas, 2 chorizos colorados en rodajas, 3 tomates picados, 2 dientes de ajo picados, 3 tazas de caldo, sal, pimienta, laurel, perejil picado. opcional: 2 papas, 2 zanahorias, 1 puerro ,1 pimiento rojo.
 
-FREIR LA CEBOLLA Y LA PANCETA, AGREGAR LOS AJOS, LOS TOMATES, EL CALDO (INCLUIR LOS OPCIONALES Y EN ESE CASO MAS CALDO) Y POR ULTIMO LAS LENTEJAS PREVIAMENTE REMOJADAS.
+Freir la cebolla y la panceta, agregar los ajos, los tomates, el caldo (incluir los opcionales y en ese caso mas caldo) y por ultimo las lentejas previamente remojadas.
 
-CONDIMENTAR Y AGREGAR LOS CHORIZOS Y COCINAR HASTA QUE LAS LENTEJAS ESTEN TIERNAS.
+Condimentar y agregar los chorizos y cocinar hasta que las lentejas esten tiernas.
 
-SI SE COCINA EN OLLA A PRESION, EL CALDO DEBE CUBRIR LAS LENTEJAS Y SE COCINA POR 15 MINUTOS (LOS 15 MINUTOS SE CUENTAN A PARTIR DE QUE EL PITUTO EMPIEZA A SILBAR.). SE REDUCE LA PRESION AL INSTANTE (RETIRAR DEL FUEGO Y PONER LA TAPA DEBAJO DE LA CANILLA Y QUE SE ENFRIE LA TAPA, CUANDO ESTA LISTO LA TAPA SE ABRE FACILMENTE).
+Si se cocina en olla a presion, el caldo debe cubrir las lentejas y se cocina por 15 minutos (los 15 minutos se cuentan a partir de que el pituto empieza a silbar.). se reduce la presion al instante (retirar del fuego y poner la tapa debajo de la canilla y que se enfrie la tapa, cuando esta listo la tapa se abre facilmente).
 
-### GUISO DE VERDURAS Y CERDO A LA ORIENTAL
-CORTAR ½ KG DE CARNE DE CERDO, ESPOLVOREARLO CON 1 CUCHARADA DE MAIZENA Y FREIRLO EN UNA CAZUELA. SASONAR CON SAL, PIMIENTA, 2 CUCHARADAS DE SALSA DE SOJA Y AGREGARLE ½ KG DE VERDURAS SURTIDAS (ZANAHORIA, APIO, CHAUCHA, COLIFLOR, BROCOLI, CEBOLLITA DE VERDEO, PUERRO, ETC) CORTADAS EN JULIANA Y UN CALDITO DE CARNE.
+### Guiso de verduras y cerdo a la oriental
+Cortar ½ kg de carne de cerdo, espolvorearlo con 1 cucharada de maizena y freirlo en una cazuela. sasonar con sal, pimienta, 2 cucharadas de salsa de soja y agregarle ½ kg de verduras surtidas (zanahoria, apio, chaucha, coliflor, brocoli, cebollita de verdeo, puerro, etc) cortadas en juliana y un caldito de carne.
 
-### SOUFFLE DE CHOCLOS MAMAMA
-(SALSA BECHAMEL) 50 GR MANTECA DERRETIDA CON 2 CUCHARADAS DE HARINA CON ½ LITRO DE LECHE. COCINAR HASTA QUE ESTE ESPESO. CONDIMENTAR CON SAL, NUEZ MOSCADA Y PIMIENTA. AGREGAR 1 LATA DE CHOCLO (O LOS GRANOS DE 4 CHOCLOS HERVIDOS), ABUNDATE QUESO RALLADO (1 TAZA) Y 4 YEMAS. POR ULTIMO AGREGAR 4 CLARAS BATIDAS A NIEVE, MEZCLANDO SUAVEMENTE. COLOCAR EN ASADERA ENMANTECADA Y ENHARINADA Y LLEVAR A HORNO MODERADO POR 40 MINUTOS.
+### Souffle de choclos Mamama
+(salsa bechamel) 50 gr manteca derretida con 2 cucharadas de harina con ½ litro de leche. cocinar hasta que este espeso. condimentar con sal, nuez moscada y pimienta. agregar 1 lata de choclo (o los granos de 4 choclos hervidos), abundate queso rallado (1 taza) y 4 yemas. por ultimo agregar 4 claras batidas a nieve, mezclando suavemente. colocar en asadera enmantecada y enharinada y llevar a horno moderado por 40 minutos.
 
-### GRATEN DE CALABAZA Y CHOCLO
-ENMANTECAR UNA FUENTE PARA HORNO Y UBICAR PURE DE CALABAZAS, GRANOS O CREMA DE CHOCLO Y JAMON COCIDO (Y O PANCETA REHOGADA) EN TIRITAS. BATIR 2 HUEVOS CON 100 GR DE QUESO RALLADO, ¾ TAZA DE LECHE, ½ TAZA DE CREMA DE LECHE Y CONDIMENTAR CON SAL, PIMIENTA Y NUEZ MOSCADA. VOLCAR SOBRE EL JAMON Y CUBRIR CON QUESO MANTECOSO. LLEVAR AL HORNO A TEMPERATURA MODELADA DURANTE 15 MINUTOS, TAPADO CON PAPEL DE ALUMINIO, RETIRAR EL PAPEL Y COCINAR UNOS MINUTOS MAS HASTA DORAR LA SUPERFICIE.
+### Graten de calabaza y choclo
+Enmantecar una fuente para horno y ubicar pure de calabazas, granos o crema de choclo y jamon cocido (y o panceta rehogada) en tiritas. batir 2 huevos con 100 gr de queso rallado, ¾ taza de leche, ½ taza de crema de leche y condimentar con sal, pimienta y nuez moscada. volcar sobre el jamon y cubrir con queso mantecoso. llevar al horno a temperatura modelada durante 15 minutos, tapado con papel de aluminio, retirar el papel y cocinar unos minutos mas hasta dorar la superficie.
 
-### PALETA DE PINTOR (2)
-COLOCAR EN EL CUARTO DE UN PLATO: 2 FETAS DE JAMON EN TIRITAS. EN OTRO CUARTO: MEDIA ZANAHORIA RALLADA, EN EL OTRO: MEDIO ZUCCHINI TAMBIEN RALLADO Y EN EL ULTIMO CUARTO: REMOLACHA RALLADA, CONDIMENTANDOSE CON ACEITE DE OLIVA Y SAL. POR ULTIMO BAÑAR CON SALSA HOLANDESA.
+### Paleta de pintor (2)
+Colocar en el cuarto de un plato: 2 fetas de jamon en tiritas. en otro cuarto: media zanahoria rallada, en el otro: medio zucchini tambien rallado y en el ultimo cuarto: remolacha rallada, condimentandose con aceite de oliva y sal. por ultimo bañar con salsa holandesa.
 
-SE PUEDEN VARIAR LAS VERDURAS.
+Se pueden variar las verduras.
 
-### BROCOLI CON PAPAS AL HORNO MICRO
-EN FUENTE PARA MICRO PONER LOS ARBOLITOS DE BROCOLI, 2 PAPAS CORTADAS EN RODAJAS POR 10 MINUTOS A 700 W. ESPARCIR SOBRE ELLOS LA SALSA AL AJO.
+### Brocoli con papas al horno micro
+En fuente para micro poner los arbolitos de brocoli, 2 papas cortadas en rodajas por 10 minutos a 700 w. esparcir sobre ellos la salsa al ajo.
 
-SALSA AL AJO: FREIR 3 DIENTES DE AJO EN LAMINAS, AÑADIR SAL, PIMIENTA, PIMENTON, ACEITE Y VINAGRE.
+Salsa al ajo: freir 3 dientes de ajo en laminas, añadir sal, pimienta, pimenton, aceite y vinagre.
 
-### COLIFLOR o BROCOLI A LA SARTEN
-CORTAR LOS ARBOLITOS EN LAMINAS Y COCINARLOS EN LA SARTEN DE UN LADO Y DEL OTRO, CON UN POCO DE ACEITE. QUEDAN CRUJIENTES.
+### Coliflor o brocoli a la sarten
+Cortar los arbolitos en laminas y cocinarlos en la sarten de un lado y del otro, con un poco de aceite. quedan crujientes.
 
-ESPARCIR SOBRE ELLOS LA SALSA AL AJO U OTRA.
+Esparcir sobre ellos la salsa al ajo u otra.
 
-### COLIFLOR o BROCOLI A LA MILANESA
-SEPARAR LOS ARBOLITOS Y DIVIDIRLOS SI HACE FALTA PARA QUE QUEDEN TODOS, MAS O MENOS, DEL MISMO TAMAÑO. HERVIR AGUA CON SAL. COCINARLOS POR APROXIMADAMENTE 10 MINUTOS EL COLIFLOR Y 5 MINUTOS EL BROCOLI. PARA ABSORBER EL OLOR COLOCAR UNA CORTEZA DE PAN DURO. CUANDO ESTEN TIERNOS ESCURRIRLOS Y COLOCARLOS EN LA HELADERA UN RATO.
+### Coliflor o brocoli a la milanesa
+Separar los arbolitos y dividirlos si hace falta para que queden todos, mas o menos, del mismo tamaño. hervir agua con sal. cocinarlos por aproximadamente 10 minutos el coliflor y 5 minutos el brocoli. para absorber el olor colocar una corteza de pan duro. cuando esten tiernos escurrirlos y colocarlos en la heladera un rato.
 
-PASARLOS POR HUEVO BATIDO CONDIMENTADO CON SAL Y AJI MOLIDO, O AJO CON PEREJIL PICADO. Y LUEGO PASADOS POR PAN RALLADO. FREIRLOS HASTA DORARLOS. QUEDAN CROCANTES.
+Pasarlos por huevo batido condimentado con sal y aji molido, o ajo con perejil picado. y luego pasados por pan rallado. freirlos hasta dorarlos. quedan crocantes.
 
-### WOK DE VERDURAS
-EN EL ELEMENTO WOK O EN UNA SARTEN BIEN CALIENTE INCORPORAR ACEITE DE OLIVA, AJO MUY PICADO, CEBOLLAS EN ¼ DE AROS, ZANAHORIAS Y PAPAS EN JULIANA; REVOLVER CONTINUAMENTE PARA QUE NO SE PEGUE Y SE COCINE PAREJO, DURANTE TRES MINUTOS APROXIMADAMENTE. CONDIMENTAR DON SAL, PIMIENTA, AJI MOLIDO, ROMERO. DESPUES AGREGAR CHAMPIGNONES ( U OTRO TIPO DE HONGOS HIDRATADOS EN AGUA O VINO), PIMIENTOS, CALABACIN, ZAPALLITOS, CHAUCHAS, PANCETA, TODO EN TIRITAS O JULIANA, GRANOS DE CHOCLO, APIO, BROCOLI, HOJAS VERDES. IR AÑADIENDO TODAS ESTAS VERDURAS DESDE LAS MAS DURAS A LAS MAS BLANDAS, Y SIEMPRE REVOLVIENDO. CUANDO TODOS LOS INGREDIENTES ESTEN EN SU PUNTO, AÑADIR LA SALSA DE SOJA. LLEVA ENTRE 20 Y 30 MINUTOS DE COCCION.
+### Wok de verduras
+En el elemento wok o en una sarten bien caliente incorporar aceite de oliva, ajo muy picado, cebollas en ¼ de aros, zanahorias y papas en juliana; revolver continuamente para que no se pegue y se cocine parejo, durante tres minutos aproximadamente. condimentar don sal, pimienta, aji molido, romero. despues agregar champignones ( u otro tipo de hongos hidratados en agua o vino), pimientos, calabacin, zapallitos, chauchas, panceta, todo en tiritas o juliana, granos de choclo, apio, brocoli, hojas verdes. ir añadiendo todas estas verduras desde las mas duras a las mas blandas, y siempre revolviendo. cuando todos los ingredientes esten en su punto, añadir la salsa de soja. lleva entre 20 y 30 minutos de coccion.
 
-### WOK CON CARNE
-ES EL MISMO PROCEDIMIENTO, PERO INCORPORANDO LA CARNE (PRINCIPALMENTE DE CERDO) EN TIRAS. QUEDA BIEN AGREGANDO VINO BLANCO Y JENJIBRE RALLADO.
+### Wok con carne
+Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) en tiras. queda bien agregando vino blanco y jenjibre rallado.
 
-### PURE DE BATATAS
-HACER UN PURE CON 5 BATATAS, AGREGARLE 50 GR DE MANTECA, 1/4 TAZA DE AZUCAR y 100 DE LECHE,
+### Pure de batatas
+Hacer un pure con 5 batatas, agregarle 50 gr de manteca, 1/4 taza de azucar y 100 de leche,
 
-### PURE DE MANZANAS
-HERVIR 5 MANZANAS PELADAS Y SIN SEMILLAS CON MUY POCA AGUA. PISARLAS EN LA MISMA OLLA Y AGREGARLE 50 GR DE MANTECA, ½ TAZA DE AZUCAR Y UN POCO DE CANELA. MEZCLAR BIEN Y CALENTAR ANTES DE SERVIR.
+### Pure de manzanas
+Hervir 5 manzanas peladas y sin semillas con muy poca agua. pisarlas en la misma olla y agregarle 50 gr de manteca, ½ taza de azucar y un poco de canela. mezclar bien y calentar antes de servir.
 
-### CREMA DE CHOCLOS
-HERVIR 6 CHOCLOS Y DESGRANARLOS. FREIR EN 1 CUCHARADA DE MANTECA
+### Crema de choclos
+Hervir 6 choclos y desgranarlos. freir en 1 cucharada de manteca
 
-2 CEBOLLAS Y 1 PIMIENTO, INCORPORAR LOS GRANOS DE CHOCLO ( O 1 LATA DE CREMA DE CHOCLOS). SAZONAR CON SAL Y AZUCAR (1 CUCHARADITA). AGREGAR 1 TAZA DE LECHE Y 2 CUCHARADAS DE CREMA DE LECHE Y COCINAR HASTA QUE TOME CONSISTENCIA. PUEDE INCORPORARSE 1 CUCHARADA DE HARINA SI ES NECESARIO O PASARLA POR LA LICUADORA. POR ULTIMO AGREGARLE QUESO RALLADO.
+2 cebollas y 1 pimiento, incorporar los granos de choclo ( o 1 lata de crema de choclos). sazonar con sal y azucar (1 cucharadita). agregar 1 taza de leche y 2 cucharadas de crema de leche y cocinar hasta que tome consistencia. puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora. por ultimo agregarle queso rallado.
 
-### CHUCRUT
-FREIR CEBOLLA HASTA QUE ESTE TRANSPARENTE, AGREGAR ABUNDANTE PANCETA CORTADA EN DADITOS Y EL CHUCRUT CON CALDO DE CARNE SUFICIENTE PARA CALENTAR TODO Y QUE NO QUEDE SECO. CONDIMENTAR CON SAL, PIMIENTA NEGRA EN GRANOS Y AJI MOLIDO. QUEDA BIEN CON UN POCO DE ANIS PICADO.
+### Chucrut
+Freir cebolla hasta que este transparente, agregar abundante panceta cortada en daditos y el chucrut con caldo de carne suficiente para calentar todo y que no quede seco. condimentar con sal, pimienta negra en granos y aji molido. queda bien con un poco de anis picado.
 
-COMPLETAR CON SALCHICHAS ALEMANAS Y PAPAS HERVIDAS, TAMBIEN PUEDE SER CON CARNE DE CERDO A LA PLANCHA O COCINADO CONJUNTAMENTE CON EL CHUCRUT.
+Completar con salchichas alemanas y papas hervidas, tambien puede ser con carne de cerdo a la plancha o cocinado conjuntamente con el chucrut.
 
-### GUISO DE REPOLLO
-SI NO HAY REPOLLO FERMENTADO (CHUCRUT), HERVIR EL REPOLLO FINAMENTE PICADO CON CALDO DE CARNE HASTA QUE ESTE BLANDO Y CON POCO LIQUIDO. PARA DARLE EL SABOR ACIDO DEL CHUCRUT, AGREGAR VINAGRE DE VINO. LUEGO PROCEDER DEL MISMO MODO QUE CON EL CHUCRUT.
+### Guiso de repollo
+Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con caldo de carne hasta que este blando y con poco liquido. para darle el sabor acido del chucrut, agregar vinagre de vino. luego proceder del mismo modo que con el chucrut.
 
-### REPOLLO ROMAN (BISABUELO)
-FREIR 1 CEBOLLA, 100 DE PANCETA, 1 ZANAHORIA, 1 APIO, 1 DIENTE DE AJO, TODO EN JULIANA. INGRESAR UN REPOLLO CHICO CORTADO EN 4 o 6 TROZOS. AGREGARLE 1 POCILLO DE VINO BLANCO, ½ POCILLO DE VINAGRE DE VINO, 1 CUCHARADA DE KETCHUP Y CALDO CANTIDAD SUFICIENTE PARA COCINARLO Y QUE QUEDE TIERNO. PONERLE 1 CUCHARADA DE SALSA INGLESA Y SERVIRLO CON CODEGUINES HERVIDOS O CON SALCHICHAS ALEMANAS.
+### Repollo Roman (bisabuelo)
+Freir 1 cebolla, 100 de panceta, 1 zanahoria, 1 apio, 1 diente de ajo, todo en juliana. ingresar un repollo chico cortado en 4 o 6 trozos. agregarle 1 pocillo de vino blanco, ½ pocillo de vinagre de vino, 1 cucharada de ketchup y caldo cantidad suficiente para cocinarlo y que quede tierno. ponerle 1 cucharada de salsa inglesa y servirlo con codeguines hervidos o con salchichas alemanas.
 
-### REPOLLO EN TORREJAS DE ENRIQUE SERENO
-CUBRIR ½ REPOLLO CORTADO FINITO (O UNA BANDEJITA OVALADA DEL PINGUINO) CON AGUA Y 1 CUCHARADITA DE SAL, POR 10 MINUTOS.
+### Repollo en torrejas de Enrique Sereno
+Cubrir ½ repollo cortado finito (o una bandejita ovalada del pinguino) con agua y 1 cucharadita de sal, por 10 minutos.
 
-PICAR FINAMENTE 1 CEBOLLA Y FREIRLA EN ACEITE.
+Picar finamente 1 cebolla y freirla en aceite.
 
-ESCURRIR EL REPOLLO Y AGREGARLE LA CEBOLLA, 2 HUEVOS, SAL PIMIENTA, ½ TAZA DE HARINA Y ¼ TAZA DE QUESO RALLADO. MEZCLAR BIEN. SEPARAR EN PORCIONES Y FREIR DE LOS DOS LADOS HASTA QUE ESTEN DORADOS. SALEN COMO 10 TORREJAS.
+Escurrir el repollo y agregarle la cebolla, 2 huevos, sal pimienta, ½ taza de harina y ¼ taza de queso rallado. mezclar bien. separar en porciones y freir de los dos lados hasta que esten dorados. salen como 10 torrejas.
 
-### TARTA DE CHOCLOS
-UTILIZAR MASA PARA TARTA O MASA TARTA DE VIR Y EL SIGUIENTE RELLENO.
+### Tarta de choclos
+Utilizar masa para tarta o masa tarta de vir y el siguiente relleno.
 
-FREIR EN ACEITE 1 CEBOLLA PICADA, AGREGARLE 1 LATA DE TOMATES PICADOS Y 1 LATA DE CHOCLOS. RETIRAR DEL FUEGO Y PONERLE APROXIMADAMENTE UNA TAZA DE SALSA BLANCA (EN 1 CUCHARADA DE MANTECA COCINAR 1 DIENTE DE AJO PICADO, INCLUIRLE 1 CUCHARADA COLMADA DE HARINA, DORARLA E INCORPORAR 1 TAZA DE CALDO DE CARNE) Y 2 YEMAS, MEZCLAR. CONDIMENTAR CON SAL, PIMIENTA Y NUEZ MOSCADA (EN VEZ DE NUEZ MOSCADA TAMBIEN PUEDE SER CON 2 CUCHARADITAS DE CURRY). POR ULTIMO INGRESAR SUAVEMENTE 2 CLARAS BATIDAS A NIEVE.
+Freir en aceite 1 cebolla picada, agregarle 1 lata de tomates picados y 1 lata de choclos. retirar del fuego y ponerle aproximadamente una taza de salsa blanca (en 1 cucharada de manteca cocinar 1 diente de ajo picado, incluirle 1 cucharada colmada de harina, dorarla e incorporar 1 taza de caldo de carne) y 2 yemas, mezclar. condimentar con sal, pimienta y nuez moscada (en vez de nuez moscada tambien puede ser con 2 cucharaditas de curry). por ultimo ingresar suavemente 2 claras batidas a nieve.
 
-### BRAT KARTOFFELN DE MARIA ROSA
-HERVIR 500 GR DE PAPAS CON CASCARA, UNOS 15 A 20 MINUTOS, SIN QUE SE ABLANDEN TANTO. DEJARLAS ENFRIAR Y CORTARLAS EN TAJADAS DE 3 A 5 MILIMETROS. DORAR 80 GR DE PANCETA EN TROCITOS Y 1 CEBOLLA EN PLUMITAS. RETIRAR Y DORAR LAS PAPAS CON 1 CUCHARADA DE ACEITE Y 1 CUCHARADA DE MANTECA. CUANDO ESTEN DORADAS AGREGARLE LA PANCETA Y LA CEBOLLA Y DECORAR CON PEREJIL.
+### Brat kartoffeln de Maria Rosa
+Hervir 500 gr de papas con cascara, unos 15 a 20 minutos, sin que se ablanden tanto. dejarlas enfriar y cortarlas en tajadas de 3 a 5 milimetros. dorar 80 gr de panceta en trocitos y 1 cebolla en plumitas. retirar y dorar las papas con 1 cucharada de aceite y 1 cucharada de manteca. cuando esten doradas agregarle la panceta y la cebolla y decorar con perejil.
 
-### COLIFLOR O BROCOLI SUPREMA
-HERVIR EL COLIFLOR ENTERO. BATIR 3 CUCHARADAS DE MANTECA, AGREGARLE 3 CUCHARADAS DE QUESO RALLADO, 2 CUCHARADAS DE PAN RALLADO Y SAL PONER EL COLIFLOR ENTERO EN UNA FUENTE DE HORNO ACEITADA. DISTRIBUIR LA MEZCLA SOBRE EL COLIFLOR Y ½ LITRO DE SALSA BLANCA CONDIMENTADA CON PIMIENTA Y NUEZ MOSCADA. LLEVAR AL HORNO PARA GRATINAR.
+### Coliflor o brocoli suprema
+Hervir el coliflor entero. batir 3 cucharadas de manteca, agregarle 3 cucharadas de queso rallado, 2 cucharadas de pan rallado y sal poner el coliflor entero en una fuente de horno aceitada. distribuir la mezcla sobre el coliflor y ½ litro de salsa blanca condimentada con pimienta y nuez moscada. llevar al horno para gratinar.
 
-### PASTEL DE CALABAZA AL CURRY (MUY RICO)
-1. 1 DIENTE DE AJO
-1. 10 GR DE MANTECA
-1. 500 GR ANQUITO EN DADOS
-1. 1 CEBOLLA (POR CUARTOS Y EN PLUMITAS)
-1. PUERRO PICADO A GUSTO
-1. 2 CUCHARADITAS DE POLVO CURRY
-1. SAL, PIMIENTA
-1. 300 GR DE QUESO CREMA
-1. 60 GR QUESO RALLADO
-1. 10 HOJAS DE ALBAHACA PICADA
-1. 60 GR QUESO RALLADO
-1. 3 CUCHARADAS DE PAN RALLADO
-1. 2 CUCHARADAS DE MANTECA
+### Pastel de calabaza al curry (muy rico)
+1. 1 diente de ajo
+1. 10 gr de manteca
+1. 500 gr anquito en dados
+1. 1 cebolla (por cuartos y en plumitas)
+1. Puerro picado a gusto
+1. 2 cucharaditas de polvo curry
+1. Sal, pimienta
+1. 300 gr de queso crema
+1. 60 gr queso rallado
+1. 10 hojas de albahaca picada
+1. 60 gr queso rallado
+1. 3 cucharadas de pan rallado
+1. 2 cucharadas de manteca
 
-HUNTAR UNA FUENTE PARA HORNO CON EL AJO (1) Y LA MANTECA (2). MEZCLAR LOS DADOS DE ANQUITO (3) CON LA CEBOLLA (4), EL PUERRO (5) Y EL CURRY (6). SAL PIMENTAR (7).
+Huntar una fuente para horno con el ajo (1) y la manteca (2). mezclar los dados de anquito (3) con la cebolla (4), el puerro (5) y el curry (6). sal pimentar (7).
 
-AGREGAR LA MEZCLA DE QUESO CREMA (8), QUESO RALLADO (9),Y LA ALBAHACA (10), COLOCAR TODO EN LA FUENTE Y HORNEAR POR 40 MINUTOS A 180ªC.
+Agregar la mezcla de queso crema (8), queso rallado (9),y la albahaca (10), colocar todo en la fuente y hornear por 40 minutos a 180ªc.
 
-RETIRAR Y CUBRIR CON LA MEZCLA DE QUESO RALLADO (11), PAN RALLADO /12) Y MANTECA (13). HORNEAR POR 15 MINUTOS MAS. ESTA CAPA QUEDA CROCANTE.
+Retirar y cubrir con la mezcla de queso rallado (11), pan rallado /12) y manteca (13). hornear por 15 minutos mas. esta capa queda crocante.
 
-PUEDE DECORARSE CON HOJAS DE ALBAHACA FRESCA.
+Puede decorarse con hojas de albahaca fresca.
 
-### CALABAZA ASADA CON MIEL Y QUESO.
-CORTAR 600 GR DE CALABAZA EN PEQUEÑOS CUBITOS, ROCIARLOS CON ACEITE (3 CUCHARADAS) Y HORNEARLOS POR 20 MINUTOS A 200ª C. RETIRARLOS Y ESPOLVOREARLOS CON SEMILLAS DE SESAMO (1 CUCHARADA)Y COCINARLOS POR 10 MINUTOS MAS.
+### Calabaza asada con miel y queso.
+Cortar 600 gr de calabaza en pequeños cubitos, rociarlos con aceite (3 cucharadas) y hornearlos por 20 minutos a 200ª c. retirarlos y espolvorearlos con semillas de sesamo (1 cucharada)y cocinarlos por 10 minutos mas.
 
-PREPARAR UNA MEZCLA DE 3 CUCHARADAS DE MIEL Y 1 DE ACETO BALSAMICO, SALAR Y ALINEAR LA CALABAZA. POR ULTIMO CORTAR TAMBIEN 60 GR DE QUESO MAQUINA EN PEQUEÑOS CUBITOS Y UNIRLOS A LA PREPARACION.
+Preparar una mezcla de 3 cucharadas de miel y 1 de aceto balsamico, salar y alinear la calabaza. por ultimo cortar tambien 60 gr de queso maquina en pequeños cubitos y unirlos a la preparacion.
 
-TAMBIEN PUEDE AGREGARSE NUECES Y DECORAR CON HOJITAS DE MENTA O ALBAHACA.
+Tambien puede agregarse nueces y decorar con hojitas de menta o albahaca.
 
-PUEDE SERVIRSE SOBRE TOSTADAS, O COMO ACOMPAÑAMIENTO DE DIFERENTES CARNES.
+Puede servirse sobre tostadas, o como acompañamiento de diferentes carnes.
 
-### PAPINES
-AL HORNO: BAÑARLOS CON ACEITE, SAL, PIMIENTA Y ROMERO. HORNO BIEN CALIENTE POR 20 MINUTOS.
+### Papines
+Al horno: bañarlos con aceite, sal, pimienta y romero. horno bien caliente por 20 minutos.
 
-HERVIDOS: PONERLOS EN AGUA HIRVIENDO DE 5 A 7 MINUTOS. SALTEARLOS EN LA SARTEN CON ACEITE Y CONDIMENTARLOS CON SAL PMIENTA, AJO EN POLVO, PAPRIKA (AJI MOLIDO) Y SERVIRLOS CON PERJIL FRESCO PICADO.
+Hervidos: ponerlos en agua hirviendo de 5 a 7 minutos. saltearlos en la sarten con aceite y condimentarlos con sal pmienta, ajo en polvo, paprika (aji molido) y servirlos con perjil fresco picado.
 
-### RELLENO PARA TARTA
-HACER UN SOFRITO EN ACEITE CON: 3 ZANAHORIAS RALLADAS, 1 LATA DE CHOCLO, 2 PUERROS PICADOS, PIMIENTO MORRON, 2 HUEVOS Y CONDIMENTOS.
+### Relleno para tarta
+Hacer un sofrito en aceite con: 3 zanahorias ralladas, 1 lata de choclo, 2 puerros picados, pimiento morron, 2 huevos y condimentos.
 
-### PROPORCIONES PARA POLENTA INSTANTANEA
-2 TAZAS DE POLENTA, 6 TAZAS DE AGUA (CALDO) A PUNTO DE HERVOR. CONDIMENTAR. RINDE 6 PLATOS DE POLENTA.
+### Proporciones para polenta instantanea
+2 tazas de polenta, 6 tazas de agua (caldo) a punto de hervor. condimentar. rinde 6 platos de polenta.
 
-### FRIJOLES
-REMOJAR 2 TAZAS DE FRIJOLES EN AGUA FRIA, DURANTE TODA LA NOCHE.
+### Frijoles
+Remojar 2 tazas de frijoles en agua fria, durante toda la noche.
 
-COCERLOS POR 45 MINUTOS, CON UN DIENTE DE AJO ENTERO, 1 TROZO DE CEBOLLA, 1 CUCHARADA SOPERA DE ACEITE Y AGUA FRIA.
+Cocerlos por 45 minutos, con un diente de ajo entero, 1 trozo de cebolla, 1 cucharada sopera de aceite y agua fria.
 
-LA COCCION DEBE SER LENTA, PROLONGADA Y CONSTANTE (FRIOS SE ENDURECEN) Y DURANTE TODO EL TIEMPO DEBEN ESTAR CUBIERTOS DE AGUA.
+La coccion debe ser lenta, prolongada y constante (frios se endurecen) y durante todo el tiempo deben estar cubiertos de agua.
 
-PREPARAR UN SOFRITO CON 4 CUCHARADAS SOPERAS DE ACEITE, 2 CEBOLLAS PICADAS Y 4 PIMIENTOS PICADOS (COCINAR DE 10 A 12 MINUTOS), AGREGAR 6 DIENTES DE AJO PICADOS, 6 GR DE PIMIENTA, 1 HOJA DE LAUREL, 2 CUCHARADITAS DE COMINO, SAL Y OREGANO.
+Preparar un sofrito con 4 cucharadas soperas de aceite, 2 cebollas picadas y 4 pimientos picados (cocinar de 10 a 12 minutos), agregar 6 dientes de ajo picados, 6 gr de pimienta, 1 hoja de laurel, 2 cucharaditas de comino, sal y oregano.
 
-INCLUIR LOS FRIJOLES Y TERMINAR LA COCCION A FUEGO LENTO. RINDE 8 PORCIONES.
+Incluir los frijoles y terminar la coccion a fuego lento. rinde 8 porciones.
 
-PUEDE AGREGARSE ½ KG DE CARNE DE CERDO EN CUBITOS, PREVIAMENTE SELLADOS.
+Puede agregarse ½ kg de carne de cerdo en cubitos, previamente sellados.
 
-### GARBANZOS
-DEJAR LOS GARBANZOS EN REMOJO POR 24 HORAS. CUBRIRLOS CON AGUA CON POCA SAL. AGREGAR AGUA A MEDIDA QUE SEA NECESARIO.
+### Garbanzos
+Dejar los garbanzos en remojo por 24 horas. cubrirlos con agua con poca sal. agregar agua a medida que sea necesario.
 
-CAMBIAR EL AGUA Y HERVIRLOS HASTA QUE SE ABLANDEN (POR 3 HORAS). O POR 25 MINUTOS EN LA OLLA A PRESION (RECORDAR QUE SON 25 MINUTOS A PARTIR QUE EMPIEZA A SILBAR EL PITUTO).
+Cambiar el agua y hervirlos hasta que se ablanden (por 3 horas). o por 25 minutos en la olla a presion (recordar que son 25 minutos a partir que empieza a silbar el pituto).
 
-PARA HACER EL GUISO PROCEDER DE LA MISMA FORMA QUE CON EL DE LENTEJAS, SOLO QUE CUANDO YA ESTA TODO EN LA OLLA A PRESION, CON 10 MINUTOS ALCANZA (EN LAS LENTEJAS SON 15 MINUTOS) PARA QUE EL GUISO ESTE LISTO.
+Para hacer el guiso proceder de la misma forma que con el de lentejas, solo que cuando ya esta todo en la olla a presion, con 10 minutos alcanza (en las lentejas son 15 minutos) para que el guiso este listo.
 
-SE PUEDE REEMPLAZAR EL CALDO POR VINO BLANCO.
+Se puede reemplazar el caldo por vino blanco.
 
-PONER ABUNDANTE LIQUIDO PARA QUE NO QUEDE SECO.
+Poner abundante liquido para que no quede seco.
 
-YO PONDRIA 2 LATAS DE TOMATES AL NATURAL Y 3 TAZAS DE CALDO O VINO.
+Yo pondria 2 latas de tomates al natural y 3 tazas de caldo o vino.
 
-### HOJALDRE CON CEBOLLA (NO PROBADO)
-CORTAR LA CEBOLLA DE MENOS DE 1/2 CM DE ESPESOR, SAZONARLAS CON SAL Y ACEITE DE OLIVA. LLEVAR AL HORNO MICROONDAS POR 15 MINUTOS.
+### Hojaldre con cebolla (no probado)
+Cortar la cebolla de menos de 1/2 cm de espesor, sazonarlas con sal y aceite de oliva. llevar al horno microondas por 15 minutos.
 
-DISOLVER 140 GR DE QUESO CON 1 ½ TAZA DE LECHE, SAZONADA CON PIMIENTA.
+Disolver 140 gr de queso con 1 ½ taza de leche, sazonada con pimienta.
 
-SOBRE PAPEL PARA HORNEAR COLOCAR 1 PASTA DE HOJALDRE. SOBRE ELLA COLOCAR EL QUESO Y CUBRIRLO CON LAS CEBOLLAS. HORNEAR A 200ª POR 20 MINUTOS. EL HOJALDRE SE ESPONJA Y LAS CEBOLLAS QUEDAN DORADAS.
+Sobre papel para hornear colocar 1 pasta de hojaldre. sobre ella colocar el queso y cubrirlo con las cebollas. hornear a 200ª por 20 minutos. el hojaldre se esponja y las cebollas quedan doradas.
 
-ESPOLVOREAR CON TOMILLO Y ROMERO FRESCOS, ROCIAR CON ACEITE DE OLIVA Y SERVIR.
+Espolvorear con tomillo y romero frescos, rociar con aceite de oliva y servir.
 
-### ESPINACA AL AJILLO
-250 GR DE ESPINACA, MEDIA CUCHARADA DE MANTECA, 2 DIENTES DE AJO, PISCA DE SAL.
+### Espinaca al ajillo
+250 gr de espinaca, media cucharada de manteca, 2 dientes de ajo, pisca de sal.
 
-FREIR LOS AJOS EN LA MANTECA, CON CUIDADO QUE NO SE QUEMEN. AGREGARLA ESPINACA LAVADA Y CORTADA, COCINAR POR 5 MINUTOS. ESPOLVOREAR CON QUESO RALLADO.
-TORTILLA DE ESPINACA
+Freir los ajos en la manteca, con cuidado que no se quemen. agregarla espinaca lavada y cortada, cocinar por 5 minutos. espolvorear con queso rallado.
+Tortilla de espinaca
 
-FREIR UNA CEBOLLA GRANDE FINAMENTE CORTADA Y 3 DIENTES DE AJO PICADOS, EN ACEITE O MANTECA. RETIRAR Y COLOCAR EN UN BOL.
+Freir una cebolla grande finamente cortada y 3 dientes de ajo picados, en aceite o manteca. retirar y colocar en un bol.
 
-LAVAR Y CORTAR LA ESPINACA Y COLOCARLA TAMBIEN EN EL BOL. AGREGARLE 3 o 4 YEMAS, SAL, PIMIENTA, QUESO RALLADO, PIMIENTO MORRON CORTADITO Y OTRAS ESPECIAS. MEZCLAR BIEN.
+Lavar y cortar la espinaca y colocarla tambien en el bol. agregarle 3 o 4 yemas, sal, pimienta, queso rallado, pimiento morron cortadito y otras especias. mezclar bien.
 
-POR OTRO LADO, BATIR A PUNTO NIEVE LAS CLARAS APARTADAS Y AGREGARLAS TAMBIEN AL BOL, MEZCLANDOLAS SUAVEMENTE.
+Por otro lado, batir a punto nieve las claras apartadas y agregarlas tambien al bol, mezclandolas suavemente.
 
-LLEVAR A LA SARTEN, CON UN POCO DE ACEITE O MANTECA. TAPAR PARA QUE SE VAYA COCINANDO DE ABAJO Y ARRIBA. ANTES DE DARLA VUELTA, AGREGAR NUEVAMENTE ACEITE O MANTECA A LA SARTEN. IR MOVIENDOLA PARA QUE NO SE PEGUE.
+Llevar a la sarten, con un poco de aceite o manteca. tapar para que se vaya cocinando de abajo y arriba. antes de darla vuelta, agregar nuevamente aceite o manteca a la sarten. ir moviendola para que no se pegue.
 
-TAMBIEN PUEDE AGREGARSE TROCITOS DE PANCETA COCIDA.
+Tambien puede agregarse trocitos de panceta cocida.
 
-### TORTILLA DE PAPAS A LA ESPAÑOLA
-FREIR UNA CEBOLLA GRANDE FINAMENTE CORTADA Y 3 DIENTES DE AJO PICADOS, EN MANTECA. AGREGAR TOMATES CORTADITOS Y SIN PIEL, HASTA QUE SE ABLANDEN UN POCO. RETIRAR Y EN EL MISMO FONDO DE COCCION, COCINAR LAS PAPAS QUE DEBEN SER CORTADAS EN PEQUEÑOS CIRCULOS DE ½ CM DE ESPESOR, A PENAS DORADAS. SI ES NECESARIO AGREGAR MAS MANTECA.
+### Tortilla de papas a la española
+Freir una cebolla grande finamente cortada y 3 dientes de ajo picados, en manteca. agregar tomates cortaditos y sin piel, hasta que se ablanden un poco. retirar y en el mismo fondo de coccion, cocinar las papas que deben ser cortadas en pequeños circulos de ½ cm de espesor, a penas doradas. si es necesario agregar mas manteca.
 
-RETIRAR Y COLOCAR TODO EN UN BOL, JUNTO CON ARVEJAS, QUESO RALLADO, SAL, PIMIENTA Y PEREJIL U OTRAS HIERBAS FRESCAS. POR ULTIMO ADICIONAR 3 o 4 YEMAS, Y LAS CLARAS BATIDAS A NIEVE CON SUAVES MOVIMIENTOS.
+Retirar y colocar todo en un bol, junto con arvejas, queso rallado, sal, pimienta y perejil u otras hierbas frescas. por ultimo adicionar 3 o 4 yemas, y las claras batidas a nieve con suaves movimientos.
 
-## MASAS
+## Masas
 
-### MASA TARTA VEER. CON SEMILLAS
-1 ½ o 2 TAZAS DE HARINA LEUDANTE, 1 CUCHARADITA DE SAL, ¼ TAZA LECHE TIBIA, ¼ TAZA DE ACEITE, 5 CUCHARADAS DE SEMILLAS.
+### Masa tarta veer. con semillas
+1 ½ o 2 tazas de harina leudante, 1 cucharadita de sal, ¼ taza leche tibia, ¼ taza de aceite, 5 cucharadas de semillas.
 
-MEZCLAR HARINA, SAL Y SEMILLAS, AGREGAR EL ACEITE, UNIR LO QUE RESTA CON LA LECHE. EXTENDER SOBRE LA TARTERA ACEITADA. PREHORNEAR POR 10 O 15 MINUTOS. AGREGAR EL RELLENO Y HORNEAR.
+Mezclar harina, sal y semillas, agregar el aceite, unir lo que resta con la leche. extender sobre la tartera aceitada. prehornear por 10 o 15 minutos. agregar el relleno y hornear.
 
-### MASA QUEBRADA
-ESTA MASA SE USA PARA TARTAS DULCES O SALADAS Y TIENE LA PROPIEDAD DE QUEBRARSE FACILMENTE Y QUEDAR CROCANTE.
+### Masa quebrada
+Esta masa se usa para tartas dulces o saladas y tiene la propiedad de quebrarse facilmente y quedar crocante.
 
-PARA MOLDE CHICO: 180 GR HARINA, 90 GR MANTECA FRIA, PIZCA SAL Y 3 CUCHARADAS DE AGUA FRIA
+Para molde chico: 180 gr harina, 90 gr manteca fria, pizca sal y 3 cucharadas de agua fria
 
-PARA MOLDE GRANDE: 500 GR HARINA, 250 GR MANTECA FRIA, ½ CUCHARADITA SAL, 1 HUEVO Y 6 CUCHARADAS DE AGUA FRIA.
+Para molde grande: 500 gr harina, 250 gr manteca fria, ½ cucharadita sal, 1 huevo y 6 cucharadas de agua fria.
 
-### TARTAS DE MARIA ROSA (Muy buenas SALADAS)
-PARA DOS UNIDADES:
+### Tartas de maria rosa (muy buenas; saladas)
+Para dos unidades:
 
-- 3 TAZAS DE HARINA LEUDANTE
-- ½ TAZA DE ACEITE
-- 1 TAZA DE LECHE
-- 2 CUCHARADITAS AL RAS DE SAL
+- 3 tazas de harina leudante
+- ½ taza de aceite
+- 1 taza de leche
+- 2 cucharaditas al ras de sal
 
-AYER HICE LA MITAD DE LA RECETA YA QUE HICE UNA SOLA TARTA, SI NO VAS A HACER DOS TARTAS, TE RECOMIENDO QUE HAGAS LA MITAD, YA QUE ES UNA MASA QUE NO DURA MUCHO EN LA HELADERA.
+Ayer hice la mitad de la receta ya que hice una sola tarta, si no vas a hacer dos tartas, te recomiendo que hagas la mitad, ya que es una masa que no dura mucho en la heladera.
 
-MEZCLAR LOS INGREDIENTES, AMASAR UN POCO Y ESTIRAR CON PALOTE.
+Mezclar los ingredientes, amasar un poco y estirar con palote.
 
-COLOCAR LA MASA EN MOLDE ENMANTECADO Y ENHARINADO. PRECOCINAR O ROCIARLA CON PAN RALLADO PARA QUE ABSORBA LA HUMEDAD DEL RELLENO Y LA MASA QUEDE CROCANTE.
+Colocar la masa en molde enmantecado y enharinado. precocinar o rociarla con pan rallado para que absorba la humedad del relleno y la masa quede crocante.
 
-PARA EL RELLENO HICE LO SIGUIENTE.
+Para el relleno hice lo siguiente.
 
-4 CEBOLLAS GRANDECITAS CORTADAS EN TAJADITAS. AGREGARLE SAL, PIMIENTA Y PROVENZAL. LUEGO EN UN RECIPIENTE, DILUIR 3 CUCHARADAS SOPERAS DE MAIZENA CON LECHE, APROX . 3/4 TAZA, VOLCAR ESA MEZCLA SOBRE LAS CEBOLLAS HASTA QUE ESPESE Y RETIRAR DEL FUEGO . A VECES LE AGREGO UN POQUITO MÁS DE LECHE SI HACE FALTA. LUEGO MEZCLAR EN UN RECIPIENTE UNA CUCHARADA BIEN GORDA DE CREMA, USO LA ILOLAY DOBLE, CON TRES HUEVOS Y BASTANTE QUESO RALLADO. TAMBIÉN LE PUSE DOS HOJAS DE JAMÓN COCIDO CORTADITO. RECTIFICAR LA SAL Y PIMIENTA, PARA QUE NO QUEDE DESABRIDO. VOLCAR EL RELLENO SOBRE LA MASA, Y ESPOLVOREAR QUESO RALLADO ENCIMA.
+4 cebollas grandecitas cortadas en tajaditas. agregarle sal, pimienta y provenzal. luego en un recipiente, diluir 3 cucharadas soperas de maizena con leche, aprox . 3/4 taza, volcar esa mezcla sobre las cebollas hasta que espese y retirar del fuego . a veces le agrego un poquito más de leche si hace falta. luego mezclar en un recipiente una cucharada bien gorda de crema, uso la ilolay doble, con tres huevos y bastante queso rallado. también le puse dos hojas de jamón cocido cortadito. rectificar la sal y pimienta, para que no quede desabrido. volcar el relleno sobre la masa, y espolvorear queso rallado encima.
 
-ASÍ HAGO TODAS LAS TARTAS, DE ZAPALLITOS, BERENJENAS, CHOCLO, ETC.
+Así hago todas las tartas, de zapallitos, berenjenas, choclo, etc.
 
-COCINAR EN HORNO MODERADO, EN MI HORNO UNOS 40 MINUTOS.
+Cocinar en horno moderado, en mi horno unos 40 minutos.
 
-A LA DE JAMON Y QUESO LE PONGO SOLO QUESO, JAMON, CREMA DE LECHE, QUESO RALLADO Y 2 HUEVOS,
+A la de jamon y queso le pongo solo queso, jamon, crema de leche, queso rallado y 2 huevos,
 
-### MASA PARA TARTELETAS SALADAS O DULCES
-HACER UNA MASA CON: 300 GR HARINA LEUDANTE, 150 GR MANTECA, 1 CUCHARADITA SAL, PIMIENTA, 2 YEMAS, AGUA FRIA CANTIDAD NECESARIA.
+### Masa para tarteletas saladas o dulces
+Hacer una masa con: 300 gr harina leudante, 150 gr manteca, 1 cucharadita sal, pimienta, 2 yemas, agua fria cantidad necesaria.
 
-ENMANTECAR Y ENHARINAR EL MOLDE CORRESPONDIENTE Y CUBRIRLO CON LA MASA. PINCHAR EL FONDO Y LOS COSTADOS PARA QUE MANTENGA LA FORMA Y LLEVAR A HORNO DE 180ª.
+Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa. pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
 
-PARA LAS DULCES, SE SUPRIME LA SAL Y LA PIMIENTA Y SE AGREGAN 3 CUCHARADAS DE AZUCAR.
+Para las dulces, se suprime la sal y la pimienta y se agregan 3 cucharadas de azucar.
 
-### MASA MEDIO HOJALDRE BLANCAFLOR
-2 ½ TAZA DE HARINA BLANCAFLOR (300 GR), 200 GR MANTECA Y ½ TAZA AGUA FRIA (125 CM3)
+### Masa medio hojaldre blancaflor
+2 ½ taza de harina blancaflor (300 gr), 200 gr manteca y ½ taza agua fria (125 cm3)
 
-CORTAR LA MANTECA EN CUBITOS DE 1 ½ CM DE LADO SIN DESHACERLOS, MEZCLARLOS CON LA HARINA. AGREGAR EL AGUA FRIA (MEJOR HELADA), REVOLVIENDO CON UN CUCHILLO. VUELQUE ESA MASA ESPESA SOBRE EL MARMOL ENHARINADO Y ESTIRARLA HASTA QUE QUEDE FINA. ESPOLVOREAR CON HARINA Y DOBLAR EN 3 PARTES Y ESTIRAR NUEVAMENTE LA MASA. REPETIR ESTO 3 VECES MAS. AL ESTIRARLA POR ULTIMA VEZ, DARLE LA FORMA DESEADA.
+Cortar la manteca en cubitos de 1 ½ cm de lado sin deshacerlos, mezclarlos con la harina. agregar el agua fria (mejor helada), revolviendo con un cuchillo. vuelque esa masa espesa sobre el marmol enharinado y estirarla hasta que quede fina. espolvorear con harina y doblar en 3 partes y estirar nuevamente la masa. repetir esto 3 veces mas. al estirarla por ultima vez, darle la forma deseada.
 
-SI NO SE USA EN SEGUIDA, PONERLA EN LA HELADERA.
+Si no se usa en seguida, ponerla en la heladera.
 
-LOS ELEMENTOS QUE SE USEN DEBEN ESTAR FRIOS, TOCAR LA MASA LO MENOS POSIBLE. COCINAR EN HORNO BIEN CALIENTE (200 A 240 ªC), LOS MOLDES EN DONDE SE HORNEA ESTA MASA NO SE ENMANTECAN, SE HUMEDECEN CON AGUA FRIA.
+Los elementos que se usen deben estar frios, tocar la masa lo menos posible. cocinar en horno bien caliente (200 a 240 ªc), los moldes en donde se hornea esta masa no se enmantecan, se humedecen con agua fria.
 
-CON ESTA MASA SE PUEDEN HACER PALMERITAS, RELLENAR CON FRUTAS, HACER CAÑONCITOS (ENROSCANDO TIRAS DE MASA EN CILINDROS), PASCUALINA, VOL-AU-VENT, TORTA 1000 HOJAS (PINCHAR CADA DISCO DE MASA ANTES DE COCINAR) CON DULCE DE LECHE
+Con esta masa se pueden hacer palmeritas, rellenar con frutas, hacer cañoncitos (enroscando tiras de masa en cilindros), pascualina, vol-au-vent, torta 1000 hojas (pinchar cada disco de masa antes de cocinar) con dulce de leche
 
-### MASA PARA TARTAS DULCES
-MEZCLAR 1 ¾ TAZAS DE HARINA, 3 CUCHARADITAS DE POLVO HORNEAR Y ½ TAZA DE AZUCAR. SE AGREGA 100 GR DE MANTECA FRIA QUE SE DESHACE CON TENEDOR. SE LE UNEN 2 YEMAS, 2 CUCHARADAS DE LECHE Y 1 CUCHARADA DE VINO DULCE Y SE ALISA LIGERAMENTE. DESCANSAR 15 MINUTOR EN SITIO FRESCO. SE ESTIRA DE ½ CM DE ESPESOR Y SE FORRA EL MOLDE PREVIAMENTE ENMANTECADO. PINCHAR CON EL TENEDOR Y COCINAR A HORNO MODERADO POR 25 MINUTOS.
+### Masa para tartas dulces
+Mezclar 1 ¾ tazas de harina, 3 cucharaditas de polvo hornear y ½ taza de azucar. se agrega 100 gr de manteca fria que se deshace con tenedor. se le unen 2 yemas, 2 cucharadas de leche y 1 cucharada de vino dulce y se alisa ligeramente. descansar 15 minutor en sitio fresco. se estira de ½ cm de espesor y se forra el molde previamente enmantecado. pinchar con el tenedor y cocinar a horno moderado por 25 minutos.
 
-PARA TARTA DE FRUTILLAS, UNA VEZ FRIO, SE CUBRE CON CREMA SANTILLY Y SE COLOCAN LAS FRUTILLAS. SE PINTAN LAS FRUTILLAS CON MERMELADA DE DAMASCOS (2 CUCHARADAS) DILUIDA CON 2 CUCHARADAS DE AGUA Y 2 CUCHARADAS DE AZUCAR, HERVIDAS DURANTE 1 MINUTO.
+Para tarta de frutillas, una vez frio, se cubre con crema santilly y se colocan las frutillas. se pintan las frutillas con mermelada de damascos (2 cucharadas) diluida con 2 cucharadas de agua y 2 cucharadas de azucar, hervidas durante 1 minuto.
 
-### MASA PARA CREPES
-MEZCLAR ½ TAZA DE HARINA CON ½ CUCHARADITA DE SAL (o 1 CUCHARADITA DE AZUCAR,SOLO PARA LOS DULCES), AGREGAR 4 HUEVOS Y ½ TAZA DE LECHE. BATIR HASTA QUE QUEDE COMO MOUSS. AGREGAR LA OTRA ½ TAZA DE LECHE Y 3 CUCHARADITAS DE MANTECA ABLANDADA. TAPAR Y DEJAR EN LA HELADERA POR 1 HORA. PARA COCINARLOS, RECORDAR TENER BIEN CALIENTE LA SARTEN Y COLOCAR MANTECA (BIEN DISTRIBUIDA) ANTES DE EXTENDER LA MASA. SE COCINAN HASTA QUE ESTE SECA LA PARTE SUPERIOR, YA QUE LUEGO DE SER RELLENADOS, SE COLOCAN POR 10 o 15 MINUTOS EN EL HORNO PARA CALENTARLOS. SALEN 2 DOCENAS DE CREPES.
+### Masa para crepes
+Mezclar ½ taza de harina con ½ cucharadita de sal (o 1 cucharadita de azucar,solo para los dulces), agregar 4 huevos y ½ taza de leche. batir hasta que quede como mouss. agregar la otra ½ taza de leche y 3 cucharaditas de manteca ablandada. tapar y dejar en la heladera por 1 hora. para cocinarlos, recordar tener bien caliente la sarten y colocar manteca (bien distribuida) antes de extender la masa. se cocinan hasta que este seca la parte superior, ya que luego de ser rellenados, se colocan por 10 o 15 minutos en el horno para calentarlos. salen 2 docenas de crepes.
 
-EN LA BATIDORA: MEZCLAR TODO ( MENOS LA MANTECA), POR 15 SEGUNDOS. AGREGAR LA MANTECA ABLANDADA Y BATIR POR 10 SEGUNDOS MAS.
+En la batidora: mezclar todo ( menos la manteca), por 15 segundos. agregar la manteca ablandada y batir por 10 segundos mas.
 
-LLEVAR A LA HELADERA POR 1 HORA ANTES DE COCINARLOS.
+Llevar a la heladera por 1 hora antes de cocinarlos.
 
-### CHIPS PARA DIPS
-USAR LOS CREPES, CORTARLOS EN 32 TRIANGULOS. PONERLOS EN MOLDE SOBRE PAPEL MANTECA, PINTARLOS CON MANTECA BATIDA Y ROCIARLOS CON SAL. HORNEARLOS POR 8 MINUTOS A 350ª, DARLOS VUELTA Y DEJARLOS POR 5 O 7 MINUTOS MAS.
+### Chips para dips
+Usar los crepes, cortarlos en 32 triangulos. ponerlos en molde sobre papel manteca, pintarlos con manteca batida y rociarlos con sal. hornearlos por 8 minutos a 350ª, darlos vuelta y dejarlos por 5 o 7 minutos mas.
 
-### MASA PARA FLAMMKUCHEN DE SOFI
-MEZCLAR 25 GR DE LEVADURA FRESCA CON 1 CUCHARADITA DE AZUCAR , HASTA QUE QUEDE LIQUIDO.
+### Masa para flammkuchen de Sofi
+Mezclar 25 gr de levadura fresca con 1 cucharadita de azucar , hasta que quede liquido.
 
-AGREGAR 600 GR DE HARINA, 1 CUCHARADITA DE SAL, PIMIENTA, 6 CUCHARADAS DE ACEITE COMUN Y 300 ML DE AGUA TIBIA. AMASAR Y ESTIRAR CON EL PALOTE.
+Agregar 600 gr de harina, 1 cucharadita de sal, pimienta, 6 cucharadas de aceite comun y 300 ml de agua tibia. amasar y estirar con el palote.
 
-SALEN 4 TAPAS GRANDES Y FINITAS.
+Salen 4 tapas grandes y finitas.
 
-### MASA PASTA FROLA DE POCHA
-250 GR HARINA (1 ½ TAZA), 80 GRS AZUCAR (½ TAZA), 100 GR MANTECA, 2 YEMAS, 1 PIZCA BICARBONATO, 2 CUCHARADAS DE LECHE Y 1 CUCHARADITA DE POLVO DE HORNEAR. SE LOGRA UNA PASTA SUAVE, NO CROCANTE.
+### Masa pasta frola de Pocha
+250 gr harina (1 ½ taza), 80 grs azucar (½ taza), 100 gr manteca, 2 yemas, 1 pizca bicarbonato, 2 cucharadas de leche y 1 cucharadita de polvo de hornear. se logra una pasta suave, no crocante.
 
-### MASA DE LA PASTA FROLA DE LAS TIAS
-2 TAZAS DE HARINA, ½ TAZA DE AZUCAR, 125 GRS MANTECA. 1 HUEVO, 3 CUCHARADAS DE LECHE (SI ES NECESARIO). MEZCLAR Y DEJAR DESCANSAR 15 MINUTOS EN LA HELADERA Y LUEGO FORRAR EL MOLDE. SALE CROCANTE.
+### Masa de la pasta frola de las tias
+2 tazas de harina, ½ taza de azucar, 125 grs manteca. 1 huevo, 3 cucharadas de leche (si es necesario). mezclar y dejar descansar 15 minutos en la heladera y luego forrar el molde. sale crocante.
 
-## PESCADOS
+## Pescados
 
-### TARTA DE ATUN DE AURELIA
-1 LATA GRANDE DE ATUN EN ACEITE, 2 CEBOLLAS GRANDES, ACEITUNAS, 3 HUEVOS DUROS, 1 LATITA DE PIMIENTOS MORRONES, 1 MASA PARA PASCUALINA, 1 CUCHARADA DE CREMA DE LECHE, QUESO CUARTIROLO EN DADITOS O DE QUESO RALLADO, 1 o 2 HUEVOS BATIDOS.
+### Tarta de atun de Aurelia
+1 lata grande de atun en aceite, 2 cebollas grandes, aceitunas, 3 huevos duros, 1 latita de pimientos morrones, 1 masa para pascualina, 1 cucharada de crema de leche, queso cuartirolo en daditos o de queso rallado, 1 o 2 huevos batidos.
 
-FREIR LAS CEBOLLAS HASTA DORARLAS, MEZCLAR CON EL ATUN, INCORPORARLE LA CREMA DE LECHE Y LOS HUEVOS BATIDOS, Y POR ULTIMO LAS ACEITUNAS, LOS HUEVOS DUROS CORTADITOS, LOS PIMIENTOS EN TIRITAS Y EL QUESO.
+Freir las cebollas hasta dorarlas, mezclar con el atun, incorporarle la crema de leche y los huevos batidos, y por ultimo las aceitunas, los huevos duros cortaditos, los pimientos en tiritas y el queso.
 
-RELLENAR LA PASCUALINA Y LLEVAR AL HORNO.
+Rellenar la pascualina y llevar al horno.
 
-### CACHETES DE ABADEJO A LA SARTEN
-PASAR LOS CACHETES POR HARINA Y FREIRLOS EN ACEITE DE OLIVA, 3 MINUTOS DE CADA LADO. AGREGAR 2 DIENTES DE AJO PICADOS Y COCINAR HASTA QUE ESTEN TRANSPARENTES. SAL PIMENTAR. A FUEGO LENTO, INCLUIR 100 CC DE VINO BLANCO, ½ TAZA DE PEREJIL PICADO, Y ESPERAR QUE ROMPA EL HERVOR (APROXIMADAMENTE 5 MINUTOS). PONER 100 CC DE JUGO DE LIMON Y 2 CUCHARADAS DE MANTECA PARA QUE SE ESPESE.
+### Cachetes de abadejo a la sarten
+Pasar los cachetes por harina y freirlos en aceite de oliva, 3 minutos de cada lado. agregar 2 dientes de ajo picados y cocinar hasta que esten transparentes. sal pimentar. a fuego lento, incluir 100 cc de vino blanco, ½ taza de perejil picado, y esperar que rompa el hervor (aproximadamente 5 minutos). poner 100 cc de jugo de limon y 2 cucharadas de manteca para que se espese.
 
-COLOCAR SOBRE PAN LACTAL TOSTADO.
+Colocar sobre pan lactal tostado.
 
-### PESCADO AL CURRY DE ALCIRA EN LA SARTEN
-FREIR CEBOLLA HASTA QUE ESTE TRANSPARENTE, ESPARCIRLE EL CURRY Y CUANDO HA SIDO TOTALMENTE ADSORBIDO, AGREGARLE TOMATE CUBETEADO. LUEGO QUE SE FORME LA SALSA, PONERLE LECHE DE COCO, SAL Y PIMIENTA. COCINAR HASTA QUE ESPESE Y APAGAR EL FUEGO. CUANDO SE VA A COMER INCLUIR EL PESCADO, QUE SE COCINA RAPIDO Y PARA QUE NO SE DESHAGA, CALENTAR TODO. SERVIR BIEN CALIENTE.
+### Pescado al curry de alcira en la sarten
+Freir cebolla hasta que este transparente, esparcirle el curry y cuando ha sido totalmente adsorbido, agregarle tomate cubeteado. luego que se forme la salsa, ponerle leche de coco, sal y pimienta. cocinar hasta que espese y apagar el fuego. cuando se va a comer incluir el pescado, que se cocina rapido y para que no se deshaga, calentar todo. servir bien caliente.
 
-### FILETES DE PESCADO AL CURRY RECETA DEL ABUELITO LITO AL HORNO
-SAZONAR LOS FILETES DE PESCADO CON SAL, PIMIENTA, COLOCARLOS EN UNA ASADERA ENMANTECADA. CUBRIRLOS CON CEBOLLITAS Y TOMATES PICADOS Y SUFICIENTE VINO. AGREGARLE SAL, PIMIENTA Y UNA CUCHARADA SOPERA DE CURRY. TAPAR CON UNA HOJA DE PAPEL ENMANTECADO CON UN ORIFICIO CENTRAL Y LLEVARLOS AL HORNO HASTA QUE ESTEN TIERNOS. RETIRAR LOS FILETES. REDUCIR LA SALSA A LA MITAD DE SU VOLUMEN Y AGREGARLE 100 GR DE CREMA DE LECHE EN LA QUE SE HABRA DISUELTO UNA CUCHARADITA COLMADA DE HARINA. CUANDO HIERVA Y ESPESE, RECTIFICAR EL SAZONAMIENTO Y VOLCAR SOBRE LOS FILETES.
+### Filetes de pescado al curry receta del abuelito lito al horno
+Sazonar los filetes de pescado con sal, pimienta, colocarlos en una asadera enmantecada. cubrirlos con cebollitas y tomates picados y suficiente vino. agregarle sal, pimienta y una cucharada sopera de curry. tapar con una hoja de papel enmantecado con un orificio central y llevarlos al horno hasta que esten tiernos. retirar los filetes. reducir la salsa a la mitad de su volumen y agregarle 100 gr de crema de leche en la que se habra disuelto una cucharadita colmada de harina. cuando hierva y espese, rectificar el sazonamiento y volcar sobre los filetes.
 
-### FILETES DE PESCADO A LA CERVEZA (PUEDEN SER AROS DE CALAMAR PREVIAMENTE HERVIDOS POR 5 MINUTOS).
-PONER EN UN BOL 275 GR DE HARINA, ½ CUCHARADITA DE SAL Y 375 ML DE CERVEZA FRIA Y BATIR HASTA OBTENER UNA MASA HOMOGENEA Y ESPESA. DE SER NECESARIO, AÑADIR UN POCO DE AGUA BIEN FRIA.
+### Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
+Poner en un bol 275 gr de harina, ½ cucharadita de sal y 375 ml de cerveza fria y batir hasta obtener una masa homogenea y espesa. de ser necesario, añadir un poco de agua bien fria.
 
-REBOZAR LOS TROZOS DE PESCADO DE 5 X 10 CM. (O LOS AROS DE 1 CM DE ANCHO) EN LA MASA DE CERVEZA Y FREIRLOS DE 5 A 8 MINUTOS. DECORAR CON GAJOS DE LIMON Y ACOMPAÑARLOS CON PAPAS FRITAS, FREIDAS A 180ªC. (VERIFICAR CON UN PEDACITO DE PAN COLOCADO EN EL ACEITE CALIENTE, QUE SUBE DORADO DESPUES DE 15 SEGUNDOS).
+Rebozar los trozos de pescado de 5 x 10 cm. (o los aros de 1 cm de ancho) en la masa de cerveza y freirlos de 5 a 8 minutos. decorar con gajos de limon y acompañarlos con papas fritas, freidas a 180ªc. (verificar con un pedacito de pan colocado en el aceite caliente, que sube dorado despues de 15 segundos).
 
-### PESCADO SOBRE CAMA DE VERDURAS AL HORNO
-MACERAR LOS FILETES DE PESCADO CON JUGO DE LIMON, MIENTRAS SE PREPARAN LAS VERDURAS.
+### Pescado sobre cama de verduras al horno
+Macerar los filetes de pescado con jugo de limon, mientras se preparan las verduras.
 
-PONER ACEITE EN LA ASADERA, INCLUIR CEBOLLAS CORTADAS EN PLUMITAS, TOMATES CHERRY CORTADOS A LA MITAD, ZANAHORIAS EN RODAJAS FINAS, PIMIENTOS EN TIRITAS, PAPINES, ETC. CONDIMENTARLOS CON SAL, PIMIENTA, PAPIKRA, AJO, ROMERO. LLEVAR AL HORNO POR 15 O 20 MINUTOS, RETIRAR Y AGREGAR LOS FILETES DE PESCADO CON CONDIMENTO PARA PESCADO. SEGUIR COCINANDO POR 20 MINUTOS MAS Y SERVIR CON PEREJIL FRESCO PICADO.
+Poner aceite en la asadera, incluir cebollas cortadas en plumitas, tomates cherry cortados a la mitad, zanahorias en rodajas finas, pimientos en tiritas, papines, etc. condimentarlos con sal, pimienta, papikra, ajo, romero. llevar al horno por 15 o 20 minutos, retirar y agregar los filetes de pescado con condimento para pescado. seguir cocinando por 20 minutos mas y servir con perejil fresco picado.
 
-### SALMON CON HIERBAS AL VINO BLANCO
+### Salmon con hierbas al vino blanco
 - Salmón blanco en filetes 1 kg.
 - Vino blanco 100 cc.
 - Harina 0000 100 g.
 - Aceite de oliva 2 cdas.
 - Sal fina 1/4 cdita.
-- Provenzal ALICANTE 1/4 cda.
-- Pimienta Blanca Molida ALICANTE 1/4 cdita.
+- Provenzal alicante 1/4 cda.
+- Pimienta blanca molida alicante 1/4 cdita.
 
 #### Guarnición
 - Papas medianas 4 unidades (1,100 kg.)
 - Aceite de oliva 1 cda.
-- Azafrán Molido ALICANTE 1/2 cápsula
+- Azafrán molido alicante 1/2 cápsula
 - Sal entrefina 1/4 cdita.
 
-### PASTEL DE CABALLA
-PARA EL RELLENO, SE FRIE UNA CEBOLLA GRANDE Y SE LE VA AGREGANDO: 1 LATA DE CABALLA AL NATURAL, 1 TAZA DE QUESO RALLADO, 125 GR DE ACEITUNAS VERDES CORTADITAS, 2 TOMATES PERITA Y 1 HUEVO DURO PICADOS, NUEZ MOSCADA, SAL Y PIMIENTA.
+### Pastel de caballa
+Para el relleno, se frie una cebolla grande y se le va agregando: 1 lata de caballa al natural, 1 taza de queso rallado, 125 gr de aceitunas verdes cortaditas, 2 tomates perita y 1 huevo duro picados, nuez moscada, sal y pimienta.
 
-PARA LA MASA: COMO LA DE LA TORTA DE QUESO Y CEBOLLA U OTRA. SIEMPRE PRECOCINAR LA MASA.
+Para la masa: como la de la torta de queso y cebolla u otra. siempre precocinar la masa.
 
-### GAMBAS AL AJILLO
-250 GR LANGOSTINOS, CAMARONES, GAMBAS: LIMPIOS, SIN AGUA (SI SON CONGELADOS), 8 DIENTES DE AJO EN RODAJITAS, AJI PICANTE O PIMIENTA CAYENA O 2 GUINDILLAS SECAS, SAL Y 5 o 6 CUCHARADAS DE ACEITE DE OLIVA.
+### Gambas al ajillo
+250 gr langostinos, camarones, gambas: limpios, sin agua (si son congelados), 8 dientes de ajo en rodajitas, aji picante o pimienta cayena o 2 guindillas secas, sal y 5 o 6 cucharadas de aceite de oliva.
 
-FREIR LOS AJOS A FUEGO MEDIO Y RETIRARLOS ANTES DE DORARSE Y APAGAR EL FUEGO. PONER LOS LANGOSTINOS EN ESE ACEITE POR 2 MINUTOS APROXIMADAMENTE, DE ESTA MANERA SE COCINARAN. AÑADIR LOS AJOS Y DARLE UN GOLPE DE FUEGO PARA CALENTAR TODO Y SERVIRLO CON EL JUGO Y PEREJIL PICADO FRESCO.
+Freir los ajos a fuego medio y retirarlos antes de dorarse y apagar el fuego. poner los langostinos en ese aceite por 2 minutos aproximadamente, de esta manera se cocinaran. añadir los ajos y darle un golpe de fuego para calentar todo y servirlo con el jugo y perejil picado fresco.
 
-### PESCADO A LA CREMA DE EMILIA
-ROCIAR ½ KG DE FILETES DE ATUN U OTRO CON JUGO DE LIMON Y COLOCARLES CONDIMENTO PARA PESCADO, SAL Y PIMIENTA. MEZCLAR 1 TAZA DE HARINA CON 2 DE PAN RALLADO Y UNTAR SUPERFICIALMENTE LOS FILETES, COLOCAR ARRIBA PIMIENTOS Y CEBOLLA CORTADOS EN JULIANA.
+### Pescado a la crema de Emilia
+Rociar ½ kg de filetes de atun u otro con jugo de limon y colocarles condimento para pescado, sal y pimienta. mezclar 1 taza de harina con 2 de pan rallado y untar superficialmente los filetes, colocar arriba pimientos y cebolla cortados en juliana.
 
-ARROLLAR LOS FILETES, Y EN UNA FUENTE ACEITADA, ROCIARLOS CON CALDO DE VERDURA. COCINARLOS POR 10 MINUTOS.
+Arrollar los filetes, y en una fuente aceitada, rociarlos con caldo de verdura. cocinarlos por 10 minutos.
 
-DILUIR 200 GR DE CREMA DE LECHE CON EL CALDO.
+Diluir 200 gr de crema de leche con el caldo.
 
-COLOCAR EN CADA ROLLITO UN TROZO DE QUESO CREMOSO (TOTAL 200 GR) Y ESPOLVOREAR CON OREGANO.
+Colocar en cada rollito un trozo de queso cremoso (total 200 gr) y espolvorear con oregano.
