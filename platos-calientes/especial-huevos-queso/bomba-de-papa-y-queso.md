@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Bomba de papa y queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/bomba-de-papa-y-queso)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Bomba de papa y queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/bomba-de-papa-y-queso)
 
 # Bomba de papa y queso
 1 kg de papa peladas, 50 gr manteca, sal, pimienta, ½ taza queso rallado, 1 huevo, pan rallado, queso mantecoso.

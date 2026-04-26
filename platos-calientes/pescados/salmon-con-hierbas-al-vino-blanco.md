@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Salmon con hierbas al vino blanco]({{ site.baseurl }}/platos-calientes/pescados/salmon-con-hierbas-al-vino-blanco)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Salmon con hierbas al vino blanco]({{ site.baseurl }}/platos-calientes/pescados/salmon-con-hierbas-al-vino-blanco)
 
 # Salmon con hierbas al vino blanco
 - Salmón blanco en filetes 1 kg.

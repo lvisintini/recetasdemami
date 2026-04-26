@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pollos]({{ site.baseurl }}/platos-calientes/pollos)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pollos]({{ site.baseurl }}/platos-calientes/pollos)
 
 # Pollos
 

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Sorpresa agridulce anana y lomito]({{ site.baseurl }}/platos-calientes/carnes/sorpresa-agridulce-anana-y-lomito)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Sorpresa agridulce anana y lomito]({{ site.baseurl }}/platos-calientes/carnes/sorpresa-agridulce-anana-y-lomito)
 
 # Sorpresa agridulce anana y lomito
 2 rodajas de lomito ahumado de 1 cm de espesor, 2 rodajas de anana, azucar, ciboulette.

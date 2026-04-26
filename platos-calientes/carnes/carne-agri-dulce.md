@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Carne agri-dulce (receta de gigi)]({{ site.baseurl }}/platos-calientes/carnes/carne-agri-dulce)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Carne agri-dulce (receta de gigi)]({{ site.baseurl }}/platos-calientes/carnes/carne-agri-dulce)
 
 # Carne agri-dulce (receta de gigi)
 Sellar la carne (colita de cuadril, bondiola de cerdo), retirar y freir cebolla hasta dorarla. ingresar nuevamente la carne y cubrirla con caldo de carne. cocinar.

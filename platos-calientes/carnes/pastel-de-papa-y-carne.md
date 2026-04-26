@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Pastel de papa y carne]({{ site.baseurl }}/platos-calientes/carnes/pastel-de-papa-y-carne)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Pastel de papa y carne]({{ site.baseurl }}/platos-calientes/carnes/pastel-de-papa-y-carne)
 
 # Pastel de papa y carne
 Freir 1 cebolla finamente picada y 1 diente de ajo picado, incorporarle ¾ kg de carne picada hasta cellarla. agregar una taza de agua caliente con un caldito de carne. condimentar con sal, pimienta, oregano, aji molido y pimiento morron cortadito (½). por ultimo adicionar, cuando la carne este cocida, 2 huevos duros cortaditos y unas 7 aceitunas descarozadas y cortadas en 4. si resulta muy seco, agregar un poco de manteca.

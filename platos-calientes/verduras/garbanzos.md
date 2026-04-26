@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Garbanzos]({{ site.baseurl }}/platos-calientes/verduras/garbanzos)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Garbanzos]({{ site.baseurl }}/platos-calientes/verduras/garbanzos)
 
 # Garbanzos
 Dejar los garbanzos en remojo por 24 horas. cubrirlos con agua con poca sal. agregar agua a medida que sea necesario.

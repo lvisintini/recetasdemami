@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Rellenos salados para los crepes]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/rellenos-salados-para-los-crepes)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Rellenos salados para los crepes]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/rellenos-salados-para-los-crepes)
 
 # Rellenos salados para los crepes
 1. Queso crema, cebollitas de verdeo picadas, aceitunas picadas.

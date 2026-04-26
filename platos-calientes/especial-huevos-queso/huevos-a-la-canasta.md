@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Huevos a la canasta]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/huevos-a-la-canasta)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Huevos a la canasta]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/huevos-a-la-canasta)
 
 # Huevos a la canasta
 A una rodaja de pan lactal, sacarle un circulo de miga. colocarla en la sarten con una gotas de aceite o manteca, dorarla , darla vuelta y colocar el huevo en el centro. bajar el fuego, para que se cocine sin arrebatarse, durante aproximadamente 4 minutos. condimentar con sal y pimienta, o aji molido, etc

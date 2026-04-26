@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas)
 
 # Masas
 

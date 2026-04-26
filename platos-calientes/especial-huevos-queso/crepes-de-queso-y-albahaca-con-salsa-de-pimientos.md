@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Crepes de queso y albahaca con salsa de pimientos]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/crepes-de-queso-y-albahaca-con-salsa-de-pimientos)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Crepes de queso y albahaca con salsa de pimientos]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/crepes-de-queso-y-albahaca-con-salsa-de-pimientos)
 
 # Crepes de queso y albahaca con salsa de pimientos.
 Masa para panqueques: para 10 crepes: 1 huevo, 200 gr harina y 600 ml leche.

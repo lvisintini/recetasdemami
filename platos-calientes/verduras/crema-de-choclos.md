@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Crema de choclos]({{ site.baseurl }}/platos-calientes/verduras/crema-de-choclos)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Crema de choclos]({{ site.baseurl }}/platos-calientes/verduras/crema-de-choclos)
 
 # Crema de choclos
 Hervir 6 choclos y desgranarlos. freir en 1 cucharada de manteca

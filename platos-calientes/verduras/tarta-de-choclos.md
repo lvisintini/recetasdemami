@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Tarta de choclos]({{ site.baseurl }}/platos-calientes/verduras/tarta-de-choclos)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Tarta de choclos]({{ site.baseurl }}/platos-calientes/verduras/tarta-de-choclos)
 
 # Tarta de choclos
 Utilizar masa para tarta o masa tarta de vir y el siguiente relleno.

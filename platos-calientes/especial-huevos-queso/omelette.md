@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Omelette]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/omelette)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Omelette]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/omelette)
 
 # Omelette
 A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimienta, se pueden hacer otras variaciones:

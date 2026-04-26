@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa medio hojaldre blancaflor]({{ site.baseurl }}/platos-calientes/masas/masa-medio-hojaldre-blancaflor)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa medio hojaldre blancaflor]({{ site.baseurl }}/platos-calientes/masas/masa-medio-hojaldre-blancaflor)
 
 # Masa medio hojaldre blancaflor
 2 ½ taza de harina blancaflor (300 gr), 200 gr manteca y ½ taza agua fria (125 cm3)

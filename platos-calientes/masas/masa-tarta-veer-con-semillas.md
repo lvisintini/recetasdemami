@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa tarta veer con semillas]({{ site.baseurl }}/platos-calientes/masas/masa-tarta-veer-con-semillas)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa tarta veer con semillas]({{ site.baseurl }}/platos-calientes/masas/masa-tarta-veer-con-semillas)
 
 # Masa tarta veer. con semillas
 1 ½ o 2 tazas de harina leudante, 1 cucharadita de sal, ¼ taza leche tibia, ¼ taza de aceite, 5 cucharadas de semillas.

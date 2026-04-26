@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados)
 
 # Pescados
 

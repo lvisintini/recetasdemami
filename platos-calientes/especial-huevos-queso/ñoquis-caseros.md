@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Ñoquis caseros]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/ñoquis-caseros)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Ñoquis caseros]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/ñoquis-caseros)
 
 # Ñoquis caseros
 Al pure de 4 papas con sal, bien caliente se le agrega 4 tazas de harina, 1 huevo entero, queso rallado y nuez moscada.

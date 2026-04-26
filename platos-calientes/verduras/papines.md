@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Papines]({{ site.baseurl }}/platos-calientes/verduras/papines)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Papines]({{ site.baseurl }}/platos-calientes/verduras/papines)
 
 # Papines
 Al horno: bañarlos con aceite, sal, pimienta y romero. horno bien caliente por 20 minutos.

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Albondigas]({{ site.baseurl }}/platos-calientes/carnes/albondigas)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Albondigas]({{ site.baseurl }}/platos-calientes/carnes/albondigas)
 
 # Albondigas
 ½ cebolla rehogada, ¾ kg carne picada, 1 cucharada perejil picado,

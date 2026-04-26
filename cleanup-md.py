@@ -36,7 +36,7 @@ for x in m[3:]:
         nav.append(link)
         toc.append('    ' * (x.count('#')-1) +'- ' + link)
 
-        new = [template, ' > '.join(nav) + '\n\n']
+        new = [template, ' > '.join(['[Home]({{ site.baseurl }})',] + nav) + '\n\n']
     new.append(x if not x.startswith('#') else x[len(path)-1:])
 for t in toc:
     print(t)

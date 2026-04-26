@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pollos]({{ site.baseurl }}/platos-calientes/pollos) > [Pollo a la Haiti]({{ site.baseurl }}/platos-calientes/pollos/pollo-a-la-haiti)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pollos]({{ site.baseurl }}/platos-calientes/pollos) > [Pollo a la Haiti]({{ site.baseurl }}/platos-calientes/pollos/pollo-a-la-haiti)
 
 # Pollo a la Haiti.
 Pasar las rodajas de anana de una lata por harina y freirlas en aceite caliente.

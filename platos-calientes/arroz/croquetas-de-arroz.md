@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Arroz]({{ site.baseurl }}/platos-calientes/arroz) > [Croquetas de arroz]({{ site.baseurl }}/platos-calientes/arroz/croquetas-de-arroz)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Arroz]({{ site.baseurl }}/platos-calientes/arroz) > [Croquetas de arroz]({{ site.baseurl }}/platos-calientes/arroz/croquetas-de-arroz)
 
 # Croquetas de arroz
 Arroz hervido, huevo, polvo de hornear (importante), harina, cebollita de verdeo, queso rallado, sal, aji molido, perejil pimienta.

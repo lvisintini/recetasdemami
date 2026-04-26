@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Arroz]({{ site.baseurl }}/platos-calientes/arroz)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Arroz]({{ site.baseurl }}/platos-calientes/arroz)
 
 # Arroz
 

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Tortilla de papas a la española]({{ site.baseurl }}/platos-calientes/verduras/tortilla-de-papas-a-la-española)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Tortilla de papas a la española]({{ site.baseurl }}/platos-calientes/verduras/tortilla-de-papas-a-la-española)
 
 # Tortilla de papas a la española
 Freir una cebolla grande finamente cortada y 3 dientes de ajo picados, en manteca. agregar tomates cortaditos y sin piel, hasta que se ablanden un poco. retirar y en el mismo fondo de coccion, cocinar las papas que deben ser cortadas en pequeños circulos de ½ cm de espesor, a penas doradas. si es necesario agregar mas manteca.

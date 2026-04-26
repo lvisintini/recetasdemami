@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Brochette]({{ site.baseurl }}/platos-calientes/carnes/brochette)
+[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Brochette]({{ site.baseurl }}/platos-calientes/carnes/brochette)
 
 # Brochette
 Las carnes a utilizar pueden ser: vacuna, pollo, cerdo, langostinos, riñoncitos ( en este caso, retirarles la piel y dejarlos por 2 horas en agua fria y vinagre).
