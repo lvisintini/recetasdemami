@@ -1,5 +1,5 @@
 ---
-Title: Las Recetas de Mami
+title: Las Recetas de Mami
 ---
 
 # PLATOS CALIENTES
