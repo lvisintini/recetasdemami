@@ -5,7 +5,7 @@ title: Las Recetas de Mami
 
 # Especial huevos, queso
 
-- [Huevos benedictinos](platos-calientes/especial-huevos-queso/huevos-benedictinos.md)
+- [Huevos benedictinos](/platos-calientes/especial-huevos-queso/huevos-benedictinos.md)
 - [Huevos poche](platos-calientes/especial-huevos-queso/huevos-poche.md)
 - [Huevos napoleon](platos-calientes/especial-huevos-queso/huevos-napoleon.md)
 - [Huevos a la canasta](platos-calientes/especial-huevos-queso/huevos-a-la-canasta.md)
