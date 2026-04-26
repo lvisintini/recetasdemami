@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Repollo en torrejas de Enrique Sereno]({{ site.baseurl }}/platos-calientes/verduras/repollo-en-torrejas-de-enrique-sereno.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Repollo en torrejas de Enrique Sereno]({{ site.baseurl }}/platos-calientes/verduras/repollo-en-torrejas-de-enrique-sereno)
 
 # Repollo en torrejas de Enrique Sereno
 Cubrir ½ repollo cortado finito (o una bandejita ovalada del pinguino) con agua y 1 cucharadita de sal, por 10 minutos.

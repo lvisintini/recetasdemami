@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Pescado sobre cama de verduras al horno]({{ site.baseurl }}/platos-calientes/pescados/pescado-sobre-cama-de-verduras-al-horno.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Pescado sobre cama de verduras al horno]({{ site.baseurl }}/platos-calientes/pescados/pescado-sobre-cama-de-verduras-al-horno)
 
 # Pescado sobre cama de verduras al horno
 Macerar los filetes de pescado con jugo de limon, mientras se preparan las verduras.

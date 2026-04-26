@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa para tarteletas saladas o dulces]({{ site.baseurl }}/platos-calientes/masas/masa-para-tarteletas-saladas-o-dulces.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa para tarteletas saladas o dulces]({{ site.baseurl }}/platos-calientes/masas/masa-para-tarteletas-saladas-o-dulces)
 
 # Masa para tarteletas saladas o dulces
 Hacer una masa con: 300 gr harina leudante, 150 gr manteca, 1 cucharadita sal, pimienta, 2 yemas, agua fria cantidad necesaria.

@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Espinaca al ajillo]({{ site.baseurl }}/platos-calientes/verduras/espinaca-al-ajillo.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Espinaca al ajillo]({{ site.baseurl }}/platos-calientes/verduras/espinaca-al-ajillo)
 
 # Espinaca al ajillo
 250 gr de espinaca, media cucharada de manteca, 2 dientes de ajo, pisca de sal.

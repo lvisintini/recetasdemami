@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Zanahorias caramelizadas]({{ site.baseurl }}/platos-calientes/verduras/zanahorias-caramelizadas.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Zanahorias caramelizadas]({{ site.baseurl }}/platos-calientes/verduras/zanahorias-caramelizadas)
 
 # Zanahorias caramelizadas
 3 zanahorias en rodajas finas, 1 cucharada azucar, 1 cucharada de miel,1 cucharada manteca, 1 cucharada jugo limon, ½ taza de agua,sal, pimienta, opcion perejil picado.

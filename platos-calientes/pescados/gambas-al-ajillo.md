@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Gambas al ajillo]({{ site.baseurl }}/platos-calientes/pescados/gambas-al-ajillo.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Pescados]({{ site.baseurl }}/platos-calientes/pescados) > [Gambas al ajillo]({{ site.baseurl }}/platos-calientes/pescados/gambas-al-ajillo)
 
 # Gambas al ajillo
 250 gr langostinos, camarones, gambas: limpios, sin agua (si son congelados), 8 dientes de ajo en rodajitas, aji picante o pimienta cayena o 2 guindillas secas, sal y 5 o 6 cucharadas de aceite de oliva.

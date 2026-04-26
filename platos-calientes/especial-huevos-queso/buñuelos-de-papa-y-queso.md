@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Buñuelos de papa y queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/buñuelos-de-papa-y-queso.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Buñuelos de papa y queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/buñuelos-de-papa-y-queso)
 
 # Buñuelos de papa y queso
 Poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas. mezclar todo y hacer una masa consistente, agregandole un poco de leche.

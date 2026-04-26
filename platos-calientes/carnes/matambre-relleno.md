@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Matambre relleno (2 kg)]({{ site.baseurl }}/platos-calientes/carnes/matambre-relleno.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Matambre relleno (2 kg)]({{ site.baseurl }}/platos-calientes/carnes/matambre-relleno)
 
 # Matambre relleno (2 kg)
 Salarlo y adobarlo la noche anterior con ½ taza de vinagre, una taza deaceite, 8 granos de pimienta negra, una cucharadita de pimenton, una cucharadita de oregano y un diente de ajo machacado.

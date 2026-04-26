@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Niños envueltos a la cacerola]({{ site.baseurl }}/platos-calientes/carnes/niños-envueltos-a-la-cacerola.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Niños envueltos a la cacerola]({{ site.baseurl }}/platos-calientes/carnes/niños-envueltos-a-la-cacerola)
 
 # Niños envueltos a la cacerola
 6 bifes finitos como para milanesa, 6 fetas de jamon, 6 fetas de panceta, 2 cebollas picadas, 1 aji picado, sal, pimienta, perejil, 1 vaso de vino blanco, caldo.

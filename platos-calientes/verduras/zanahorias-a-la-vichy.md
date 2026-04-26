@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Zanahorias a la Vichy]({{ site.baseurl }}/platos-calientes/verduras/zanahorias-a-la-vichy.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Zanahorias a la Vichy]({{ site.baseurl }}/platos-calientes/verduras/zanahorias-a-la-vichy)
 
 # Zanahorias a la Vichy.
 Derretir un poco de manteca y dorar a penas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. cuando las zanahorias esten tiernas, agregarle perejil picado y un chorrito de vinagre. y servir.

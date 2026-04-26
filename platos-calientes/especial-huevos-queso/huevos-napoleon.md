@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Huevos napoleon]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/huevos-napoleon.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Huevos napoleon]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/huevos-napoleon)
 
 # Huevos napoleon
 Dorar en manteca: cebolla, ajo y pimiento picados.

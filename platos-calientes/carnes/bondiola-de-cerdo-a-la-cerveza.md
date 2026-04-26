@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Bondiola de cerdo a la cerveza]({{ site.baseurl }}/platos-calientes/carnes/bondiola-de-cerdo-a-la-cerveza.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Bondiola de cerdo a la cerveza]({{ site.baseurl }}/platos-calientes/carnes/bondiola-de-cerdo-a-la-cerveza)
 
 # Bondiola de cerdo a la cerveza
 Sellar la bondiola en aceite, retirar. freir 1 cebolla grande picada, agregar la bondiola, 2 puerros picados y cocinar en caldo durante 45 minutos aproximadamente. preparar una salsa con cerveza negra, miel, mostaza, sal y pimienta negra. agregar esta salsa al final de la coccion, cuando el caldo ya este reducido. cocinar 10 minutos mas o cuando la carne este tierna, y servir.

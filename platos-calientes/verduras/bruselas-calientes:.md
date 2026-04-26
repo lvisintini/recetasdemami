@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Bruselas calientes:]({{ site.baseurl }}/platos-calientes/verduras/bruselas-calientes:.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Verduras]({{ site.baseurl }}/platos-calientes/verduras) > [Bruselas calientes:]({{ site.baseurl }}/platos-calientes/verduras/bruselas-calientes:)
 
 # Bruselas calientes:
 Cortar la base de los repollitos en cruz, hervirlos en agua y sal por 12 minutos. dorar en poco aceite cubos de jamon, agregar los repollitos, salpimentear y saltear unos minutos. servir caliente.

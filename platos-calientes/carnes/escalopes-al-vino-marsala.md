@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Escalopes al vino Marsala]({{ site.baseurl }}/platos-calientes/carnes/escalopes-al-vino-marsala.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Carnes]({{ site.baseurl }}/platos-calientes/carnes) > [Escalopes al vino Marsala]({{ site.baseurl }}/platos-calientes/carnes/escalopes-al-vino-marsala)
 
 # Escalopes al vino Marsala.
 Se cortan los bifes bien finitos, se condimentan con sal y pimienta, y se pasan por harina. se sellan en aceite o manteca y se retiran.

@@ -28,7 +28,7 @@ for x in m[3:]:
         title = x.split(' ',1)[1].strip().replace('.','').strip().replace(',','').strip().replace('"','').strip().replace('.','').strip().replace('“','').strip().replace('”','').strip()
         filename = re.sub("[\(\[].*?[\)\]]", "", title).strip().replace(' ','-').lower()
         path.append(filename)
-        link = '[' + title + ']('+'/'.join(path)+ ('' if len(path) < 3 else '.md') +')'
+        link = '[' + title + ']({{ site.baseurl }}/'+'/'.join(path) +')'
         
         for i in range(len(nav)):
             local_toc[nav[i]].append('    ' * i +'- ' + link)

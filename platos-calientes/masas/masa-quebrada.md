@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa quebrada]({{ site.baseurl }}/platos-calientes/masas/masa-quebrada.md)
+[Platos calientes]({{ site.baseurl }}/platos-calientes) > [Masas]({{ site.baseurl }}/platos-calientes/masas) > [Masa quebrada]({{ site.baseurl }}/platos-calientes/masas/masa-quebrada)
 
 # Masa quebrada
 Esta masa se usa para tartas dulces o saladas y tiene la propiedad de quebrarse facilmente y quedar crocante.
