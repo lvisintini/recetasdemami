@@ -1,4 +1,10 @@
-PLATOS CALIENTES
+---
+layout: page
+title: "Platos Calientes"
+permalink: /platos-calientes
+---
+
+# PLATOS CALIENTES
 
 ESPECIAL HUEVOS, QUESO, CREPES
 
