@@ -1,7 +1,7 @@
 ---
 title: Las Recetas de Mami
 ---
-[Platos calientes](/platos-calientes)
+[Platos calientes]({{ site.baseurl }}/platos-calientes)
 
 # Platos calientes
 
