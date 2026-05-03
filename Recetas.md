@@ -805,289 +805,491 @@ Hornear hasta que la masa este dorada y se desprenda de los bordes.
 Servir con pasas de uva maceradas en oporto.
 
 ## Torta de chocolate de Lili Morey
-batir 200 gr de manteca con 200 gr de azucar. Agregar 4 yemas, de a una y
-batiendo. Sumar un poco de cognac. Disolver en ¼ pocillo de leche 4 barras
-de chocolate (o 2 cucharadas de nesquic) y seguir mezclando. Incorporar
-300 gr de harina leudante y 100 gr de maicena. Por ultimo poner las 4 claras
-batidas a punto nieve. Y al horno.
+Batir 200 gr de manteca con 200 gr de azucar.
 
-Biscochuelo
-batir 8 yemas con 8 cucharadas de azucar y de a poco ir agregando 8
-cucharadas de harina. Por ultimo batir 8 claras a punto de nieve y
-añadirlas con movimientos suaves. Enmantecar y enharinar el molde ( de
-27 cm de diametro y 5 cm de alto) y llevar a horno moderado.
-Si introduciendo un palillo y al sacarlo esta seco, indica que ya esta
-cocido. Dejarlo en el horno apagado hasta que se enfrie, de lo contrario
-puede aplastarse.
-Budin de banana y nuez (y chocolate). Vir desde corralejo.
-Batir hasta que quede blanco: ½ taza de manteca. 1 Taza de azucar negra,
-2 huevos y 2 cucharaditas de vainilla.
-Mezclar 1 ¾ taza de harina, 1 cucharadita de bicarbonato de sodio,
-1 cucharadita de polvo de hornear, y ½ cucharadita de sal.
-Por otro lado mezclar : 1 taza de bananas maduras pisadas (aprox. 3), Y ½
-taza de nueces (y ½ taza de chocolate).
+Agregar 4 yemas, de a una y batiendo.
+
+Sumar un poco de cognac.
+
+Disolver en ¼ pocillo de leche 4 barras de chocolate (o 2 cucharadas de nesquic) y seguir mezclando.
+
+Incorporar 300 gr de harina leudante y 100 gr de maicena.
+
+Por ultimo poner las 4 claras batidas a punto nieve.
+
+Y al horno.
+
+## Biscochuelo
+Batir 8 yemas con 8 cucharadas de azucar y de a poco ir agregando 8 cucharadas de harina.
+
+Por ultimo batir 8 claras a punto de nieve y añadirlas con movimientos suaves.
+
+Enmantecar y enharinar el molde (de 27 cm de diametro y 5 cm de alto) y llevar a horno moderado.
+
+Si introduciendo un palillo y al sacarlo esta seco, indica que ya estacocido.
+
+Dejarlo en el horno apagado hasta que se enfrie, de lo contrariop uede aplastarse.
+
+## Budin de banana y nuez (y chocolate). Vir desde corralejo.
+Batir hasta que quede blanco:
+
+- ½ taza de manteca
+- 1 Taza de azucar negra
+- 2 huevos y 2 cucharaditas de vainilla
+
+Mezclar:
+
+- 1 ¾ taza de harina
+- 1 cucharadita de bicarbonato de sodio
+- 1 cucharadita de polvo de hornear
+- ½ cucharadita de sal
+
+Por otro lado mezclar:
+
+- 1 taza de bananas maduras pisadas (aprox. 3)
+- ½ taza de nueces 
+- ½ taza de chocolate (opcional)
+
 Unir todo y llevar a horno de 175 grados, durante 1 hora.
-El chocolate es opcional.
+
 Bañar con un glaceado de jugo de limon y azucar impalpable.
 
-Crema sevillana de naranjas
-pelar las naranjas, sacarle la parte blanca (ollejo), las semillas y
-pasarlas por la licuadora (2 tazas de pulpa de naranjas). Agregarle ¼ taza
-de maizena, 2 cucharadas de cascara rallada de naranja, 1 taza de
-azucar, 1 cucharada de jugo de limon y espesar a baño maria. Dejar enfriar
-y añadirle 200 gr de crema de leche bien batida y 2 cucharadas de licor de
-naranja.
-Decorar con 6 rodajas de naranja peladas y acarameladas con 4
-cucharadas de azucar y el almibar restante .
+# Crema sevillana de naranjas
+Pelar las naranjas, sacarle la parte blanca (ollejo), las semillas y pasarlas por la licuadora (2 tazas de pulpa de naranjas).
 
-Crema pastelera de la abuela pata
-batir 3 huevos con 2 cucharadas de maizena y 4 cucharadas de azucar. A
-esto se le agrega 1 litro de leche tibia. Cocinar hasta que espece,
-revolviendo.
+Agregarle ¼ taza de maizena, 2 cucharadas de cascara rallada de naranja, 1 taza de azucar, 1 cucharada de jugo de limon y espesar a baño maria.
+
+Dejar enfriar y añadirle 200 gr de crema de leche bien batida y 2 cucharadas de licor de naranja.
+
+Decorar con 6 rodajas de naranja peladas y acarameladas con 4 cucharadas de azucar y el almibar restante.
+
+# Crema pastelera de la abuela Pata
+Batir 3 huevos con 2 cucharadas de maizena y 4 cucharadas de azucar. A esto se le agrega 1 litro de leche tibia.
+
+Cocinar hasta que espece, revolviendo.
+
 Arriba se le puede poner: dulce de leche, chocolino, caramelo, nueces, etc.
-El caramelo se hace con 4 cucharadas colmadas de azucar apenas
-cubiertas de agua, cocinar hasta su punto.
-Crema catalana
-½ litro de leche, 1 rama de canela, cascara de ½ limon, cascara de
-½ naranja: cocinar y ni bien hierva, retirar.
-4 Yemas, 50 gr azucar, 20 gr maizena: batir hasta que quede homogenea.
-Colar la leche para retirar las cascaras y la canela y verterla sobre la
-otra preparacion sin dejar de revolver. Llevar a fuego bajo hasta que
-espece sin dejar de revolver. Colocarla en las compoteras y llevar a la
-heladera por 4 horas como minimo. Esparcir azucar (1 o 2 cucharadas) en
-cada una de ellas y sopletearlas con fuego. O hacer un caramelo con
-azucar y agua.
-Natilla
-igual a la crema catalana pero con 2 yemas mas y sin maicena.
-Otra natilla: 8 yemas, 1 litro de leche, 100 gr de azucar y canela o
-vainilla. Cocinar, no debe hervir.
-Creme brulee
-375 cc leche, 375 cc crema de leche, 1 vaina de vainilla, 8 yemas, 150 gr
-azucar.
-Mezclar la leche con la crema y el azucar (125 gr), agregar la vainilla
-y cocinar hasta que hierva, colar y entibiar. Añadir las yemas sin
-introducir aire. Poner en los potes donde se va a servir. Llevar a horno
-muy suave (de 100ª c con la puerta abierta) por ½ hora. Esta lista cuando al
-sacudir el pote, la superficie queda firme. Espolvorear con el resto de
-azucar y quemar con soplete.
-Adicional, colocar al costado ralladura de limon.
-Isla flotante de la abuela aurelia
-se baten 6 claras a punto nieve, se le agregan de a poco 6 cucharadas de
-azucar. Se ponen las islas en agua bien caliente 2 minutos de cada lado (el
-agua que haya dejado de hervir) y se escurren en una servilleta.
-Si se cocinan al horno se puede agregar nueces picadas y acaramelar el
-molde.
-Crema sambayon: se baten 6 yemas con ½ tacita de agua fria, 1 vaso de
-vino dulce (oporto o moscato) y 80 gr de azucar. Cocinar a baño maria,
-mientras se bate hasta que espese. Que no hierva.
 
-Otra isla flotante de marie claude
-procedimiento como mas arriba, pero con las siguientes proporciones:
-8 claras, 240 gr azucar,1 cucharada maizena y 1 cucharadita de polvo de
-hornear. Cocinarlas en agua caliente, 2 minutos de cada lado.
-Crema sambayon: 8 yemas, 160 gr (8 cucharadas) azucar, 8 cucharadas de
-oporto o marsala. Batir, cocinar a baño maria hasta espesar. Que no
-hierva.
+El caramelo se hace con 4 cucharadas colmadas de azucar apenas cubiertas de agua, cocinar hasta su punto.
 
-Mouse de chocolate de marie claude
-batir 125 gr de manteca con 250 gr de chocolate.
+# Crema Catalana
+
+- ½ litro de leche
+- 1 rama de canela
+- cascara de ½ limon
+- cascara de ½ naranja
+
+Cocinar y ni bien hierva, retirar.
+
+- 4 Yemas
+- 50 gr azucar
+- 20 gr maizena
+
+Batir hasta que quede homogenea.
+
+Colar la leche para retirar las cascaras y la canela y verterla sobre la otra preparacion sin dejar de revolver.
+
+Llevar a fuego bajo hasta que espece sin dejar de revolver. Colocarla en las compoteras y llevar a la heladera por 4 horas como minimo.
+
+Esparcir azucar (1 o 2 cucharadas) en cada una de ellas y sopletearlas con fuego.
+
+O hacer un caramelo con azucar y agua.
+
+## Natilla
+Igual a la crema catalana pero con 2 yemas mas y sin maicena.
+
+## Otra natilla
+
+- 8 yemas
+- 1 litro de leche
+- 100 gr de azucar
+- canela o vainilla.
+
+Cocinar, no debe hervir.
+
+## Creme brulee
+
+- 375 cc leche
+- 375 cc crema de leche
+- 1 vaina de vainilla
+- 8 yemas
+- 150 gr azucar.
+
+Mezclar la leche con la crema y el azucar (125 gr), agregar la vainilla y cocinar hasta que hierva, colar y entibiar.
+
+Añadir las yemas sin introducir aire.
+
+Poner en los potes donde se va a servir.
+
+Llevar a horno muy suave (de 100ª C con la puerta abierta) por ½ hora.
+
+Esta lista cuando al sacudir el pote, la superficie queda firme.
+
+Espolvorear con el resto de azucar y quemar con soplete.
+
+Adicional colocar al costado ralladura de limon.
+
+## Isla flotante de la Abuela Aurelia
+Se baten 6 claras a punto nieve, se le agregan de a poco 6 cucharadas de azucar.
+
+Se ponen las islas en agua bien caliente 2 minutos de cada lado (el agua que haya dejado de hervir) y se escurren en una servilleta.
+
+Si se cocinan al horno se puede agregar nueces picadas y acaramelar el molde.
+
+#### Crema sambayon
+Se baten 6 yemas con ½ tacita de agua fria, 1 vaso de vino dulce (oporto o moscato) y 80 gr de azucar.
+
+Cocinar a baño maria, mientras se bate hasta que espese.
+
+Que no hierva.
+
+### Otra isla flotante de Marie Claude
+Procedimiento como mas arriba, pero con las siguientes proporciones:
+
+- 8 claras
+- 240 gr azucar
+- 1 cucharada maizena
+- 1 cucharadita de polvo de hornear
+
+Cocinarlas en agua caliente, 2 minutos de cada lado.
+
+#### Crema sambayon
+
+8 yemas, 160 gr (8 cucharadas) azucar, 8 cucharadas de oporto o marsala.
+
+Batir, cocinar a baño maria hasta espesar. Que no hierva.
+
+## Mouse de chocolate de Marie Claude
+Batir 125 gr de manteca con 250 gr de chocolate.
+
 Batir 6 yemas con 6 cucharadas colmadas de azucar.
+
 Batir 6 claras a punto nieve.
-Unir los tres batidos con movimientos suaves y llevar a la heladera por 4
-horas.
-Mousse de chocolate de emilia
-1) batir 5 yemas con 5 cucharadas colmadas de azucar.
-2) Derretir 150 gr de chocolate a baño maria (con un trocito de
-manteca o un poquito de agua), agregarle batiendo suavemente un
-pote de 200 gr de crema de leche.
-3) Batir las 5 claras a punto nieve.
-4) Mezclar las dos primeras preparaciones hasta que se note uniforme
-e incorporarle las claras con movimientos envolventes.
-5) Poner en el freeser en un recipiente tapado y sobre algo que lo
-mantenga separado del piso por 1 hora y despues pasarlo a la
-heladera.
 
-Peras al vino
-6 peras, 1 litro vino tinto, 150 gr de azucar, 2 tiritas cascara de limon,
-2 tiritas cascara de naranja, 3 clavos de olor, anis estrellado y 1 ramita
-de canela.
-Colocar todo en la cacerola, menos las peras y cuando comience a hervir
-echar las peras. Cocinar por 45 minutos aproximadamente. Retirar las
-peras y reducir el liquido hasta un almibar (para acompañar las peras).
-Masitas de los chicos
-3 tazas de harina, 2 cucharaditas de polvo royal, ¼ cucharadita de sal,
-1 ¼ tazas de azucar, 100 gr manteca, 2 huevos. Para darle el sabor leer mas
-abajo.
-Mezclar todos los ingredientes secos y luego desarmar con los dedos la
-manteca. Se agregan los huevos y se hace el bollo. Si hace falta, agregar
-lo menos posible de leche. Extender la masa de ½ cm de espesor y cortar
-con un cortapasta enharinado. Se pone sobre papel enmantecado ( en
-molde enmantecado y enhararinado se rompen facilmente al intentar
-sacarlas) y se cocina a 190ª por 8 minutos. Esperar a que esten frias para
-despegarlas del papel, porque si no se rompen.
-Si se quieren mas blanditas, poner 2 tazas de harina comun y 1 taza de
-harina leudante. Salen 83 masitas de 5 cm de diametro.
-Masitas de vainilla: agregar ½ cucharadita de esencia de vainilla.
-Masitas de limon: añadase la cascara rallada de 2 limones.
-Masitas de nueces: añadase ¾ de taza de nueces picadas
-.
-Masitas de naranja: añadase la cascara de una naranja rallada.
-Masitas de canela: agregar 3 cucharadas de canela molida
-masitas marmoladas:1/2 de masa con vainilla y ½ masa con chocolate
-amargo y azucar.
+Unir los tres batidos con movimientos suaves y llevar a la heladera por 4 horas.
 
-Brownies. De antonela,
-150 grs. De manteca, 1 taza de azucar, 2 huevos, 4 cucharadas de chocolate
-amargo en polvo (el que venden en la reposteria), 1 taza de harina comun y
-1 taza de nueces picadas grueso
-en sarten grande poner la manteca y el azucar. Dejar enfriar y agregar
-los huevos, batir un poco, agregar el cacao y por ultimo el harina.
+## Mousse de chocolate de Emilia
+
+1. batir 5 yemas con 5 cucharadas colmadas de azucar.
+1. Derretir 150 gr de chocolate a baño maria (con un trocito de manteca o un poquito de agua), agregarle batiendo suavemente un pote de 200 gr de crema de leche.
+1. Batir las 5 claras a punto nieve.
+1. Mezclar las dos primeras preparaciones hasta que se note uniforme e incorporarle las claras con movimientos envolventes.
+1. Poner en el freeser en un recipiente tapado y sobre algo que lo mantenga separado del piso por 1 hora y despues pasarlo a la heladera.
+
+## Peras al vino
+
+- 6 peras
+- 1 litro vino tinto
+- 150 gr de azucar
+- 2 tiritas cascara de limon
+- 2 tiritas cascara de naranja
+- 3 clavos de olor
+- Anis estrellado
+- 1 ramita de canela.
+
+Colocar todo en la cacerola, menos las peras y cuando comience a hervir echar las peras.
+
+Cocinar por 45 minutos aproximadamente. Retirar las peras y reducir el liquido hasta un almibar (para acompañar las peras).
+
+## Masitas de los chicos
+
+- 3 tazas de harina
+- 2 cucharaditas de polvo royal
+- ¼ cucharadita de sal
+- 1 ¼ tazas de azucar
+- 100 gr manteca
+- 2 huevos
+
+Para darle el sabor, leer mas abajo.
+
+Mezclar todos los ingredientes secos y luego desarmar con los dedos la manteca.
+
+Se agregan los huevos y se hace el bollo.
+
+Si hace falta, agregar lo menos posible de leche.
+
+Extender la masa de ½ cm de espesor y cortar con un cortapasta enharinado.
+
+Se pone sobre papel enmantecado (en molde enmantecado y enhararinado se rompen facilmente al intentar sacarlas)
+
+Se cocina a 190ª por 8 minutos.
+
+Esperar a que esten frias para despegarlas del papel, porque si no se rompen.
+
+Si se quieren mas blanditas, poner 2 tazas de harina comun y 1 taza de harina leudante.
+
+Salen 83 masitas de 5 cm de diametro.
+
+### Diferentes sabores:
+
+- **Vainilla:** agregar ½ cucharadita de esencia de vainilla.
+- **Limon:** añadase la cascara rallada de 2 limones.
+- **Nueces:** añadase ¾ de taza de nueces picadas.
+- **Naranja:** añadase la cascara de una naranja rallada.
+- **Canela:** agregar 3 cucharadas de canela molida
+- **Marmoladas:** 1/2 de masa con vainilla y ½ masa con chocolate amargo y azucar.
+
+## Brownies de Antonela
+
+- 150 grs. de manteca
+- 1 taza de azucar
+- 2 huevos
+- 4 cucharadas de chocolate amargo en polvo (el que venden en la reposteria)
+- 1 taza de harina comun
+- 1 taza de nueces picadas grueso
+
+En sarten grande poner la manteca y el azucar.
+
+Dejar enfriar y agregar los huevos, batir un poco, agregar el cacao y por ultimo el harina.
+
 Agregar las nueces picadas e integrar todo.
+
 Enmantecar el molde y llevar a horno precalentado por 20 minutos.
-Verificar que estan listos, clavandoles un palillo y sacandolo limpio.
+
+Verificar que estan listos clavandoles un palillo y sacandolo limpio.
+
 A los 25 minutos aproximadamente estan listos.
-Besitos- friche de renato.
-3 Tazas de harina 000
-1 taza de harina leudante
-1 ¼ taza de azucar
-1/2 taza de leche
-2 huevos
-1/3 – 1/2 vainilla
-rayadura de cascara de 2 limones medianos.
-Freir con grasa de cerdo.
-Doughnuts de las tias maria y anita o donas
-se mezclan 2 huevos, 1 taza de azucar, ¼ taza de manteca y
-1 taza de leche. A esto se le agregan los elementos solidos mezclados:
-4 tazas de harina, 4 cucharaditas de polvo de hornear, ¾ de cucharadita
-de sal, ¼ de cucharadita de bicarbonato de sodio y 1 cucharadita de nuez
-moscada.
-Se extiende sobre la mesada con el palo de amasar, se corta en aros y se
-frien en aceite o grasa de cerdo.
 
-Galletitas con chispitas de chocolate (para 18 unidades)
-mezclar 100 gr de manteca con 4 cucharadas de azucar hasta lograr una
-crema. Se agrega 1 huevo y 1 cucharadita de esencia de vainilla.
-Agregar a la mezcla 1 ½ taza de harina leudante por cucharadas hasta
-que se forme una pasta. Por ultimo agregar 1 ½ taza de chispas de
-chocolate.
-Con ayuda de dos cucharitas tomar la pasta y formar montoncitos sobre
-una placa untada con manteca y espolvoreada con harina. Colocarlos
-separados como para que no se unan. Cocinarlos en horno moderado de 15
-a 18 minutos. Dejar enfriar en el horno.
+## Besitos - friche de Renato
 
-Galletitas de bicarbonato de amoniaco ( co3nh4)
-hacer una corona con 250 gr de azucar y 800 gr de harina comun. Colocar
-en el centro 4 huevos batidos y 200 de manteca ablandada y escencia de
-vainilla (o rayadura de limon). Mezclar. Por ultimo agregar 50 gr de
-amoniaco diluido en 250 ml de leche tibia. Incorporarlo rapido y armar el
-bollo. Amasar poco y estirarlo de 2 cm. Pintar con huevo, espolvorear con
-azucar, cortar con cortapasta y poner en una placa enmantecada y
-enharinada. Precalentar el horno y cocinar a fuego medio por 10 a 12
-minutos. Dejar enfriar bien antes de sacarlas.
+- 3 Tazas de harina 000
+- 1 taza de harina leudante
+- 1 ¼ taza de azucar
+- 1/2 taza de leche
+- 2 huevos
+- 1/3 – 1/2 vainilla
+- Rayadura de cascara de 2 limones medianos
 
-Anzac, masitas australianas
-150 gr harina, 90 gr avena, 90 gr coco rallado, 100 gr azucar negra, 50 gr
-azucar impalpable, 1 cucharadita de bicarbonato de sodio, 125 gr manteca,
-1 cucharada de kero o caramelo y 2 o 3 cucharadas de agua hirviendo.
-Derretir lentamente la manteca con el kero o la miel. Agregarle al
-bicarbonato de sodio el agua hirviendo y añadirlo a la manteca y a la
-miel.
+Freir con grasa de cerdo
+
+# Doughnuts de las tias maria y anita o donas
+
+Se mezclan:
+
+- 2 huevos
+- 1 taza de azucar
+- ¼ taza de manteca
+- 1 taza de leche.
+
+A esto se le agregan los elementos solidos mezclados:
+
+- 4 tazas de harina
+- 4 cucharaditas de polvo de hornear
+- ¾ de cucharadita de sal
+- ¼ de cucharadita de bicarbonato de sodio
+- 1 cucharadita de nuez moscada
+
+Se extiende sobre la mesada con el palo de amasar, se corta en aros y se frien en aceite o grasa de cerdo.
+
+## Galletitas con chispitas de chocolate
+
+Para 18 unidades
+
+Mezclar 100 gr de manteca con 4 cucharadas de azucar hasta lograr una crema.
+
+Se agrega 1 huevo y 1 cucharadita de esencia de vainilla.
+
+Agregar a la mezcla 1 ½ taza de harina leudante por cucharadas hasta que se forme una pasta.
+
+Por ultimo agregar 1 ½ taza de chispas de chocolate.
+
+Con ayuda de dos cucharitas tomar la pasta y formar montoncitos sobre una placa untada con manteca y espolvoreada con harina.
+
+Colocarlos separados como para que no se unan.
+
+Cocinarlos en horno moderado de 15 a 18 minutos.
+
+Dejar enfriar en el horno.
+
+## Galletitas de Bicarbonato de Amoniaco (CO3NH4)
+
+Hacer una corona con 250 gr de azucar y 800 gr de harina comun.
+
+Colocar en el centro 4 huevos batidos y 200 de manteca ablandada y escencia de vainilla (o rayadura de limon). Mezclar.
+
+Por ultimo agregar 50 gr de amoniaco diluido en 250 ml de leche tibia. Incorporarlo rapido y armar el bollo.
+
+Amasar poco y estirarlo de 2 cm.
+
+Pintar con huevo, espolvorear con azucar, cortar con cortapasta y poner en una placa enmantecada y enharinada.
+
+Precalentar el horno y cocinar a fuego medio por 10 a 12 minutos.
+
+Dejar enfriar bien antes de sacarlas.
+
+## Anzac, masitas australianas
+
+- 150 gr harina
+- 90 gr avena
+- 90 gr coco rallado
+- 100 gr azucar negra
+- 50 gr azucar impalpable
+- 1 cucharadita de bicarbonato de sodio
+- 125 gr manteca
+- 1 cucharada de kero o caramelo
+- 2 o 3 cucharadas de agua hirviendo.
+
+Derretir lentamente la manteca con el kero o la miel.
+
+Agregarle al bicarbonato de sodio el agua hirviendo y añadirlo a la manteca y a la miel.
+
 Mezclar los ingredientes secos y agregarlos a la otra preparacion.
-Formar pelotitas del tamaño de las de ping pon. Si es necesario añadir mas
-agua o leche.
-En una asadera forrada con papel para horno, colocar las bolas y
-aplastarlas formando circulos de 1 pulgada, ponerlas separadas pues
-aumentan su tamaño.
-Hornear por 12 a 15 minutos en horno de 170 ªc. Dejar entibiar ( al principio
-estan muy blandas y se pueden quebrar, utilizar espatula) antes de
-pasarlas a una rejilla para que se terminen de enfriar
 
-Spekulatius
-355 gr harina, 175 gr manteca, 250 gr azucar negra, 100 gr almendras
-molidas, 1 huevo, 1 cucharadita levadura, 1 cucharada de bicarbonato de
-sodio y 1 cucharada sopera de mezcla para spekulatius.
-Mescla de especias para para spekulatius: 4 cucharaditas de canela, ½ de
-nuez moscada, 1 de clavo de olor molido, ½ de jengibre molido, ½ de
-cardamono, y ½ de pimienta blanca.
-Hacer una crema con la manteca, agregar el azucar, el huevo, la
-levadura y el bicarbonato. Añadir las especias y las almendras.
-Por ultimo la harina. Amasar con las manos hasta que quede blanda y no
-se pegue. Queda quebradiza. Dejar 3 o 4 minutos sobre papel, tapar con otro
-papel y pasarle el rodillo. Llevar a la heladera por una hora (para que se
-ponga dura) y cortar las formas. Pasar a la bandeja de horno ( cubierto
-con papel manteca) utilizando espatula. Llevar al horno de 180ªc por 10
-minutos. Dejar entibiar antes de retirarlas.
+Formar pelotitas del tamaño de las de ping pon. Si es necesario añadir mas agua o leche.
 
-Alfajores de maizena (fecula de maiz)
-se baten 100 gr de manteca con 150 gs de azucar hasta que este cremosa,
-agregar 1 yema y 1 huevo batiendo bien. Añadir la cascar rallada de ½
-limon. Por otro lado mezclar 1 ¼ de fecula de maiz, ½ taza de harina y 1
-cucharadita de polvo de hornear, y se agrega a la preparacion anterior.
-Se une muy suavemente y se deja reposar por ½ hora. Se estira de ½ cm de
-espesor y se corta con un cortapasta redondo. En una chapa enmantecada
-se llevan a horno moderado por 12 a 15 minutos. No deben tomar color.
-Una vez frios se unen de a dos con dulce de leche. Poniendoles un poco del
-dulce en los costados con un cuchillo para poder pegarles luego el coco
-rallado (3 cucharadas).
+En una asadera forrada con papel para horno, colocar las bolas y aplastarlas formando circulos de 1 pulgada, ponerlas separadas pues aumentan su tamaño.
 
-Florentinos
-3 cucharadas de nueces picadas, 2 cucharadas de azucar, 2 cucharadas de
-harina, 2 cucharadas o poco mas de crema de leche, 1 clara apenas batida,
-2 tazas de cascara de naranja glaseada picada (200 gr y tierna), 200 gr de
-cerezas glase en cuartos, 50 gr almendras y 200 gr de chocolate
-cobertura.
-Poner en un bol las almendras con agua hirviendo por 5 minutos,
-escurrirlas, pelarlas una a una y picarlas.
-En un bol poner las nueces, las almendras, las cascaras de naranja y las
-cerezas. Mezclar y ligar todo con la clara,la harina, el azucar y la
-crema. Si queda muy compacto, aligerar con mas crema.
-Enmantecar y enharinar una placa para horno verter sobre ella
-montoncitos de la pasta (1 cucharadita panzona) esparciados. Aplastar
-cada montoncito para que queden discos finitos. Cocinar en horno
-caliente hasta que se doren los bordes. Dejarlos entibiar y retirarlos con
-espatulay apoyarlos sobre una superficie plana hasta que se enfrien.
-Disolver en baño maria el chocolate y pintar con un pincel o espatula la
-base de los florentinos. Llevarlos a la heladera hasta que se solidifique
-el chocolate.
-Chorizo de chocolate
-hacer una masa con 100 gr de manteca, 100 gr de azucar, 1 huevo y 100 gr de
-cacao. Agregar un paquete de masitas mana (vainilla o con limon) muy
-trituradas y 50 gr de almendras picadas grande.
+Hornear por 12 a 15 minutos en horno de 170 ªc.
+
+Dejar entibiar (al principio estan muy blandas y se pueden quebrar, utilizar espatula) antes de pasarlas a una rejilla para que se terminen de enfriar
+
+## Spekulatius
+
+- 355 gr harina
+- 175 gr manteca
+- 250 gr azucar negra
+- 100 gr almendras molidas
+- 1 huevo
+- 1 cucharadita levadura
+- 1 cucharada de bicarbonato de sodio
+- 1 cucharada sopera de mezcla para spekulatius.
+
+**Mescla de especias para spekulatius:**
+
+- 4 cucharaditas de canela
+- ½ de nuez moscada
+- 1 de clavo de olor molido
+- ½ de jengibre molido
+- ½ de cardamono
+- ½ de pimienta blanca.
+
+Hacer una crema con la manteca.
+
+Agregar el azucar, el huevo, la levadura y el bicarbonato.
+
+Añadir las especias y las almendras.
+
+Por ultimo la harina.
+
+Amasar con las manos hasta que quede blanda y no se pegue. Queda quebradiza.
+
+Dejar 3 o 4 minutos sobre papel, tapar con otro papel y pasarle el rodillo.
+
+Llevar a la heladera por una hora (para que se ponga dura) y cortar las formas.
+
+Pasar a la bandeja de horno (cubierto con papel manteca) utilizando espatula.
+
+Llevar al horno de 180ªc por 10 minutos. Dejar entibiar antes de retirarlas.
+
+## Alfajores de maizena
+Se baten 100 gr de manteca con 150 gs de azucar hasta que este cremosa
+
+Agregar 1 yema y 1 huevo, batiendo bien.
+
+Añadir la cascara rallada de ½ limon. 
+
+Por otro lado mezclar 1 ¼ de fecula de maiz, ½ taza de harina y 1 cucharadita de polvo de hornear, y se agrega a la preparacion anterior.
+
+Se une muy suavemente y se deja reposar por ½ hora. Se estira de ½ cm de espesor y se corta con un cortapasta redondo.
+
+En una chapa enmantecada se llevan a horno moderado por 12 a 15 minutos. No deben tomar color.
+
+Una vez frios se unen de a dos con dulce de leche, poniendoles un poco del dulce en los costados con un cuchillo para poder pegarles luego el coco rallado (3 cucharadas).
+
+## Florentinos
+
+- 3 cucharadas de nueces picadas
+- 2 cucharadas de azucar
+- 2 cucharadas de harina
+- 2 cucharadas o poco mas de crema de leche
+- 1 clara apenas batida
+- 2 tazas de cascara de naranja glaseada picada (200 gr y tierna),
+- 200 gr de cerezas glase en cuartos
+- 50 gr almendras
+- 200 gr de chocolate cobertura
+
+Poner en un bol las almendras con agua hirviendo por 5 minutos, escurrirlas, pelarlas una a una y picarlas.
+
+En un bol poner las nueces, las almendras, las cascaras de naranja y las cerezas.
+
+Mezclar y ligar todo con la clara, la harina, el azucar y la crema. Si queda muy compacto, aligerar con mas crema.
+
+Enmantecar y enharinar una placa para horno verter sobre ella montoncitos de la pasta (1 cucharadita panzona) esparciados.
+
+Aplastar cada montoncito para que queden discos finitos.
+
+Cocinar en horno caliente hasta que se doren los bordes. Dejarlos entibiar y retirarlos con espatulay apoyarlos sobre una superficie plana hasta que se enfrien.
+
+Disolver en baño maria el chocolate y pintar con un pincel o espatula la base de los florentinos.
+
+Llevarlos a la heladera hasta que se solidifique el chocolate.
+
+## Chorizo de chocolate
+Hacer una masa con 100 gr de manteca, 100 gr de azucar, 1 huevo y 100 gr de cacao.
+
+Agregar un paquete de masitas mana (vainilla o con limon) muy trituradas y 50 gr de almendras picadas grande.
+
 Algunas de las mana cortarlas grande para simular el tocino.
-Sobre papel de aluminio poner la masa y darle forma de chorizo. Cerrar
-las puntas como si fuera un caramelo y llevarlo al freezer por 3 horas
-como minimo. En mi opinion, pondria mas masitas mana.
 
-Dulce de leche
-poner en una cacerola 1 litro de leche y 350 gr de azucar. Revolver hasta
-que se disuelva el azucar. Al hervir, agregarle 1 cucharadita de
-bicarbonato y bajar el fuego. Poner una bolita de vidrio que ayudara a
-que no se peque en el fondo de la olla. Revolver cada tanto (durante la 1
-½ hora de coccion), despues, cuando este espesandose revolver
-continuamente para que no se formen grumos ni se queme. Utilizar
-cuchara de madera. Se le puede agregar gotas de vainilla. Lleva en total
-de 2 a 3 horas de coccion, dependiendo del fuego, de la olla y de la calidad
-de los ingredientes.
-Para saber si esta listo, poner un poco en un plato (truco del plato) y con
-un cuchillo marcar una division en el medio, si se vuelve a unir, le falta
-coccion, y si queda separado esta listo. Retirarlo del fuego pero seguir
-revolviendo por 5 o 10 minutos mas para que se enfrie, ya que se sigue
-espesando.
+Sobre papel de aluminio poner la masa y darle forma de chorizo.
 
-Panqueques (finitos)
-1 huevo, 200 gr de harina y 600 de leche.
-Panqueques americanos (gruesos)
-200 gr harina con levadura,50 gr azucar, pizca de sal, 250 ml de leche, 2
-huevos, ½ cucharadita de esencia de vainilla y manteca para la sarten.
+Cerrar las puntas como si fuera un caramelo y llevarlo al freezer por 3 horas como minimo.
 
-Merenguitos de mabel malbert
-poner en un bol, en donde se van a batir los merenguitos: 2 claras con 2
-cucharadas de vinagre de manzana y 250 gr de azucar comun y mezclar a
-penas. Al dia siguiente, con la batidora electrica, batir al maximo hasta
-que este bien consistente. Tomar con una cucharita de te esa preparacion,
-y con el dedo volcar en una placa a penas enmantecada y formarle un
-piquito. Poner en el horno al minimo, si igual se doran, dejar la puerta
-abierta, para que se sequen solamente.
+En mi opinion, pondria mas masitas mana.
+
+## Dulce de leche
+Poner en una cacerola 1 litro de leche y 350 gr de azucar.
+
+Revolver hasta que se disuelva el azucar.
+
+Al hervir, agregarle 1 cucharadita de bicarbonato y bajar el fuego.
+
+Poner una bolita de vidrio que ayudara a que no se peque en el fondo de la olla.
+
+Revolver cada tanto (durante la 1 ½ hora de coccion) y despues, cuando este espesandose, revolver continuamente para que no se formen grumos ni se queme.
+
+Utilizar cuchara de madera.
+
+Se le puede agregar gotas de vainilla.
+
+Lleva en total de 2 a 3 horas de coccion, dependiendo del fuego, de la olla y de la calidad de los ingredientes.
+
+Para saber si esta listo, poner un poco en un plato (truco del plato) y con un cuchillo marcar una division en el medio. Si se vuelve a unir, le falta coccion. Si queda separado esta listo. 
+
+Retirarlo del fuego pero seguir revolviendo por 5 o 10 minutos mas para que se enfrie, ya que se sigue espesando.
+
+## Panqueques (finitos)
+
+- 1 huevo
+- 200 gr de harina
+- 600 de leche
+
+## Panqueques americanos (gruesos)
+
+- 200 gr harina con levadura
+- 50 gr azucar
+- pizca de sal
+- 250 ml de leche
+- 2 huevos
+- ½ cucharadita de esencia de vainilla
+- manteca para la sarten
+
+## Merenguitos de Mabel Malbert
+
+Poner en un bol, en donde se van a batir los merenguitos:
+
+- 2 claras
+- 2 cucharadas de vinagre de manzana
+- 250 gr de azucar comun
+
+Mezclar a penas.
+
+Al dia siguiente, con la batidora electrica, batir al maximo hasta que este bien consistente.
+
+Tomar con una cucharita de te esa preparacion, y con el dedo volcar en una placa a penas enmantecada y formarle un piquito.
+
+Poner en el horno al minimo, si igual se doran, dejar la puerta abierta, para que se sequen solamente.
+
 Para hacer coquitos, se le puede agregar 200 gr de coco rallado.
 
 ## Arroz con leche
