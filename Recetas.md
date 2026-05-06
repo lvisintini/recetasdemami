@@ -93,7 +93,7 @@ melon, lechuga, cibulette.
 ## Remolachas (1)
 Remolachas, manzanas, queso, aceite, jugo de limon, sal.
 
-## Remolachas  (2)
+## Remolachas (2)
 Remolachas, champignones, perejil, almendras, ralladura gruesa de limon, aceite oliva, sal, aceto.
 
 ## Remolacha al estilo Vir
@@ -273,7 +273,7 @@ Llevar al horno para que fragüe.
 
 - 1 taza harina común
 - 1 taza harina leudante
-- 1/2 taza azucar
+- ½ taza azucar
 - 2 Huevos 2
 - 100 grs. Manteca
 - 1 ½ taza Leche
@@ -454,7 +454,7 @@ Y al horno
 
 1. Hacer una masa para tartas dulces y cubrir un molde (ver masas).
 1. Pinchar la masa para que mantenga la forma y cocinar a horno moderado por 20 o 25 minutos.
-1. Hacer la crema pastelera de la abuela pata. Hacer 1/3 de la receta, pues va a ser suficiente para esta tarta (o hacerla completa y servirla en compoteras individuales, como otro postre).
+1. Hacer la crema pastelera de la abuela pata. Hacer ⅓ de la receta, pues va a ser suficiente para esta tarta (o hacerla completa y servirla en compoteras individuales, como otro postre).
 1. Colocar la crema sobre la masa de la tarta.
 1. Poner en la sarten manteca, azucar y acaramelar las rodajas de banana (se necesitaran 2 o 3 bananas). Colocarlas sobre la crema.
 1. Hacer un croup con 100 gr de harina, 50 gr de nueces en polvo, 100 gr de azucar y aproximadamente 50 gr de manteca. Trabajarlo con los dedos hasta lograr la consistencia de arena. Volcarlo sobre las bananas.
@@ -563,7 +563,7 @@ Decorar con chantilly cream o merengue.
 - 2 tazas de harina
 - 3 cucharaditas de polvo de hornear royal
 - ¼ cucharadita de sal
-- 2/3 taza de leche
+- ⅔ taza de leche
 - 1 taza de coco rallado
 
 Ablandar la manteca con el azucar y la esencia, batiendo bien.
@@ -581,7 +581,7 @@ Se agregan 3 huevos de a uno batiendo bien y ½ cucharadita de esencia de vainil
 
 Se mezclan 1 ¼ tazas de harina, ½ tazas de maicena, 2 ½ cucharaditas de polvo royal y ¼ cucharadita de sal.
 
-Se unen los ingredientes secos a la primera preparacion, alternando con 2/3 taza de leche.
+Se unen los ingredientes secos a la primera preparacion, alternando con ⅔ taza de leche.
 
 Se vierte en un molde previamente enmantecado y enharinado.
 
@@ -597,7 +597,7 @@ Se agregan 3 huevos de a uno batiendo bien y ½ cucharadita de esencia de vainil
 
 Se mezclan 1 ¼ tazas de harina, ½ tazas de maicena, 2 ½ cucharaditas de polvo royal y ¼ cucharadita de sal.
 
-Se unen los ingredientes secos a la primera preparacion, alternando con 2/3 taza de leche.
+Se unen los ingredientes secos a la primera preparacion, alternando con ⅔ taza de leche.
 
 Separar la masa en 2 partes. A una de ellas agregarle 3 barras de chocolate previamente derretidas con 2 cucharadas de leche y ½ cucharadita de bicarbonato.
 
@@ -753,7 +753,7 @@ Los ultimos 3 minutos apoyarla en el piso del horno para que se acaramele de aba
 Retirar del horno y dejar reposar 10 minutos antes de desmoldar.
 
 ## Carot cake
-Hacer la torta en un molde de 18/20 cm de diametro.
+Hacer la torta en un molde de 18-20 cm de diametro.
 
 Una vez fria dividirla para rellenarla con el ”frosting de queso crema” 
 
@@ -769,7 +769,7 @@ Echar 300 gr de zanahoria rallada (3 unidades) y 8 nueces picadas.
 
 Integrarlo todo.
 
-Verter en un molde de 18/20 cm de diametro y llevarlo al horno por unos 40/55 minutos a 170ª.
+Verter en un molde de 18-20 cm de diametro y llevarlo al horno por unos 40-55 minutos a 170ª.
 
 No abrir el horno antes de los 30 minutos, probar con un palillo si esta cocido el bizcocho.
 
@@ -780,7 +780,7 @@ Desmoldar y colocarlo sobre una rejilla hasta que se enfrie por completo.
 Una vez fria dividirla para rellenarla con ”frosting de queso crema” (hacer el doble de las medidas)
 
 ### Frosting de queso crema
-Batir ¾ taza de queso crema, 2 o 4 cucharadas de miel (o 1/3 taza de azucar impalpable) y 2 o 4 cucharadas de yogur natural, hasta que todo se integre.
+Batir ¾ taza de queso crema, 2 o 4 cucharadas de miel (o ⅓ taza de azucar impalpable) y 2 o 4 cucharadas de yogur natural, hasta que todo se integre.
 
 Poner en la heladera hasta el momento de rellenar.
 
@@ -1027,7 +1027,7 @@ Salen 83 masitas de 5 cm de diametro.
 - **Nueces:** añadase ¾ de taza de nueces picadas.
 - **Naranja:** añadase la cascara de una naranja rallada.
 - **Canela:** agregar 3 cucharadas de canela molida
-- **Marmoladas:** 1/2 de masa con vainilla y ½ masa con chocolate amargo y azucar.
+- **Marmoladas:** ½ de masa con vainilla y ½ masa con chocolate amargo y azucar.
 
 ## Brownies de Antonela
 
@@ -1055,9 +1055,9 @@ A los 25 minutos aproximadamente estan listos.
 - 3 Tazas de harina 000
 - 1 taza de harina leudante
 - 1 ¼ taza de azucar
-- 1/2 taza de leche
+- ½ taza de leche
 - 2 huevos
-- 1/3 – 1/2 vainilla
+- ⅓ – ½ vainilla
 - Rayadura de cascara de 2 limones medianos
 
 Freir con grasa de cerdo
@@ -1317,649 +1317,856 @@ Colocar todo en un molde acaramelado y se lleva a horno moderado a baño maria p
 
 Esperar que se enfrie y desmoldar, adornar con crema santilli, castañas y/o trocitos de chocolate.
 
-POSTRE SENCILLO DE BATATAS AL HORNO
-ENMANTECAR UNA ASADERA Y COLOCAR UNA CAPA DE BATATAS CORTADAS EN RODAJAS. ESPOLVOREARLAS CON AZUCAR Y ROCIARLAS CON LECHE Y MIEL. PONER OTRA CAPA DE BATATAS Y OTRA VEZ AZUCAR, LECHE Y MIEL. NO PASARSE CON LA LECHE. LLEVAR 1 HORA EN HORNO MODERADO.
+## Postre sencillo de batatas al horno
+Enmantecar una asadera y colocar una capa de batatas cortadas en rodajas.
 
-POSTRE CHOCOLINO
-CREMA: MEZCLAR 400 GR DE DULCE DE LECHE, 400 GR DE QUESO CREMA Y 150 GR DE CREMA DE LECHE.
-CHOCOLINAS: BAÑAR 3 PAQUETES DE GALLETITAS DE CHOCOLINAS EN CAFE.
-PONER UNA CAPA DE CHOCOLINAS  EN UNA FUENTE Y SOBRE ESTAS UNA CAPA DE LA CREMA, Y ASI SUCESIVAMENTE.  LLEVAR POR 3 HORAS A LA HELADERA.
+Espolvorearlas con azucar y rociarlas con leche y miel.
 
-TIRAMISU
-1) BATIR 2 YEMAS CON 1 TAZA DE AZUCAR Y LUEGO AGREGAR 300 GR DE QUESO
-    CREMA.
-2) BATIR 2 CLARAS A PUNTO NIEVE Y AGREGAR DE A POCO 1 TAZA DE AZUCAR.
-UNIR 1 Y 2 MAS UNA COPITA DE TIA MARIA.
-HIDRATAR APROXIMADAMENTE 18 VAINILLAS CON 1 TAZA DE CAFE.
-COLOCAR POR CAPAS LAS VAINILLAS Y LA CREMA. ESPOLVOREAR CON CHOCOLATE.
+Poner otra capa de batatas y otra vez azucar, leche y miel.
 
+No pasarse con la leche.
 
-PARA HACER MERMELADA DE FRUTAS
-PELAR Y CORTAR LA FRUTA EN TROZOS.
-POR CADA KILO DE FRUTA INCORPORAR  ½ KG DE AZUCAR. DEJAR TODA UNA NOCHE PARA QUE LARGUE EL JUGO. AÑADIR POR CADA KILO DE FRUTA 50 CC DE AGUA.
-COCCION A FUEGO MODERADO Y CUANDO HIERVE A FUEGO LENTO, REVOLVIENDO EN OCHO PARA QUE NO SE PEGUE. SEGUN LA FRUTA PUEDE LLEVAR DE 1½  HORA A 3 HS.
-PARA AROMATIZAR, DEPENDIENDO DE LA FRUTA, SE LE PUEDE AGREGAR CASCARITAS DE LIMON, DE NARANJA, CANELA, CLAVO DE OLOR, RAYADURA DE JENJIBRE.
-SI TIENE COLOR, CONSISTENCIA Y LA FRUTA ESTA BLANDA PERO TIENE PEDAZOS GRANDES, SE PUEDE PASAR POR LA LICUADORA O BATIDORA.
+Llevar 1 hora en horno moderado.
 
+## Postre Chocolino
 
-FLAN DE DULCE DE LECHE DE ALCIRA
-CALENTAR 1 LITRO DE LECHE CON 10 GR DE ALMIDON DE MAIZ Y 600 GR DE DULCE DE LECHE REPOSTERO (PURATOS) HASTA QUE COMIENCE A ESPESAR O AL PRIMER HERVOR. MEZCLAR BATIENDO APENAS 4 HUEVOS GRANDES, 5 YEMAS Y 120 GR DE AZUCAR. UNIR AMBAS PREPARACIONES Y COLAR. VOLCAR EN MOLDE PREVIAMENTE ACARAMELADO Y HORNEAR A BAÑO MARIA. SI EL MOLDE ES CON TUBO CENTRAL DE 24 CM, PUEDE DEMORAR 1 HORA A 150 o 160 ªC, SI SON INDIVIDUALES, MENOS.
+**Crema:** mezclar 400 gr de dulce de leche, 400 gr de queso crema y 150 gr de crema de leche.
 
+**Chocolinas:** bañar 3 paquetes de galletitas de chocolinas en cafe.
 
-FLAN DE DULCE DE LECHE DE LA ABUELA AURELIA
-BATIR 6 HUEVOS CON 100 GR DE AZUCAR, AGREGAR ½  LITRO DE LECHE Y LUEGO ½ KG DE DULCE DE LECHE. ACARAMELAR UNA BUDINERA E INCORPORAR EL PREPARADO ANTERIOR.  LLEVAR AL HORNO MODERADO Y EN BAÑO MARIA DURANTE 35 o 40 MINUTOS.
+Poner una capa de chocolinas en una fuente y sobre estas una capa de la crema, y asi sucesivamente.
 
-FLAN DE PERAS Y CHOCOLATE
-LLEVAR A PUNTO  DE  EBULLICION  ½  LITRO DE LECHE Y 200 GR DE CREMA DE LECHE. INCORPORARLE 150 GR DE CHOCOLATE EN BARRA, TROZADO, REVOLVER CON CUCHARA DE MADERA. BATIR 8 HUEVOS CON 100 GR DE AZUCAR, INCORPORARLE LA LECHE CHOCOLATADA Y LAS PERAS FILETEADAS. VERTERLO EN MOLDE ACARAMELADO Y COCINARLO A BAÑO MARIA DE 40 A 50 MINUTOS.
+Llevar por 3 horas a la heladera.
 
-CASCARAS DE NARANJAS CONFITADAS
-COCINAR EL JUGO DE 2 NARANJAS, IGUAL CANTIDAD DE AGUA Y DE AZUCAR, HASTA QUE SE DILUYA EL AZUCAR. AGREGAR 1 CUCHARADITA DE BICARBONATO DE SODIO (OJO QUE SUBE), Y LAS CASCARAS DE NARANJAS SIN SEMILLAS PERO CON EL HOLLEJO, CORTADAS EN TIRITAS. COCINAR POR 30 MINUTOS. UNA VEZ FRIAS PASARLAS POR AZUCAR IMPALPABLE. O BAÑARLAS CON CHOCOLATE.
+## Tiramisu
 
+1. Batir 2 yemas con 1 taza de azucar y luego agregar 300 gr de queso crema.
+2. Batir 2 claras a punto nieve y agregar de a poco 1 taza de azucar.
 
+Unir ambas preparaciones, agregando una copita de tia maria.
 
+Hidratar aproximadamente 18 vainillas con 1 taza de cafe.
 
+Colocar por capas las vainillas y la crema.
 
-RELLENOS DE CREPES DULCES
-1-CREMA, AZUCAR, FRUTILLAS.
-2-BANANAS CARAMELIZADAS Y FLAMBLEADAS AL RUM.
-3-CREMA, AZUCAR, CANELA, ESENCIA DE VAINILLA, DURAZNO AL NATURAL, ALMENDRAS.
-4-ANANA, AZUCAR NEGRA, CREMA, MANI.
+Espolvorear con chocolate.
 
+## Mermelada de frutas
+Pelar y cortar la fruta en trozos.
 
-CREPES SUZETTE, PARA 12 CREPES
-PONER EN UNA CACEROLA: 1 TAZA DE AZUCAR, 1 RALLADURA DE NARANJA (o EN JULIANA) Y 1 TAZA DE JUGO DE NARANJA. COCINAR HASTA QUE TOME PUNTO DE ALMIBAR. SEPARAR EN 2 PARTES. AGREGAR A UNA MITAD 70 GR DE MANTECA Y VOLVER AL FUEGO. PASAR CADA CREPE POR ESTA MEZCLA, DOBLAR EN CUATRO Y PONER EN UNA FUENTE DE METAL. BAÑARLOS CON  EL ALMIBAR RESTANTE. CALENTAR TODO. BAÑAR CON 2 COPITAS DE COINTREAU Y ENCENDER,
-SE PUEDE REEMPLAZAR EL COINTREAU CON:  ¼ TAZA DE TRIPLE SEC Y ¼ TAZA DE BRANDY CALENTADOS Y VOLCARLOS SOBRE LOS CREPES Y PRENDERLES FUEGO, FLAMBEARLOS.
+Por cada kilo de fruta incorporar ½ kg de azucar.
 
+Dejar toda una noche para que largue el jugo.
 
-CLAFOUTIS DE CEREZA U OTRA FRUTA.
-PONER ABUNDANTES CEREZAS (200 GR) DESCAROZADAS (FRESCAS O EN ALMIBAR Y ESCURRIDAS) DENTRO DE UN MOLDE (BAJO Y DE 20 CM DE DIAMETRO) ENMANTECADO.
-CUBRIR CON UN BATIDO DE 3 HUEVOS, 60 GR DE HARINA (o 30 GR HARINA Y 30 DE ALMENDRA MOLIDA), 90 GR DE AZUCAR Y 200 ML  DE LECHE, QUEDA UNA MASA LIGERA.. LLEVAR AL HORNO DE 180ª POR 30 MINUTOS. DURANTE LA COCCION,  EL BATIDO SE VA AL FONDO Y EMERGEN LAS FRUTAS. ESPOLVOREAR CON ABUNDANTE AZUCAR IMPALPABLE Y SERVIR.
+Añadir por cada kilo de fruta 50 cc de agua.
 
-PARA CLAFOUTIS DE FRUTOS ROJOS: 4 HUEVOS, 4 CUCHARADAS DE HARINA DE ALMENDRAS, 5 CUCHARADAS DE MAICENA, 2 TAZAS DE LECHE, 1 TAZA DE AZUCAR. 150 GR DE FRUTOS ROJOS, 1 CUCHARADITA DE ESCENCIA DE VAINILLA. HORNO  180ª 40/45 MINUTOS.
+Coccion a fuego moderado y cuando hierve a fuego lento, revolviendo en ocho para que no se pegue.
 
-PARA CLAFOUTIS DE MANZANAZ ROJAS: 80 GR DE AZUCAR, 100 GR HARINA, 30 GR ALMENDRAS MOLIDAS, 150 GR CREMA DE LECHE, 100 ML DE LECHE, 50 GR DE MANTECA, 5 MANZANAS ROJAS GRANDES, 4 HUEVOS GRANDES, 2 CUCHARADAS DE CANELA. LA MANTECA DERRETIDA MEZCLARLA A LO ULTIMO. 40 MINUTOS DE HORNO.
+Segun la fruta puede llevar de 1½ hora a 3 hs.
 
+Para aromatizar, dependiendo de la fruta, se le puede agregar cascaritas de limon, de naranja, canela, clavo de olor, rayadura de jenjibre.
 
+Si tiene color, consistencia y la fruta esta blanda pero tiene pedazos grandes, se puede pasar por la licuadora o batidora.
 
-BORRACHITO CON 24 VAINILLAS.
-COLOCAR EN EL MOLDE 12 VAINILLAS PREVIAMENTE BAÑADAS EN VINO DULCE ( MARSALA, OPORTO, MOSCATO) DE MODO QUE NO QUEDEN TOTALMENTE BLANDAS.
-HACER UN POSTRE DE CHOCOLATE DE 75 GR CON  ¾ L. DE LECHE (O MENOS), ESPERAR QUE SE ENTIBIE Y VOLCARLO SOBRE LAS VAINILLAS. COLOCAR UNA SEGUNDA CAPA DE VAINILLA TAMBIEN BAÑADAS CON EL VINO DULCE. HACER UNA CREMA PASTELERA VOLCARLA Y SOBRE LA SEGUNDA CAPA DE VAINILLAS. LLEVAR A LA HELADERA.
-COMO DECORACION, COLOCARLE EN LA SUPERFICIE, RAYADURA DE CHOCOLATE, CHOCOLINO, ETC.
-TAMBIEN SE PUEDEN INVERTIR LOS POSTRES Y TERMINAR CON EL DE CHOCOLATE, DECORANDOLO CON AZUCAR IMPALPABLE (UNA VEZ FRIO) MERENGUE MOLIDO, ETC.
+## Flan de Dulce de Leche de Alcira
+Calentar 1 litro de leche con 10 gr de almidon de maiz y 600 gr de dulce de leche repostero (puratos) hasta que comience a espesar o al primer hervor.
 
+Mezclar batiendo apenas 4 huevos grandes, 5 yemas y 120 gr de azucar.
 
-OTRO BORRACHITO TIA NELY
-COLOCAR EN EL MOLDE LAS VAINILLAS PREVIAMENTE BAÑADAS EN VINO DULCE ( MARSALA, OPORTO, MOSCATO) DE MODO QUE NO QUEDEN TOTALMENTE BLANDAS.
-HACER UNA MEZCLA DE 200 GR DE CREMA DE LECHE CON 400 GR DE DULCE DE LECHE.
-IR ALTERNANDO,  UNA CAPA DE VAINILLAS, UNA CAPA DE LA MEZCLA, UNA CAPA DE VAINILLAS, UNA DE MEZCLA Y ASI SUCESIBAMENTE. TERMINAR ESPOLVOREANDO TODO CON COCO RALLADO.
+Unir ambas preparaciones y colar.
 
+Volcar en molde previamente acaramelado y hornear a baño maria.
 
-SABLEE DE ALMENDRAS
-300 GR DE HARINA (1), 100 GR DE AZUCAR IMPALPABLE (2), 200 GR MANTECA (3), 80 GR ALMENDRAS PELADAS TOSTADAS Y MOLIDAS (4), Y 1 HUEVO (5).
+Si el molde es con tubo central de 24 cm, puede demorar 1 hora a 150 o 160 ªc, si son individuales, menos.
 
-CON RELLENO CON FRUTOS ROJOS:
-500 GR DE DULCE DE LECHE, 500 CC DE CREMA BATIDA Y 500 GR DE FRUTOS ROJOS.
+## Flan de Dulce de Leche de la abuela Aurelia
+Batir 6 huevos con 100 gr de azucar.
 
-PONER 1, 2  Y 3 Y HACER UNA ARENA, AGREGAR 4 Y FORMAR UNA MASA CON 5. REPOSARLA 30 MINUTOS EN LA HELADERA CON PAPEL FILM.
-ESTIRAR LA MASA, EN MESADA ENHARINADA, DE 1 CM DE ESPESORY CORTAR EN CIRCULOS DE 26 CM DE DIAMETRO (3 EN TOTAL).
-LLEVAR A HORNO PRECALENTADO SOBRE PAPEL MANTECA, A TEMPERATURA MODERADA 180ª, HASTA QUE ESTE DORADA (12`MINUTOS) Y DEJAR ENFRIAR.
-UNTAR LOS CIRCULOS CON DULCE DE LECHE, CREMA Y LOS FRUTOS ROJOS, Y ENCIMARLOS. DECORAR CON HOJAS DE MENTA.
+Agregar ½ litro de leche y luego ½ kg de dulce de leche.
 
-KÂSSE KUCHE DE SOFI
-BASE: 120 GR MANTECA, 80 GR AZUCAR, 240 GR HARINA, SI ES NECESARIO, AGREGAR 1 o 2 CUCHARADAS DE POSTRE DE AGUA FRIA.
-PARTE SUPERIOR: 3 HUEVOS, PIZCA DE SAL, 80 GR DE MANTECA, 120 GR DE AZUCAR, 3 CUCHARADAS DE POSTRE DE HARINA, 500 GR QUESO CREMA Y 250 GR DE RICOTA.
-LOS HUEVOS HAY QUE SEPARARLOS Y LAS CLARAS UNIDAS A LOS DEMAS PERO BATIDAS A NIEVE.
-HORNO MINIMO POR 45 MINUTOS.
+Acaramelar una budinera e incorporar el preparado anterior.
 
-TORTA DE ZANAHORIAS
-LICUAR 3 ZANAHORIAS, 1 TAZA DE LECHE, 1 TAZA DE ACEITE Y 3 HUEVOS. LUEGO AGREGAR 3 TAZAS DE HARINA, 2 TAZAS DE AZUCAR, 1 CUCHARADA DE POLVO DE HORNEAR Y 1 TAZA DE GOTITAS DE CHOCOLATE. MEZCLAR Y COLOCAR EN MOLDE ENMANTECADO Y ENHARINADO Y LLEVAR A HORNO PRECALENTADO DE 80ª POR 40 MINUTOS.
-COBERTURA:1 CAJITA DE CREMA DE LECHE, 1 LATA DE LECHE CONDENSADA Y CHOCOLATE AMARGO, CALENTAR HASTA QUE HIERVA.
+Llevar al horno moderado y en baño maria durante 35 o 40 minutos.
 
-SALSAS FRIAS o PARA DEEPEAR
+## Flan de peras y chocolate
+Llevar a punto de ebullicion ½ litro de leche y 200 gr de crema de leche.
 
-SALSA CRIOLLA: 
-2 TOMATES, ½ PIMIENTO ROJO, ½ PIMIENTO VERDE,1 CEBOLLA,
-4 CEBOLLITAS DE VERDEO, 3 DIENTES DE AJO, 4 CUCHARADAS VINAGRE DE VINO, 2 CUCHARADAS ACEITE DE OLIVA, ¼ CUCHARADITA AJI MOLIDO, ¼ CUCHARADITA COMINO, ¼ CUCHARADITA PIMIENTA NEGRA, PEREJIL.	
+Incorporarle 150 gr de chocolate en barra (trozado).
 
-ADEREZO SALSA DE SOJA: PARA ENSALADAS DE LECHUGA, ZANAHORIAS, ETC.
-SALSA DE SOJA, ACEITE DE OLIVA Y JUGO DE LIMON.
+Revolver con cuchara de madera.
 
-ADEREZO AGRIDULCE: PARA LA ENSALADA DE PAPAS HERVIDAS
-2 CDAS ACEITE DE OLIVA, 1 CDA ACETO, 1 CDA MIEL, 1 CDA MOSTAZA,
-1 CDITA JUGO LIMON, 1 CDITA SAL.
+Batir 8 huevos con 100 gr de azucar.
 
-ADEREZO DE ALBAHACA: ALBAHACA, AJO, VINAGRE, ACEITE DE OLIVA, PIMIENTA, SAL. LICUAR.
+Incorporarle la leche chocolatada y las peras fileteadas.
 
-SALSA PESTO: 3 DIENTES DE AJO, 10 HOJAS DE ALBAHACA,
-2 CUCHARADAS DE QUESO RALLADO, 1 CUCHARADA COLMADA DE NUECES, ½ TAZA DE ACEITE. LICUAR
+Verterlo en molde acaramelado y cocinarlo a baño maria de 40 a 50 minutos.
 
-DIP DE ALBAHACA: SOLAMENTE LLEVA MAYONESA Y ALBAHACA PICADA.
+### Cascaras de naranjas confitadas
+Cocinar el jugo de 2 naranjas, igual cantidad de agua y de azucar, hasta que se diluya el azucar.
 
-DIP DE PEREJIL: PEREJIL, AJO Y MAYONESA.
+Agregar 1 cucharadita de bicarbonato de sodio (ojo que sube), y las cascaras de naranjas sin semillas pero con el hollejo, cortadas en tiritas.
 
-GUACAMOLE: 1 PALTA, 1 CUCHARADA DE CEBOLLA DE VERDEO, AJO PICADO, TOMATE, JUGO DE LIMON, ACEITE DE OLIVA Y SAL.
+Cocinar por 30 minutos.
 
-SALSA DE PALTA: PALTA, MIEL, CILANDRO, CEBOLLA ATENUADA (CEBOLLITA DE VERDEO O CIBULETTE), ACEITE DE OLIVA, SAL Y PIMIENTA. LICUAR
+Una vez frias pasarlas por azucar impalpable o bañarlas con chocolate.
 
-OTRA SALSA DE PALTA: PALTA PISADA, JUGO DE LIMON,  QUETCHUP, MOSTAZA, SAL, PIMIENTA. OPCION: CREMA DE LECHE.
+## Rellenos dulces para crepes
 
-SALSA PIMIENTO: PIMIENTO MORRON ROJO SIN PIEL, AJO, AZUCAR Y AGUA. 
+1. Crema, azucar, frutillas.
+1. Bananas caramelizadas y flambleadas al rum.
+1. Crema, azucar, canela, esencia de vainilla, durazno al natural, almendras.
+1. Anana, azucar negra, crema, mani.
 
-SALSA QUESO CREMA: QUESO CREMA, ACEITUNAS, CEBOLLA BIEN PICADAS (PASADAS POR AGUA HELADA Y ENJUAGAR), Y CREMA DE LECHE
+## Crepes suzette
+Para 12 crepes poner en una cacerola:
 
-SALSA DE ANCHOAS: 4 ANCHOAS, ACEITE DE OLIVA, ROMERO Y JUGO DE LIMON, Y A LA LICUADORA.
-OTRA SALSA DE ANCHOAS: 8 FILET DE ANCHOAS, MAYONESA, MOSTAZA, POCO PEREJIL, JUGO LIMON. PARA SUAVIZAR AGREGAR CREMA DE LECHE. LICUADORA.
+- 1 taza de azucar
+- 1 ralladura de naranja (o en juliana)
+- 1 taza de jugo de naranja.
 
-DIP DE ALMENDRAS Y CURRY: PROCESAR 50 GRS. DE ALMENDRAS, 
-1 ½ TAZAS DE MAYONESA, 4 CUCHARADAS DE CREMA DE LECHE, 
-1 CUCHARADITA DE CURRY. 
+Cocinar hasta que tome punto de almibar.
 
-DIP DE ATUN: PROCESAR 1 LATA DE ATUN ESCURRIDO, 1 HUEVO DURO,
- 2 CUCHARADAS DE CREMA DE LECHE, 1 CUCHARADITA DE MOSTAZA Y
- 1 CUCHARADA DE CEBOLLA DE VERDEO.
+Separar en 2 partes.
 
-DIP DE ROQUEFORD: QUESO ROQUEFORD, CREMA DE LECHE, NUECES Y UN GOLPE DE COGNAC. PUEDE LLEVAR TAMBIEN TROCITOS DE APIO.
+Agregar a una mitad 70 gr de manteca y volver al fuego.
 
-SALSA CESAR
-MACHACAR 1 DIENTE DE AJO CON 50 GR. ANCHOAS. AGREGARLE LA 
-MEZCLA DE 3 YEMAS CON 1 CUCHARADITA DE MOSTAZA Y
- 2 CUCHARADAS DE JUGO DE LIMON. BATIR HASTA LOGRAR HOMOGENIDAD E INCORPORARLE 100 ML DE ACEITE DE GIRASOL DE A POCO: PRIMERO UNAS GOTAS Y DESPUES EN UN HILO FINO PARA QUE NO SE CORTE. LUEGO SUMARLE 2 CUCHARADAS DE QUESO PARMESANO Y PISCA PIMIENTA.
+Pasar cada crepe por esta mezcla, doblar en cuatro y poner en una fuente de metal.
 
-OTRA SALSA CESAR
-200 ML ACEITE GIRASOL,1 HUEVO (MAYONESA), SAL, PIMIENTA, 
-2 DIENTES AJO PICADO, 6 ANCHOAS EN ACEITE, 1 ½ CUCHARADITAS DE MOSTAZA, 1 TAZA QUESO PARMESANO, GOTAS DE SALSA INGLESA, VINAGRE DE VINO. LICUAR TODO, SE PUEDE AGREGAR JUGO DE LIMON.
+Bañarlos con el almibar restante.
 
-SALSA RANCHERA
-90 ML CREMA DE LECHE, JUGO 1/2 LIMON (3 CUCHARADAS), 5 ML LECHE (5 CUCHARADAS), ½ CUCHARADA MAYONESA, ½ CUCHARADITA CEBOLLA EN POLVO, ½ CUCHARADITA AJO  EN POLVO, ½ CUCHARADITA DE SAL, UNA PIZCA PIMIENTA NEGRA, UN POCO DE CEBOLLITA DE VERDEO.
+Calentar todo, bañar con 2 copitas de cointreau y encender.
 
-ALI OLI
-1 HUEVO, 250 ML ACEITE DE OLIVA, 2  DIENTES DE AJO (SACAR CORAZON), 1 CUCHARADA DE JUGO DE LIMON, PIZCA DE SAL. LICUADORA.
+Se puede reemplazar el Cointreau con: ¼ taza de triple sec y ¼ taza de brandy calentados y volcarlos sobre los crepes y prenderles fuego, flambearlos.
 
-ALI OLI MAS SENCILLA
-(YA QUE HUEVO, ACEITE Y JUGO DE LIMON  ES MAYONESA) AGREGAR AJO  A UNA BUENA MAYONESA AL LIMON. 
-PONER LOS DIENTES DE AJO EN EL HORNO POR 10 MINUTOS, AL SACARLOS, APRETARLOS PARA QUE SALGA LA CREMA.
+## Clafoutis de cereza
+Poner abundantes cerezas (200 gr) descarozadas (frescas o en almibar y escurridas) dentro de un molde (bajo y de 20 cm de diametro) enmantecado.
 
-CREMA DE AJO
-PURE DE AJO (PONER LOS DIENTES DE AJO EN EL HORNO POR 
-10 MINUTOS, AL SACARLOS, APRETARLOS PARA QUE SALGA LA CREMA), CASANCREM, JUGO DE LIMON Y MAYONESA NATURA.
+Cubrir con una masa ligera hecha batiendo:
+- 3 huevos
+- 60 gr de harina (o 30 gr harina y 30 de almendra molida)
+- 90 gr de azucar
+- 200 ml de leche
 
-SALSA DE ACEITUNAS
-CON 2 HUEVOS Y 1 TAZA ACEITE DE GIRASOL HACER UNA MAYONESA, AGREGAR 7 ACEITUNAS DESCAROZADAS,1 CUCHARADITA DE SAL Y EL JUGO DE ½ LIMON. PROCESAR.
+Llevar al horno de 180ª por 30 minutos.
 
-CHIMICHURRI  PARA 100 KG. DE MAMONA 
-20 KG. CEBOLLA, 5 KG. PIMIENTOS, 23 KG. TOMATES, 5 KG. ZANAHORIAS. 25 CABEZAS DE AJO Y 5 LATAS DE DURAZNO AL NATURAL. PROCESAR.
+Durante la coccion, el batido se va al fondo y emergen las frutas.
 
-MACERAR LA CARNE CON SAL, PIMIENTA, AJI MOLIDO Y COGNAC.
-COCINAR EN EL HORNO  AGREGANDOLE VINO TINTO O CALDO DE CARNE.
-POR ULTIMO AGREGARLE LA SALSA Y COCINAR HASTA QUE ESTE TIERNA
+Espolvorear con abundante azucar impalpable y servir.
 
-SALSA DE PIMIENTOS
-PROCESAR 3 PIMIENTOS MORRONES, EL JUGO DE ½ LIMON, 
-1 CUCHARADITA DE PIMENTON Y 1 CUCHARADITA DE SAL,  INCORPORAR
-2 CUCHARADAS DE CREMA DE LECHE Y FINALMENTE AGREGAR
-6 PEPINILLOS MUY PICADOS.
+## Clafoutis de frutos rojos
+Poner frutos rojos (150 gr) dentro de un molde (bajo y de 20 cm de diametro) enmantecado.
 
-SALSA MALTESA ( MAYONESA, NARANJA Y MOSTAZA)
-MEZCLAR 1 TAZA DE MAYONESA, 1 CUCHARADA DE JUGO DE NARANJA, 
-1 CUCHARADITA DE RALLADURA DE CASCARA DE NARANJA Y
-1 CUCHARADA DE MOSTAZA.
+Cubrir con una masa ligera hecha batiendo:
+- 4 huevos
+- 4 cucharadas de harina de almendras
+- 5 cucharadas de maicena
+- 2 tazas de leche
+- 1 taza de azucar
+- 1 cucharadita de escencia de vainilla.
 
-SALSA A LA MAITRE D´HOTEL
-SE CALIENTA UNA TAZA, DESPUES SE COLOCA LA MANTECA Y SE BATE HASTA QUE QUEDA COMO UNA CREMA, SE LE VA AGREGANDO PEREJIL FINAMENTE PICADO Y JUGO DE LIMON.  CONDIMENTAR CON SAL Y PIMIENTA.
-LAS PROPORCIONES SON: 100 GR DE MANTECA, 15 GR DE PEREJIL,               1 CUCHARADITA DE JUGO DE LIMON.
+Horno 180ª 40-45 minutos.
 
-CONDIMENTO FRANCES:
-RICA PARA CONDIMENTAR ENSALADAS EN REEMPLAZO DEL TRADICIONAL ACEITE, VINAGRE Y SAL.
-6 CUCHARADAS DE ACEITE DE OLIVA, 6 DE KETCHUP, 2 DE JUGO DE LIMON, 1 CDITA DE MOSTAZA, SAL Y PIMIENTA.
+Durante la coccion, el batido se va al fondo y emergen las frutas.
 
-CONDIMENTO FRANCES: 
-4 CUCHARADAS DE ACEITE DE OLIVA, 4 DE KETCHUP, 2 DE JUGO DE LIMON, 1 CDITA DE MOSTAZA, SAL Y PIMIENTA.
+Espolvorear con abundante azucar impalpable y servir.
 
+## Clafoutis de manzanaz rojas
+Poner 5 manzanas rojas grandes dentro de un molde (bajo y de 20 cm de diametro) enmantecado.
 
-ADEREZO COMPLICADO:     NO PROBADO
-CALENTAR A BAÑO MARIA: 4 YEMAS, 2  CUCHARADAS DE AGUA FRIA, 
-2 CUCHARADAS DE VINAGRE,
-1 CUCHARADITA DE MOSTAZA, 1 CUCHARADITA DE AZUCAR, SAL. ESPESAR COMO LA CONSISTENCIA DE LA MAYONESA Y AGREGARLE 
-200 GR DE CREMA DE LECHE. LLEVAR A LA HELADERA. 
 
-SALSA VITEL TONE
-350 GR DE MAYONESA, 200 GR ATUN AL NATURAL, 2 CUCHARADAS DE ALCAPARRAS, 4 FILET DE ANCHOAS, JUGO DE  ½  LIMON, SAL Y PIMIENTA.
+Cubrir con una masa ligera hecha batiendo:
+- 80 gr de azucar
+- 100 gr harina
+- 30 gr almendras molidas
+- 150 gr crema de leche
+- 100 ml de leche
+- 4 huevos grandes
+- 2 cucharadas de canela
+- 50 gr de manteca derretida (mezclarla a lo ultimo)
 
-SALSA TARTARA
-MAYONESA, MOSTAZA, PICKLES, PEREJIL, HUEVO DURO, ALCAPARRAS.
+40 Minutos de horno.
 
-DIP DE ALMENDRAS
-MEZCLAR 200 GR DE QUESO CREMA CON 2 ó 3 CUCHARADAS DE AGUA, 30 GR DE ALMENDRAS PICADAS Y 1 CUCHARADA DE HIERBAS FRESCAS PICADAS ( ALBAHACA, PEREJIL, OREGANO).
+Durante la coccion, el batido se va al fondo y emergen las frutas.
 
+Espolvorear con abundante azucar impalpable y servir.
 
-SALSA PARA PECETO O CARNES FRIAS
-MAYONESA, ACEITUNAS VERDES, CEBOLLITAS EN VINAGRE PICADAS, 1 CUCHARADITA DE MOSTAZA, JUGO DE LIMON Y KETCHUP.
+## Borrachito
+Colocar en el molde 12 vainillas previamente bañadas en vino dulce (marsala, oporto, moscato), de modo que no queden totalmente blandas.
 
+Hacer un postre cocinando 75 gr  de chocolate con ¾ de litro de leche (o menos)
 
-ADEREZO PARA ENSALADAS HERMANA BERNARDA
-4 CUCARADAS SOPERAS DE ACEITE, 2 CUCHARADAS SOPERAS DE VINAGRE, 1 CUCHARADITA DE AZUCAR, 1 CUVHARADITA DE MOSTAZA.
+Esperar que se entibie y volcarlo sobre las vainillas.
 
-SALSAS CALIENTES
+Colocar una segunda capa de vainilla también bañadas con el vino dulce.
 
+Hacer una crema pastelera volcarla y sobre la segunda capa de vainillas.
 
-SALSA ITALIANA CALIENTE: SALTEAR EN ACEITE DE OLIVA 
-2 CEBOLLAS CORTADAS EN JULIANA, AÑADIR 8 FETAS DE PANCETA CORTADA EN TIRAS, DORAR. INCORPORAR 2 VASITOS DE VINO BLANCO,  1 PIMIENTO CORTADO CHICO, Y  4 TOMATES PELADOS Y TRITURADOS. CON FUEGO BAJO REDUCIR A LA MITAD. SERVIR SOBRE PASTA Y ESPARCIR QUESO RALLADO.
+Llevar a la heladera.
 
-SALSA DE QUESO (MEJOR)
-DERRETIR 2 CUCHARADAS DE MANTECA Y AGREGARLE 2 CUCHARADAS DE HARINA Y MEZCLAR HASTA OBTENER UNA PASTA.  INCORPORARLE    1 1/2  TAZA DE LECHE (BECHAMEL), REVOLVER HASTA QUE HIERVA Y ESPACE, BAJAR LA LLAMA Y AGRAGARLE 1 TAZA DE QUESO RALLADO (GRUYERE, FONTINA, ETC).  COCINAR  HASTA QUE SE DERRITA, CONDIMENTAR CON SAL, PIMIENTA Y ½ CUCHARADITA DE MOSTAZA.
+Decorar la superficie con rayadura de chocolate, chocolino, etc.
 
-SALSA DE QUESO: MEZCLAR 1 VASO DE LECHE CON ½ TAZA DE QUESO FUNDIDO. SOBRE FUEGO NORMAL REMOVER Y COCER HASTA QUE QUEDE UNA MASA HOMOGENEA, CONDIMENTAR Y SERVIR
+Tambien se pueden invertir los postres y terminar con el de chocolate, decorandolo con azucar impalpable (una vez frio) merengue molido, etc.
 
-SALSA ROQUEFORT: A UNA SALSA BLANCA LIVIANA AÑADIR EL QUESO ROQUEFORT HASTA DISOLVER. PARA ¼ L. DE LECHE, 150 GRS. DE QUESO.
-SOBRE ESTA SALSA SE PUEDE AGREGAR NUECES PICADAS, QUESO RALLADO Y HORNEAR Y GRATINAR.
+## Borrachito de la Tía Nely
 
-BAÑA CAUDA: 1Y1/2 CABEZA DE AJO, 12 ANCHOAS (24 FILETES), 
-1 KG DE CREMA DE LECHE. EL MONTON DE AJO PICADO DEBE SER SIMILAR AL MONTON DE ANCHOAS PICADAS. MUCHOS TAMBIEN LE PICAN NUECES.
-OTROS, A PARTE DE LOS AJOS PICADOS, PONEN EN UNA BOLSITA AJOS ENTEROS QUE DESPUES DE LA COCCION  RETIRAN.
-SE FRIEN LOS AJOS EN ACEITE DE OLIVA, SIN LLEGAR A DORARLOS, SE AGREGAN LAS ANCHOAS, SE MEZCLA A FUEGO SUAVE, Y DE A POCO AGREGARLE LA CREMA. NI BIEN HIERVE, LLEVARLA A LA MESA.
-DICEN QUE LA ORIGINAL, LLEVA ACEITE DE OLIVA EN VEZ DE CREMA.
+Colocar en el molde las vainillas previamente bañadas en vino dulce ( marsala, oporto, moscato) de modo que no queden totalmente blandas.
+Hacer una mezcla de 200 gr de crema de leche con 400 gr de dulce de leche.
+Ir alternando, una capa de vainillas, una capa de la mezcla, una capa de vainillas, una de mezcla y asi sucesibamente. Terminar espolvoreando todo con coco rallado.
 
-SALSA CAPRECE DE LEO:
-5 TOMATES GRANDES(1 POR PERSONA). RETIRARLES EL RABO Y ROCIARLOS CON ACEITE DE OLIVA. ENVOLVERLOS CON  PAPEL DE ALUMINIO Y AL HORNO O EN LA ESSEN. (EL ALUMINIO ES PARA QUE NO SE QUEMEN O SE PEGUEN). COCINARLOS HASTA QUE ESTEN BLANDOS.
-COLOCAR TAMBIEN 1 CABEZA DE AJO CON PIEL. PINCHARLOS PARA QUE NO EXPLOTEN. CUANDO ESTEN BLANDOS, RETIRARLES LA CREMA, APRETANDOLOS.
-RETIRAR EL ALUMINIO Y LAS CASCARAS DE LOS AJOS.
-UNIR LA CREMA DE TOMATE CON LA CREMA DE AJO, CONDIMENTAR.
-AL FINAL AGREGARLE LAS HOJAS DE ALBAHACA (NO SE COCINAN) Y ABUNDANTE QUESO RALLADO. Y A LAS PASTAS!!!.
-SALSA CURRY:
-DORAR 1 CEBOLLA EN 100 GRS. DE MANTECA. AGREGAR 1 MANZANA VERDE PICADA, SALTEARLA. AÑADIR 2 CUCHARADAS DE HARINA, 
-3 CUCHARADITAS DE CURRY, ¾  L. DE CALDO DE CARNE Y SAL. COCINAR REVOLVIENDO CONSTANTEMENTE HASTA QUE ESPESE. RETIRAR Y AGREGAR 100 GRS. DE CREMA DE LECHE.
+## Sablee de almendras
 
-SALSA DE PIMIENTO: 1 TAZA DE SALSA BLANCA, 1 TAZA QUESO MANTECOSO, 1 PIMIENTO SIN PIEL PICADO, 3 CUCHARADAS DE LECHE. COCINAR A FUEGO SUAVE.
+### Ingredientes
 
-SALSA BRAVA
-1 CEBOLLA REHOGADA, 2 CUCHARADAS DE ACEITE, 1 CUCHARADA DE HARINA, 1/2  CUCHARADITA PIMENTON PICANTE, 1/2 CUCHARADITA COMINO, 4 TOQUES DE PIMIENTA NEGRA MOLIDA, 1 CALDITO DE CARNE, 250 ML DE AGUA CALIENTE, SAL. COCINAR REDUCIENDO A LA MITAD.
+- 300 gr de harina (1)
+- 100 gr de azucar impalpable
+- 200 gr manteca
+- 80 gr almendras peladas tostadas y molidas
+- 1 huevo
+- 500 gr de dulce de leche
+- 500 cc de crema batida
+- 500 gr de frutos rojos.
 
-SALSA BLANCA
-DERRETIR 50 GRS DE MANTECA, AGREGAR 1 DIENTE DE AJO PICADO (OPCIONAL), 1 CUCHARADA DE HARINA, REVOLVER PARA QUE NO SE PEGUE NI QUEME. AGREGARLE DE GOLPE ½ LITRO DE LECHE HIRVIENDO  ALGUNOS DICEN QUE HAY QUE AGREGARLE DE A POCO HASTA LOGRAR LA CONSISTENCIA DESEADA, BATIENDO TODO EL TIEMPO. POR ULTIMO, ½ CUCHARADITA DE SAL, ¼ CUCHARADITA DE PIMIENTA Y ½ CUCHARADITA DE NUEZ MOSCADA.
-EN DETERMINADAS COMIDAS SE PUEDE REEMPLAZAR LA SALSA BLANCA CON MAICENA (3 CUCHARADAS) DISUELTA EN LECHE(3/4 TAZA).
+### Preparación
+Mezclar la harina, el azucar y la manteca para hacer una arena
 
-SALSA BECHAMEL
-AL POCESO DE DERRETIR MANTECA (125 GR)Y COCINAR LA HARINA
- (125 GR) SE DENOMINA ROUX, SI LE ECHAMOS LECHE Y CREMA DE LECHE( 1 LITRO) CALIENTE ( Y COCINAMOS A FUEGO MINIMO) Y AÑADIMOS CONDIMENTOS (NUEZ MOSCADA, SAL Y PIMIENTA) OBTENEMOS LA SALSA BECHAMEL.
+Agregar las almendras molidas y formar una masa con el huevo.
 
-LA DIFERENCIA ENTRE SALSA BLANCA Y BECHAMEL ES QUE LA PRIMERA SE HACE CON LECHE. Y LA SEGUNDA CON CREMA DE LECHE Y LECHE (QUEDA MAS SUAVE).
+Reposarla 30 minutos en la heladera con papel film.
 
-SALSA 356 PARA PECETO
-FREIR CEBOLLA, PIMIENTO MORRON Y ZANAHORIA CON CALDO DE CARNE.
+En mesada enharinada, estirar la masa a 1 cm de espesor y cortar en discos de 26 cm de diametro (3 en total).
 
-SALSA DEL ESPAÑOL
-CEBOLLITAS DE VERDEO, AJO, TOMATES, ACEITUNAS NEGRAS Y ANCHOAS, TODO PICADO. COCINAR POR 20 MINUTOS APROXIMADAMENTE, AGREGANDOLE LA CANTIDAD DE CALDO NECESARIA.
+Llevar los discos a horno (precalentado a temperatura moderada 180ª C) sobre papel manteca hasta que esten dorados (12 minutos) y dejar enfriar.
 
+Untar los discos con capas de dulce de leche, crema y los frutos rojos, y encimarlos.
 
-SALSA DE ACEITUNAS (356)
-BLANQUEAR EN ACEITE 1 CEBOLLA PICADA, INCORPORAR UNAS 15 A 
-20 ACEITUNAS PICADAS Y CALDO. COCINAR HASTA OBTENER LA CONSISTENCIA ADECUADA.
+Decorar con hojas de menta.
 
-CREMA DE CHOCLOS
-HERVIR 6 CHOCLOS Y DESGRANARLOS.  FREIR  EN MANTECA 
-(1 CUCHARADA) 2 CEBOLLAS Y 1 PIMIENTO, INCORPORAR LOS GRANOS  DE CHOCLO. SAZONAR CON SAL Y AZUCAR (1 CUCHARADITA).  AGREGAR 1 TAZA DE LECHE Y 2 CUCHARADAS DE CREMA DE LECHE Y COCINAR HASTA QUE TOME CONSISTENCIA. PUEDE INCORPORARSE 1 CUCHARADA DE HARINA SI ES NECESARIO O PASARLA POR LA LICUADORA.  POR ULTIMO AGREGARLE QUESO RALLADO.
+## Kâsse kuche de Sofi
 
-SALSA HOLANDEZA
-3 CUCHARADAS DE MANTECA DERRETIDA, 1 CUCHARADA DE JUGO DE LIMON Y I/2 TAZA DE MAYONESA. SERVIR TIBIO.
+**Base:**
+- 120 gr manteca
+- 80 gr azucar
+- 240 gr harina
+- 1 o 2 cucharadas de postre de agua fria (si es necesario)
 
-SALSA DE HONGOS
-DORAR EN MANTECA ½ CEBOLLA RALLADA, AGREGAR 25 GR DE HONGOS SECOS REMOJADOS DURANTE 7 HORAS EN ½ TAZA DE AGUA
- (O CHAMPIGNONES PICADOS).  AGREGAR ½ TAZA DE VINO, UNA CUCHARADA DE JUGO DE LIMON, ½ CUCHARADA DE PEREJIL PICADO, SAL, PIMIENTA Y CREMA.  SE PUEDE AGREGAR UNA CUCHARADA DE MOSTAZA.  COCINAR .  Y PARA ESPESAR , SI ES NECESARIO,  UNA CUCHARADA DE MAIZENA.
+**Parte superior:**
+- 3 huevos
+- Pizca de sal
+- 80 gr de manteca
+- 120 gr de azucar
+- 3 cucharadas de postre de harina
+- 500 gr queso crema
+- 250 gr de ricota
 
-SALSA DE HONGOS CON SOPA CREMA DE HONGOS
-DERRETIR 2 CUCHARADAS DE MANTECA, AÑADIR 2 CUCHARADAS DE CEBOLLA PICADA Y DORARLA.  AGREGAR 1 TAZA DE SOPA CREMA DE HONGOS CONCENTRADA, ¼ TAZA DE LECHE O CREMA DE LECHE, UNA CUCHARADA DE PEREJIL PICADO, SAL Y PIMIENTA.  MEZCLAR Y COCINAR. HASTA LA CONSISTENCIA ADECUADA.
+Los huevos hay que separarlos y las claras unidas a los demas pero batidas a nieve.
 
-SALSA DE ANANA
-REHOGAR 1 CEBOLLA GRANDE, AGREGAR EL ANANA EN TROZOS DE UNA LATA. 1 TAZA DEL JUGO DE ANANA, 1 TAZA DE CALDO Y COCINAR HASTA HOMOGENIZAR.  ESPESAR CON 1 CUCHARADA DE MAIZENA Y TERMINAR CON 100 GR DE CREMA DE LECHE.
+Horno minimo por 45 minutos.
 
-CHUTNEY- RECETA DE LA ESTANCIA CRISTINA EN EL UPSALA.
-2 MORRONES ROJOS, 2 MORRONES VERDES, 2 CEBOLLAS, 500 GR. AZUCAR NEGRA, 100 GR. AZUCAR BLANCA, 250 GR PASAS NEGRAS SIN SEMLLAS,
-1 LITRO VINAGRE DE ALCOHOL, 50 GR DE LA MEZCLA DE LAS SIGUIENTES  ESPECIAS: PIMIENTA, NUEZ MOSCADA, CLAVO DE OLOR, CANELA.
-PICAR TODOS LOS INGREDIENTES, PONER EN LA HORNALLA Y REDUCIR HASTA QUE TOME LA CONSISTENCIA DE UNA MERMELADA.
+## Torta de zanahorias
+Licuar 3 zanahorias, 1 taza de leche, 1 taza de aceite y 3 huevos.
 
-DIFERENTES ENTRADAS O ACOMPAÑAMIENTOS SALADOS
+Luego agregar 3 tazas de harina, 2 tazas de azucar, 1 cucharada de polvo de hornear y 1 taza de gotitas de chocolate.
 
-CHIPÁ DE EMILIA.
-A) 3 TAZAS  HARINA DE MANDIOCA
-A) 1 TAZA DE QUESO DE RALLAR
-A) 1 CUCHARADITA DE POLVO DE HORNEAR
-A) 1 CUCHARADITA DE SAL
-B) 75 GRS. DE MANTECA
-C) 2 HUEVOS
-D) ½ TAZA DE SODA PARA UNIR O CANTIDAD NECESARIA.
-E) 1 TAZA QUESO FONTINA PICANTE, O CASCARA COLORADA CORTADO EN CUBITOS.
-          
-MEZCLAR TODOS LOS SECOS (A). TRABAJAR CON LA MANTECA (B) HASTA  OBTENER CONSISTENCIA DE ARENA.  AGREGAR LOS HUEVOS (C) FORMANDO UNA MASA QUE DEBE UNIRSE CON LA MENOR CANTIDAD DE SODA (o LECHE) POSIBLE (D). RESULTA UNA MASA SUAVE A LA QUE SE LE AGREGAN LOS CUBITOS DE FONTINA (E).
-HACER BOLITAS O PANCITOS (HACIENDOLES UN TAJITO EN EL MEDIO) Y COCINAR 15 MINUTOS A 180 GRADOS, HASTA QUE SE   DOREN. 
-A MEDIA COCCION, SI ES NECESARIO, DARLOS VUELTA.
-PREFERENTEMENTE COMERLOS TIBIOS.
-SON LOS MAS RICOS.
+Mezclar y colocar en molde enmantecado y enharinado.
 
-TORTAS FRITAS.
-500 GRS. HARINA 
-10 GRS. SAL
-250 AGUA
-5 AZUCAR
-65 GR GRASA DE CERDO.
-(SE LE PUEDE AGREGAR 1 HUEVO).
-HACER LA MASA EL DIA ANTERIOR.
-FREIR CON 400 GRS. DE GRASA DE CERDO.
-QUE LA GRASA NO ESTE TAN CALIENTE, COCINAR DESPACIO, 
-5 MINUTOS C/U.
-CADA TORTA FRITA DEBE PESAR APROX. 35 GRS.
-HACERLAS FINITAS (½ CM)Y PRACTICARLES UN AGUJERO EN EL CENTRO.
+Llevar a horno precalentado de 80ª por 40 minutos.
 
+**Cobertura:** 1 cajita de crema de leche, 1 lata de leche condensada y chocolate amargo, calentar hasta que hierva.
 
+# Salsas frias o para deepear
 
-FLAMMKUCHEN
-COLOCAR SOBRE UNA ASADERA UN PAPEL MANTECA Y SOBRE ESTE UNA MASA DE TARTA. ESPARCIR POR TODA SU SUPERFICIE QUESO CREMA. Y SOBRE ESTA COLOCAR TIRITAS DE PANCETA AHUMADA,TROCITOS DE CEBOLLITA DE VERDEO, QUESO RALLADO Y CONDIMENTAR. LLEVAR AL HORNO POR 15 MINUTOS Y SERVIR. NO DORAR DEMASIADO.
-PUEDEN HACERSE OTRAS VARIACIONES: SOBRE EL QUESO CREMA COLOCAR ESPINACA AL AJO CON PANCETA.
-SE PUEDE HACER CON TOMATE SECO, AJO, CEBOLLA ,CHAMPIGNONES, PURE DE CHOCLO.
-LA MASA ESPECIAL PARA LOS FLAMMKUCHEN, ESTA EN LA PARTE DE MASAS.
-BRUSCHETTAS PARA MUCHAS PERSONAS.
-PONER 10 REBANADAS DE PAN SOBRE UNA FUENTE PARA HORNO. VERTERLES ALGUNAS GOTAS DE ACEITE DE OLIVA Y COLOCAR EN EL HORNO A 200°C POR 10 MINUTOS. ENTRETANTO LAVAR Y CORTAR 
-3 TOMATES, MEZCLARLOS CON UN DIENTE DE AJO PICADO, 
-3 CUCHARADITAS DE ACEITE DE OLIVA Y LOS BROTES DE 3 A 5 DÍAS DE GERMINACIÓN. CONDIMENTAR CON SAL MARINA, HIERBAS AROMÁTICAS Y HOJAS DE ALBAHACA. REPARTIR SOBRE LAS REBANADAS DE PAN TODAVÍA CALIENTES Y SERVIR INMEDIATAMENTE.
+## Salsa criolla
 
+- 2 tomates
+- ½ pimiento rojo
+- ½ pimiento verde
+- 1 cebolla
+- 4 cebollitas de verdeo
+- 3 dientes de ajo
+- 4 cucharadas vinagre de vino
+- 2 cucharadas aceite de oliva
+- ¼ cucharadita aji molido
+- ¼ cucharadita comino
+- ¼ cucharadita pimienta negra
+- perejil
 
-BRUSQUETA
-HACER TOSTADAS, FROTARLAS  CON AJO.  SOBRE LAS TOSTADAS COLOCAR UNA RODAJA DE TOMATE,  AJI MOLIDO, OREGANO Y QUESO RALLADO. SAL Y GOTAS DE ACEITE DE OLIVA.
+## Aderezo de Soja:
+Para ensaladas de lechuga, zanahorias, etc.
 
+Salsa de soja, aceite de oliva y jugo de limon.
 
-OTRA BRUSQUETA
-TOSTADA FROTADA CON AJO, PALTA, HUEVO EN RODAJAS, SAL, AJI MOLIDO, PEREJIL.
+## Aderezo Agridulce
+Para la ensalada de papas hervidas.
 
-OTRAS
-SOBRE LA TOSTADA COLOCAR ESPINACA AL AJO, BACON Y SALSA BECHAMEL.
 
-SOBRE LA TOSTADA COLOCAR ESPINACA AL AJO Y QUESO MANTECOSO, LLEVAR AL HORNO HASTA QUE SE CALIENTE.
+- 2 cdas aceite de oliva
+- 1 cda aceto
+- 1 cda miel
+- 1 cda mostaza
+- 1 cdita jugo limon
+- 1 cdita sal.
 
-BRUSQUETA DE PAN CON SALSA DE QUESO
-50 GR MANTECA, 2 HUEVOS,50 GR QUESO RALLADO, REBANADAS DE PAN, SAL Y PIMIENTA.
-SE BATE LA MANTECA HASTA QUE ESTE CREMOSA, SE AGREGAN LOS HUEVOS DE A UNO, SIEMPRE BATIENDO, EL QUESO RALLADO, SAL Y PIMIENTA. SE CUBREN LAS REBANADAS  DE PAN CON UNA CAPA DE 
-½ CM DE ESPESOR Y SE TUESTAN AL HORNO.
+## Aderezo de Albahaca
+Licuar:
 
+- Albahaca
+- Ajo
+- Vinagre
+- Aceite de oliva
+- Pimienta
+- Sal
 
-BRUSQUETAS CON QUESO, CERVEZA Y ESPECIAS AL HORNO
-DILUIR 300 GR QUESO CHEDDAR CON ¼ TAZA CERVEZA RUBIA, HASTA OBTENER UNA CREMA LISA (5 MINUTOS). AGREGAR ½ CUCHARADITA DE MOSTAZA Y ½ CUCHARADITA DE NUEZ MOSCADA, RETIRAR DEL FUEGO.
-TOSTAR 8 RODAJAS DE PAN LACTAL Y ENMANTECARLO Y DISTRIBUIR SOBRE ELLOS LA CREMA. GRATINAR POR 5 MINUTOS EN HORNO FUERTE
+## Pesto
+Licuar:
 
+- 3 dientes de ajo
+- 10 hojas de albahaca
+- 2 cucharadas de queso rallado
+- 1 cucharada colmada de nueces
+- ½ taza de aceite
 
+## Dip de Albahaca
+Mezclar mayonesa y albahaca picada
 
-BRUSQUETAS MEDITERRANEAS
-SOBRE TOSTADAS CALIENTES COLOCAR LA SIGUIENTE PREPARACION:
-200 GR DE CASANCREM, 2 TOMATES EN CUBITOS, ALBAHACA FRESCA PICADA,10 ACEITUNAS FILETEADAS, 1 CUCHARADA DE ACETO, SALY  PIMIENTA. DECORAR CON PEREJIL.
+## Dip de Perejil
+Mezclar perejil, ajo y mayonesa
 
+## Guacamole
+Mezclar:
 
+- 1 Palta
+- 1 Cucharada de cebolla de verdeo
+- Ajo picado
+- Tomate
+- Jugo de limon
+- Aceite de oliva
+- Sal
 
-DORADITOS DE CEBOLLA
-BROWNIE DE CEBOLLA
-½ KG. DE CEBOLLA PICADA
-½ TAZA DE ACEITE (CUALQUIERA MENOS OLIVA)
-4 HUEVOS
-1 TAZA DE LECHE
-1 TAZA DE QUESO RALLADO
-1 TAZA DE HARINA LEUDANTE
-SAL 
-PIMIENTA
+## Salsa de Palta (1)
+Licuar:
 
-PRENDER EL HORNO A 180ªC
-FREIR EN UN POCO DEL ACEITE LA CEBOLLA HASTA DORARLA UN POCO.
-EN UN BOL AGREGARLE A LA CEBOLLA LOS INGREDIENTES HUMEDOS: LA LECHE, LOS HUEVOS Y MEZCLAR.
-AGREGAR EL QUESO RALLADO Y LA HARINA, TIENE ASPECTO DE ENGRUDO.
-AGREGAR SAL Y PIMIENTA Y LLEVAR A UNA ASADERA RECTANGULAR MEDIANA, ENMANTECADA Y ENHARINADA.
-COCINAR ENTRE 20 Y 30 MINUTOS. UNA VEZ DORADOS, APAGAR EL HORNO Y DEJAR ENFRIAR ALLI MISMO. CORTAR EN CUADRADITOS.
-PUEDE ACOMPAÑAR  LA HUMITA, O COMPLETAR UNA PICADA.
+- Palta
+- Miel
+- Cilandro
+- Cebolla atenuada (cebollita de verdeo o cibulette)
+- Aceite de oliva
+- Sal
+- Pimienta
 
+## Salsa de Palta (2)
+Mezclar:
 
+- Palta pisada
+- Jugo de limon
+- Ketchup
+- Mostaza
+- Sal
+- Pimienta
+- Crema de leche (Opcional)
 
+## Salsa de Pimientos (1)
+Mezclar:
 
-QUINOA
-ENJUAGAR RAPIDAMENTE LA QUINOA CON AGUA FRIA, SOLO UNA PASADA, NO DEJARLA EN REMOJO.
-COCINARLA EN AGUA POR 15 MINUTOS APROXIMADAMENTE: DUPLICA SU VOLUMEN Y LIBERA SU GERMEN BLANCO.
-½ TAZA DE QUINOA ES PARA 2 PERSONAS.
+- Pimiento morron rojo sin piel
+- Ajo
+- Azucar
+- Agua
 
+## Salsa de Queso Crema
+Mezclar:
+- Queso crema
+- Aceitunas
+- Cebolla bien picadas (pasadas por agua helada y enjuagadas)
+- Crema de leche
 
+## Salsa de anchoas (1)
+Licuar:
 
+- 4 anchoas
+- Aceite de oliva
+- Romero
+- Jugo de limon
 
-BOCADITOS DE QUINOA
-¾ TAZA DE QUINOA COCIDA, 1 ½ TAZA DE CALDO, 1 CEBOLLA FINAMENTE PICADA Y REHOGADA, ½ TAZA DE ARVEJAS O LENTEJAS U OTRA, 2  DIENTES DE AJO PICADO, 2 HUEVOS BATIDOS,2 CUCHARADAS QUESO CREMA, 1 ½ TAZA QUESO MUZZARELLA RALLADO.
-MEZCLAR TODO Y COLOCAR 1 CUCHARADA COLMADA EN CADA MUFFINS (PREVIAMENTE ENMANTECADAS), Y LLEVAR AL HORNO A 200ª, ALREDEDOR DE 15 A 20 MINUTOS. SALEN 24 BOCADITOS.
+## Salsa de anchoas (2)
+Licuar:
 
+- 8 Filet de anchoas
+- Mayonesa
+- Mostaza
+- Perejil (poco)
+- Jugo limon
+- Crema de leche (Para suavizar si hace falta)
 
+## Dip de Almendras y Curry:
+Mezclar:
 
+- 50 grs de almendras procesadas
+- 1 ½ tazas de mayonesa
+- 4 cucharadas de crema de leche
+- 1 cucharadita de curry. 
 
+## Dip de atun
+Mezclar:
 
-BUÑUELOS DE PAPA Y QUESO
-PONER EN UN BOL 3 TAZAS DE HARINA LEUDANTE, EN EL CENTRO 100 GR DE QUESO FONTINA RALLADO, 3 HUEVOS, 2 CUCHARADAS DE CEBOLLA RALLADA, SAL, PIMIENTA Y EL PURE DE 4 PAPAS. MEZCLAR TODO Y HACER UNA MASA CONSISTENTE, AGREGANDOLE UN POCO DE LECHE.
-TOMAR PORCIONES POR CUCHARADAS Y FREIRLOS EN ACEITE.
+- 1 lata de atun (escurrido y procesado)
+- 1 huevo duro
+- 2 cucharadas de crema de leche
+- 1 cucharadita de mostaza
+- 1 cucharada de cebolla de verdeo.
 
-UTILIZAR DOS CUCHARAS HUMEDECIDAS EN AGUA FRIA PARA MOLDEARLAS, CADA VEZ QUE SE BUSCA LA CUCHARADA DE LA MEZCLA. ESTO ES PARA QUE NO SE DESARME LA CROQUETA CUANDO SE LA LLEVA AL ACEITE.
-SERVIR CALIENTE.
+## Dip de Roquefort
+Mezclar:
 
+- Queso Roquefort
+- Crema de leche
+- Nueces
+- Un golpe de cognac
+- trocitos de Apio (Opcional)
 
 
-BOCADITOS DE QUESO 
-HACER UNA CORONA CON LOS SIGUIENTES INGREDIENTES SECOS:
-300 GR DE HARINA, UNA CUCHARADA DE POLVO DE HORNEAR, SAL A GUSTO. COLOCAR EN EL CENTRO 200 GR DE MANTECA,1 TAZA DE QUESO RALLADO Y ½ TAZA DE SODA O AGUA. HACER UNA MASA, TRABAJARLA POCO, ESTIRARLA DE 1 CM DE ESPESOR Y CORTAR CON CORTAPASTA. ESPOLVOREAR CON SAL GRUESA. COCINAR A HORNO CALIENTE DURANTE 12 MINUTOS. SERVIR FRIO O CALIENTE.
+Salsa cesar
+machacar 1 diente de ajo con 50 gr. Anchoas. Agregarle la 
+mezcla de 3 yemas con 1 cucharadita de mostaza y
+ 2 cucharadas de jugo de limon. Batir hasta lograr homogenidad e incorporarle 100 ml de aceite de girasol de a poco: primero unas gotas y despues en un hilo fino para que no se corte. Luego sumarle 2 cucharadas de queso parmesano y pisca pimienta.
 
+Otra salsa cesar
+200 ml aceite girasol,1 huevo (mayonesa), sal, pimienta, 
+2 dientes ajo picado, 6 anchoas en aceite, 1 ½ cucharaditas de mostaza, 1 taza queso parmesano, gotas de salsa inglesa, vinagre de vino. Licuar todo, se puede agregar jugo de limon.
 
+Salsa ranchera
+90 ml crema de leche, jugo ½ limon (3 cucharadas), 5 ml leche (5 cucharadas), ½ cucharada mayonesa, ½ cucharadita cebolla en polvo, ½ cucharadita ajo en polvo, ½ cucharadita de sal, una pizca pimienta negra, un poco de cebollita de verdeo.
 
+Ali oli
+1 huevo, 250 ml aceite de oliva, 2 dientes de ajo (sacar corazon), 1 cucharada de jugo de limon, pizca de sal. Licuadora.
 
-ACEITUNAS EN LA PICADA
-PONER LAS ACEITUNAS EN ACEITE, JUGO DE NARANJA, PIMIENTA Y OREGANO.
+Ali oli mas sencilla
+(ya que huevo, aceite y jugo de limon es mayonesa) agregar ajo a una buena mayonesa al limon. 
+Poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos para que salga la crema.
 
+Crema de ajo
+pure de ajo (poner los dientes de ajo en el horno por 
+10 minutos, al sacarlos, apretarlos para que salga la crema), casancrem, jugo de limon y mayonesa natura.
 
+Salsa de aceitunas
+con 2 huevos y 1 taza aceite de girasol hacer una mayonesa, agregar 7 aceitunas descarozadas,1 cucharadita de sal y el jugo de ½ limon. Procesar.
 
+Chimichurri para 100 kg. De mamona 
+20 kg. Cebolla, 5 kg. Pimientos, 23 kg. Tomates, 5 kg. Zanahorias. 25 Cabezas de ajo y 5 latas de durazno al natural. Procesar.
 
+Macerar la carne con sal, pimienta, aji molido y cognac.
+Cocinar en el horno agregandole vino tinto o caldo de carne.
+Por ultimo agregarle la salsa y cocinar hasta que este tierna
 
-TARTELETAS  SALADAS  O  DULCES
-MASA
-HACER UNA MASA CON: 300 GR HARINA LEUDANTE, 150 GR MANTECA,                        1 CUCHARADITA SAL, PIMIENTA, 2 YEMAS, AGUA FRIA CANTIDAD NECESARIA.
-ENMANTECAR Y ENHARINAR EL MOLDE CORRESPONDIENTE Y CUBRIRLO CON LA MASA. PINCHAR EL FONDO Y LOS COSTADOS PARA QUE MANTENGA LA FORMA Y LLEVAR A HORNO DE 180ª.
-PARA LAS DULCES, SE SUPRIME LA SAL Y LA PIMIENTA Y SE AGREGAN
-3 CUCHARADAS DE AZUCAR.
-LOS RELLENOS PUEDEN SER COMO PARA LOS PIONONOS.
+Salsa de pimientos  (2)
+procesar 3 pimientos morrones, el jugo de ½ limon, 
+1 cucharadita de pimenton y 1 cucharadita de sal, incorporar
+2 cucharadas de crema de leche y finalmente agregar
+6 pepinillos muy picados.
 
+Salsa maltesa ( mayonesa, naranja y mostaza)
+mezclar 1 taza de mayonesa, 1 cucharada de jugo de naranja, 
+1 cucharadita de ralladura de cascara de naranja y
+1 cucharada de mostaza.
 
-POSIBLES RELLENOS DE LOS PIONONOS ARROLLADOS
-JAMON, QUESO, TOMATE, HUEVO, ACEITUNAS, MORRON, LECHUGA, MAYONESA.
-ROQUEFORT,  NUECES, HUEVO, QUESO CREMA (MEZCLAR EL ROQUEFORD PISADO CON EL QUESO CREMA), GOTAS DE COGNAC.
-PALMITOS, JAMON, QUESO MAQUINA, TOMATE, SALSA GOLF.
-ATUN, CEBOLLA REHOGADA, MORRON, ACEITUNAS, MAYONESA.
-APIO, MANZANA VERDE, NUECES, JAMON, HUEVO, QUESO CREMA.
-JAMON, ANANA, QUESO, SALSA GOLF, ZANAHORIA.
-ESPINACAS AL AJO, QUESO CREMA, SALSA BLANCA.
-CHAMPIGNONES, POLLO, ZANAHORIAS, MAYONESA, ACEITE DE OLIVA.
-PICKLES, ALCAPARRAS, TOMATES, ACEITUNAS NEGRAS, POLLO, MAYONESA.
-ESPINACA, PANCETA, HUEVO DURO, SALSA BLANCA.
-ANCHOAS, HUEVO, QUESO, NUECES, MAYONESA (MEZCLAR LAS ANCHOAS PICADAS CON LA MAYONESA).
+Salsa a la maitre d´hotel
+se calienta una taza, despues se coloca la manteca y se bate hasta que queda como una crema, se le va agregando perejil finamente picado y jugo de limon. Condimentar con sal y pimienta.
+Las proporciones son: 100 gr de manteca, 15 gr de perejil, 1 cucharadita de jugo de limon.
 
+Condimento frances:
+rica para condimentar ensaladas en reemplazo del tradicional aceite, vinagre y sal.
+6 Cucharadas de aceite de oliva, 6 de ketchup, 2 de jugo de limon, 1 cdita de mostaza, sal y pimienta.
 
-TORRE DE PANQUEQUES O  PIONONOS
-PUEDEN HACERSE LAS DIFERENTES CAPAS SEGUN LOS RELLENOS ANTES DICHOS, U OTROS , COMO EJEMPLO:
-CHAMPIGNONES Y CEBOLLA REHOGADAS.
-QUESO CREMA Y MORRON.
-ESPINACA AL AJO Y SALSA BLANCA.
+Condimento frances: 
+4 cucharadas de aceite de oliva, 4 de ketchup, 2 de jugo de limon, 1 cdita de mostaza, sal y pimienta.
 
+Aderezo complicado: no probado
+calentar a baño maria: 4 yemas, 2 cucharadas de agua fria, 
+2 cucharadas de vinagre,
+1 cucharadita de mostaza, 1 cucharadita de azucar, sal. Espesar como la consistencia de la mayonesa y agregarle 
+200 gr de crema de leche. Llevar a la heladera. 
 
-CHAMPIGNONES EN ESCABECHE DE MARIA ROSA
-250 GRAMOS DE CHAMPIGNONES, PREFERENTEMENTE LOS MARRONES YA QUE TIENEN MENOS AGUA. (PORTOBELLOS)
-1 CEBOLLA 
-½ PIMIENTO
-SAL, GRANOS DE PIMIENTA, AJÍ MOLIDO, LAUREL, PROVENZAL
-TRES DIENTES DE AJO.
-½ POCILLITO DE ACEITE
-½ POCILLITO DE VINAGRE
-½ POCILLITO DE VINO BLANCO
+Salsa vitel tone
+350 gr de mayonesa, 200 gr atun al natural, 2 cucharadas de alcaparras, 4 filet de anchoas, jugo de ½ limon, sal y pimienta.
 
-LIMPIAR BIEN LOS HONGOS, CORTARLOS EN 4. ( YO LOS LAVO, A PESAR DE HAY QUIENES DICEN QUE NO HAY QUE LAVARLOS, LOS SECO CON PAPEL DE COCINA Y LES CORTO UNA TAJADITA EN LA BASE DEL TRONQUITO. )LIMPIAR Y CORTAR LA CEBOLLA POR LA MITAD Y LUEGO EN TAJADITAS. LIMPIAR Y CORTAR EL PIMIENTO EN TIRITAS.
+Salsa tartara
+mayonesa, mostaza, pickles, perejil, huevo duro, alcaparras.
 
-COLOCAR TODO JUNTO EN UN BOWL DE VIDRIO APTO PARA MICROONDAS. MEZCLAR BIEN. COCINAR 4 MINUTOS, MEZCLAR Y VOLVER  COCINAR OTROS 4 MINUTOS.
+Dip de almendras
+mezclar 200 gr de queso crema con 2 ó 3 cucharadas de agua, 30 gr de almendras picadas y 1 cucharada de hierbas frescas picadas ( albahaca, perejil, oregano).
 
-LAS CANTIDADES SON APROXIMADAS, CREERÍA QUE ESA CANTIDAD DE LÍQUIDO VA A IR BIEN PARA ESA CANTIDAD DE HONGOS. 
+Salsa para peceto o carnes frias
+mayonesa, aceitunas verdes, cebollitas en vinagre picadas, 1 cucharadita de mostaza, jugo de limon y ketchup.
 
-ESCABECHE DE VERDURAS
-PUEDE SER MEZCLA DE VARIAS VERDURAS O DE UNA SOLA: COLIFLOR, ZANAHORIAS, BROCOLI, REPOLLITOS BRUCELAS, CEBOLLITAS, CEBOLLITAS DE VERDEO ETC. CONDIMENTAR CON SAL, PIMIENTA, LAUREL, AJI MOLIDO, SEMILLAS DE MOSTAZA.
-HUMEDECER CON 1 TAZA DE VINAGRE, 1 TAZA DE ACEITE Y UNA DE AGUA (O PUEDE SER VINO BLANCO). 
-PUEDE SER QUE SEA NECESARIO HACER EL DOBLE O TRIPLE DE ESTA MEZCLA, DEPENDIENDO DE LA CANTIDAD DE VERDURAS. COCINAR HASTA QUE LAS ZANAHORIAS ESTEN TIERNAS.
+Aderezo para ensaladas hermana bernarda
+4 cucaradas soperas de aceite, 2 cucharadas soperas de vinagre, 1 cucharadita de azucar, 1 cuvharadita de mostaza.
 
+Salsas calientes
 
+Salsa italiana caliente: saltear en aceite de oliva 
+2 cebollas cortadas en juliana, añadir 8 fetas de panceta cortada en tiras, dorar. Incorporar 2 vasitos de vino blanco, 1 pimiento cortado chico, y 4 tomates pelados y triturados. Con fuego bajo reducir a la mitad. Servir sobre pasta y esparcir queso rallado.
 
-BOCADITO ALEMAN
-SOBRE BISCOCHOS “REX” COLOCAR UNA RODAJITA DE LEBERVURST, RODAJITA DE PEPINITOS EN VINAGRE Y UN COPETITO DE SAVORA.
+Salsa de queso (mejor)
+derretir 2 cucharadas de manteca y agregarle 2 cucharadas de harina y mezclar hasta obtener una pasta. Incorporarle 1 ½ taza de leche (bechamel), revolver hasta que hierva y espace, bajar la llama y agragarle 1 taza de queso rallado (gruyere, fontina, etc). Cocinar hasta que se derrita, condimentar con sal, pimienta y ½ cucharadita de mostaza.
 
+Salsa de queso: mezclar 1 vaso de leche con ½ taza de queso fundido. Sobre fuego normal remover y cocer hasta que quede una masa homogenea, condimentar y servir
 
+Salsa roquefort: a una salsa blanca liviana añadir el queso roquefort hasta disolver. Para ¼ l. De leche, 150 grs. De queso.
+Sobre esta salsa se puede agregar nueces picadas, queso rallado y hornear y gratinar.
 
-BIZCOCHITOS CON GRASA
-MEZCLAR 2 TAZAS DE HARINA, 2 CUCHARADITAS DE POLVO DE HORNEAR Y ½ CUCHARADITA DE SAL. AÑADIR 5 CUCHARADAS DE GRASA BIEN FRIA Y SE MEZCLA BIEN CON UN TENEDOR. SE AGREGA 1/3 DE TAZA DE AGUA FRIA Y SE AMASA LIGERAMENTE. SE ESTIRA DEJANDOLA DE ½ CM DE ESPESOR Y DE CORTAN LOS BISCOCHOS. PINCHARLOS CON UN TENEDOR Y SE COCIN EN HORNO CALIENTE DURANTE 15 MINUTOS.
+Baña cauda: 1 y ½ cabeza de ajo, 12 anchoas (24 filetes), 
+1 kg de crema de leche. El monton de ajo picado debe ser similar al monton de anchoas picadas. Muchos tambien le pican nueces.
+Otros, a parte de los ajos picados, ponen en una bolsita ajos enteros que despues de la coccion retiran.
+Se frien los ajos en aceite de oliva, sin llegar a dorarlos, se agregan las anchoas, se mezcla a fuego suave, y de a poco agregarle la crema. Ni bien hierve, llevarla a la mesa.
+Dicen que la original, lleva aceite de oliva en vez de crema.
 
+Salsa caprece de leo:
+5 tomates grandes(1 por persona). Retirarles el rabo y rociarlos con aceite de oliva. Envolverlos con papel de aluminio y al horno o en la essen. (El aluminio es para que no se quemen o se peguen). Cocinarlos hasta que esten blandos.
+Colocar tambien 1 cabeza de ajo con piel. Pincharlos para que no exploten. Cuando esten blandos, retirarles la crema, apretandolos.
+Retirar el aluminio y las cascaras de los ajos.
+Unir la crema de tomate con la crema de ajo, condimentar.
+Al final agregarle las hojas de albahaca (no se cocinan) y abundante queso rallado. Y a las pastas!!!.
+Salsa curry:
+dorar 1 cebolla en 100 grs. De manteca. Agregar 1 manzana verde picada, saltearla. Añadir 2 cucharadas de harina, 
+3 cucharaditas de curry, ¾ l. De caldo de carne y sal. Cocinar revolviendo constantemente hasta que espese. Retirar y agregar 100 grs. De crema de leche.
 
+Salsa de pimiento: 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pimiento sin piel picado, 3 cucharadas de leche. Cocinar a fuego suave.
 
-CEBOLLAS CROCANTES
-SE HACE UNA MASA CON ½ TAZA DE LECHE, ½ TAZA DE CERVEZA LAGER, 1 HUEVO, 1 TAZA DE HARINA, 1 CUCHARADITA DE POLVO DE HORNEAR Y ½ CUCHARADITA DE SAL. DEJAR REPOSAR ½ HORA.
-CORTAR 4 CEBOLLAS EN AROS Y COLOCARLOS EN AGUA HELADA POR 5 MINUTOS. ESCURRIRLOS Y SECARLOS.
-DE A POCO SE PASAN LOS AROS POR LA MASA Y SE FRIEN CON CUIDADO EN ACEITE BIEN CALIENTE. DORARLOS DE AMBOS LADOS Y RETIRARLOS CON ESPUMADERA, COLOCANDOLOS SOBRE PAPEL DE COCINA.
+Salsa brava
+1 cebolla rehogada, 2 cucharadas de aceite, 1 cucharada de harina, ½ cucharadita pimenton picante, ½ cucharadita comino, 4 toques de pimienta negra molida, 1 caldito de carne, 250 ml de agua caliente, sal. Cocinar reduciendo a la mitad.
 
+Salsa blanca
+derretir 50 grs de manteca, agregar 1 diente de ajo picado (opcional), 1 cucharada de harina, revolver para que no se pegue ni queme. Agregarle de golpe ½ litro de leche hirviendo algunos dicen que hay que agregarle de a poco hasta lograr la consistencia deseada, batiendo todo el tiempo. Por ultimo, ½ cucharadita de sal, ¼ cucharadita de pimienta y ½ cucharadita de nuez moscada.
+En determinadas comidas se puede reemplazar la salsa blanca con maicena (3 cucharadas) disuelta en leche(¾ taza).
 
+Salsa bechamel
+al poceso de derretir manteca (125 gr)y cocinar la harina
+ (125 gr) se denomina roux, si le echamos leche y crema de leche( 1 litro) caliente ( y cocinamos a fuego minimo) y añadimos condimentos (nuez moscada, sal y pimienta) obtenemos la salsa bechamel.
 
+La diferencia entre salsa blanca y bechamel es que la primera se hace con leche. Y la segunda con crema de leche y leche (queda mas suave).
 
-CANASTITAS REDONDAS O CUBITOS CON 4 PICOS
-SE HACEN CON TAPAS DE EMPANADAS.
-EN EL CASO DE LAS CANASTITAS REDONDAS, SE HACEN PLIEGUES EN EL BORDE DOBLANDOLOS HACIA UN COSTADO Y PELLISCANDO CON UN POCO DE AGUA PARA QUE QUEDE PEGADO COMO EN LOS REPULGUES.
-LOS CUBITOS SE HACEN CON 4 PELLISCOS DESDE LA BASE A LOS BORDES
-SE PUEDEN RELLENAR CON:
-RESTOS DE POLLO COCIDO, CEBOLLITAS DE VERDEO PICADAS,TOMATES PICADOS, MANTECA, TROCITOS DE PANCETA, SAL Y PIMIENTA. PUEDE AGREGARSE SALSA BLANCA.
-ACEITUNAS, QUESO CREMA, QUESO RALLADO, SALSA TOMATE, OREGANO, SAL Y PIMIENTA.
-CHAMPIGNONES FILETEADOS, QUESO EN TROZOS, CEBOLLA REHOGADA, PUERRO, MORRON, ACEITE DE OLIVA, SAL Y PIMIENTA.
-OTROS RELLENOS.
-ESPOLVOREAR LAS BASES DE LAS CANASTITAS Y LOS CUBITOS CON PAN RALLADO PARA QUE LA HUMEDAD DEL RELLENO NO IMPIDA QUE LA MASA QUEDE CROCANTE Y ARMADA.
-COCINAR EN HORNO DE 190 ª  POR 15 A 20 MINUTOS.
+Salsa 356 para peceto
+freir cebolla, pimiento morron y zanahoria con caldo de carne.
 
+Salsa del español
+cebollitas de verdeo, ajo, tomates, aceitunas negras y anchoas, todo picado. Cocinar por 20 minutos aproximadamente, agregandole la cantidad de caldo necesaria.
 
+Salsa de aceitunas (356)
+blanquear en aceite 1 cebolla picada, incorporar unas 15 a 
+20 aceitunas picadas y caldo. Cocinar hasta obtener la consistencia adecuada.
 
+Crema de choclos
+hervir 6 choclos y desgranarlos. Freir en manteca 
+(1 cucharada) 2 cebollas y 1 pimiento, incorporar los granos de choclo. Sazonar con sal y azucar (1 cucharadita). Agregar 1 taza de leche y 2 cucharadas de crema de leche y cocinar hasta que tome consistencia. Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora. Por ultimo agregarle queso rallado.
 
-PIZZAS RELLENAS
-UTILIZANDO TAPAS PARA PASCUALINA.
-COLOCAR EN UNA PIZZERA UNA TAPA DE PASCUALINA, PINCHARLA Y DISTRIBUIR SOBRE ESTA: QUESO MANTECOSO Y COLOCAR LA OTRA TAPA DE PASCUALINA PINCHANDOLA TAMBIEN. HORNEAR A 190ª POR 15 MINUTOS, Y PROCEDER COMO CON CUALQUIER TIPO DE PIZZA, LLEVANDO NUEVAMENTE AL HORNO POR OTROS 15 O 20 MINUTOS.
+Salsa holandeza
+3 cucharadas de manteca derretida, 1 cucharada de jugo de limon y ½ taza de mayonesa. Servir tibio.
 
+Salsa de hongos
+dorar en manteca ½ cebolla rallada, agregar 25 gr de hongos secos remojados durante 7 horas en ½ taza de agua
+ (o champignones picados). Agregar ½ taza de vino, una cucharada de jugo de limon, ½ cucharada de perejil picado, sal, pimienta y crema. Se puede agregar una cucharada de mostaza. Cocinar . Y para espesar , si es necesario, una cucharada de maizena.
 
+Salsa de hongos con sopa crema de hongos
+derretir 2 cucharadas de manteca, añadir 2 cucharadas de cebolla picada y dorarla. Agregar 1 taza de sopa crema de hongos concentrada, ¼ taza de leche o crema de leche, una cucharada de perejil picado, sal y pimienta. Mezclar y cocinar. Hasta la consistencia adecuada.
 
-                                                                   SOPAS
+Salsa de anana
+rehogar 1 cebolla grande, agregar el anana en trozos de una lata. 1 Taza del jugo de anana, 1 taza de caldo y cocinar hasta homogenizar. Espesar con 1 cucharada de maizena y terminar con 100 gr de crema de leche.
 
+Chutney- receta de la estancia cristina en el upsala.
+2 Morrones rojos, 2 morrones verdes, 2 cebollas, 500 gr. Azucar negra, 100 gr. Azucar blanca, 250 gr pasas negras sin semllas,
+1 litro vinagre de alcohol, 50 gr de la mezcla de las siguientes especias: pimienta, nuez moscada, clavo de olor, canela.
+Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la consistencia de una mermelada.
 
-SOPA CREMA DE TOMATE
-FREIR 1 CEBOLLA PICADA EN MANTECA. AGREGAR 1 PIMIENTO, 1 DIENTE  AJO Y
-1 PUERRO, TODO FINAMENTE PICADO.  AÑADIR 1 LITRO DE CALDO Y 
-750 GR DE TOMATE TRITURADO. COCINAR A FUEGO MODERADO. PONER LOS CONDIMENTOS: PIMENTON DULCE, MENTA, ALBAHACA, NUEZ MOSCADA, TOMATE SECO HIDRATADO EN ACEITE DE OLIVA, LAUREL, 1 CUCHARADITA DE SAL Y 
-½ DE AZUCAR. INCORPORAR  1 PAPA HERVIDA PISADA o 60 GR DE HARINA, COCINAR DE 20 MINUTOS  A  ½  HORA. INGRESAR EL QUESO CREMA Y POR ULTIMO UNOS CRUSTONES Y PEREJIL PICADO.
+# Diferentes entradas o acompañamientos salados
 
+Chipá de emilia.
+A) 3 tazas harina de mandioca
+a) 1 taza de queso de rallar
+a) 1 cucharadita de polvo de hornear
+a) 1 cucharadita de sal
+b) 75 grs. De manteca
+c) 2 huevos
+d) ½ taza de soda para unir o cantidad necesaria.
+E) 1 taza queso fontina picante, o cascara colorada cortado en cubitos.
+ 
+Mezclar todos los secos (a). Trabajar con la manteca (b) hasta obtener consistencia de arena. Agregar los huevos (c) formando una masa que debe unirse con la menor cantidad de soda (o leche) posible (d). Resulta una masa suave a la que se le agregan los cubitos de fontina (e).
+Hacer bolitas o pancitos (haciendoles un tajito en el medio) y cocinar 15 minutos a 180 grados, hasta que se doren. 
+A media coccion, si es necesario, darlos vuelta.
+Preferentemente comerlos tibios.
+Son los mas ricos.
 
-MINESTRONE
-REHOGAR UNA CEBOLLA PICADA EN ACEITE, CUANDO ESTA TRANSPARENTE AGREGAR PANCETA CORTADA EN TROCITOS Y AJO PICADO. INCORPORAR ZANAHORIA, CEBOLLA DE VERDEO, PUERRO, ZUCHINI, ZAPALLITO, APIO, TODO FINAMENTE PICADO Y CUBRIR CON CALDO DE CARNE.  COCINAR POR 10 MINUTOS.  INGRESAR PAPAS, TOMATES PELADOS Y CUBETEADOS, CONDIMENTAR CON OREGANO, LAUREL, ROMERO Y COCINAR POR 20 MINUTOS MAS. PONER LA PASTA Y LAS HOJAS VERDES (ACELGA, ESPINACA, ALBAHACA, ETC), SALPIMENTAR Y 10 MINUTOS MAS DE COCCION. POR ULTIMO COLOCAR ACEITE DE OLIVA, CRUSTONES Y QUESO RALLADO.
+Tortas fritas.
+500 Grs. Harina 
+10 grs. Sal
+250 agua
+5 azucar
+65 gr grasa de cerdo.
+(Se le puede agregar 1 huevo).
+Hacer la masa el dia anterior.
+Freir con 400 grs. De grasa de cerdo.
+Que la grasa no este tan caliente, cocinar despacio, 
+5 minutos c/u.
+Cada torta frita debe pesar aprox. 35 Grs.
+Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
 
+Flammkuchen
+colocar sobre una asadera un papel manteca y sobre este una masa de tarta. Esparcir por toda su superficie queso crema. Y sobre esta colocar tiritas de panceta ahumada,trocitos de cebollita de verdeo, queso rallado y condimentar. Llevar al horno por 15 minutos y servir. No dorar demasiado.
+Pueden hacerse otras variaciones: sobre el queso crema colocar espinaca al ajo con panceta.
+Se puede hacer con tomate seco, ajo, cebolla ,champignones, pure de choclo.
+La masa especial para los flammkuchen, esta en la parte de masas.
+Bruschettas para muchas personas.
+Poner 10 rebanadas de pan sobre una fuente para horno. Verterles algunas gotas de aceite de oliva y colocar en el horno a 200°c por 10 minutos. Entretanto lavar y cortar 
+3 tomates, mezclarlos con un diente de ajo picado, 
+3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación. Condimentar con sal marina, hierbas aromáticas y hojas de albahaca. Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
-SOPA CREMA DE BROCOLI CON ZANAHORIA
-COLOCAR  EL BROCOLI  DURANTE 5  MINUTOS EN AGUA HIRVIENDO, CON SAL Y UN CHORRITO DE ACEITE.
-DORAR PUERRO PICADO EN ACEITE, AGREGAR ZANAHORIAS EN RODAJAS Y PAPAS EN TROZOS,  SALAR Y HERVIR CON CALDO POR 15 A 20 MINUTOS, AGREGAR EL BROCOLI Y PASAR TODO POR LICUADORA. DECORAR CON ARBOLITOS DE BROCOLI, QUESO RALLADO Y CRUTONES AL AJO. 
+Brusqueta
+hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de tomate, aji molido, oregano y queso rallado. Sal y gotas de aceite de oliva.
 
+Otra brusqueta
+tostada frotada con ajo, palta, huevo en rodajas, sal, aji molido, perejil.
 
-SOPA CREMA DE CALABAZA
-FREIR EN ACEITE HASTA DORARSE AJO Y CEBOLLA PICADOS. AGREGAR LA CALABAZA EN CUBOS POR 2 MINUTOS REVOLBIENDO. AÑADIR PUERRO, ZANAHORIA Y CALDO DE VERDURAS. CONDIMENTAR CON CANELA, NUEZ MOSCADA, SAL Y PIMIENTA. COCINAR A FUEGO MEDIO ALTO POR 15 MINUTOS.
-POR ULTIMO SE PUEDE INCORPORAR LECHE DE COCO. PASAR POR LA LICUADORA Y SERVIR DECORADO CON PEREJIL PICADO Y SEMILLAS DE CALABAZA TOSTADAS.
+Otras
+sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
+Sobre la tostada colocar espinaca al ajo y queso mantecoso, llevar al horno hasta que se caliente.
 
-SOPA DE PANCETA Y QUESO  (PARA 10 PERSONAS)
-CORTAR EN PEDAZOS 5 ZANAHORIAS, 1 PUERRO Y 1 KG DE PANCETA ESPESIADA.
-PONERLOS A COCINAR CON 2 LITROS DE AGUA POR 1 HORA. AGREGAR 5 PAPAS GRANDES, TAMBIEN EN TROZOS Y COCINAR POR 30 MINUTOS MAS. SALPIMENTAR.
-SERVIR HIRVIENDO,  EN 10 BOLS Y EN CADA UNO AGRAGAR UN TROZO DE QUESO REBLOCHON (250G EN TOTAL).
+Brusqueta de pan con salsa de queso
+50 gr manteca, 2 huevos,50 gr queso rallado, rebanadas de pan, sal y pimienta.
+Se bate la manteca hasta que este cremosa, se agregan los huevos de a uno, siempre batiendo, el queso rallado, sal y pimienta. Se cubren las rebanadas de pan con una capa de 
+½ cm de espesor y se tuestan al horno.
 
+Brusquetas con queso, cerveza y especias al horno
+diluir 300 gr queso cheddar con ¼ taza cerveza rubia, hasta obtener una crema lisa (5 minutos). Agregar ½ cucharadita de mostaza y ½ cucharadita de nuez moscada, retirar del fuego.
+Tostar 8 rodajas de pan lactal y enmantecarlo y distribuir sobre ellos la crema. Gratinar por 5 minutos en horno fuerte
 
+Brusquetas mediterraneas
+sobre tostadas calientes colocar la siguiente preparacion:
+200 gr de casancrem, 2 tomates en cubitos, albahaca fresca picada,10 aceitunas fileteadas, 1 cucharada de aceto, saly pimienta. Decorar con perejil.
 
-SOPA DE PUERROS DE SARAH EFFEZ
-TENER HERVIDA ½ LITRO DE AGUA.
-PONER EN UNA OLLA, 2 o 3 PUERROS GRANDES Y 1 CEBOLLA GRANDE, PICADOS, AGREGAR ACEITE COMO PARA QUE ESTEN TODOS UNIFORMEMENTE MOJADOS (SIN ACEITE EN EL FONDO). COCINAR A FUEGO LENTO HASTA QUE LOS VEGETALES SE COCINEN UN POCO. (ES OPCIONAL INCORPORAR 500 GR DE CARNE PICADA SELLANDOLA). AGREGAR 200 GR DE QUESO CREMOSO Y 200 GR DE CREMA DE LECHE DOBLE.
-AGREGAR EL AGUA CALIENTE CON UN CALDITO, HASTA CUBRIR LA PREPARACION. COCINAR A FUEGO MEDIO HASTA QUE SE EVAPORE UN POCO EL AGUA. (SI LA SOPA LLEVA CARNE PICADA, ASEGURARSE QUE ESTE COCIDA).
-SALPIMENTAR E INCORPORARLE HIERBAS A GUSTO. ESTA LISTA EN 40 MINUTOS APROXIMADAMENTE, SERVIR CON QUESO RALLADO. ES PARA 4 PERSONAS. 
+Doraditos de cebolla
+brownie de cebolla
+½ kg. De cebolla picada
+½ taza de aceite (cualquiera menos oliva)
+4 huevos
+1 taza de leche
+1 taza de queso rallado
+1 taza de harina leudante
+sal 
+pimienta
 
-PARA AGREGAR A CUALQUIER SOPA  AL MOMENTO DE SER SERVIRDAS
-1- CRUSTONES: TROCITOS DE PAN FRITOS EN MANTECA Y AJO PICADO.
-2- DADITOS DE QUESO FRESCO ROCIADOS CON PIMIENTA NEGRA.
-3- CLARA DE HUEVO BATIDA CON QUESO RALLADO.
-4- PEQUEÑAS TOSTADITAS DE PAN PINCELADAS CON MANTECA  Y PIMIENTA,       OREGANO, PAPRIKA, ALBAHACA, PEREJIL, U OTRAS HIERBAS.
+Prender el horno a 180ªc
+freir en un poco del aceite la cebolla hasta dorarla un poco.
+En un bol agregarle a la cebolla los ingredientes humedos: la leche, los huevos y mezclar.
+Agregar el queso rallado y la harina, tiene aspecto de engrudo.
+Agregar sal y pimienta y llevar a una asadera rectangular mediana, enmantecada y enharinada.
+Cocinar entre 20 y 30 minutos. Una vez dorados, apagar el horno y dejar enfriar alli mismo. Cortar en cuadraditos.
+Puede acompañar la humita, o completar una picada.
 
+Quinoa
+enjuagar rapidamente la quinoa con agua fria, solo una pasada, no dejarla en remojo.
+Cocinarla en agua por 15 minutos aproximadamente: duplica su volumen y libera su germen blanco.
+½ Taza de quinoa es para 2 personas.
 
-TRAGOS
-ALMIBAR  A  PUNTO DE HILO FLOJO PARA ENDULZAR COCTELES:EN UNA CACEROLA COLOCAR UNA TAZA DE AGUA Y 100 GR DE AZUCAR. MEZCLAR CON CUCHARA DE MADERA Y HERVIR HASTA QUE LEVANTANDO LA CUCHARA SE FORME UN HILITO QUE ENSEGUIDA SE CORTE. 
-APRETAR UN POCO LA RODAJA DE LIMON O NARANJA SOBRE EL TRAGO ANTES DE PONERLA COMO DECORACION.
-PONER LAS COPAS EN LA HELADERA ANTES DE SERVIR EL TRAGO.
+Bocaditos de quinoa
+¾ taza de quinoa cocida, 1 ½ taza de caldo, 1 cebolla finamente picada y rehogada, ½ taza de arvejas o lentejas u otra, 2 dientes de ajo picado, 2 huevos batidos,2 cucharadas queso crema, 1 ½ taza queso muzzarella rallado.
+Mezclar todo y colocar 1 cucharada colmada en cada muffins (previamente enmantecadas), y llevar al horno a 200ª, alrededor de 15 a 20 minutos. Salen 24 bocaditos.
 
-CUBA LIBRE: 1 MEDIDA DE RON, ½ JUGO DE LIMON (LIMA), 2 MEDIDAS DE COCA COLA Y HIELO. DECORAR CON 2 RODAJAS DE LIMON
+Buñuelos de papa y queso
+poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas. Mezclar todo y hacer una masa consistente, agregandole un poco de leche.
+Tomar porciones por cucharadas y freirlos en aceite.
 
-MOJITO: AZUCAR  (UNA CUCHARADITA)Y MENTA (UNA RAMITA) MACHACADAS., AGREGAR ½ JUGO DE LIMON, HIELO BIEN PICADO Y ½ VASO DE RON.  PUEDE AGREGARSE SEVEN UP. DECORAR CON HOJITAS DE MENTA.
+Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla. Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+Servir caliente.
 
-CREMA DE WHISKY: 1 DE WHISKY, 1 DE LECHE Y HIELO.
+Bocaditos de queso 
+hacer una corona con los siguientes ingredientes secos:
+300 gr de harina, una cucharada de polvo de hornear, sal a gusto. Colocar en el centro 200 gr de manteca,1 taza de queso rallado y ½ taza de soda o agua. Hacer una masa, trabajarla poco, estirarla de 1 cm de espesor y cortar con cortapasta. Espolvorear con sal gruesa. Cocinar a horno caliente durante 12 minutos. Servir frio o caliente.
 
-DAIKIRI: 1 ½ RON, ½ LIMON Y 1 CUCHARADA DE AZUCAR, HIELO MOLIDO. ESCARCHAR EL VASO CON JUGO DE LIMON Y AZUCAR.
+Aceitunas en la picada
+poner las aceitunas en aceite, jugo de naranja, pimienta y oregano.
 
-DAIKIRI FRUTILLA: 6 FRUTILLAS, 2 CUCHARADAS DE LIMON, 1 CUCHARADA DE AZUCAR Y ½ TAZA DE RON.
+Tarteletas saladas o dulces
+masa
+hacer una masa con: 300 gr harina leudante, 150 gr manteca, 1 cucharadita sal, pimienta, 2 yemas, agua fria cantidad necesaria.
+Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa. Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
+Para las dulces, se suprime la sal y la pimienta y se agregan
+3 cucharadas de azucar.
+Los rellenos pueden ser como para los piononos.
 
-DAIKIRI DE FRUTILLA 6 AND 6: 1 DE RON, 1 DE PULPA DE FRUTILLA, LECHE CONDENSADA Y JUGO DE LIMON.
+Posibles rellenos de los piononos arrollados
+jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
+Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
+Palmitos, jamon, queso maquina, tomate, salsa golf.
+Atun, cebolla rehogada, morron, aceitunas, mayonesa.
+Apio, manzana verde, nueces, jamon, huevo, queso crema.
+Jamon, anana, queso, salsa golf, zanahoria.
+Espinacas al ajo, queso crema, salsa blanca.
+Champignones, pollo, zanahorias, mayonesa, aceite de oliva.
+Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
+Espinaca, panceta, huevo duro, salsa blanca.
+Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
 
-MARGARITA: 1 ½ ONZ TEQUILA, ½ ONZ TRIPLE SEC, 1 ONZ LIMON Y HIELO PICADO.
-HUMEDECER EL BORDE DE LA COPA CON JUGO DE LIMON Y SAL.
+Torre de panqueques o piononos
+pueden hacerse las diferentes capas segun los rellenos antes dichos, u otros , como ejemplo:
+champignones y cebolla rehogadas.
+Queso crema y morron.
+Espinaca al ajo y salsa blanca.
 
-COUP DE MILIEU, TUTTI FRUTTI (copa del medio): MEZCLAR 2 TAZAS DE PULPA DE FRUTAS Y SU JUGO CON ¾ DE AZUCAR MOLIDA Y UNA PIZCA DE SAL. AGREGARLE UNA COPITA DE MARASQUINO Y LLEVARLO AL FREESER HASTA QUE COMIENZE A SOLIDIFICARSE. RETIRAR E INCLUIR  2 CLARAS  BATIDAS A NIEVE CON 3 CUCHARADAS DE AZUCAR (MERENGUE CRUDO), BATIENDO SUAVEMENTE. SI  ES NECESARIO VOLVER  A ENFRIAR Y COMPLETAR CON SIDRA HELADA.
+Champignones en escabeche de maria rosa
+250 gramos de champignones, preferentemente los marrones ya que tienen menos agua. (Portobellos)
+1 cebolla 
+½ pimiento
+sal, granos de pimienta, ají molido, laurel, provenzal
+tres dientes de ajo.
+½ Pocillito de aceite
+½ pocillito de vinagre
+½ pocillito de vino blanco
 
-LIMONADA COMPLETA: JUGO DE LIMON, CUCHARADAS DE AZUCAR, JENGIBRE RALLADO, AGUA Y HIELO MOLIDO.
+Limpiar bien los hongos, cortarlos en 4. ( Yo los lavo, a pesar de hay quienes dicen que no hay que lavarlos, los seco con papel de cocina y les corto una tajadita en la base del tronquito. )Limpiar y cortar la cebolla por la mitad y luego en tajaditas. Limpiar y cortar el pimiento en tiritas.
 
-MARTINI SECO en una copa de 90 cc: GIN 2 MEDIDAS (DE 30 CC), VERMOUTH SECO ¾ PARTES DE LA MEDIDA, UN TROCITO DE LIMON, UNA ACEITUNA VERDE Y 3 CUBITOS DE HIELO.
+Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien. Cocinar 4 minutos, mezclar y volver cocinar otros 4 minutos.
 
-NEGRONI: UNA MEDIDA (30 cc) DE GIN, UNA MEDIDA DE CAMPARI (BITTER ROJO), UNA MEDIDA DE VERMOUTH, 3 CUBITOS DE HIELO Y UNA RODAJA DE NARANJA.
+Las cantidades son aproximadas, creería que esa cantidad de líquido va a ir bien para esa cantidad de hongos. 
 
-BLOODY MARY: en un vaso alto,  1 MEDIDA DE VODKA,  1 MEDIDA DE JUGO DE TOMATE, PIZCA SAL DE APIO, 2 GOTAS DE TABASCO, 4 GOTAS DE WORCESTERSHIRE, 5 CUBITOS DE HIELO Y UNA RODAJA DE LIMON.
+Escabeche de verduras
+puede ser mezcla de varias verduras o de una sola: coliflor, zanahorias, brocoli, repollitos brucelas, cebollitas, cebollitas de verdeo etc. Condimentar con sal, pimienta, laurel, aji molido, semillas de mostaza.
+Humedecer con 1 taza de vinagre, 1 taza de aceite y una de agua (o puede ser vino blanco). 
+Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras. Cocinar hasta que las zanahorias esten tiernas.
 
-MICHELADA: CERVEZA RUBIA, ¼ DE JUGO DE LIMON Y PISCA DE SAL.
-GROG DE MIEL: EN UN VASO PONER UNA CUCHARADA DE HIELO PICADO, UNA CUCHARADA DE MIEL , UNA DE COGNAC, UNA RODAJITA DE LIMON FINITA Y TERMINAR DE LLENARLO CON SODA FRIA.
+Bocadito aleman
+sobre biscochos “rex” colocar una rodajita de lebervurst, rodajita de pepinitos en vinagre y un copetito de savora.
 
-MARQUISE AL VINO BLANCO: 1 LITRO DE VINO BLANCO, JUGO DE 2 NARANJAS Y 2 LIMONES Y ALMIBAR (VER AL INICIO). PONER EN LA HELADERA Y SERVIRLO CON SODA FRIA.
+Bizcochitos con grasa
+mezclar 2 tazas de harina, 2 cucharaditas de polvo de hornear y ½ cucharadita de sal. Añadir 5 cucharadas de grasa bien fria y se mezcla bien con un tenedor. Se agrega ⅓ de taza de agua fria y se amasa ligeramente. Se estira dejandola de ½ cm de espesor y de cortan los biscochos. Pincharlos con un tenedor y se cocin en horno caliente durante 15 minutos.
 
-RON-NARANJA: PARTES IGUALES DE RON Y NARANJA, HIELO MOLID, RODAJA DE LIMON Y GOLPE DE SODA.
+Cebollas crocantes
+se hace una masa con ½ taza de leche, ½ taza de cerveza lager, 1 huevo, 1 taza de harina, 1 cucharadita de polvo de hornear y ½ cucharadita de sal. Dejar reposar ½ hora.
+Cortar 4 cebollas en aros y colocarlos en agua helada por 5 minutos. Escurrirlos y secarlos.
+De a poco se pasan los aros por la masa y se frien con cuidado en aceite bien caliente. Dorarlos de ambos lados y retirarlos con espumadera, colocandolos sobre papel de cocina.
 
-EGG SOUR: PONER EN LA BATIDORA 1 CUCHARADITA DE AZUCAR EN POLVO, EL JUGO DE ¼ DE LIMON, 1 COPITA DE CORASAO, 1 COPITA DE COGNAC, 1 HUEVO ENTERO Y TRES CUBITOS DE HIELO. SE SIRVE FRIO Y CON UNA RODAJA DE NARANJA.
+Canastitas redondas o cubitos con 4 picos
+se hacen con tapas de empanadas.
+En el caso de las canastitas redondas, se hacen pliegues en el borde doblandolos hacia un costado y pelliscando con un poco de agua para que quede pegado como en los repulgues.
+Los cubitos se hacen con 4 pelliscos desde la base a los bordes
+se pueden rellenar con:
+restos de pollo cocido, cebollitas de verdeo picadas,tomates picados, manteca, trocitos de panceta, sal y pimienta. Puede agregarse salsa blanca.
+Aceitunas, queso crema, queso rallado, salsa tomate, oregano, sal y pimienta.
+Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morron, aceite de oliva, sal y pimienta.
+Otros rellenos.
+Espolvorear las bases de las canastitas y los cubitos con pan rallado para que la humedad del relleno no impida que la masa quede crocante y armada.
+Cocinar en horno de 190 ª por 15 a 20 minutos.
 
-CAIPIRINHA: 1 LIMON O LIMA CORTADO EN 4, 2 CUCHARADAS DE AZUCAR, 2 ONZAS DE CACHAZA, 1 CUCHARADA DE JUGO DE LIMON Y 3 CUBITOS DE HIELO. 
+Pizzas rellenas
+utilizando tapas para pascualina.
+Colocar en una pizzera una tapa de pascualina, pincharla y distribuir sobre esta: queso mantecoso y colocar la otra tapa de pascualina pinchandola tambien. Hornear a 190ª por 15 minutos, y proceder como con cualquier tipo de pizza, llevando nuevamente al horno por otros 15 o 20 minutos.
 
-CAIPIROSKA: IGUAL QUE LA CAIPIRINHA, PERO CON VODKA EN VEZ DE CACHAZA.
+Sopas
 
-PISCO SOUR: 50 ML PISCO, 30 ML JUGO DE LIMON. 15 ML DE ALMIBAR, 1 CLARA DE HUEVO, (OPCIONAL GOTAS DE BITTER ANGOSTURA) Y 5 CUBITOS DE HIELO. BATIR.
+Sopa crema de tomate
+freir 1 cebolla picada en manteca. Agregar 1 pimiento, 1 diente ajo y
+1 puerro, todo finamente picado. Añadir 1 litro de caldo y 
+750 gr de tomate triturado. Cocinar a fuego moderado. Poner los condimentos: pimenton dulce, menta, albahaca, nuez moscada, tomate seco hidratado en aceite de oliva, laurel, 1 cucharadita de sal y 
+½ de azucar. Incorporar 1 papa hervida pisada o 60 gr de harina, cocinar de 20 minutos a ½ hora. Ingresar el queso crema y por ultimo unos crustones y perejil picado.
 
-PIÑA COLADA: PONER EN LA LICUADORA  1 MEDIDA (30 CC) DE CREMA DE COCO, 2 MEDIDAS DE JUGO DE ANANA ENVASADO, 1 ½ MEDIDA DE RON  Y 3 CUBITOS DE HIELO. LICUAR HASTA QUE ESTE ESPUMOSO.
+Minestrone
+rehogar una cebolla picada en aceite, cuando esta transparente agregar panceta cortada en trocitos y ajo picado. Incorporar zanahoria, cebolla de verdeo, puerro, zuchini, zapallito, apio, todo finamente picado y cubrir con caldo de carne. Cocinar por 10 minutos. Ingresar papas, tomates pelados y cubeteados, condimentar con oregano, laurel, romero y cocinar por 20 minutos mas. Poner la pasta y las hojas verdes (acelga, espinaca, albahaca, etc), salpimentar y 10 minutos mas de coccion. Por ultimo colocar aceite de oliva, crustones y queso rallado.
 
-OLD FASHION: EMPAPAR  1 TERRON DE AZUCAR CON GOTAS DE BITTER ANGOSTURA, APLASTARLO CON UN POCO DE AGUA HASTA DISOLVERLO, AÑADIR 3 CUBITOS DE HIELO Y AGREGAR 30 CC  DE BOURBON. MEZCLAR HASTA EMPAÑAR EL VASO Y DECORAR CON 1 RODAJA DE LIMON.
+Sopa crema de brocoli con zanahoria
+colocar el brocoli durante 5 minutos en agua hirviendo, con sal y un chorrito de aceite.
+Dorar puerro picado en aceite, agregar zanahorias en rodajas y papas en trozos, salar y hervir con caldo por 15 a 20 minutos, agregar el brocoli y pasar todo por licuadora. Decorar con arbolitos de brocoli, queso rallado y crutones al ajo. 
 
-BACARDI LIMON: PONER EN LICUADORA 50 CC DE BACARDI, HIELO, JUGO DE 1 LIMON, 2 CUCHARADAS DE AZUCAR Y LICUAR HASTA QUE EL HIELO ESTE MOLIDO,
-BACARDI DURAZNO: IGUAL PERO CON UN TOQUE DE LIMON Y 1 DURAZNO.
-BACARDI ANANA: IGUAL PERO CON 1 TOQUE DE LIMON Y 2 RODAJAS DE ANANA.
-BACARDI FRUTILLA: IGUAL PERO CON 1 TOQUE DE LIMON Y 100 GR DE FRUTILLA.
-BACARDI BANANA: IGUAL PERO CON UN TOQUE DE LIMON Y ½  BANANA.
-BACARDI COLA: I PARTE DE BACARDI, 3 PARTES DE COLA, HIELO Y 1 RODAJA DE LIMON.
-BACARDI LIMA LIMON: 1 PARTE DE BACARDI, 3 PARTES DE LIMA LIMON, HIELO  Y 1 RODAJA DE LIMON.
+Sopa crema de calabaza
+freir en aceite hasta dorarse ajo y cebolla picados. Agregar la calabaza en cubos por 2 minutos revolbiendo. Añadir puerro, zanahoria y caldo de verduras. Condimentar con canela, nuez moscada, sal y pimienta. Cocinar a fuego medio alto por 15 minutos.
+Por ultimo se puede incorporar leche de coco. Pasar por la licuadora y servir decorado con perejil picado y semillas de calabaza tostadas.
 
-PONCHE MANOLETE PARA MUCHOS: 1 KG DE FRUTA DE ESTACION, PELADA Y CORTADITA, ESPOLVOREARLA CON 1 TAZA DE AZUCAR,, ROCIARLAS CON 1 LITRO DE JEREZ Y COLOCARLE 3 GRANDES TROZOS DE HIELO, DEJAR EN REPOSO HASTA QUE LA FRUTA SUELTE SU JUGO Y EL AZUCAR SE DISUELVA. AHORA AGREGAR 2 LITROS DE VINO BLANCO Y A LA HELADERA. CUANDO ESTE BIEN HELADO AGREGAR 1 LITRO DE CHAMPAN Y SERVIR CON TROCITOS DE LA FRUTA.
+Sopa de panceta y queso (para 10 personas)
+cortar en pedazos 5 zanahorias, 1 puerro y 1 kg de panceta espesiada.
+Ponerlos a cocinar con 2 litros de agua por 1 hora. Agregar 5 papas grandes, tambien en trozos y cocinar por 30 minutos mas. Salpimentar.
+Servir hirviendo, en 10 bols y en cada uno agragar un trozo de queso reblochon (250g en total).
 
-MARACUBAHACA
-½ MEDIDA DE RON O VODKA, ½ DE MARACUYA, LIMON,  ALBAHACA, Y ENDULZAR CON ALMIBAR.
+Sopa de puerros de sarah effez
+tener hervida ½ litro de agua.
+Poner en una olla, 2 o 3 puerros grandes y 1 cebolla grande, picados, agregar aceite como para que esten todos uniformemente mojados (sin aceite en el fondo). Cocinar a fuego lento hasta que los vegetales se cocinen un poco. (Es opcional incorporar 500 gr de carne picada sellandola). Agregar 200 gr de queso cremoso y 200 gr de crema de leche doble.
+Agregar el agua caliente con un caldito, hasta cubrir la preparacion. Cocinar a fuego medio hasta que se evapore un poco el agua. (Si la sopa lleva carne picada, asegurarse que este cocida).
+Salpimentar e incorporarle hierbas a gusto. Esta lista en 40 minutos aproximadamente, servir con queso rallado. Es para 4 personas. 
 
-REMEDIOS CASEROS Y FORMAS DE SACAR MANCHAS
+Para agregar a cualquier sopa al momento de ser servirdas
+1- crustones: trocitos de pan fritos en manteca y ajo picado.
+2- Daditos de queso fresco rociados con pimienta negra.
+3- Clara de huevo batida con queso rallado.
+4- Pequeñas tostaditas de pan pinceladas con manteca y pimienta, oregano, paprika, albahaca, perejil, u otras hierbas.
 
-REMEDIOS
+Tragos
+
+Almibar a punto de hilo flojo para endulzar cocteles:en una cacerola colocar una taza de agua y 100 gr de azucar. Mezclar con cuchara de madera y hervir hasta que levantando la cuchara se forme un hilito que enseguida se corte. 
+Apretar un poco la rodaja de limon o naranja sobre el trago antes de ponerla como decoracion.
+Poner las copas en la heladera antes de servir el trago.
+
+Cuba libre: 1 medida de ron, ½ jugo de limon (lima), 2 medidas de coca cola y hielo. Decorar con 2 rodajas de limon
+
+Mojito: azucar (una cucharadita)y menta (una ramita) machacadas., Agregar ½ jugo de limon, hielo bien picado y ½ vaso de ron. Puede agregarse seven up. Decorar con hojitas de menta.
+
+Crema de whisky: 1 de whisky, 1 de leche y hielo.
+
+Daikiri: 1 ½ ron, ½ limon y 1 cucharada de azucar, hielo molido. Escarchar el vaso con jugo de limon y azucar.
+
+Daikiri frutilla: 6 frutillas, 2 cucharadas de limon, 1 cucharada de azucar y ½ taza de ron.
+
+Daikiri de frutilla 6 and 6: 1 de ron, 1 de pulpa de frutilla, leche condensada y jugo de limon.
+
+Margarita: 1 ½ onz tequila, ½ onz triple sec, 1 onz limon y hielo picado.
+Humedecer el borde de la copa con jugo de limon y sal.
+
+Coup de milieu, tutti frutti (copa del medio): mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azucar molida y una pizca de sal. Agregarle una copita de marasquino y llevarlo al freeser hasta que comienze a solidificarse. Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azucar (merengue crudo), batiendo suavemente. Si es necesario volver a enfriar y completar con sidra helada.
+
+Limonada completa: jugo de limon, cucharadas de azucar, jengibre rallado, agua y hielo molido.
+
+Martini seco en una copa de 90 cc: gin 2 medidas (de 30 cc), vermouth seco ¾ partes de la medida, un trocito de limon, una aceituna verde y 3 cubitos de hielo.
+
+Negroni: una medida (30 cc) de gin, una medida de campari (bitter rojo), una medida de vermouth, 3 cubitos de hielo y una rodaja de naranja.
+
+Bloody mary: en un vaso alto, 1 medida de vodka, 1 medida de jugo de tomate, pizca sal de apio, 2 gotas de tabasco, 4 gotas de worcestershire, 5 cubitos de hielo y una rodaja de limon.
+
+Michelada: cerveza rubia, ¼ de jugo de limon y pisca de sal.
+Grog de miel: en un vaso poner una cucharada de hielo picado, una cucharada de miel , una de cognac, una rodajita de limon finita y terminar de llenarlo con soda fria.
+
+Marquise al vino blanco: 1 litro de vino blanco, jugo de 2 naranjas y 2 limones y almibar (ver al inicio). Poner en la heladera y servirlo con soda fria.
+
+Ron-naranja: partes iguales de ron y naranja, hielo molid, rodaja de limon y golpe de soda.
+
+Egg sour: poner en la batidora 1 cucharadita de azucar en polvo, el jugo de ¼ de limon, 1 copita de corasao, 1 copita de cognac, 1 huevo entero y tres cubitos de hielo. Se sirve frio y con una rodaja de naranja.
+
+Caipirinha: 1 limon o lima cortado en 4, 2 cucharadas de azucar, 2 onzas de cachaza, 1 cucharada de jugo de limon y 3 cubitos de hielo. 
+
+Caipiroska: igual que la caipirinha, pero con vodka en vez de cachaza.
+
+Pisco sour: 50 ml pisco, 30 ml jugo de limon. 15 Ml de almibar, 1 clara de huevo, (opcional gotas de bitter angostura) y 5 cubitos de hielo. Batir.
+
+Piña colada: poner en la licuadora 1 medida (30 cc) de crema de coco, 2 medidas de jugo de anana envasado, 1 ½ medida de ron y 3 cubitos de hielo. Licuar hasta que este espumoso.
+
+Old fashion: empapar 1 terron de azucar con gotas de bitter angostura, aplastarlo con un poco de agua hasta disolverlo, añadir 3 cubitos de hielo y agregar 30 cc de bourbon. Mezclar hasta empañar el vaso y decorar con 1 rodaja de limon.
+
+Bacardi limon: poner en licuadora 50 cc de bacardi, hielo, jugo de 1 limon, 2 cucharadas de azucar y licuar hasta que el hielo este molido,
+bacardi durazno: igual pero con un toque de limon y 1 durazno.
+Bacardi anana: igual pero con 1 toque de limon y 2 rodajas de anana.
+Bacardi frutilla: igual pero con 1 toque de limon y 100 gr de frutilla.
+Bacardi banana: igual pero con un toque de limon y ½ banana.
+Bacardi cola: I parte de bacardi, 3 partes de cola, hielo y 1 rodaja de limon.
+Bacardi lima limon: 1 parte de bacardi, 3 partes de lima limon, hielo y 1 rodaja de limon.
+
+Ponche manolete para muchos: 1 kg de fruta de estacion, pelada y cortadita, espolvorearla con 1 taza de azucar,, rociarlas con 1 litro de jerez y colocarle 3 grandes trozos de hielo, dejar en reposo hasta que la fruta suelte su jugo y el azucar se disuelva. Ahora agregar 2 litros de vino blanco y a la heladera. Cuando este bien helado agregar 1 litro de champan y servir con trocitos de la fruta.
+
+Maracubahaca
+½ medida de ron o vodka, ½ de maracuya, limon, albahaca, y endulzar con almibar.
+
+Remedios caseros y formas de sacar manchas
+
+Remedios
 
 Dolores y molestias: las hojas de uña de gato (harpagofito) alivian el dolor de las articulaciones, reumatismo y artritis. No se recomienda para mujeres embarazadas pues estimulan el útero.
 
 Resfriados: es una sopa, 2 tazas de agua, 1 cucharadita de comino, 1 cucharadita de pimienta negra molida, 3 tomates frescos pasados por agua caliente y pelados, 1 pizca de sal, 1 pizca de semillas de mostaza, 1 pizca de curry y 1 cucharadita de aceite de oliva. Se pone todo a cocer a fuego lento por 5 minutos.
 
-El ajo ayuda a combatir infecciones virales y bacterianas de las vías respiratorias. Es más eficaz si se come crudo, Agregar a la sopa al final, muy poco pues puede producir trastornos gastrointestinales.
+El ajo ayuda a combatir infecciones virales y bacterianas de las vías respiratorias. Es más eficaz si se come crudo, agregar a la sopa al final, muy poco pues puede producir trastornos gastrointestinales.
 
 Estreñimiento: un puré hecho con tres tallos de ruibarbo chino, 1 taza de jugo de manzana, 4 tazas de agua, ¼ de limón sin cascara y 1 cucharada de miel. Hervir a fuego lento durante 20 minutos.
 Es un laxante natural.
@@ -1970,83 +2177,67 @@ Indigestión: una infusión con una cucharadita de jengibre seca y pulverizada o
 También las infusiones de hinojo favorecen la digestión, previenen los cólicos y
 estimulan la producción de leche materna.
 
-Garganta irritada: 2 1/2 tazas de agua, 2 cucharaditas de salvia fresca o seca, hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta infusión. No usar durante el período de embarazo. Emplear con precaución.
+Garganta irritada: 2 ½ tazas de agua, 2 cucharaditas de salvia fresca o seca, hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta infusión. No usar durante el período de embarazo. Emplear con precaución.
 
 Cuando se está con colitis: comer manzana, te negro, queso, arroz y membrillo.
 
 Cuando se está estreñido: comer ciruelas secas o frescas, remolacha, palta, cereales, yogur, lino quebrado.
 
-MANCHAS DIFICILES DE SACAR
+Manchas dificiles de sacar
 
-COLOCAR LA PARTE DE LA PRENDA MANCHADA SOBRE UN PLATO HONDO O FUENTE, DE TAL MANERA QUE AL SACAR LA MANCHA NO MANCHE EL RESTO DE LA PRENDA. Y EL LIQUIDO UTILIZADO QUEDE EN LA PARTE INFERIOR DEL PLATO.
-GENERALMENTE TODAS LAS MANCHAS SALEN, SI SE LAS LIMPIAN ANTES DE QUE SE SEQUEN O LAS ABSORBA EL TEJIDO. SI NO SE PUEDE HACER EN EL MOMENTO, POR LO MENOS ECHARLE SAL O FECULA DE MAIZ O TALCO, PARA QUE ABSORBA LOS LIQUIDOS.
+Colocar la parte de la prenda manchada sobre un plato hondo o fuente, de tal manera que al sacar la mancha no manche el resto de la prenda. Y el liquido utilizado quede en la parte inferior del plato.
+Generalmente todas las manchas salen, si se las limpian antes de que se sequen o las absorba el tejido. Si no se puede hacer en el momento, por lo menos echarle sal o fecula de maiz o talco, para que absorba los liquidos.
 
-TE O CAFE
-ECHARLE  AGUA  CALIENTE, Y SI NO SALE, FROTARLA CON AGUA OXIGENADA (CON ESPONJA), DEJARLA BLANQUEAR AL SOL Y ENJUAGAR. NO USAR JABON DESDE UN PRINCIPIO PUES PUEDE FIJAR LA MANCHA.
+Te o cafe
+echarle agua caliente, y si no sale, frotarla con agua oxigenada (con esponja), dejarla blanquear al sol y enjuagar. No usar jabon desde un principio pues puede fijar la mancha.
 
-CHOCOLATE
-LAVAR  LA ZONA CON AGUA CALIENTE Y DETERGENTE. SI NO SE AFLOJA TODO, FROTAR CON AGUA OXIGENADA.
+Chocolate
+lavar la zona con agua caliente y detergente. Si no se afloja todo, frotar con agua oxigenada.
 
-LECHE, CREMA O HELADO
-LAVAR PRIMERO CON AGUA FRIA PARA SACAR LA PROTEINA. LUEGO, SI ES HELADO DE FRUTAS O CHOCOLATE, TRATARLA COMO TALES.
+Leche, crema o helado
+lavar primero con agua fria para sacar la proteina. Luego, si es helado de frutas o chocolate, tratarla como tales.
 
-HUEVOS O JUGO DE CARNE
-RASPAR CON UN CUCHILLO PARA SACAR LO GRUESO Y LAVAR CON AGUA FRIA ANTES DEL LAVADO ORDINARIO.
+Huevos o jugo de carne
+raspar con un cuchillo para sacar lo grueso y lavar con agua fria antes del lavado ordinario.
 
-FRUTAS O JUGOS DE FRUTA
-COLOCAR  SOBRE LA PRENDA ALGO QUE ABSORBA LOS LIQUIDOS. CEPILLAR. FROTAR CON SAL Y JUGO DE LIMON. Y POR ULTIMO, LAVAR CON ESPUMA JABONOSA CALIENTE.
+Frutas o jugos de fruta
+colocar sobre la prenda algo que absorba los liquidos. Cepillar. Frotar con sal y jugo de limon. Y por ultimo, lavar con espuma jabonosa caliente.
 
-ACEITE
-DISOLVER 1 CUCHARADA DE DETERGENTE SUAVE CON 2 DE AGUA CALIENTE. FROTAR. SI QUEDA MARCA, FROTAR CON AGUA OXIGENADA Y PONER AL SOL.
+Aceite
+disolver 1 cucharada de detergente suave con 2 de agua caliente. Frotar. Si queda marca, frotar con agua oxigenada y poner al sol.
 
-PASTO
-FROTAR CON AGUA OXIGENADA O ALCOHOL.
+Pasto
+frotar con agua oxigenada o alcohol.
 
-GRASOSAS O PEGAJOSAS
-UTILIZAR NAFTA BLANCA O BENCINA.
+Grasosas o pegajosas
+utilizar nafta blanca o bencina.
 
-CHAMUSCADO DE PLANCHA
-FROTAR CON JUGO DE LIMON Y PONER AL SOL.
+Chamuscado de plancha
+frotar con jugo de limon y poner al sol.
 
-TINTA
-CUBRIR LA MANCHA CON SAL Y UNAS GOTAS DE LECHE, DEJAR VARIAS HORAS, ENJUAGAR Y REPETIR LA OPERACION  HASTA QUE LA MANCHA SALGA.
+Tinta
+cubrir la mancha con sal y unas gotas de leche, dejar varias horas, enjuagar y repetir la operacion hasta que la mancha salga.
 
-YODO
-LAVAR CON ESPUMA CALIENTE Y PONER AL SOL.
+Yodo
+lavar con espuma caliente y poner al sol.
 
-LAPIZ LABIAL
-NO DEBE USARSE JABON AL PRINCIPIO PUES LA FIJA. FROTAR CON ALCOHOL O BENCINA (EN EL CASO DE PRENDAS DE COLOR O LANA)
+Lapiz labial
+no debe usarse jabon al principio pues la fija. Frotar con alcohol o bencina (en el caso de prendas de color o lana)
 
-SANGRE
-PRIMERO AGUA FRIA Y DESPUES FROTAR CON ESPONJA HUMEDECIDA CON AGUA OXIGENADA. REPETIR HASTA QUE DESAPAREZCA.
+Sangre
+primero agua fria y despues frotar con esponja humedecida con agua oxigenada. Repetir hasta que desaparezca.
 
-BARNIZ
-FROTAR CON ACETONA O REMOVEDOR DE BARNIZ. LAVAR CON AGUA CALIENTE Y SI PERSISTE EXPONER AL SOL.
-SI LA MANCHA ESTA EN TELA DE RAYON, DEBE TRATARSE CON BENCINA Y LUEGO EXTRACTO DE BANANA.
+Barniz
+frotar con acetona o removedor de barniz. Lavar con agua caliente y si persiste exponer al sol.
+Si la mancha esta en tela de rayon, debe tratarse con bencina y luego extracto de banana.
 
-PINTURA
-PARA MANCHAS RECIENTES, RASPAR CON CUCHILLO LO GRUESO Y LAVAR CON ESPUMA CALIENTE.
-SI ES VIEJA, ABLANDAR CON GLICERINA O ACEITE Y FROTAR LUEGO CON TREMENTINA.
+Pintura
+para manchas recientes, raspar con cuchillo lo grueso y lavar con espuma caliente.
+Si es vieja, ablandar con glicerina o aceite y frotar luego con trementina.
 
-MOHO
-LAVAR CON AGUA Y JABON  BLANCO EN CALIENTE. HUMEDECER CON JUGO DE LIMON Y SAL Y EXPONER AL SOL.
-SI ES VIEJA, BLANQUEAR CON UNA SOLUCION DE 1 PARTE DE AGUA OXIGENADA AL 3% Y 20 PARTES DE AGUA. ENJUAGAR BIEN.
+Moho
+lavar con agua y jabon blanco en caliente. Humedecer con jugo de limon y sal y exponer al sol.
+Si es vieja, blanquear con una solucion de 1 parte de agua oxigenada al 3% y 20 partes de agua. Enjuagar bien.
 
-CERA DE VELAS
-SACAR EL EXCESO DE CERA. PONER LA PARTE MANCHADA SOBRE PAPEL SECANTE Y PASARLE LA PLANCHA CALIENTE. FROTAR CON ESPONJA HUMEDECIDA CON PRODUCTO NO INFLAMABLE PARA LIMPIAR EN SECO.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Cera de velas
+sacar el exceso de cera. Poner la parte manchada sobre papel secante y pasarle la plancha caliente. Frotar con esponja humedecida con producto no inflamable para limpiar en seco.

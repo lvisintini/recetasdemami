@@ -9,7 +9,7 @@ Title: Las Recetas de Mami
 Formar una torre con: tostada, panceta cocida o jamon crudo, cebollita de verdeo picada, huevo poche (ver mas abajo) y salsa holandesa.
 
 #### Salsa holandeza
-3 cuharadas de manteca derretida, 1 cucharada de jugo de limon y 1/2 taza de mayonesa. servir tibio.
+3 cuharadas de manteca derretida, 1 cucharada de jugo de limon y ½ taza de mayonesa. servir tibio.
 
 ### Huevos poche
 Hervir agua con un chorro de vinagre y poca sal. bajar el fuego y hacer girar el agua segun las agujas del reloj. introducir el huevo (a temperatura ambiente) sin cascara en el centro y cocinar a fuego fuerte por 2 minutos. tratando de hacer movimientos envolventes con cuchara de madera.
@@ -92,9 +92,9 @@ Cocinar 1 taza de cebollas y cebollitas de verdeo, salpimentar.
 - ¾ taza de leche.
 
 #### Armado
-Sobre la masa precocida poner 1/3 de la panceta frita, 1/3 de las cebollas y 1/3 del queso.
+Sobre la masa precocida poner ⅓ de la panceta frita, ⅓ de las cebollas y ⅓ del queso.
 
-Agregar 1/3 de la crema.
+Agregar ⅓ de la crema.
 
 Continuar con el resto de los elementos, por capas: cebollas, queso. la crema restante y por ultimo los trozos de panceta.
 
@@ -311,7 +311,7 @@ En un fuente para horno u horno micro ondas, colocar salchichas (2 por persona) 
 Sal, pimienta, oregano, perejil, o la aromatica que prefiera. puede agregarse trocitos de panceta, queso rallado, cebollita de verdeo, etc. cocinar hasta que la clara se solidifique.
 
 ### Gulasch
-½ litro agua,1/2 kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, aji molido, pimienta.
+½ litro agua,½ kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, aji molido, pimienta.
 
 Freir las cebollas picadas y retirar, sellar la carne cortada en cubitos y previamente pasada por harina, agregar la cebolla.
 
@@ -362,7 +362,7 @@ En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y 
 #### Relleno:
 Se prepara igual cantidad de cebolla que de carne.
 
-La cebolla a utilizar debe ser asi: 2/3 blanca y 1/3 de cebollita de verdeo, picadas y fritas en aceite hasta que queden transparentes y no doradas.
+La cebolla a utilizar debe ser asi: ⅔ blanca y ⅓ de cebollita de verdeo, picadas y fritas en aceite hasta que queden transparentes y no doradas.
 
 A la carne picada o cortada chica a cuchillo, se la sella, para que quede jugosa en su interior. se la mezcla con la cebolla y se añade un poco de caldo de carne y una cucharada de manteca. condimentar con aji molido, sal, abundante oregano, pimenton, comino. una vez que esta todo cocinado se retira del fuego y se la deja enfriar.
 
@@ -547,7 +547,7 @@ En el elemento wok o en una sarten bien caliente incorporar aceite de oliva, ajo
 Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) en tiras. queda bien agregando vino blanco y jenjibre rallado.
 
 ### Pure de batatas
-Hacer un pure con 5 batatas, agregarle 50 gr de manteca, 1/4 taza de azucar y 100 de leche,
+Hacer un pure con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azucar y 100 de leche,
 
 ### Pure de manzanas
 Hervir 5 manzanas peladas y sin semillas con muy poca agua. pisarlas en la misma olla y agregarle 50 gr de manteca, ½ taza de azucar y un poco de canela. mezclar bien y calentar antes de servir.
@@ -656,7 +656,7 @@ Poner abundante liquido para que no quede seco.
 Yo pondria 2 latas de tomates al natural y 3 tazas de caldo o vino.
 
 ### Hojaldre con cebolla (no probado)
-Cortar la cebolla de menos de 1/2 cm de espesor, sazonarlas con sal y aceite de oliva. llevar al horno microondas por 15 minutos.
+Cortar la cebolla de menos de ½ cm de espesor, sazonarlas con sal y aceite de oliva. llevar al horno microondas por 15 minutos.
 
 Disolver 140 gr de queso con 1 ½ taza de leche, sazonada con pimienta.
 
@@ -715,7 +715,7 @@ Colocar la masa en molde enmantecado y enharinado. precocinar o rociarla con pan
 
 Para el relleno hice lo siguiente.
 
-4 cebollas grandecitas cortadas en tajaditas. agregarle sal, pimienta y provenzal. luego en un recipiente, diluir 3 cucharadas soperas de maizena con leche, aprox . 3/4 taza, volcar esa mezcla sobre las cebollas hasta que espese y retirar del fuego . a veces le agrego un poquito más de leche si hace falta. luego mezclar en un recipiente una cucharada bien gorda de crema, uso la ilolay doble, con tres huevos y bastante queso rallado. también le puse dos hojas de jamón cocido cortadito. rectificar la sal y pimienta, para que no quede desabrido. volcar el relleno sobre la masa, y espolvorear queso rallado encima.
+4 cebollas grandecitas cortadas en tajaditas. agregarle sal, pimienta y provenzal. luego en un recipiente, diluir 3 cucharadas soperas de maizena con leche, aprox . ¾ taza, volcar esa mezcla sobre las cebollas hasta que espese y retirar del fuego . a veces le agrego un poquito más de leche si hace falta. luego mezclar en un recipiente una cucharada bien gorda de crema, uso la ilolay doble, con tres huevos y bastante queso rallado. también le puse dos hojas de jamón cocido cortadito. rectificar la sal y pimienta, para que no quede desabrido. volcar el relleno sobre la masa, y espolvorear queso rallado encima.
 
 Así hago todas las tartas, de zapallitos, berenjenas, choclo, etc.
 
@@ -804,15 +804,15 @@ Poner aceite en la asadera, incluir cebollas cortadas en plumitas, tomates cherr
 - Vino blanco 100 cc.
 - Harina 0000 100 g.
 - Aceite de oliva 2 cdas.
-- Sal fina 1/4 cdita.
-- Provenzal alicante 1/4 cda.
-- Pimienta blanca molida alicante 1/4 cdita.
+- Sal fina ¼ cdita.
+- Provenzal alicante ¼ cda.
+- Pimienta blanca molida alicante ¼ cdita.
 
 #### Guarnición
 - Papas medianas 4 unidades (1,100 kg.)
 - Aceite de oliva 1 cda.
-- Azafrán molido alicante 1/2 cápsula
-- Sal entrefina 1/4 cdita.
+- Azafrán molido alicante ½ cápsula
+- Sal entrefina ¼ cdita.
 
 ### Pastel de caballa
 Para el relleno, se frie una cebolla grande y se le va agregando: 1 lata de caballa al natural, 1 taza de queso rallado, 125 gr de aceitunas verdes cortaditas, 2 tomates perita y 1 huevo duro picados, nuez moscada, sal y pimienta.
