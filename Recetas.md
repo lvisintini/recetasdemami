@@ -1517,7 +1517,7 @@ Ir alternando, una capa de vainillas, una capa de la mezcla, una capa de vainill
 
 ### Ingredientes
 
-- 300 gr de harina (1)
+- 300 gr de harina
 - 100 gr de azucar impalpable
 - 200 gr manteca
 - 80 gr almendras peladas tostadas y molidas
@@ -1672,6 +1672,16 @@ Mezclar:
 - Azucar
 - Agua
 
+## Salsa de pimientos  (2)
+Procesar:
+
+- 3 pimientos morrones
+- el jugo de ½ limon
+- 1 cucharadita de pimenton
+- 1 cucharadita de sal
+
+Incorporar 2 cucharadas de crema de leche y finalmente agregar 6 pepinillos muy picados.
+
 ## Salsa de Queso Crema
 Mezclar:
 - Queso crema
@@ -1724,144 +1734,366 @@ Mezclar:
 - trocitos de Apio (Opcional)
 
 
-Salsa cesar
-machacar 1 diente de ajo con 50 gr. Anchoas. Agregarle la 
-mezcla de 3 yemas con 1 cucharadita de mostaza y
- 2 cucharadas de jugo de limon. Batir hasta lograr homogenidad e incorporarle 100 ml de aceite de girasol de a poco: primero unas gotas y despues en un hilo fino para que no se corte. Luego sumarle 2 cucharadas de queso parmesano y pisca pimienta.
+## Salsa Cesar (1)
+Machacar 1 diente de ajo con 50 grs anchoas.
 
-Otra salsa cesar
-200 ml aceite girasol,1 huevo (mayonesa), sal, pimienta, 
-2 dientes ajo picado, 6 anchoas en aceite, 1 ½ cucharaditas de mostaza, 1 taza queso parmesano, gotas de salsa inglesa, vinagre de vino. Licuar todo, se puede agregar jugo de limon.
+Agregarle la mezcla de 3 yemas con 1 cucharadita de mostaza y  2 cucharadas de jugo de limon.
 
-Salsa ranchera
-90 ml crema de leche, jugo ½ limon (3 cucharadas), 5 ml leche (5 cucharadas), ½ cucharada mayonesa, ½ cucharadita cebolla en polvo, ½ cucharadita ajo en polvo, ½ cucharadita de sal, una pizca pimienta negra, un poco de cebollita de verdeo.
+Batir hasta lograr homogenidad e incorporarle 100 ml de aceite de girasol de a poco (primero unas gotas y despues en un hilo fino para que no se corte)
 
-Ali oli
-1 huevo, 250 ml aceite de oliva, 2 dientes de ajo (sacar corazon), 1 cucharada de jugo de limon, pizca de sal. Licuadora.
+Luego sumarle 2 cucharadas de queso parmesano y una pisca pimienta
 
-Ali oli mas sencilla
-(ya que huevo, aceite y jugo de limon es mayonesa) agregar ajo a una buena mayonesa al limon. 
+## Salsa Cesar (2)
+Licuar:
+
+- 200 ml aceite girasol
+- 1 huevo (mayonesa)
+- Sal
+- Pimienta
+- 2 dientes ajo picado
+- 6 anchoas en aceite
+- 1 ½ cucharaditas de mostaza
+- 1 taza queso parmesano
+- gotas de salsa inglesa
+- vinagre de vino
+- Jugo de limon (Opcional)
+
+## Salsa ranchera
+
+- 90 ml crema de leche
+- jugo ½ limon (3 cucharadas)
+- 5 ml leche (5 cucharadas)
+- ½ cucharada mayonesa
+- ½ cucharadita cebolla en polvo
+- ½ cucharadita ajo en polvo
+- ½ cucharadita de sal
+- una pizca pimienta negra
+- un poco de cebollita de verdeo
+
+## Alioli (1)
+Licuar:
+
+- 1 Huevo
+- 250 ml Aceite de oliva
+- 2 Dientes de ajo (sacar corazón)
+- 1 Cucharada de jugo de limon
+- Pizca de sal
+
+## Alioli (2)
+Siendo que huevo, aceite y jugo de limon son los ingredientes de una Mayonesa, se puede agregar ajo a una buena mayonesa al limón. 
+
 Poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos para que salga la crema.
 
-Crema de ajo
-pure de ajo (poner los dientes de ajo en el horno por 
-10 minutos, al sacarlos, apretarlos para que salga la crema), casancrem, jugo de limon y mayonesa natura.
+## Crema de Ajo
+- Pure de ajo (poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos para que salga la crema)
+- Casancrem
+- Jugo de limon
+- Mayonesa (Natura)
 
-Salsa de aceitunas
-con 2 huevos y 1 taza aceite de girasol hacer una mayonesa, agregar 7 aceitunas descarozadas,1 cucharadita de sal y el jugo de ½ limon. Procesar.
+## Salsa de aceitunas
+Con 2 huevos y 1 taza aceite de girasol, hacer una mayonesa.
 
-Chimichurri para 100 kg. De mamona 
-20 kg. Cebolla, 5 kg. Pimientos, 23 kg. Tomates, 5 kg. Zanahorias. 25 Cabezas de ajo y 5 latas de durazno al natural. Procesar.
+Agregar 7 aceitunas descarozadas, 1 cucharadita de sal y el jugo de ½ limon.
+
+Procesar
+
+# Chimichurri para 100 kg de Mamona
+ Procesar:
+ 
+- 20 kg Cebolla
+- 5 kg Pimientos
+- 23 kg Tomates
+- 5 kg Zanahorias
+- 25 Cabezas de ajo
+- 5 latas de durazno al natural
 
 Macerar la carne con sal, pimienta, aji molido y cognac.
+
 Cocinar en el horno agregandole vino tinto o caldo de carne.
+
 Por ultimo agregarle la salsa y cocinar hasta que este tierna
 
-Salsa de pimientos  (2)
-procesar 3 pimientos morrones, el jugo de ½ limon, 
-1 cucharadita de pimenton y 1 cucharadita de sal, incorporar
-2 cucharadas de crema de leche y finalmente agregar
-6 pepinillos muy picados.
+## Salsa Maltesa
+Mezclar:
 
-Salsa maltesa ( mayonesa, naranja y mostaza)
-mezclar 1 taza de mayonesa, 1 cucharada de jugo de naranja, 
-1 cucharadita de ralladura de cascara de naranja y
-1 cucharada de mostaza.
+- 1 taza de mayonesa
+- 1 cucharada de jugo de naranja
+- 1 cucharadita de ralladura de cascara de naranja
+- 1 cucharada de mostaza
 
-Salsa a la maitre d´hotel
-se calienta una taza, despues se coloca la manteca y se bate hasta que queda como una crema, se le va agregando perejil finamente picado y jugo de limon. Condimentar con sal y pimienta.
+## Salsa a la maitre d´hotel
+Ingredientes:
+
+- 100 gr de manteca
+- 15 gr de perejil
+- 1 cucharadita de jugo de limón
+
+
+Se calienta una taza, despues se coloca la manteca y se bate hasta que queda como una crema, se le va agregando perejil finamente picado y jugo de limon.
+
+Condimentar con sal y pimienta.
+
 Las proporciones son: 100 gr de manteca, 15 gr de perejil, 1 cucharadita de jugo de limon.
 
-Condimento frances:
-rica para condimentar ensaladas en reemplazo del tradicional aceite, vinagre y sal.
-6 Cucharadas de aceite de oliva, 6 de ketchup, 2 de jugo de limon, 1 cdita de mostaza, sal y pimienta.
+## Condimento Frances
+Para condimentar ensaladas en reemplazo del tradicional aceite, vinagre y sal.
 
-Condimento frances: 
-4 cucharadas de aceite de oliva, 4 de ketchup, 2 de jugo de limon, 1 cdita de mostaza, sal y pimienta.
+Mezclar:
 
-Aderezo complicado: no probado
-calentar a baño maria: 4 yemas, 2 cucharadas de agua fria, 
-2 cucharadas de vinagre,
-1 cucharadita de mostaza, 1 cucharadita de azucar, sal. Espesar como la consistencia de la mayonesa y agregarle 
-200 gr de crema de leche. Llevar a la heladera. 
+- 4-6 Cucharadas de aceite de oliva
+- 4-6 Cucharadas de ketchup
+- 2 de jugo de limon
+- 1 cdita de mostaza
+- sal
+- pimienta
 
-Salsa vitel tone
-350 gr de mayonesa, 200 gr atun al natural, 2 cucharadas de alcaparras, 4 filet de anchoas, jugo de ½ limon, sal y pimienta.
 
-Salsa tartara
-mayonesa, mostaza, pickles, perejil, huevo duro, alcaparras.
 
-Dip de almendras
-mezclar 200 gr de queso crema con 2 ó 3 cucharadas de agua, 30 gr de almendras picadas y 1 cucharada de hierbas frescas picadas ( albahaca, perejil, oregano).
+## Moyonesa a baño maría
+Calentar a baño maria:
 
-Salsa para peceto o carnes frias
-mayonesa, aceitunas verdes, cebollitas en vinagre picadas, 1 cucharadita de mostaza, jugo de limon y ketchup.
+- 4 yemas
+- 2 cucharadas de agua fria
+- 2 cucharadas de vinagre
+- 1 cucharadita de mostaza
+- 1 cucharadita de azucar
+- Sal
 
-Aderezo para ensaladas hermana bernarda
-4 cucaradas soperas de aceite, 2 cucharadas soperas de vinagre, 1 cucharadita de azucar, 1 cuvharadita de mostaza.
+Espesar a la consistencia de mayonesa y agregarle 200 gr de crema de leche.
 
-Salsas calientes
+Llevar a la heladera. 
 
-Salsa italiana caliente: saltear en aceite de oliva 
-2 cebollas cortadas en juliana, añadir 8 fetas de panceta cortada en tiras, dorar. Incorporar 2 vasitos de vino blanco, 1 pimiento cortado chico, y 4 tomates pelados y triturados. Con fuego bajo reducir a la mitad. Servir sobre pasta y esparcir queso rallado.
+## Salsa Vitel Toné
+Licuar:
 
-Salsa de queso (mejor)
-derretir 2 cucharadas de manteca y agregarle 2 cucharadas de harina y mezclar hasta obtener una pasta. Incorporarle 1 ½ taza de leche (bechamel), revolver hasta que hierva y espace, bajar la llama y agragarle 1 taza de queso rallado (gruyere, fontina, etc). Cocinar hasta que se derrita, condimentar con sal, pimienta y ½ cucharadita de mostaza.
+- 350 gr de mayonesa
+- 200 gr atun al natural
+- 2 cucharadas de alcaparras
+- 4 filet de anchoas
+- jugo de ½ limon
+- sal
+- pimienta
 
-Salsa de queso: mezclar 1 vaso de leche con ½ taza de queso fundido. Sobre fuego normal remover y cocer hasta que quede una masa homogenea, condimentar y servir
+## Salsa tartara
+- Mayonesa
+- Mostaza
+- Pickles
+- Perejil
+- Huevo duro
+- Alcaparras
 
-Salsa roquefort: a una salsa blanca liviana añadir el queso roquefort hasta disolver. Para ¼ l. De leche, 150 grs. De queso.
-Sobre esta salsa se puede agregar nueces picadas, queso rallado y hornear y gratinar.
+## Dip de almendras
+Mezclar:
 
-Baña cauda: 1 y ½ cabeza de ajo, 12 anchoas (24 filetes), 
-1 kg de crema de leche. El monton de ajo picado debe ser similar al monton de anchoas picadas. Muchos tambien le pican nueces.
+- 200 gr de queso crema
+- 2 o 3 cucharadas de agua
+- 30 gr de almendras picadas
+- 1 cucharada de hierbas frescas picadas (albahaca, perejil, oregano).
+
+## Salsa para peceto o carnes frias
+Licuar:
+
+- mayonesa
+- aceitunas verdes
+- cebollitas en vinagre picadas
+- 1 cucharadita de mostaza
+- jugo de limon
+- ketchup.
+
+## Aderezo para ensaladas hermana Bernarda
+Mezclar:
+
+- 4 cucaradas soperas de aceite
+- 2 cucharadas soperas de vinagre
+- 1 cucharadita de azucar
+- 1 cucharadita de mostaza
+
+# Salsas calientes
+
+## Salsa italiana:
+Saltear en aceite de oliva 2 cebollas cortadas en juliana,
+
+Añadir 8 fetas de panceta cortada en tiras y dorar.
+
+Incorporar 2 vasitos de vino blanco, 1 pimiento cortado chico, y 4 tomates pelados y triturados.
+
+Con fuego bajo reducir a la mitad.
+
+Servir sobre pasta y esparcir queso rallado.
+
+## Salsa de queso (1)
+Derretir 2 cucharadas de manteca, agregarle 2 cucharadas de harina y mezclar hasta obtener una pasta.
+
+Incorporarle 1 ½ taza de leche (bechamel), revolver hasta que hierva y espece
+
+Bajar la llama y agragarle 1 taza de queso rallado (gruyere, fontina, etc).
+
+Cocinar hasta que se derrita
+
+Condimentar con sal, pimienta y ½ cucharadita de mostaza.
+
+## Salsa de queso (2)
+Mezclar 1 vaso de leche con ½ taza de queso fundido.
+
+Remover sobre fuego normal y cocer hasta que quede una masa homogenea.
+
+Condimentar y servir.
+
+## Salsa Roquefort
+A una salsa blanca liviana añadir el queso roquefort hasta disolver.
+
+Para ¼ l de leche, 150 grs de queso.
+
+Sobre esta salsa se puede agregar nueces picadas y queso rallado para hornear y gratinar.
+
+## Bagna cauda
+- 1 y ½ cabeza de ajo
+- 12 anchoas (24 filetes)
+- 1 kg de crema de leche
+
+El monton de ajo picado debe ser similar al monton de anchoas picadas.
+
+Muchos tambien le agregan nueces picadas.
+
 Otros, a parte de los ajos picados, ponen en una bolsita ajos enteros que despues de la coccion retiran.
-Se frien los ajos en aceite de oliva, sin llegar a dorarlos, se agregan las anchoas, se mezcla a fuego suave, y de a poco agregarle la crema. Ni bien hierve, llevarla a la mesa.
+
+Se frien los ajos en aceite de oliva, sin llegar a dorarlos
+
+Se agregan las anchoas y se mezcla a fuego suave, incorporando la crema de a poco.
+
+Ni bien hierve, llevarla a la mesa.
+
 Dicen que la original, lleva aceite de oliva en vez de crema.
 
-Salsa caprece de leo:
-5 tomates grandes(1 por persona). Retirarles el rabo y rociarlos con aceite de oliva. Envolverlos con papel de aluminio y al horno o en la essen. (El aluminio es para que no se quemen o se peguen). Cocinarlos hasta que esten blandos.
-Colocar tambien 1 cabeza de ajo con piel. Pincharlos para que no exploten. Cuando esten blandos, retirarles la crema, apretandolos.
+## Salsa caprece de Leo
+Tomar 5 tomates grandes (1 por persona), retirarles el rabo y rociarlos con aceite de oliva.
+
+Envolverlos con papel de aluminio y al horno o en la essen. (El aluminio es para que no se quemen o se peguen).
+
+Cocinarlos hasta que esten blandos.
+
+Colocar tambien 1 cabeza de ajo con piel (pincharlos para que no exploten). Cuando esten blandos, apretarlos para extraerle la crema.
+
 Retirar el aluminio y las cascaras de los ajos.
-Unir la crema de tomate con la crema de ajo, condimentar.
-Al final agregarle las hojas de albahaca (no se cocinan) y abundante queso rallado. Y a las pastas!!!.
-Salsa curry:
-dorar 1 cebolla en 100 grs. De manteca. Agregar 1 manzana verde picada, saltearla. Añadir 2 cucharadas de harina, 
-3 cucharaditas de curry, ¾ l. De caldo de carne y sal. Cocinar revolviendo constantemente hasta que espese. Retirar y agregar 100 grs. De crema de leche.
 
-Salsa de pimiento: 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pimiento sin piel picado, 3 cucharadas de leche. Cocinar a fuego suave.
+Unir la crema de tomate con la crema de ajo y condimentar.
 
-Salsa brava
-1 cebolla rehogada, 2 cucharadas de aceite, 1 cucharada de harina, ½ cucharadita pimenton picante, ½ cucharadita comino, 4 toques de pimienta negra molida, 1 caldito de carne, 250 ml de agua caliente, sal. Cocinar reduciendo a la mitad.
+Al final, agregarle las hojas de albahaca (no se cocinan) y abundante queso rallado, Y a las pastas!!!
 
-Salsa blanca
-derretir 50 grs de manteca, agregar 1 diente de ajo picado (opcional), 1 cucharada de harina, revolver para que no se pegue ni queme. Agregarle de golpe ½ litro de leche hirviendo algunos dicen que hay que agregarle de a poco hasta lograr la consistencia deseada, batiendo todo el tiempo. Por ultimo, ½ cucharadita de sal, ¼ cucharadita de pimienta y ½ cucharadita de nuez moscada.
+## Salsa curry
+Dorar 1 cebolla en 100 grs de manteca.
+
+Agregar 1 manzana verde picada y saltearla.
+
+Añadir 2 cucharadas de harina, 3 cucharaditas de curry, ¾ litro de caldo de carne y sal.
+
+Cocinar revolviendo constantemente hasta que espese.
+
+Retirar y agregar 100 grs de crema de leche.
+
+## Salsa de pimiento
+Ingredientes:
+
+- 1 taza de salsa blanca
+- 1 taza queso mantecoso
+- 1 pimiento sin piel picado
+- 3 cucharadas de leche
+
+Cocinar a fuego suave.
+
+## Salsa Brava
+Ingredientes:
+
+- 1 cebolla rehogada
+- 2 cucharadas de aceite
+- 1 cucharada de harina
+- ½ cucharadita pimenton picante
+- ½ cucharadita comino
+- 4 toques de pimienta negra molida
+- 1 caldito de carne
+- 250 ml de agua caliente
+- sal
+
+Cocinar reduciendo a la mitad.
+
+## Salsa Bechamel (1)
+Ingredientes:
+
+- 50 grs de manteca
+- 1 cucharada de harina
+- 1 diente de ajo (opcional)
+- ½ litro de leche
+- ½ cucharadita de sal
+- ¼ cucharadita de pimienta
+- ½ cucharadita de nuez moscada
+
+Derretir la manteca.
+
+Agregar la harina y, opcionalmentme, el ajo picado.
+
+Revolver para que no se pegue ni queme.
+
+Hervir la leche y agregarla, de golpe, a la preparación.
+
+Algunos dicen que hay que agregarla de a poco hasta lograr la consistencia deseada, batiendo todo el tiempo.
+
+Por ultimo, condimentar con la sal, pimienta y nuez moscada.
+
+## Substituto para salsa bechamel
 En determinadas comidas se puede reemplazar la salsa blanca con maicena (3 cucharadas) disuelta en leche(¾ taza).
 
-Salsa bechamel
-al poceso de derretir manteca (125 gr)y cocinar la harina
- (125 gr) se denomina roux, si le echamos leche y crema de leche( 1 litro) caliente ( y cocinamos a fuego minimo) y añadimos condimentos (nuez moscada, sal y pimienta) obtenemos la salsa bechamel.
+## Salsa Bechamel (2)
+La preparaion resultante de derretir manteca (125 gr) y cocinar la harina (125 gr) se llama Roux, una salsa base.
+
+Si le echamos leche y crema de leche(1 litro) caliente (y cocinamos a fuego minimo) y añadimos condimentos (nuez moscada, sal y pimienta) obtenemos la salsa bechamel.
 
 La diferencia entre salsa blanca y bechamel es que la primera se hace con leche. Y la segunda con crema de leche y leche (queda mas suave).
 
-Salsa 356 para peceto
-freir cebolla, pimiento morron y zanahoria con caldo de carne.
+## Salsa 356 para peceto
 
-Salsa del español
-cebollitas de verdeo, ajo, tomates, aceitunas negras y anchoas, todo picado. Cocinar por 20 minutos aproximadamente, agregandole la cantidad de caldo necesaria.
+Freir cebolla, pimiento morron y zanahoria con caldo de carne.
 
-Salsa de aceitunas (356)
-blanquear en aceite 1 cebolla picada, incorporar unas 15 a 
-20 aceitunas picadas y caldo. Cocinar hasta obtener la consistencia adecuada.
+## Salsa del Español
+Picar y mezclar:
 
-Crema de choclos
-hervir 6 choclos y desgranarlos. Freir en manteca 
-(1 cucharada) 2 cebollas y 1 pimiento, incorporar los granos de choclo. Sazonar con sal y azucar (1 cucharadita). Agregar 1 taza de leche y 2 cucharadas de crema de leche y cocinar hasta que tome consistencia. Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora. Por ultimo agregarle queso rallado.
+- Cebollitas de verdeo
+- Ajo
+- Tomates
+- Aceitunas negras
+- Anchoas
 
-Salsa holandeza
+Cocinar por 20 minutos aproximadamente, agregandole la cantidad de caldo necesaria.
+
+## Salsa de aceitunas de 356
+
+Blanquear en aceite 1 cebolla picada.
+
+Incorporar unas 15 a 20 aceitunas picadas y caldo.
+
+Cocinar hasta obtener la consistencia adecuada.
+
+## Crema de Choclos
+
+Hervir 6 choclos y desgranarlos.
+
+Freir en manteca (1 cucharada) 2 cebollas y 1 pimiento.
+
+Incorporar los granos de choclo.
+
+Sazonar con sal y azucar (1 cucharadita).
+
+Agregar 1 taza de leche y 2 cucharadas de crema de leche
+
+Cocinar hasta que tome consistencia.
+
+Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora.
+
+Por ultimo agregarle queso rallado.
+
+## Salsa holandeza
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limon y ½ taza de mayonesa. Servir tibio.
 
-Salsa de hongos
+## Salsa de hongos
 dorar en manteca ½ cebolla rallada, agregar 25 gr de hongos secos remojados durante 7 horas en ½ taza de agua
  (o champignones picados). Agregar ½ taza de vino, una cucharada de jugo de limon, ½ cucharada de perejil picado, sal, pimienta y crema. Se puede agregar una cucharada de mostaza. Cocinar . Y para espesar , si es necesario, una cucharada de maizena.
 
@@ -1878,7 +2110,7 @@ Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la c
 
 # Diferentes entradas o acompañamientos salados
 
-Chipá de emilia.
+## Chipá de Emilia.
 A) 3 tazas harina de mandioca
 a) 1 taza de queso de rallar
 a) 1 cucharadita de polvo de hornear
@@ -1900,6 +2132,7 @@ Tortas fritas.
 250 agua
 5 azucar
 65 gr grasa de cerdo.
+
 (Se le puede agregar 1 huevo).
 Hacer la masa el dia anterior.
 Freir con 400 grs. De grasa de cerdo.

@@ -11,12 +11,12 @@ Formar una torre con: tostada, panceta cocida o jamon crudo, cebollita de verdeo
 #### Salsa holandeza
 3 cuharadas de manteca derretida, 1 cucharada de jugo de limon y ½ taza de mayonesa. servir tibio.
 
-### Huevos poche
+### Huevos poche (1)
 Hervir agua con un chorro de vinagre y poca sal. bajar el fuego y hacer girar el agua segun las agujas del reloj. introducir el huevo (a temperatura ambiente) sin cascara en el centro y cocinar a fuego fuerte por 2 minutos. tratando de hacer movimientos envolventes con cuchara de madera.
 
 Tambien se puede colocar el huevo condimentado en una bolsita de nylon cerrada con un broche o alambre forrado y colocarlo en el agua hirviendo por 2 o 3 minutos.
 
-#### Otra
+#### Huevos poche (2)
 Poner sobre la sarten tibia un papel manteca enmantecado y el huevo arriba, cocinar hasta que la clara se pone blanca y todavia la yema liquida. llevar el papel hasta el plato y resbalar el huevo.
 
 ### Huevos napoleon
@@ -57,6 +57,9 @@ Colocar en el cuarto de un plato: 2 fetas de jamon en tiritas. en otro cuarto: m
 En el centro del plato y sobre todas las verduras se coloca un huevo poche.
 
 Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil picado.
+
+### Paleta de pintor (2)
+Colocar en el cuarto de un plato: 2 fetas de jamon en tiritas. en otro cuarto: media zanahoria rallada, en el otro: medio zucchini tambien rallado y en el ultimo cuarto: remolacha rallada, condimentandose con aceite de oliva y sal. por ultimo bañar con salsa holandesa.
 
 ### Buñuelos de papa y queso
 Poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas. mezclar todo y hacer una masa consistente, agregandole un poco de leche.
@@ -193,7 +196,7 @@ Continuar la coccion por 10 minutos con la cacerola tapada. batir 2 yemas con un
 
 Retirar y disponer junto a las rodajas de anana. salsear con el fondo de coccion y servir. puede espolvorearse con canela, o suavisar con crema de leche.
 
-### Arroz con pollo a la multichef.( o sin multichef)
+### Arroz con pollo a la Multichef (o sin multichef)
 Salpimentar el pollo (muslos y pechugas (preferiblemente deshuesadas) y pasarlos por harina.
 
 Calentar aceite por 5 minutos a 240, fritar por 3 minutos de cada lado y retirar.
@@ -344,9 +347,7 @@ Tengo entendido que se puede cocinar tambien en el horno durante
 
 1 ½ horas, aceitando y poniendo pan rallado sobre la asadera.
 
-### Empanadas criollas
-
-#### Tapas de empanadas:
+### Tapas de empanadas (1)
 250 gr de harina, 50 gr de manteca o grasa de cerdo, 100 cc de agua, 2 cucharaditas de jugo de limon, ¼ de cucharadita de polvo para hornear, ½ de cucharadita al ras de sal.
 
 En ½ vaso de agua agregamos las cucharaditas de jugo limon y la sal, mezclamos y reservamos . en un bol ponemos la harina con el polvo de hornear, agregamos la manteca (a temperatura ambiente) y trabajamos hasta tener una arenilla (usar los dedos). se hace un hueco en el centro y se vierte el preparado de agua, limon y sal. hacemos un bollo y terminamos de amasar entre 1 a 2 minutos en la mesada (enharinada) hasta obtener una masa suave. con el palo de amasar estiramos y doblamos cada vez hasta 6 veces. dejamos descansar el bollo en la heladera de 1 a 2 horas tapado con un film.
@@ -355,11 +356,10 @@ Sacamos de la heladera y estiramos y cortamos las tapas de 2 mm de espesor y de 
 
 Espolvorear con harina entre tapa y tapa o poner un fim. se puede dejar 48 horas en la heladera o se puede congelar. para freir
 
-#### Otra para hacer tapas de empanadas
-
+### Tapas de empanadas (2)
 En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y una taza de salmuera tibia. se va ingresando de a poco la harina a la mezcla del centro, hasta formar una masa flexible. se estira sobre la mesada dejandola de 1,5 a 2 mm. de espesor y se corta en circulos de 11 a 12 cm de diametro.
 
-#### Relleno:
+#### Empanadas criollas
 Se prepara igual cantidad de cebolla que de carne.
 
 La cebolla a utilizar debe ser asi: ⅔ blanca y ⅓ de cebollita de verdeo, picadas y fritas en aceite hasta que queden transparentes y no doradas.
@@ -412,7 +412,7 @@ Dorar los lomitos en una plancha. cocinar las rodajas de anana con un poco de az
 
 Se colocan las rodajas de lomito intercaladas con las de anana y se termina el plato con ciboulette picado.
 
-### Otra con anana
+### Toast Hawaii
 Pan lactal, extender sobre el pan mostaza, jamon cocido, rodaja de anana, expolvorear con azucar y llevar al horno, sopletear con fuego o quemar con hierro caliente.
 
 ### Brochette
@@ -519,9 +519,6 @@ Cortar ½ kg de carne de cerdo, espolvorearlo con 1 cucharada de maizena y freir
 
 ### Graten de calabaza y choclo
 Enmantecar una fuente para horno y ubicar pure de calabazas, granos o crema de choclo y jamon cocido (y o panceta rehogada) en tiritas. batir 2 huevos con 100 gr de queso rallado, ¾ taza de leche, ½ taza de crema de leche y condimentar con sal, pimienta y nuez moscada. volcar sobre el jamon y cubrir con queso mantecoso. llevar al horno a temperatura modelada durante 15 minutos, tapado con papel de aluminio, retirar el papel y cocinar unos minutos mas hasta dorar la superficie.
-
-### Paleta de pintor (2)
-Colocar en el cuarto de un plato: 2 fetas de jamon en tiritas. en otro cuarto: media zanahoria rallada, en el otro: medio zucchini tambien rallado y en el ultimo cuarto: remolacha rallada, condimentandose con aceite de oliva y sal. por ultimo bañar con salsa holandesa.
 
 Se pueden variar las verduras.
 
