@@ -2337,32 +2337,86 @@ Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
 Servir caliente.
 
 ## Bocaditos de queso 
-hacer una corona con los siguientes ingredientes secos:
-300 gr de harina, una cucharada de polvo de hornear, sal a gusto. Colocar en el centro 200 gr de manteca,1 taza de queso rallado y ½ taza de soda o agua. Hacer una masa, trabajarla poco, estirarla de 1 cm de espesor y cortar con cortapasta. Espolvorear con sal gruesa. Cocinar a horno caliente durante 12 minutos. Servir frio o caliente.
+Hacer una corona con los siguientes ingredientes secos:
 
-Aceitunas en la picada
-poner las aceitunas en aceite, jugo de naranja, pimienta y oregano.
+- 300 gr de harina
+- una cucharada de polvo de hornear
+- Sal a gusto
 
-Tarteletas saladas o dulces
-masa
-hacer una masa con: 300 gr harina leudante, 150 gr manteca, 1 cucharadita sal, pimienta, 2 yemas, agua fria cantidad necesaria.
-Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa. Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
-Para las dulces, se suprime la sal y la pimienta y se agregan
-3 cucharadas de azucar.
-Los rellenos pueden ser como para los piononos.
+Colocar en el centro:
 
-Posibles rellenos de los piononos arrollados
-jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
-Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
-Palmitos, jamon, queso maquina, tomate, salsa golf.
-Atun, cebolla rehogada, morron, aceitunas, mayonesa.
-Apio, manzana verde, nueces, jamon, huevo, queso crema.
-Jamon, anana, queso, salsa golf, zanahoria.
-Espinacas al ajo, queso crema, salsa blanca.
-Champignones, pollo, zanahorias, mayonesa, aceite de oliva.
-Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
-Espinaca, panceta, huevo duro, salsa blanca.
-Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
+- 200 gr de manteca
+- 1 taza de queso rallado
+- ½ taza de soda o agua.
+
+Hacer una masa, trabajarla poco, estirarla de 1 cm de espesor y cortar con cortapasta.
+
+Espolvorear con sal gruesa.
+
+Cocinar a horno caliente durante 12 minutos.
+
+Servir frio o caliente.
+
+## Aceitunas en la picada
+Poner las aceitunas en aceite, jugo de naranja, pimienta y oregano.
+
+## Tarteletas saladas
+Hacer una masa con:
+
+- 300 gr harina leudante
+- 150 gr manteca
+- 1 cucharadita sal
+- pimienta
+- 2 yemas
+- agua fria cantidad necesaria
+
+Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa.
+
+Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
+
+Posibles rellenos:
+
+- jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
+- Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
+- Palmitos, jamon, queso maquina, tomate, salsa golf.
+- Atun, cebolla rehogada, morron, aceitunas, mayonesa.
+- Apio, manzana verde, nueces, jamon, huevo, queso crema.
+- Jamon, anana, queso, salsa golf, zanahoria.
+- Espinacas al ajo, queso crema, salsa blanca.
+- Champignones, pollo, zanahorias, mayonesa, aceite de oliva.
+- Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
+- Espinaca, panceta, huevo duro, salsa blanca.
+- Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
+
+## Tarteletas dulces
+Hacer una masa con:
+
+- 300 gr harina leudante
+- 150 gr manteca
+- 3 cucharadas de azucar
+- 2 yemas
+- agua fria cantidad necesaria
+
+Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa.
+
+Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
+
+
+# Piononos arrollados salados
+
+Posibles rellenos:
+
+- jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
+- Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
+- Palmitos, jamon, queso maquina, tomate, salsa golf.
+- Atun, cebolla rehogada, morron, aceitunas, mayonesa.
+- Apio, manzana verde, nueces, jamon, huevo, queso crema.
+- Jamon, anana, queso, salsa golf, zanahoria.
+- Espinacas al ajo, queso crema, salsa blanca.
+- Champignones, pollo, zanahorias, mayonesa, aceite de oliva.
+- Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
+- Espinaca, panceta, huevo duro, salsa blanca.
+- Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
 
 Torre de panqueques o piononos
 pueden hacerse las diferentes capas segun los rellenos antes dichos, u otros , como ejemplo:
