@@ -2065,7 +2065,6 @@ Picar y mezclar:
 Cocinar por 20 minutos aproximadamente, agregandole la cantidad de caldo necesaria.
 
 ## Salsa de aceitunas de 356
-
 Blanquear en aceite 1 cebolla picada.
 
 Incorporar unas 15 a 20 aceitunas picadas y caldo.
@@ -2073,7 +2072,6 @@ Incorporar unas 15 a 20 aceitunas picadas y caldo.
 Cocinar hasta obtener la consistencia adecuada.
 
 ## Crema de Choclos
-
 Hervir 6 choclos y desgranarlos.
 
 Freir en manteca (1 cucharada) 2 cebollas y 1 pimiento.
@@ -2094,65 +2092,138 @@ Por ultimo agregarle queso rallado.
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limon y ½ taza de mayonesa. Servir tibio.
 
 ## Salsa de hongos
-dorar en manteca ½ cebolla rallada, agregar 25 gr de hongos secos remojados durante 7 horas en ½ taza de agua
- (o champignones picados). Agregar ½ taza de vino, una cucharada de jugo de limon, ½ cucharada de perejil picado, sal, pimienta y crema. Se puede agregar una cucharada de mostaza. Cocinar . Y para espesar , si es necesario, una cucharada de maizena.
+Dorar en manteca ½ cebolla rallada.
 
-Salsa de hongos con sopa crema de hongos
-derretir 2 cucharadas de manteca, añadir 2 cucharadas de cebolla picada y dorarla. Agregar 1 taza de sopa crema de hongos concentrada, ¼ taza de leche o crema de leche, una cucharada de perejil picado, sal y pimienta. Mezclar y cocinar. Hasta la consistencia adecuada.
+Agregar 25 gr de hongos secos remojados durante 7 horas en ½ taza de agua (o champignones picados).
 
-Salsa de anana
-rehogar 1 cebolla grande, agregar el anana en trozos de una lata. 1 Taza del jugo de anana, 1 taza de caldo y cocinar hasta homogenizar. Espesar con 1 cucharada de maizena y terminar con 100 gr de crema de leche.
+Agregar ½ taza de vino, una cucharada de jugo de limon, ½ cucharada de perejil picado, sal, pimienta y crema.
 
-Chutney- receta de la estancia cristina en el upsala.
-2 Morrones rojos, 2 morrones verdes, 2 cebollas, 500 gr. Azucar negra, 100 gr. Azucar blanca, 250 gr pasas negras sin semllas,
-1 litro vinagre de alcohol, 50 gr de la mezcla de las siguientes especias: pimienta, nuez moscada, clavo de olor, canela.
+Se puede agregar una cucharada de mostaza.
+
+Cocinar.
+
+Para espesar, si es necesario, agregar una cucharada de maizena.
+
+## Salsa de hongos con sopa crema de hongos
+Derretir 2 cucharadas de manteca.
+
+Añadir 2 cucharadas de cebolla picada y dorarla.
+
+Agregar 1 taza de sopa crema de hongos concentrada, ¼ taza de leche o crema de leche, una cucharada de perejil picado, sal y pimienta.
+
+Mezclar y cocinar hasta la consistencia adecuada.
+
+## Salsa de Anana
+Rehogar 1 cebolla grande.
+
+Agregar el Anana en trozos de una lata, 1 taza del jugo de anana, 1 taza de caldo y cocinar hasta homogenizar.
+
+Espesar con 1 cucharada de maizena y terminar con 100 gr de crema de leche.
+
+## Chutney
+Receta de la estancia Cristina en el Upsala.
+
+**Ingredientes:**
+
+- 2 Morrones rojos
+- 2 morrones verdes
+- 2 cebollas
+- 500 gr azucar negra
+- 100 gr azucar blanca
+- 250 gr pasas negras sin semllas
+- 1 litro vinagre de alcohol
+- 50 gr de la mezcla de las siguientes especias:
+    - pimienta
+    - nuez moscada
+    - clavo de olor
+    - canela
+
 Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la consistencia de una mermelada.
 
 # Diferentes entradas o acompañamientos salados
 
-## Chipá de Emilia.
-A) 3 tazas harina de mandioca
-a) 1 taza de queso de rallar
-a) 1 cucharadita de polvo de hornear
-a) 1 cucharadita de sal
-b) 75 grs. De manteca
-c) 2 huevos
-d) ½ taza de soda para unir o cantidad necesaria.
-E) 1 taza queso fontina picante, o cascara colorada cortado en cubitos.
+## Chipá de Emilia
+Ingredientes:
+
+- 3 tazas harina de mandioca
+- 1 taza de queso de rallar
+- 1 cucharadita de polvo de hornear
+- 1 cucharadita de sal
+- 75 grs de manteca
+- 2 huevos
+- ½ taza de soda para unir o cantidad necesaria.
+- 1 taza queso fontina picante, o cascara colorada cortado en cubitos.
  
-Mezclar todos los secos (a). Trabajar con la manteca (b) hasta obtener consistencia de arena. Agregar los huevos (c) formando una masa que debe unirse con la menor cantidad de soda (o leche) posible (d). Resulta una masa suave a la que se le agregan los cubitos de fontina (e).
+Mezclar todos los secos.
+
+Trabajar con la manteca hasta obtener consistencia de arena.
+
+Agregar los huevos formando una masa que debe unirse con la menor cantidad de soda (o leche) posible.
+
+Resulta una masa suave a la que se le agregan los cubitos de queso.
+
 Hacer bolitas o pancitos (haciendoles un tajito en el medio) y cocinar 15 minutos a 180 grados, hasta que se doren. 
+
 A media coccion, si es necesario, darlos vuelta.
+
 Preferentemente comerlos tibios.
+
 Son los mas ricos.
 
-Tortas fritas.
-500 Grs. Harina 
-10 grs. Sal
-250 agua
-5 azucar
-65 gr grasa de cerdo.
+## Tortas fritas
+Ingredientes:
 
-(Se le puede agregar 1 huevo).
+- 500 grs harina 
+- 10 grs sal
+- 250 agua
+- 5 azucar
+- 65 grs grasa de cerdo
+- 1 huevo (opcional)
+
 Hacer la masa el dia anterior.
-Freir con 400 grs. De grasa de cerdo.
-Que la grasa no este tan caliente, cocinar despacio, 
-5 minutos c/u.
-Cada torta frita debe pesar aprox. 35 Grs.
+
+Freir con 400 grs de grasa de cerdo.
+
+Que la grasa no este tan caliente.
+
+Cocinar despacio, 5 minutos c/u.
+
+Cada torta frita debe pesar aprox. 35 grs.
+
 Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
 
-Flammkuchen
-colocar sobre una asadera un papel manteca y sobre este una masa de tarta. Esparcir por toda su superficie queso crema. Y sobre esta colocar tiritas de panceta ahumada,trocitos de cebollita de verdeo, queso rallado y condimentar. Llevar al horno por 15 minutos y servir. No dorar demasiado.
-Pueden hacerse otras variaciones: sobre el queso crema colocar espinaca al ajo con panceta.
-Se puede hacer con tomate seco, ajo, cebolla ,champignones, pure de choclo.
-La masa especial para los flammkuchen, esta en la parte de masas.
-Bruschettas para muchas personas.
-Poner 10 rebanadas de pan sobre una fuente para horno. Verterles algunas gotas de aceite de oliva y colocar en el horno a 200°c por 10 minutos. Entretanto lavar y cortar 
-3 tomates, mezclarlos con un diente de ajo picado, 
-3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación. Condimentar con sal marina, hierbas aromáticas y hojas de albahaca. Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
+## Flammkuchen
+Colocar sobre una asadera un papel manteca y sobre este una masa de tarta.
 
-Brusqueta
-hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de tomate, aji molido, oregano y queso rallado. Sal y gotas de aceite de oliva.
+Esparcir por toda su superficie queso crema. Sobre esta colocar tiritas de panceta ahumada, trocitos de cebollita de verdeo, queso rallado y condimentar.
+
+Llevar al horno por 15 minutos. No dorar demasiado.
+
+Servir.
+
+**Pueden hacerse otras variaciones:**
+
+Sobre el queso crema colocar espinaca al ajo con panceta.
+
+Se puede hacer con tomate seco, ajo, cebolla ,champignones, pure de choclo, etc.
+
+La masa especial para los flammkuchen, esta en la parte de masas.
+
+
+
+## Bruschettas para muchas personas.
+Poner 10 rebanadas de pan sobre una fuente para horno.
+
+Verterles algunas gotas de aceite de oliva y colocar en el horno a 200°c por 10 minutos.
+
+Entretanto lavar y cortar 3 tomates. Mezclarlos con un diente de ajo picado,3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación.
+
+Condimentar con sal marina, hierbas aromáticas y hojas de albahaca.
+
+Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
+
+## Brusquetas
+Hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de tomate, aji molido, oregano y queso rallado. Sal y gotas de aceite de oliva.
 
 Otra brusqueta
 tostada frotada con ajo, palta, huevo en rodajas, sal, aji molido, perejil.
