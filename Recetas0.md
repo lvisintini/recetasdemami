@@ -500,7 +500,7 @@ De hacerlo para mas personas, poner una lata de choclos amarillos enteros y otra
 
 Si es posible, la humita se sirve envuelta en hojas de la chala y se calienta al horno.
 
-Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla,
+Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla.
 
 ### Guiso de lentejas
 ½ kg de lentejas, ½ taza de aceite, 1 cebolla picada, 100 gr de panceta en cubitos o tiritas, 2 chorizos colorados en rodajas, 3 tomates picados, 2 dientes de ajo picados, 3 tazas de caldo, sal, pimienta, laurel, perejil picado. opcional: 2 papas, 2 zanahorias, 1 puerro ,1 pimiento rojo.

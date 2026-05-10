@@ -2216,72 +2216,127 @@ Poner 10 rebanadas de pan sobre una fuente para horno.
 
 Verterles algunas gotas de aceite de oliva y colocar en el horno a 200°c por 10 minutos.
 
-Entretanto lavar y cortar 3 tomates. Mezclarlos con un diente de ajo picado,3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación.
+Entretanto lavar y cortar 3 tomates. Mezclarlos con un diente de ajo picado, 3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación.
 
 Condimentar con sal marina, hierbas aromáticas y hojas de albahaca.
 
 Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
-## Brusquetas
+## Brusquetas (1)
 Hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de tomate, aji molido, oregano y queso rallado. Sal y gotas de aceite de oliva.
 
-Otra brusqueta
+## Brusquetas (2)
 tostada frotada con ajo, palta, huevo en rodajas, sal, aji molido, perejil.
 
-Otras
+## Brusquetas (3)
 sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
+## Brusquetas (4)
 Sobre la tostada colocar espinaca al ajo y queso mantecoso, llevar al horno hasta que se caliente.
 
+## Brusquetas (5)
 Brusqueta de pan con salsa de queso
+
 50 gr manteca, 2 huevos,50 gr queso rallado, rebanadas de pan, sal y pimienta.
-Se bate la manteca hasta que este cremosa, se agregan los huevos de a uno, siempre batiendo, el queso rallado, sal y pimienta. Se cubren las rebanadas de pan con una capa de 
-½ cm de espesor y se tuestan al horno.
 
+Se bate la manteca hasta que este cremosa, se agregan los huevos de a uno, siempre batiendo, el queso rallado, sal y pimienta.
+
+Se cubren las rebanadas de pan con una capa de ½ cm de espesor y se tuestan al horno.
+
+## Brusquetas (6)
 Brusquetas con queso, cerveza y especias al horno
-diluir 300 gr queso cheddar con ¼ taza cerveza rubia, hasta obtener una crema lisa (5 minutos). Agregar ½ cucharadita de mostaza y ½ cucharadita de nuez moscada, retirar del fuego.
-Tostar 8 rodajas de pan lactal y enmantecarlo y distribuir sobre ellos la crema. Gratinar por 5 minutos en horno fuerte
 
+Diluir 300 gr queso cheddar con ¼ taza cerveza rubia, hasta obtener una crema lisa (5 minutos).
+
+Agregar ½ cucharadita de mostaza y ½ cucharadita de nuez moscada, retirar del fuego.
+
+Tostar 8 rodajas de pan lactal y enmantecarlo y distribuir sobre ellos la crema.
+
+Gratinar por 5 minutos en horno fuerte.
+
+## Brusquetas (7)
 Brusquetas mediterraneas
-sobre tostadas calientes colocar la siguiente preparacion:
-200 gr de casancrem, 2 tomates en cubitos, albahaca fresca picada,10 aceitunas fileteadas, 1 cucharada de aceto, saly pimienta. Decorar con perejil.
 
-Doraditos de cebolla
-brownie de cebolla
-½ kg. De cebolla picada
-½ taza de aceite (cualquiera menos oliva)
-4 huevos
-1 taza de leche
-1 taza de queso rallado
-1 taza de harina leudante
-sal 
-pimienta
+Sobre tostadas calientes colocar la siguiente preparacion:
+
+- 200 gr de casancrem
+- 2 tomates en cubitos
+- albahaca fresca picada
+- 10 aceitunas fileteadas
+- 1 cucharada de aceto
+- sal
+- pimienta.
+
+Decorar con perejil.
+
+## Doraditos de cebolla o Brownie de cebolla
+
+- ½ kg. De cebolla picada
+- ½ taza de aceite (cualquiera menos oliva)
+- 4 huevos
+- 1 taza de leche
+- 1 taza de queso rallado
+- 1 taza de harina leudante
+- sal 
+- pimienta
 
 Prender el horno a 180ªc
-freir en un poco del aceite la cebolla hasta dorarla un poco.
+
+Freir en un poco del aceite la cebolla hasta dorarla un poco.
+
 En un bol agregarle a la cebolla los ingredientes humedos: la leche, los huevos y mezclar.
+
 Agregar el queso rallado y la harina, tiene aspecto de engrudo.
+
 Agregar sal y pimienta y llevar a una asadera rectangular mediana, enmantecada y enharinada.
-Cocinar entre 20 y 30 minutos. Una vez dorados, apagar el horno y dejar enfriar alli mismo. Cortar en cuadraditos.
+
+Cocinar entre 20 y 30 minutos.
+
+Una vez dorados, apagar el horno y dejar enfriar alli mismo.
+
+Cortar en cuadraditos.
+
 Puede acompañar la humita, o completar una picada.
 
-Quinoa
-enjuagar rapidamente la quinoa con agua fria, solo una pasada, no dejarla en remojo.
+## Quinoa
+Enjuagar rapidamente la quinoa con agua fria, solo una pasada, no dejarla en remojo.
+
 Cocinarla en agua por 15 minutos aproximadamente: duplica su volumen y libera su germen blanco.
+
 ½ Taza de quinoa es para 2 personas.
 
-Bocaditos de quinoa
-¾ taza de quinoa cocida, 1 ½ taza de caldo, 1 cebolla finamente picada y rehogada, ½ taza de arvejas o lentejas u otra, 2 dientes de ajo picado, 2 huevos batidos,2 cucharadas queso crema, 1 ½ taza queso muzzarella rallado.
-Mezclar todo y colocar 1 cucharada colmada en cada muffins (previamente enmantecadas), y llevar al horno a 200ª, alrededor de 15 a 20 minutos. Salen 24 bocaditos.
+## Bocaditos de quinoa
+Ingredientes:
 
-Buñuelos de papa y queso
-poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas. Mezclar todo y hacer una masa consistente, agregandole un poco de leche.
+- ¾ taza de quinoa cocida
+- 1 ½ taza de caldo
+- 1 cebolla finamente picada y rehogada
+- ½ taza de arvejas o lentejas u otra
+- 2 dientes de ajo picado
+- 2 huevos batidos
+- 2 cucharadas queso crema
+- 1 ½ taza queso muzzarella rallado
+
+Mezclar todo y colocar 1 cucharada colmada en cada muffins (previamente enmantecadas), y llevar al horno a 200ª, alrededor de 15 a 20 minutos.
+
+Salen 24 bocaditos.
+
+## Buñuelos de papa y queso
+Poner en un bol 3 tazas de harina leudante
+
+En el centro agregar 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el pure de 4 papas.
+
+Mezclar todo y hacer una masa consistente, agregandole un poco de leche.
+
 Tomar porciones por cucharadas y freirlos en aceite.
 
-Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla. Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+Utilizar dos cucharas humedecidas en agua fria para moldearlas, cada vez que se busca la cucharada de la mezcla.
+
+Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+
 Servir caliente.
 
-Bocaditos de queso 
+## Bocaditos de queso 
 hacer una corona con los siguientes ingredientes secos:
 300 gr de harina, una cucharada de polvo de hornear, sal a gusto. Colocar en el centro 200 gr de manteca,1 taza de queso rallado y ½ taza de soda o agua. Hacer una masa, trabajarla poco, estirarla de 1 cm de espesor y cortar con cortapasta. Espolvorear con sal gruesa. Cocinar a horno caliente durante 12 minutos. Servir frio o caliente.
 
@@ -2462,86 +2517,164 @@ Ponche manolete para muchos: 1 kg de fruta de estacion, pelada y cortadita, espo
 Maracubahaca
 ½ medida de ron o vodka, ½ de maracuya, limon, albahaca, y endulzar con almibar.
 
-Remedios caseros y formas de sacar manchas
+# Remedios caseros
 
-Remedios
+## Dolores y molestias
 
-Dolores y molestias: las hojas de uña de gato (harpagofito) alivian el dolor de las articulaciones, reumatismo y artritis. No se recomienda para mujeres embarazadas pues estimulan el útero.
+Las hojas de uña de gato (harpagofito) alivian el dolor de las articulaciones, reumatismo y artritis.
+No se recomienda para mujeres embarazadas pues estimulan el útero.
 
-Resfriados: es una sopa, 2 tazas de agua, 1 cucharadita de comino, 1 cucharadita de pimienta negra molida, 3 tomates frescos pasados por agua caliente y pelados, 1 pizca de sal, 1 pizca de semillas de mostaza, 1 pizca de curry y 1 cucharadita de aceite de oliva. Se pone todo a cocer a fuego lento por 5 minutos.
+## Resfriados
+
+Una Sopa:
+
+- 2 tazas de agua
+- 1 cucharadita de comino
+- 1 cucharadita de pimienta negra molida
+- 3 tomates frescos pasados por agua caliente y pelados
+- 1 pizca de sal
+- 1 pizca de semillas de mostaza
+- 1 pizca de curry
+- 1 cucharadita de aceite de oliva.
+
+Se pone todo a cocer a fuego lento por 5 minutos.
 
 El ajo ayuda a combatir infecciones virales y bacterianas de las vías respiratorias. Es más eficaz si se come crudo, agregar a la sopa al final, muy poco pues puede producir trastornos gastrointestinales.
 
-Estreñimiento: un puré hecho con tres tallos de ruibarbo chino, 1 taza de jugo de manzana, 4 tazas de agua, ¼ de limón sin cascara y 1 cucharada de miel. Hervir a fuego lento durante 20 minutos.
+## Estreñimiento
+Un puré hecho con tres tallos de ruibarbo chino, 1 taza de jugo de manzana, 4 tazas de agua, ¼ de limón sin cascara y 1 cucharada de miel.
+
+Hervir a fuego lento durante 20 minutos.
+
 Es un laxante natural.
 
-Cortaduras: aplicar miel pura, es anti bacteriana porque absorbe el agua que los gérmenes necesitan para multiplicarse. Luego de aplicar la miel, cubrirla con gasa.
+Otros laxantes naturales:
 
-Indigestión: una infusión con una cucharadita de jengibre seca y pulverizada o fresca. También se puede añadir a los alimentos.
-También las infusiones de hinojo favorecen la digestión, previenen los cólicos y
-estimulan la producción de leche materna.
+- Ciruelas secas o frescas
+- Remolacha
+- Palta
+- Cereales
+- Yogurt
+- Lino quebrado
 
-Garganta irritada: 2 ½ tazas de agua, 2 cucharaditas de salvia fresca o seca, hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta infusión. No usar durante el período de embarazo. Emplear con precaución.
+## Cortaduras
+Aplicar miel pura, es anti bacteriana porque absorbe el agua que los gérmenes necesitan para multiplicarse.
 
-Cuando se está con colitis: comer manzana, te negro, queso, arroz y membrillo.
+Luego de aplicar la miel, cubrirla con gasa.
 
-Cuando se está estreñido: comer ciruelas secas o frescas, remolacha, palta, cereales, yogur, lino quebrado.
+## Indigestión
+Una infusión con una cucharadita de jengibre seca y pulverizada o fresca.
 
-Manchas dificiles de sacar
+También se puede añadir a los alimentos.
+
+Las infusiones de hinojo favorecen la digestión, previenen los cólicos y estimulan la producción de leche materna.
+
+## Garganta irritada
+Ingredientes:
+
+- 2 ½ tazas de agua
+- 2 cucharaditas de salvia fresca o seca
+
+Hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta infusión.
+
+No usar durante el período de embarazo.
+
+Emplear con precaución.
+
+## Colitis
+Comer manzana, te negro, queso, arroz y membrillo. 
+
+# Manchas dificiles de sacar
 
 Colocar la parte de la prenda manchada sobre un plato hondo o fuente, de tal manera que al sacar la mancha no manche el resto de la prenda. Y el liquido utilizado quede en la parte inferior del plato.
 Generalmente todas las manchas salen, si se las limpian antes de que se sequen o las absorba el tejido. Si no se puede hacer en el momento, por lo menos echarle sal o fecula de maiz o talco, para que absorba los liquidos.
 
-Te o cafe
-echarle agua caliente, y si no sale, frotarla con agua oxigenada (con esponja), dejarla blanquear al sol y enjuagar. No usar jabon desde un principio pues puede fijar la mancha.
+### Te o Cafe
+Echarle agua caliente, y si no sale, frotarla con agua oxigenada (con esponja), dejarla blanquear al sol y enjuagar.
 
-Chocolate
-lavar la zona con agua caliente y detergente. Si no se afloja todo, frotar con agua oxigenada.
+No usar jabon desde un principio pues puede fijar la mancha.
 
-Leche, crema o helado
-lavar primero con agua fria para sacar la proteina. Luego, si es helado de frutas o chocolate, tratarla como tales.
+### Chocolate
+Lavar la zona con agua caliente y detergente.
 
-Huevos o jugo de carne
-raspar con un cuchillo para sacar lo grueso y lavar con agua fria antes del lavado ordinario.
+Si no se afloja todo, frotar con agua oxigenada.
 
-Frutas o jugos de fruta
-colocar sobre la prenda algo que absorba los liquidos. Cepillar. Frotar con sal y jugo de limon. Y por ultimo, lavar con espuma jabonosa caliente.
+### Leche, crema o helado
+Lavar primero con agua fria para sacar la proteina.
 
-Aceite
-disolver 1 cucharada de detergente suave con 2 de agua caliente. Frotar. Si queda marca, frotar con agua oxigenada y poner al sol.
+Luego, si es helado de frutas o chocolate, tratarla como tales.
 
-Pasto
-frotar con agua oxigenada o alcohol.
+### Huevos o jugo de carne
+Raspar con un cuchillo para sacar lo grueso y lavar con agua fria antes del lavado ordinario.
 
-Grasosas o pegajosas
-utilizar nafta blanca o bencina.
+### Frutas o jugos de fruta
+Colocar sobre la prenda algo que absorba los liquidos.
 
-Chamuscado de plancha
-frotar con jugo de limon y poner al sol.
+Cepillar.
 
-Tinta
-cubrir la mancha con sal y unas gotas de leche, dejar varias horas, enjuagar y repetir la operacion hasta que la mancha salga.
+Frotar con sal y jugo de limon.
 
-Yodo
-lavar con espuma caliente y poner al sol.
+Y por ultimo, lavar con espuma jabonosa caliente.
 
-Lapiz labial
-no debe usarse jabon al principio pues la fija. Frotar con alcohol o bencina (en el caso de prendas de color o lana)
+### Aceite
+Disolver 1 cucharada de detergente suave con 2 de agua caliente. Frotar.
 
-Sangre
-primero agua fria y despues frotar con esponja humedecida con agua oxigenada. Repetir hasta que desaparezca.
+Si queda marca, frotar con agua oxigenada y poner al sol.
 
-Barniz
-frotar con acetona o removedor de barniz. Lavar con agua caliente y si persiste exponer al sol.
+### Pasto
+Frotar con agua oxigenada o alcohol.
+
+### Grasosas o pegajosas
+Utilizar nafta blanca o bencina.
+
+### Chamuscado de plancha
+Frotar con jugo de limon y poner al sol.
+
+### Tinta
+Cubrir la mancha con sal y unas gotas de leche.
+
+Dejar varias horas, enjuagar y repetir la operacion hasta que la mancha salga.
+
+### Yodo
+Lavar con espuma caliente y poner al sol.
+
+### Lapiz labial
+No debe usarse jabon al principio pues la fija.
+
+Frotar con alcohol o bencina (en el caso de prendas de color o lana)
+
+### Sangre
+Primero agua fria y despues frotar con esponja humedecida con agua oxigenada.
+
+Repetir hasta que desaparezca.
+
+### Barniz
+Frotar con acetona o removedor de barniz.
+
+Lavar con agua caliente y si persiste exponer al sol.
+
 Si la mancha esta en tela de rayon, debe tratarse con bencina y luego extracto de banana.
 
-Pintura
-para manchas recientes, raspar con cuchillo lo grueso y lavar con espuma caliente.
+### Pintura
+Para manchas recientes, raspar con cuchillo lo grueso y lavar con espuma caliente.
+
 Si es vieja, ablandar con glicerina o aceite y frotar luego con trementina.
 
-Moho
-lavar con agua y jabon blanco en caliente. Humedecer con jugo de limon y sal y exponer al sol.
-Si es vieja, blanquear con una solucion de 1 parte de agua oxigenada al 3% y 20 partes de agua. Enjuagar bien.
+### Moho
+Lavar con agua y jabon blanco en caliente.
 
-Cera de velas
-sacar el exceso de cera. Poner la parte manchada sobre papel secante y pasarle la plancha caliente. Frotar con esponja humedecida con producto no inflamable para limpiar en seco.
+Humedecer con jugo de limon y sal.
+
+Luego exponer al sol.
+
+Si es vieja, blanquear con una solucion de 1 parte de agua oxigenada al 3% y 20 partes de agua.
+
+Enjuagar bien.
+
+### Cera de velas
+Sacar el exceso de cera.
+
+Poner la parte manchada sobre papel secante y pasarle la plancha caliente.
+
+Frotar con esponja humedecida con producto no inflamable para limpiar en seco.
+
