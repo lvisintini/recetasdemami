@@ -2581,49 +2581,221 @@ Decorar con hojitas de menta.
 
 Humedecer el borde de la copa con jugo de limon y sal.
 
-## Coup de milieu, tutti frutti (copa del medio)
+## Coup de Milieu, Tutti Frutti
+Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azucar molida y una pizca de sal.
 
-Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azucar molida y una pizca de sal. Agregarle una copita de marasquino y llevarlo al freeser hasta que comienze a solidificarse. Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azucar (merengue crudo), batiendo suavemente. Si es necesario volver a enfriar y completar con sidra helada.
+Agregarle una copita de marasquino y llevarlo al freeser hasta que comienze a solidificarse.
 
-Limonada completa: jugo de limon, cucharadas de azucar, jengibre rallado, agua y hielo molido.
+Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azucar (merengue crudo), batiendo suavemente.
 
-Martini seco en una copa de 90 cc: gin 2 medidas (de 30 cc), vermouth seco ¾ partes de la medida, un trocito de limon, una aceituna verde y 3 cubitos de hielo.
+Si es necesario volver a enfriar y completar con sidra helada.
 
-Negroni: una medida (30 cc) de gin, una medida de campari (bitter rojo), una medida de vermouth, 3 cubitos de hielo y una rodaja de naranja.
+## Limonada completa
 
-Bloody mary: en un vaso alto, 1 medida de vodka, 1 medida de jugo de tomate, pizca sal de apio, 2 gotas de tabasco, 4 gotas de worcestershire, 5 cubitos de hielo y una rodaja de limon.
+- Jugo de limon
+- Cucharadas de azucar
+- Jengibre rallado
+- Agua
+- hielo molido.
 
-Michelada: cerveza rubia, ¼ de jugo de limon y pisca de sal.
-Grog de miel: en un vaso poner una cucharada de hielo picado, una cucharada de miel , una de cognac, una rodajita de limon finita y terminar de llenarlo con soda fria.
+## Martini seco
+En una copa de 90 cc:
 
-Marquise al vino blanco: 1 litro de vino blanco, jugo de 2 naranjas y 2 limones y almibar (ver al inicio). Poner en la heladera y servirlo con soda fria.
+- gin 2 medidas (de 30 cc)
+- vermouth seco ¾ partes de la medida
+- un trocito de limon
+- una aceituna verde
+- 3 cubitos de hielo
 
-Ron-naranja: partes iguales de ron y naranja, hielo molid, rodaja de limon y golpe de soda.
+## Negroni
 
-Egg sour: poner en la batidora 1 cucharadita de azucar en polvo, el jugo de ¼ de limon, 1 copita de corasao, 1 copita de cognac, 1 huevo entero y tres cubitos de hielo. Se sirve frio y con una rodaja de naranja.
+- Una medida (30 cc) de gin
+- Una medida de campari (bitter rojo)
+- Una medida de vermouth
+- 3 cubitos de hielo
+- Una rodaja de naranja
 
-Caipirinha: 1 limon o lima cortado en 4, 2 cucharadas de azucar, 2 onzas de cachaza, 1 cucharada de jugo de limon y 3 cubitos de hielo. 
+## Bloody Mary
+En un vaso alto:
 
-Caipiroska: igual que la caipirinha, pero con vodka en vez de cachaza.
+- 1 medida de vodka
+- 1 medida de jugo de tomate
+- pizca sal de apio
+- 2 gotas de tabasco
+- 4 gotas de worcestershire
+- 5 cubitos de hielo
+- una rodaja de limon
 
-Pisco sour: 50 ml pisco, 30 ml jugo de limon. 15 Ml de almibar, 1 clara de huevo, (opcional gotas de bitter angostura) y 5 cubitos de hielo. Batir.
+## Michelada
 
-Piña colada: poner en la licuadora 1 medida (30 cc) de crema de coco, 2 medidas de jugo de anana envasado, 1 ½ medida de ron y 3 cubitos de hielo. Licuar hasta que este espumoso.
+- Cerveza rubia
+- ¼ de jugo de limon
+- pisca de sal.
 
-Old fashion: empapar 1 terron de azucar con gotas de bitter angostura, aplastarlo con un poco de agua hasta disolverlo, añadir 3 cubitos de hielo y agregar 30 cc de bourbon. Mezclar hasta empañar el vaso y decorar con 1 rodaja de limon.
+## Grog de miel
 
-Bacardi limon: poner en licuadora 50 cc de bacardi, hielo, jugo de 1 limon, 2 cucharadas de azucar y licuar hasta que el hielo este molido,
-bacardi durazno: igual pero con un toque de limon y 1 durazno.
-Bacardi anana: igual pero con 1 toque de limon y 2 rodajas de anana.
-Bacardi frutilla: igual pero con 1 toque de limon y 100 gr de frutilla.
-Bacardi banana: igual pero con un toque de limon y ½ banana.
-Bacardi cola: I parte de bacardi, 3 partes de cola, hielo y 1 rodaja de limon.
-Bacardi lima limon: 1 parte de bacardi, 3 partes de lima limon, hielo y 1 rodaja de limon.
+En un vaso poner:
 
-Ponche manolete para muchos: 1 kg de fruta de estacion, pelada y cortadita, espolvorearla con 1 taza de azucar,, rociarlas con 1 litro de jerez y colocarle 3 grandes trozos de hielo, dejar en reposo hasta que la fruta suelte su jugo y el azucar se disuelva. Ahora agregar 2 litros de vino blanco y a la heladera. Cuando este bien helado agregar 1 litro de champan y servir con trocitos de la fruta.
+- una cucharada de hielo picado
+- una cucharada de miel
+- una de cognac
+- una rodajita de limon finita
+- Soda fria (para llenar el vaso)
 
-Maracubahaca
-½ medida de ron o vodka, ½ de maracuya, limon, albahaca, y endulzar con almibar.
+## Marquise al vino blanco
+
+- 1 litro de vino blanco
+- jugo de 2 naranjas
+- jugo de 2 limones
+- Almibar (ver al inicio)
+
+Poner en la heladera y servirlo con soda fria.
+
+## Ron-naranja
+
+- Una parte de ron
+- Una parte de naranja
+- Hielo molido
+- Rodaja de limon
+- Golpe de soda
+
+## Egg sour
+
+Poner en la batidora:
+
+- 1 cucharadita de azucar en polvo
+- el jugo de ¼ de limon
+- 1 copita de corasao
+- 1 copita de cognac
+- 1 huevo entero
+- tres cubitos de hielo
+
+Se sirve frio y con una rodaja de naranja.
+
+## Caipirinha
+
+- 1 limon o lima cortado en 4
+- 2 cucharadas de azucar
+- 2 onzas de cachaza
+- 1 cucharada de jugo de limon
+- 3 cubitos de hielo 
+
+## Caipiroska
+
+- 1 limon o lima cortado en 4
+- 2 cucharadas de azucar
+- 2 onzas de vodka
+- 1 cucharada de jugo de limon
+- 3 cubitos de hielo 
+
+## Pisco sour
+
+Batir:
+
+- 50 ml pisco
+- 30 ml jugo de limon
+- 15 Ml de almibar
+- 1 clara de huevo
+- Gotas de bitter angostura (opcional)
+- 5 cubitos de hielo
+
+## Piña colada
+
+Licuar hasta que este espumoso:
+
+- 1 medida (30 cc) de crema de coco
+- 2 medidas de jugo de anana envasado
+- 1 ½ medida de ron
+- 3 cubitos de hielo Licuar hasta que este espumoso
+
+## Old fashion
+
+Empapar 1 terron de azucar con gotas de bitter angostura. Aplastarlo con un poco de agua hasta disolverlo.
+
+Añadir 3 cubitos de hielo y agregar 30 cc de bourbon.
+
+Mezclar hasta empañar el vaso y decorar con 1 rodaja de limon.
+
+## Bacardi limon
+Licuar: 
+
+- 50 cc de bacardi
+- hielo
+- jugo de 1 limon
+- 2 cucharadas de azucar
+
+## bacardi durazno
+Licuar: 
+
+- 50 cc de bacardi
+- hielo
+- un toque de limon
+- 1 durazno
+- 2 cucharadas de azucar
+
+
+## Bacardi anana
+Licuar: 
+
+- 50 cc de bacardi
+- hielo
+- un toque de limon
+- 2 rodajas de anana
+- 2 cucharadas de azucar
+
+## Bacardi frutilla
+Licuar: 
+
+- 50 cc de bacardi
+- hielo
+- un toque de limon
+- 100 gr de frutilla
+- 2 cucharadas de azucar
+
+## Bacardi banana
+Licuar: 
+
+- 50 cc de bacardi
+- hielo
+- un toque de limon
+- ½ banana
+- 2 cucharadas de azucar
+
+## Bacardi cola
+Mezclar:
+
+- 1 parte de bacardi
+- 3 partes de cola
+- hielo
+- 1 rodaja de limon
+
+## Bacardi lima limon
+Mezclar: 
+
+- 1 parte de bacardi
+- 3 partes de lima limon
+- hielo
+- 1 rodaja de limon
+
+## Ponche Manolete para muchos
+
+Espolvoreare 1 kg de fruta de estacion (pelada y cortadita) con 1 taza de azucar
+
+Rociar con 1 litro de jerez y colocarle 3 grandes trozos de hielo
+
+Dejar en reposo hasta que la fruta suelte su jugo y el azucar se disuelva.
+
+Agregar 2 litros de vino blanco y enfriar en la heladera.
+
+Cuando este bien helado agregar 1 litro de champan y servir con trocitos de la fruta.
+
+## Maracubahaca
+
+- ½ medida de ron o vodka,
+- ½ de maracuya
+- limon
+- Albahaca
+- Almibar (ver al inicio)
 
 # Remedios caseros
 
