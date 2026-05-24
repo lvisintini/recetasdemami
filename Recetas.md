@@ -2508,28 +2508,82 @@ Para agregar a cualquier sopa al momento de ser servirdas
 3- Clara de huevo batida con queso rallado.
 4- Pequeñas tostaditas de pan pinceladas con manteca y pimienta, oregano, paprika, albahaca, perejil, u otras hierbas.
 
-Tragos
+# Tragos
 
-Almibar a punto de hilo flojo para endulzar cocteles:en una cacerola colocar una taza de agua y 100 gr de azucar. Mezclar con cuchara de madera y hervir hasta que levantando la cuchara se forme un hilito que enseguida se corte. 
 Apretar un poco la rodaja de limon o naranja sobre el trago antes de ponerla como decoracion.
+
 Poner las copas en la heladera antes de servir el trago.
 
-Cuba libre: 1 medida de ron, ½ jugo de limon (lima), 2 medidas de coca cola y hielo. Decorar con 2 rodajas de limon
+## Almibar a punto de hilo flojo para endulzar cocteles
+En una cacerola colocar una taza de agua y 100 gr de azucar.
 
-Mojito: azucar (una cucharadita)y menta (una ramita) machacadas., Agregar ½ jugo de limon, hielo bien picado y ½ vaso de ron. Puede agregarse seven up. Decorar con hojitas de menta.
+Mezclar con cuchara de madera y hervir hasta que levantando la cuchara se forme un hilito que enseguida se corte.
 
-Crema de whisky: 1 de whisky, 1 de leche y hielo.
+## Cuba libre
 
-Daikiri: 1 ½ ron, ½ limon y 1 cucharada de azucar, hielo molido. Escarchar el vaso con jugo de limon y azucar.
+- 1 medida de ron
+- ½ jugo de limon (lima)
+- 2 medidas de coca cola y hielo
 
-Daikiri frutilla: 6 frutillas, 2 cucharadas de limon, 1 cucharada de azucar y ½ taza de ron.
+Decorar con 2 rodajas de limon
 
-Daikiri de frutilla 6 and 6: 1 de ron, 1 de pulpa de frutilla, leche condensada y jugo de limon.
+## Mojito
 
-Margarita: 1 ½ onz tequila, ½ onz triple sec, 1 onz limon y hielo picado.
+Machacar:
+
+- Azucar (una cucharadita)
+- Menta (una ramita)
+
+Agregar:
+- ½ jugo de limon
+- hielo bien picado
+- ½ vaso de ron
+
+Puede agregarse seven up.
+
+Decorar con hojitas de menta.
+
+## Crema de whisky
+
+- 1 medida de whisky
+- 1 medida de leche
+- hielo
+
+# Daikiri
+
+- 1 ½ ron
+- ½ limon
+- 1 cucharada de azucar
+- Hielo molido
+
+ Escarchar el vaso con jugo de limon y azucar.
+
+## Daikiri frutilla
+
+- 6 frutillas
+- 2 cucharadas de limon 
+- 1 cucharada de azucar
+- ½ taza de ron
+
+## Daikiri de frutilla 6 and 6
+
+- 1 de ron
+- 1 de pulpa de frutilla
+- leche condensada
+- jugo de limon
+
+## Margarita
+
+- 1 ½ onz tequila
+- ½ onz triple sec
+- 1 onz limon
+- hielo picado
+
 Humedecer el borde de la copa con jugo de limon y sal.
 
-Coup de milieu, tutti frutti (copa del medio): mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azucar molida y una pizca de sal. Agregarle una copita de marasquino y llevarlo al freeser hasta que comienze a solidificarse. Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azucar (merengue crudo), batiendo suavemente. Si es necesario volver a enfriar y completar con sidra helada.
+## Coup de milieu, tutti frutti (copa del medio)
+
+Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azucar molida y una pizca de sal. Agregarle una copita de marasquino y llevarlo al freeser hasta que comienze a solidificarse. Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azucar (merengue crudo), batiendo suavemente. Si es necesario volver a enfriar y completar con sidra helada.
 
 Limonada completa: jugo de limon, cucharadas de azucar, jengibre rallado, agua y hielo molido.
 
