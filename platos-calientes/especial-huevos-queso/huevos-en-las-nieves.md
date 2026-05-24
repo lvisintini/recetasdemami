@@ -1,8 +1,0 @@
----
-title: Las Recetas de Mami
----
-[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Especial huevos queso]({{ site.baseurl }}/platos-calientes/especial-huevos-queso) > [Huevos en las nieves]({{ site.baseurl }}/platos-calientes/especial-huevos-queso/huevos-en-las-nieves)
-
-# Huevos en las nieves
-Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en la clara y ubicar alli la yema, condimentar. cocinar por 10 minutos en horno a 180ª
-
