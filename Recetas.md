@@ -2374,7 +2374,13 @@ Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa.
 
 Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
 
-Posibles rellenos:
+Usar cualquiera de los rellenos salados
+
+## Rellenos Salados
+
+Muchas recetas utilizan una variedad de rellenos salados.
+
+Lo que sigue es una lista de opciones, pero tambien se puede user la imaginacion:
 
 - jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
 - Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
@@ -2387,6 +2393,12 @@ Posibles rellenos:
 - Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
 - Espinaca, panceta, huevo duro, salsa blanca.
 - Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
+- Espinaca al ajo y salsa blanca
+- Queso crema y morron
+- Champignones y cebolla rehogadas
+- Restos de pollo cocido, cebollitas de verdeo picadas,tomates picados, manteca, trocitos de panceta, sal y pimienta. (Puede agregarse salsa blanca)
+- Aceitunas, queso crema, queso rallado, salsa tomate, oregano, sal y pimienta.
+- Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morron, aceite de oliva, sal y pimienta.
 
 ## Tarteletas dulces
 Hacer una masa con:
@@ -2402,111 +2414,267 @@ Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa.
 Pinchar el fondo y los costados para que mantenga la forma y llevar a horno de 180ª.
 
 
-# Piononos arrollados salados
+## Piononos arrollados salados
 
-Posibles rellenos:
+Linkear aqui una receta para piononos.
 
-- jamon, queso, tomate, huevo, aceitunas, morron, lechuga, mayonesa.
-- Roquefort, nueces, huevo, queso crema (mezclar el roqueford pisado con el queso crema), gotas de cognac.
-- Palmitos, jamon, queso maquina, tomate, salsa golf.
-- Atun, cebolla rehogada, morron, aceitunas, mayonesa.
-- Apio, manzana verde, nueces, jamon, huevo, queso crema.
-- Jamon, anana, queso, salsa golf, zanahoria.
-- Espinacas al ajo, queso crema, salsa blanca.
-- Champignones, pollo, zanahorias, mayonesa, aceite de oliva.
-- Pickles, alcaparras, tomates, aceitunas negras, pollo, mayonesa.
-- Espinaca, panceta, huevo duro, salsa blanca.
-- Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
+Usar cualquiera de los rellenos salados
 
-Torre de panqueques o piononos
-pueden hacerse las diferentes capas segun los rellenos antes dichos, u otros , como ejemplo:
-champignones y cebolla rehogadas.
-Queso crema y morron.
-Espinaca al ajo y salsa blanca.
 
-Champignones en escabeche de maria rosa
-250 gramos de champignones, preferentemente los marrones ya que tienen menos agua. (Portobellos)
-1 cebolla 
-½ pimiento
-sal, granos de pimienta, ají molido, laurel, provenzal
-tres dientes de ajo.
-½ Pocillito de aceite
-½ pocillito de vinagre
-½ pocillito de vino blanco
+## Torre de panqueques o piononos
 
-Limpiar bien los hongos, cortarlos en 4. ( Yo los lavo, a pesar de hay quienes dicen que no hay que lavarlos, los seco con papel de cocina y les corto una tajadita en la base del tronquito. )Limpiar y cortar la cebolla por la mitad y luego en tajaditas. Limpiar y cortar el pimiento en tiritas.
+Linkear aqui una receta para panqueques y una para piononos
 
-Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien. Cocinar 4 minutos, mezclar y volver cocinar otros 4 minutos.
+Usar cualquiera de los rellenos salados
 
-Las cantidades son aproximadas, creería que esa cantidad de líquido va a ir bien para esa cantidad de hongos. 
 
-Escabeche de verduras
-puede ser mezcla de varias verduras o de una sola: coliflor, zanahorias, brocoli, repollitos brucelas, cebollitas, cebollitas de verdeo etc. Condimentar con sal, pimienta, laurel, aji molido, semillas de mostaza.
-Humedecer con 1 taza de vinagre, 1 taza de aceite y una de agua (o puede ser vino blanco). 
-Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras. Cocinar hasta que las zanahorias esten tiernas.
+## Champignones en escabeche de Maria Rosa
+Ingredientes
 
-Bocadito aleman
-sobre biscochos “rex” colocar una rodajita de lebervurst, rodajita de pepinitos en vinagre y un copetito de savora.
+- 250 gramos de hongos portobello
+- 1 cebolla 
+- ½ pimiento
+- sal
+- granos de pimienta
+- ají molido
+- laurel
+- provenzal
+- 3 dientes de ajo.
+- ½ Pocillito de aceite
+- ½ pocillito de vinagre
+- ½ pocillito de vino blanco
 
-Bizcochitos con grasa
-mezclar 2 tazas de harina, 2 cucharaditas de polvo de hornear y ½ cucharadita de sal. Añadir 5 cucharadas de grasa bien fria y se mezcla bien con un tenedor. Se agrega ⅓ de taza de agua fria y se amasa ligeramente. Se estira dejandola de ½ cm de espesor y de cortan los biscochos. Pincharlos con un tenedor y se cocin en horno caliente durante 15 minutos.
+Para empezar se pueden lavar los hongos, aunque muchos no lo recomiendan.
 
-Cebollas crocantes
-se hace una masa con ½ taza de leche, ½ taza de cerveza lager, 1 huevo, 1 taza de harina, 1 cucharadita de polvo de hornear y ½ cucharadita de sal. Dejar reposar ½ hora.
+De hacerlo, enjuagarlos con agua fria rapidamente y secarlos bien con papel de cocina.
+
+Cortar los hongos en 4
+
+Limpiar y cortar la cebolla por la mitad y luego en tajaditas.
+
+Limpiar y cortar el pimiento en tiritas.
+
+Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien.
+
+Cocinar 4 minutos en el microondas, mezclar y volver cocinar otros 4 minutos.
+
+Las cantidades son aproximadas, pero la esa cantidad de líquido deberia ser suficiente para esa cantidad de hongos. 
+
+## Escabeche de verduras
+Puede ser mezcla de varias verduras o de una sola:
+
+- coliflor
+- zanahorias
+- brocoli
+- repollitos brucelas
+- cebollitas
+- cebollitas de verdeo
+- etc.
+
+Condimentar con sal, pimienta, laurel, aji molido, semillas de mostaza.
+
+Humedecer con 1 taza de vinagre, 1 taza de aceite y una de agua (o puede ser vino blanco).
+ 
+Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras.
+
+Cocinar hasta que las zanahorias esten tiernas.
+
+## Bocadito aleman
+Sobre biscochos “Rex” (tambien llamados "Ritz") colocar una rodajita de lebervurst, rodajita de pepinitos en vinagre y un copetito de savora.
+
+## Bizcochitos con grasa
+Mezclar:
+
+- 2 tazas de harina
+- 2 cucharaditas de polvo de hornear
+- ½ cucharadita de sal
+
+Añadir 5 cucharadas de grasa bien fria y se mezcla bien con un tenedor.
+
+Se agrega ⅓ de taza de agua fria y se amasa ligeramente.
+
+Se estira dejandola de ½ cm de espesor y de cortan los biscochos.
+
+Pincharlos con un tenedor y se cocina en horno caliente durante 15 minutos.
+
+## Aros de cebolla
+
+Se hace una masa con:
+
+- ½ taza de leche
+- ½ taza de cerveza lager
+- 1 huevo
+- 1 taza de harina
+- 1 cucharadita de polvo de hornear
+- ½ cucharadita de sal
+
+Dejar reposar ½ hora.
+
 Cortar 4 cebollas en aros y colocarlos en agua helada por 5 minutos. Escurrirlos y secarlos.
-De a poco se pasan los aros por la masa y se frien con cuidado en aceite bien caliente. Dorarlos de ambos lados y retirarlos con espumadera, colocandolos sobre papel de cocina.
 
-Canastitas redondas o cubitos con 4 picos
-se hacen con tapas de empanadas.
+De a poco se pasan los aros por la masa y se frien con cuidado en aceite bien caliente.
+
+Dorarlos de ambos lados y retirarlos con espumadera, colocandolos sobre papel de cocina.
+
+## Canastitas redondas o cubitos con 4 picos
+
+Se hacen con tapas de empanadas.
+
 En el caso de las canastitas redondas, se hacen pliegues en el borde doblandolos hacia un costado y pelliscando con un poco de agua para que quede pegado como en los repulgues.
-Los cubitos se hacen con 4 pelliscos desde la base a los bordes
-se pueden rellenar con:
-restos de pollo cocido, cebollitas de verdeo picadas,tomates picados, manteca, trocitos de panceta, sal y pimienta. Puede agregarse salsa blanca.
-Aceitunas, queso crema, queso rallado, salsa tomate, oregano, sal y pimienta.
-Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morron, aceite de oliva, sal y pimienta.
-Otros rellenos.
-Espolvorear las bases de las canastitas y los cubitos con pan rallado para que la humedad del relleno no impida que la masa quede crocante y armada.
-Cocinar en horno de 190 ª por 15 a 20 minutos.
 
-Pizzas rellenas
-utilizando tapas para pascualina.
-Colocar en una pizzera una tapa de pascualina, pincharla y distribuir sobre esta: queso mantecoso y colocar la otra tapa de pascualina pinchandola tambien. Hornear a 190ª por 15 minutos, y proceder como con cualquier tipo de pizza, llevando nuevamente al horno por otros 15 o 20 minutos.
+Los cubitos se hacen con 4 pelliscos desde la base a los bordes.
 
-Sopas
+Se pueden rellenar con cualquiera de los rellenos salados
 
-Sopa crema de tomate
-freir 1 cebolla picada en manteca. Agregar 1 pimiento, 1 diente ajo y
-1 puerro, todo finamente picado. Añadir 1 litro de caldo y 
-750 gr de tomate triturado. Cocinar a fuego moderado. Poner los condimentos: pimenton dulce, menta, albahaca, nuez moscada, tomate seco hidratado en aceite de oliva, laurel, 1 cucharadita de sal y 
-½ de azucar. Incorporar 1 papa hervida pisada o 60 gr de harina, cocinar de 20 minutos a ½ hora. Ingresar el queso crema y por ultimo unos crustones y perejil picado.
+Espolvorear las bases de las canastitas y/o los cubitos con pan rallado para que la humedad del relleno no impida que la masa quede crocante y armada.
 
-Minestrone
-rehogar una cebolla picada en aceite, cuando esta transparente agregar panceta cortada en trocitos y ajo picado. Incorporar zanahoria, cebolla de verdeo, puerro, zuchini, zapallito, apio, todo finamente picado y cubrir con caldo de carne. Cocinar por 10 minutos. Ingresar papas, tomates pelados y cubeteados, condimentar con oregano, laurel, romero y cocinar por 20 minutos mas. Poner la pasta y las hojas verdes (acelga, espinaca, albahaca, etc), salpimentar y 10 minutos mas de coccion. Por ultimo colocar aceite de oliva, crustones y queso rallado.
+Cocinar en horno de 190C por 15 a 20 minutos.
 
-Sopa crema de brocoli con zanahoria
-colocar el brocoli durante 5 minutos en agua hirviendo, con sal y un chorrito de aceite.
-Dorar puerro picado en aceite, agregar zanahorias en rodajas y papas en trozos, salar y hervir con caldo por 15 a 20 minutos, agregar el brocoli y pasar todo por licuadora. Decorar con arbolitos de brocoli, queso rallado y crutones al ajo. 
+## Pizzas rellenas
 
-Sopa crema de calabaza
-freir en aceite hasta dorarse ajo y cebolla picados. Agregar la calabaza en cubos por 2 minutos revolbiendo. Añadir puerro, zanahoria y caldo de verduras. Condimentar con canela, nuez moscada, sal y pimienta. Cocinar a fuego medio alto por 15 minutos.
-Por ultimo se puede incorporar leche de coco. Pasar por la licuadora y servir decorado con perejil picado y semillas de calabaza tostadas.
+Colocar en una pizzera una tapa de pascualina, pincharla
 
-Sopa de panceta y queso (para 10 personas)
-cortar en pedazos 5 zanahorias, 1 puerro y 1 kg de panceta espesiada.
-Ponerlos a cocinar con 2 litros de agua por 1 hora. Agregar 5 papas grandes, tambien en trozos y cocinar por 30 minutos mas. Salpimentar.
-Servir hirviendo, en 10 bols y en cada uno agragar un trozo de queso reblochon (250g en total).
+Distribuir queso mantecoso
 
-Sopa de puerros de sarah effez
-tener hervida ½ litro de agua.
-Poner en una olla, 2 o 3 puerros grandes y 1 cebolla grande, picados, agregar aceite como para que esten todos uniformemente mojados (sin aceite en el fondo). Cocinar a fuego lento hasta que los vegetales se cocinen un poco. (Es opcional incorporar 500 gr de carne picada sellandola). Agregar 200 gr de queso cremoso y 200 gr de crema de leche doble.
-Agregar el agua caliente con un caldito, hasta cubrir la preparacion. Cocinar a fuego medio hasta que se evapore un poco el agua. (Si la sopa lleva carne picada, asegurarse que este cocida).
-Salpimentar e incorporarle hierbas a gusto. Esta lista en 40 minutos aproximadamente, servir con queso rallado. Es para 4 personas. 
+Colocar la otra tapa de pascualina pinchandola tambien.
+
+Hornear a 190ª por 15 minutos, y proceder como con cualquier tipo de pizza, llevando nuevamente al horno por otros 15 o 20 minutos.
+
+# Sopas
+
+## Sopa crema de tomate
+Freir 1 cebolla picada en manteca.
+
+Agregar 1 pimiento, 1 diente ajo y 1 puerro, todo finamente picado.
+
+Añadir 1 litro de caldo y 750 gr de tomate triturado.
+
+Cocinar a fuego moderado.
+
+Condimentar con:
+
+- Pimenton dulce
+- menta
+- albahaca
+- nuez moscada
+- tomate seco hidratado en aceite de oliva
+- laurel
+- 1 cucharadita de sal
+- ½ cucharadita de azucar.
+
+Incorporar 1 papa hervida pisada o 60 gr de harina
+
+Cocinar de 20 minutos a ½ hora.
+
+Agregar queso crema y, por ultimo, unos crustones y perejil picado.
+
+## Minestrone
+Rehogar una cebolla picada en aceite.
+
+Cuando esta transparente agregar panceta cortada en trocitos y ajo picado
+
+Incorporar zanahoria, cebolla de verdeo, puerro, zuchini, zapallito y apio, todo finamente picado.
+
+Cubrir con caldo de carne.
+
+Cocinar por 10 minutos.
+
+Agregar papas y tomates pelados y cubeteados.
+
+Condimentar con oregano, laurel y romero
+
+Cocinar por 20 minutos mas.
+
+Agregar la pasta y las hojas verdes (acelga, espinaca, albahaca, etc)
+
+Salpimentar.
+
+Cocinar por 10 minutos mas.
+
+Por ultimo colocar aceite de oliva, crustones y queso rallado.
+
+## Sopa crema de brocoli con zanahoria
+
+Colocar el brocoli durante 5 minutos en agua hirviendo, con sal y un chorrito de aceite.
+
+Dorar puerro picado en aceite, agregar zanahorias en rodajas y papas en trozos.
+
+Salar y hervir con caldo por 15 a 20 minutos.
+
+Agregar el brocoli
+
+Pasar todo por licuadora.
+
+Decorar con arbolitos de brocoli, queso rallado y crutones al ajo. 
+
+## Sopa crema de calabaza
+
+Freir ajo picado y cebolla picada en aceite hasta dorarse.
+
+Agregar la calabaza en cubos por 2 minutos, revolviendo.
+
+Añadir puerro, zanahoria y caldo de verduras.
+
+Condimentar con canela, nuez moscada, sal y pimienta.
+
+Cocinar a fuego medio alto por 15 minutos.
+
+Por ultimo, se puede incorporar leche de coco.
+
+Pasar por la licuadora.
+
+Servir decorado con perejil picado y semillas de calabaza tostadas.
+
+## Sopa de panceta y queso
+
+Para 10 personas
+
+Cortar en pedazos:
+
+- 5 zanahorias
+- 1 puerro
+- 1 kg de panceta espesiada
+
+Ponerlos a cocinar con 2 litros de agua por 1 hora
+
+Agregar 5 papas grandes trozadas, cocinar por 30 minutos mas.
+
+Salpimentar.
+
+Servir hirviendo, en 10 bols y en cada uno agregar un trozo de queso reblochon (250g en total).
+
+## Sopa de puerros de Sarah Effertz
+
+Para 4 personas
+
+Hevir ½ litro de agua.
+
+Poner en una olla 2 o 3 puerros grandes picados y 1 cebolla grande picada.
+
+Agregar aceite como para que esten todos uniformemente mojados (sin aceite en el fondo).
+
+Cocinar a fuego lento hasta que los vegetales se cocinen un poco.
+
+Opcionalmente, incorporar 500 gr de carne picada, sellandola.
+
+Agregar 200 gr de queso cremoso y 200 gr de crema de leche doble.
+
+Agregar el agua caliente con un caldito, hasta cubrir la preparacion.
+
+Cocinar a fuego medio hasta que se evapore un poco el agua. (Si la sopa lleva carne picada, asegurarse que este cocida).
+
+Salpimentar e incorporarle hierbas a gusto.
+
+Esta lista en 40 minutos aproximadamente, servir con queso rallado.
+
+##  Guarniciones para sopas
 
 Para agregar a cualquier sopa al momento de ser servirdas
-1- crustones: trocitos de pan fritos en manteca y ajo picado.
-2- Daditos de queso fresco rociados con pimienta negra.
-3- Clara de huevo batida con queso rallado.
-4- Pequeñas tostaditas de pan pinceladas con manteca y pimienta, oregano, paprika, albahaca, perejil, u otras hierbas.
+
+- crustones: trocitos de pan fritos en manteca y ajo picado.
+- Daditos de queso fresco rociados con pimienta negra.
+- Clara de huevo batida con queso rallado.
+- Pequeñas tostaditas de pan pinceladas con manteca y pimienta, oregano, paprika, albahaca, perejil, u otras hierbas.
 
 # Tragos
 
