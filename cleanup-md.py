@@ -1,5 +1,9 @@
 import re
 from collections import defaultdict
+import os
+
+with open('./Recetas.md', 'r') as f:
+    m = list(f.readlines())
 
 local_toc = defaultdict(list)
 dry_run = False
@@ -15,7 +19,10 @@ for x in m[3:]:
         if not first:
             first = True
         else:
-            file_to_create = '../' + '/'.join(path) + ('/index.md' if len(path) < 3 else '.md')
+            if not os.path.exists('./' + '/'.join(path)):
+                 os.makedirs('./' + '/'.join(path))
+                
+            file_to_create = './' + '/'.join(path) + ('/index.md' if len(path) < 3 else '.md')
             if dry_run:
                 print(file_to_create)
             else:
