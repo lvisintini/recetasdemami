@@ -1,6 +1,3 @@
----
-Title: Las Recetas de Mami
----
 # Platos calientes
 
 ## Especial huevos, queso
@@ -11,12 +8,12 @@ Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verde
 #### Salsa holandeza
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. servir tibio.
 
-### Huevos poche (1)
+### Huevos poche 1
 Hervir agua con un chorro de vinagre y poca sal. bajar el fuego y hacer girar el agua según las agujas del reloj. introducir el huevo (a temperatura ambiente) sin cáscara en el centro y cocinar a fuego fuerte por 2 minutos. tratando de hacer movimientos envolventes con cuchara de madera.
 
 También se puede colocar el huevo condimentado en una bolsita de nylon cerrada con un broche o alambre forrado y colocarlo en el agua hirviendo por 2 o 3 minutos.
 
-#### Huevos poche (2)
+### Huevos poche 2
 Poner sobre la sartén tibia un papel manteca enmantecado y el huevo arriba, cocinar hasta que la clara se ponga blanca y todavía la yema líquida. llevar el papel hasta el plato y resbalar el huevo
 
 ### Huevos napoleon
@@ -51,14 +48,14 @@ A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimient
 - Espinaca, queso, crema de leche, sal, pimienta y nuez moscada.
 - Jamón, tomate, cebolla,nuez moscada.
 
-### Paleta de pintor (1)
+### Paleta de pintor 1
 Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: media zanahoria rallada, en el otro: medio zucchini también rallado y en el último cuarto: remolacha rallada, condimentada con aceite de oliva y sal.
 
 En el centro del plato y sobre todas las verduras se coloca un huevo poché.
 
 Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil picado.
 
-### Paleta de pintor (2)
+### Paleta de pintor 2
 Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: media zanahoria rallada, en el otro: medio zucchini también rallado y en el último cuarto: remolacha rallada, condimentada con aceite de oliva y sal. por último bañar con salsa holandesa.
 
 ### Buñuelos de papa y queso
@@ -347,7 +344,7 @@ Tengo entendido que se puede cocinar también en el horno durante
 
 1 ½ horas, aceitando y poniendo pan rallado sobre la asadera.
 
-### Tapas de empanadas (1)
+### Tapas de empanadas 1
 250 gr de harina, 50 gr de manteca o grasa de cerdo, 100 cc de agua, 2 cucharaditas de jugo de limón, ¼ de cucharadita de polvo para hornear, ½ de cucharadita al ras de sal.
 
 En ½ vaso de agua agregamos las cucharaditas de jugo de limón y la sal, mezclamos y reservamos . En un bol ponemos la harina con el polvo de hornear, agregamos la manteca (a temperatura ambiente) y trabajamos hasta tener una arenilla (usar los dedos). Se hace un hueco en el centro y se vierte el preparado de agua, limón y sal. hacemos un bollo y terminamos de amasar entre 1 a 2 minutos en la mesada (enharinada) hasta obtener una masa suave. con el palo de amasar estiramos y doblamos cada vez hasta 6 veces. dejamos descansar el bollo en la heladera de 1 a 2 horas tapado con un film.
@@ -356,7 +353,7 @@ Sacamos de la heladera y estiramos y cortamos las tapas de 2 mm de espesor y de 
 
 Espolvorear con harina entre tapa y tapa o poner un film. se puede dejar 48 horas en la heladera o se puede congelar. para freír
 
-### Tapas de empanadas (2)
+### Tapas de empanadas 2
 En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y una taza de salmuera tibia. se va ingresando de a poco la harina a la mezcla del centro, hasta formar una masa flexible. Se estira sobre la mesada dejándola de 1,5 a 2mm de espesor y se corta en discos de 11 a 12 cm de diámetro.
 
 #### Empanadas criollas
@@ -926,10 +923,10 @@ melon, lechuga, cibulette.
 #### Aderezo
 4 cucharadas de ketchup, 2 de limón, 4 de aceite, 1 cdita de mostaza, sal y pimienta (condimento francés).
 
-### Remolachas (1)
+### Remolachas 1
 Remolachas, manzanas, queso, aceite, jugo de limón, sal.
 
-### Remolachas (2)
+### Remolachas 2
 Remolachas, champiñones, perejil, almendras, ralladura gruesa de limón, aceite oliva, sal, aceto.
 
 ### Remolacha al estilo Vir
@@ -946,13 +943,13 @@ Ciboulette, pimiento morrón en tiritas, tomates en cubo, perejil, jugo de limó
 
 Se puede completar con apio, lechuga, espinaca y rúcula (cama).
 
-### Palta agridulce (1)
+### Palta agridulce 1
 Palta, brocoli, frutilla, arandano.
 
 #### Aderezo
 Salsa de soja, aceite de oliva y jugo de limón.
 
-### Palta agridulce (2)
+### Palta agridulce 2
 Palta, lechuga, huevo, manzana roja, pepinos, aderezada con albahaca, jugo de limón, sal.
 
 ### Palta completa
@@ -967,13 +964,13 @@ Mortadela en cubos, tomates cherry, rucula, cebolla, palta, crustones, aceite de
 ### Zanahoria
 Zanahoria, apio, manzana, palmitos, queso crema, mayonesa, limón, sal y pimienta.
 
-### Naranja (1)
+### Naranja 1
 4 naranjas, 1 manzana, 150 gr dados de jamón, 3 cucharadas de limón, 100 gr crema de leche, 1 cucharadita sal, ½ cucharadita pimienta y 1 cucharada mostaza.
 
-### Naranja (2)
+### Naranja 2
 Tomates, naranja, aceitunas negras, queso fresco, aceite oliva, vinagre de vino, sal.
 
-### Naranja (3)
+### Naranja 3
 Aceitunas, lechuga, queso crema, salsa inglesa, ketchup, sal, pimienta y perejil.
 
 ### Brócoli
@@ -1022,10 +1019,10 @@ Servir tibio.
 ### Batata
 Batata cocida en cubitos, pimiento morrón rojo picado grueso, cebollita de verdeo, vinagre, aceite de oliva, sal, pimienta, mostaza, perejil.
 
-### Rucula (1)
+### Rucula 1
 Rúcula, cebolla, choclo, tomate, pimiento verde, atún, queso fresco, aceite sal y vinagre.
 
-### Rucula (2)
+### Rucula 2
 Rucula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, pimienta y aceto.
 
 ### Rusa
@@ -2478,7 +2475,7 @@ Mezclar:
 - Aceite de oliva
 - Sal
 
-### Salsa de Palta (1)
+### Salsa de Palta 1
 Licuar:
 
 - Palta
@@ -2489,7 +2486,7 @@ Licuar:
 - Sal
 - Pimienta
 
-### Salsa de Palta (2)
+### Salsa de Palta 2
 Mezclar:
 
 - Palta pisada
@@ -2500,7 +2497,7 @@ Mezclar:
 - Pimienta
 - Crema de leche (Opcional)
 
-### Salsa de Pimientos (1)
+### Salsa de Pimientos 1
 Mezclar:
 
 - Pimiento morrón rojo sin piel
@@ -2508,7 +2505,7 @@ Mezclar:
 - azúcar
 - Agua
 
-### Salsa de pimientos  (2)
+### Salsa de pimientos  2
 Procesar:
 
 - 3 pimientos morrones
@@ -2525,7 +2522,7 @@ Mezclar:
 - Cebolla bien picadas (pasadas por agua helada y enjuagadas)
 - Crema de leche
 
-### Salsa de anchoas (1)
+### Salsa de anchoas 1
 Licuar:
 
 - 4 anchoas
@@ -2533,7 +2530,7 @@ Licuar:
 - Romero
 - Jugo de limón
 
-### Salsa de anchoas (2)
+### Salsa de anchoas 2
 Licuar:
 
 - 8 Filet de anchoas
@@ -2570,7 +2567,7 @@ Mezclar:
 - trocitos de Apio (Opcional)
 
 
-### Salsa Cesar (1)
+### Salsa Cesar 1
 Machacar 1 diente de ajo con 50 grs anchoas.
 
 Agregarle la mezcla de 3 yemas con 1 cucharadita de mostaza y  2 cucharadas de jugo de limón.
@@ -2579,7 +2576,7 @@ Batir hasta lograr homogeneidad e incorporar 100 ml de aceite de girasol de a po
 
 Luego sumarle 2 cucharadas de queso parmesano y una pizca pimienta
 
-### Salsa Cesar (2)
+### Salsa Cesar 2
 Licuar:
 
 - 200 ml aceite girasol
@@ -2606,7 +2603,7 @@ Licuar:
 - una pizca pimienta negra
 - un poco de cebollita de verdeo
 
-### Alioli (1)
+### Alioli 1
 Licuar:
 
 - 1 Huevo
@@ -2615,7 +2612,7 @@ Licuar:
 - 1 Cucharada de jugo de limón
 - Pizca de sal
 
-### Alioli (2)
+### Alioli 2
 Siendo que huevo, aceite y jugo de limón son los ingredientes de una Mayonesa, se puede agregar ajo a una buena mayonesa al limón. 
 
 Poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos para que salga la crema.
@@ -2757,7 +2754,7 @@ Con fuego bajo reducir a la mitad.
 
 Servir sobre pasta y esparcir queso rallado.
 
-### Salsa de queso (1)
+### Salsa de queso 1
 Derretir 2 cucharadas de manteca, agregarle 2 cucharadas de harina y mezclar hasta obtener una pasta.
 
 Incorporarle 1 ½ taza de leche (bechamel), revolver hasta que hierva y espese
@@ -2768,7 +2765,7 @@ Cocinar hasta que se derrita
 
 Condimentar con sal, pimienta y ½ cucharadita de mostaza.
 
-### Salsa de queso (2)
+### Salsa de queso 2
 Mezclar 1 vaso de leche con ½ taza de queso fundido.
 
 Remover sobre fuego normal y cocer hasta que quede una masa homogénea.
@@ -2852,7 +2849,7 @@ Ingredientes:
 
 Cocinar reduciendo a la mitad.
 
-### Salsa Bechamel (1)
+### Salsa Bechamel 1
 Ingredientes:
 
 - 50 grs de manteca
@@ -2878,7 +2875,7 @@ Por último, condimentar con sal, pimienta y nuez moscada.
 ### Substituto para salsa bechamel
 En determinadas comidas se puede reemplazar la salsa blanca con maicena (3 cucharadas) disuelta en leche(¾ taza).
 
-### Salsa Bechamel (2)
+### Salsa Bechamel 2
 La preparación resultante de derretir manteca (125 gr) y cocinar la harina (125 gr) se llama Roux, una salsa base.
 
 Si le echamos leche y crema de leche(1 litro) caliente (y cocinamos a fuego mínimo) y añadimos condimentos (nuez moscada, sal y pimienta) obtenemos la salsa bechamel.
@@ -3058,19 +3055,19 @@ Condimentar con sal marina, hierbas aromáticas y hojas de albahaca.
 
 Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
-### Brusquetas (1)
+### Brusquetas 1
 Hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de tomate, ají molido, orégano y queso rallado. Sal y gotas de aceite de oliva.
 
-### Brusquetas (2)
+### Brusquetas 2
 tostada frotada con ajo, palta, huevo en rodajas, sal, ají molido, perejil.
 
-### Brusquetas (3)
+### Brusquetas 3
 sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
-### Brusquetas (4)
+### Brusquetas 4
 Sobre la tostada colocar espinaca al ajo y queso mantecoso, llevar al horno hasta que se caliente.
 
-### Brusquetas (5)
+### Brusquetas 5
 Bruschetta de pan con salsa de queso
 
 50 gr manteca, 2 huevos,50 gr queso rallado, rebanadas de pan, sal y pimienta.
@@ -3079,7 +3076,7 @@ Se bate la manteca hasta que esté cremosa, se agregan los huevos de a uno, siem
 
 Se cubren las rebanadas de pan con una capa de ½ cm de espesor y se tuestan al horno.
 
-### Brusquetas (6)
+### Brusquetas 6
 Brusquetas con queso, cerveza y especias al horno
 
 Diluir 300 gr queso cheddar con ¼ taza de cerveza rubia, hasta obtener una crema lisa (5 minutos).
@@ -3090,7 +3087,7 @@ Tostar 8 rodajas de pan lactal y enmantecarlo y distribuir sobre ellos la crema.
 
 Gratinar por 5 minutos en horno fuerte.
 
-### Brusquetas (7)
+### Brusquetas 7
 Brusquetas mediterraneas
 
 Sobre tostadas calientes colocar la siguiente preparación:
