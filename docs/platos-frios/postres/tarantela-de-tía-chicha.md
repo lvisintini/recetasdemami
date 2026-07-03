@@ -1,6 +1,6 @@
 ---
 title: Tarantela de Tía Chicha
-uuid: cbc45b5f-7e2f-4242-a854-bd36fffd5eb8
+uuid: 326e3870-5a80-4de9-97e6-36b733d70644
 ---
 {nav}
 

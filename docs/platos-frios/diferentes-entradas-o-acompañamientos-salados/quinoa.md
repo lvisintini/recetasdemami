@@ -1,6 +1,6 @@
 ---
 title: Quinoa
-uuid: df0abfd7-8c07-4955-89a1-4fef1e4c03a6
+uuid: fdf95200-8ab3-4b5d-9010-0aa7dad16643
 ---
 {nav}
 

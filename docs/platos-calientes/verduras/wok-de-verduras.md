@@ -1,6 +1,6 @@
 ---
 title: Wok de verduras
-uuid: e1f9bedd-538c-434f-b53a-99cf1e1c3ccc
+uuid: 0e187a9e-f82e-44d8-b166-365812d8191a
 ---
 {nav}
 

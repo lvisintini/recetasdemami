@@ -1,6 +1,6 @@
 ---
 title: Flammkuchen
-uuid: 1158d9e8-a5c5-4ae9-8db4-e7cda7655957
+uuid: 714b018a-df2f-4cb6-9580-1867564d0824
 ---
 {nav}
 

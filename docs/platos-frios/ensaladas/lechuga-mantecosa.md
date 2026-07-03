@@ -1,6 +1,6 @@
 ---
 title: Lechuga mantecosa
-uuid: bca9c37c-05f8-4969-a6be-639440e4a0a6
+uuid: 9c6b7d9b-cefa-4648-87dd-14439383597b
 ---
 {nav}
 

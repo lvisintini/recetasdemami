@@ -1,6 +1,6 @@
 ---
 title: Arroz blanco
-uuid: 94f2476b-ddcd-4c28-8438-7649e60a6983
+uuid: 49c7634e-3196-4730-84e5-b6abcd3f4322
 ---
 {nav}
 

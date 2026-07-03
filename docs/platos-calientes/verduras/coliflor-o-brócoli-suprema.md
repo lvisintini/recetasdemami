@@ -1,6 +1,6 @@
 ---
 title: Coliflor o brócoli suprema
-uuid: 8c95c31f-f505-47d8-a80c-b76a9c161482
+uuid: 2aa5a3f6-1cd5-4ddb-a3a2-d6b8ed1d7dc8
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Michelada
-uuid: dba48cee-0c50-4bdb-b392-3c8308edfdb4
+uuid: c890ed28-5537-49ae-9858-8dbb2d240351
 ---
 {nav}
 

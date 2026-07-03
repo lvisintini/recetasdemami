@@ -1,6 +1,6 @@
 ---
 title: Bagna cauda
-uuid: 96cde030-4e41-46a1-96d0-c8f147feedf9
+uuid: 2ed847de-9f28-47f5-9378-2f2fe3b60d9f
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Torta de simple de vainilla
-uuid: 938f01d0-eb29-48b0-9a69-1a01d491d38f
+uuid: a4c4b20a-a01f-4fb5-b3e1-e76f34d7921b
 ---
 {nav}
 

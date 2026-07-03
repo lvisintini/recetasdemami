@@ -1,6 +1,6 @@
 ---
 title: Lentejas
-uuid: 84c2bb68-723d-42c3-b6fc-fb213928f2f3
+uuid: 4ffa86d1-6ba2-4922-91f9-58a01241376d
 ---
 {nav}
 

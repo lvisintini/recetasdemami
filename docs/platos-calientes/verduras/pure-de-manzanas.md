@@ -1,6 +1,6 @@
 ---
 title: Pure de manzanas
-uuid: d6f985ed-26d4-4680-827a-6f68645816f9
+uuid: 746e399e-25d1-4ccb-acb0-a5681f82bbd8
 ---
 {nav}
 

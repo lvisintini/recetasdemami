@@ -1,6 +1,6 @@
 ---
 title: Pastel de papa y carne
-uuid: 7e48bcc6-48fb-4f7a-adb8-6dca4740d6be
+uuid: b6f8c7fc-72e1-4043-ae93-898b54422aac
 ---
 {nav}
 

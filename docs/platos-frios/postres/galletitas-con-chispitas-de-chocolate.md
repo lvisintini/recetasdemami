@@ -1,6 +1,6 @@
 ---
 title: Galletitas con chispitas de chocolate
-uuid: 0ca0cda8-a8bc-49cf-b711-a5e86fca9f05
+uuid: 0c38970d-beba-4797-abfc-b0a7f61a66ca
 ---
 {nav}
 

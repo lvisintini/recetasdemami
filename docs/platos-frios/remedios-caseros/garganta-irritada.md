@@ -1,6 +1,6 @@
 ---
 title: Garganta irritada
-uuid: b8b5c83f-5274-4c3f-a530-e37ab7f08f62
+uuid: a6fbf52d-d407-4c63-9f4e-2bf49ea10f97
 ---
 {nav}
 

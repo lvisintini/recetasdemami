@@ -1,6 +1,6 @@
 ---
 title: Egg sour
-uuid: a7e8a54e-31ba-456e-bc21-b17b3670d786
+uuid: 79dde65f-2db0-4c26-a545-962b7719a80e
 ---
 {nav}
 

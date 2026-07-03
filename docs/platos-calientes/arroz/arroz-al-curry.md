@@ -1,6 +1,6 @@
 ---
 title: Arroz al curry
-uuid: fe48b195-3b7f-4c95-912c-4a294f806534
+uuid: a1ad30d0-1204-4e76-9722-f6f6e9a73483
 ---
 {nav}
 

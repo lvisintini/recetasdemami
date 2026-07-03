@@ -1,6 +1,6 @@
 ---
 title: Bomba de papa y queso
-uuid: a472a7ed-21ce-40f3-ac83-30e3fbe95c53
+uuid: acf9c1ea-4ae3-4db5-9edc-c34ec0209c29
 ---
 {nav}
 

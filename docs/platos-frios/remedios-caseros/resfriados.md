@@ -1,6 +1,6 @@
 ---
 title: Resfriados
-uuid: c7d74221-8206-45c9-8611-9767bc395274
+uuid: 93c9b711-5aa6-469e-8c62-e447d01b40a5
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Palta completa
-uuid: f8c21abd-a02e-4186-9434-403cd0259ee7
+uuid: bd8aab1a-b8b9-4d4d-8cc5-d4ab6701dc07
 ---
 {nav}
 

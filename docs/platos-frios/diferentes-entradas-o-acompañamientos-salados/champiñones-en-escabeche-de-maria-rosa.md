@@ -1,6 +1,6 @@
 ---
 title: Champiñones en escabeche de Maria Rosa
-uuid: 9fee5e7e-7a12-4a2c-af14-6962715a5e75
+uuid: d46f7958-1014-4b05-818b-8af5be2e0e51
 ---
 {nav}
 

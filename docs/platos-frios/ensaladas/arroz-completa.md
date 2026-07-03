@@ -1,6 +1,6 @@
 ---
 title: Arroz completa
-uuid: c03a6836-cdd0-469a-8d1f-ad57724e89e4
+uuid: d93ede9c-f000-42e8-a8ad-f564d73c746e
 ---
 {nav}
 

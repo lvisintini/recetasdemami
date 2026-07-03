@@ -1,6 +1,6 @@
 ---
 title: Aderezo para ensaladas hermana Bernarda
-uuid: b1ebc332-1657-4417-8ed3-c9b44e1cbef0
+uuid: 6d02f141-f8c5-47b7-ba32-091bcaeec137
 ---
 {nav}
 

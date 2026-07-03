@@ -1,6 +1,6 @@
 ---
 title: Pollo al curry
-uuid: 54f961f4-841e-4fb1-8f72-45e025c9c595
+uuid: 17d3a3f0-ffbc-40e5-8715-a0d8992014be
 ---
 {nav}
 

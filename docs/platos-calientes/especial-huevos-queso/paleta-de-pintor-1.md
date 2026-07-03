@@ -1,6 +1,6 @@
 ---
 title: Paleta de pintor 1
-uuid: 045bb755-7a3e-4996-9455-0deeddde0be3
+uuid: 35b99902-a736-4711-b412-cb008d017dcf
 ---
 {nav}
 

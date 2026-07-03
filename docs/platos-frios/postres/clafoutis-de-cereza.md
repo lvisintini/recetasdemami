@@ -1,6 +1,6 @@
 ---
 title: Clafoutis de cereza
-uuid: 06e3c5b8-2fe6-4406-ac38-d609be12e257
+uuid: d10db6c7-2051-406e-812b-5c1440d2b790
 ---
 {nav}
 

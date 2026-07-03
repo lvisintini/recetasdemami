@@ -1,6 +1,6 @@
 ---
 title: Caipirinha
-uuid: 9ddf0f03-2db1-4871-9484-7475f84d6b84
+uuid: 96010058-b2aa-43a8-ae5e-4c343f4fb9c2
 ---
 {nav}
 

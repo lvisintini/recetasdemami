@@ -1,6 +1,6 @@
 ---
 title: Panqueques americanos
-uuid: 8f44c011-9c14-4dc8-b334-cd78a07f1757
+uuid: 8f6b817a-6e25-4b8f-894b-13853caf073b
 ---
 {nav}
 

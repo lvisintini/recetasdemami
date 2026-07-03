@@ -1,6 +1,6 @@
 ---
 title: Buñuelos de papa y queso
-uuid: 2715b4b0-f860-455c-b061-bae82420b636
+uuid: 9ccd7850-93fc-405f-9713-238f89dcd25c
 ---
 {nav}
 

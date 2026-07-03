@@ -1,6 +1,6 @@
 ---
 title: Bifes rellenos a la plancha
-uuid: 412ac4b2-be5e-46b9-a893-62779f2d2937
+uuid: fb3e3c43-f9d2-4194-92fb-6a75b7d0c00f
 ---
 {nav}
 

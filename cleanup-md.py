@@ -36,7 +36,7 @@ for x in m:
                 raise Exception('May be overriding data', file_to_create)
             if content[2:] and file_to_create.endswith("index.md"):
                 print('Skipped:', file_to_create, content)
-            else:
+            if not file_to_create.endswith("index.md"):
                 with open(file_to_create, 'w') as f:
                     f.write(template.format(
                         title=title,

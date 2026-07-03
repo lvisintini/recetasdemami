@@ -1,6 +1,6 @@
 ---
 title: Almíbar a punto de hilo flojo para endulzar cócteles
-uuid: 3f828d52-5631-4d5b-a844-5092ec2420c3
+uuid: 9e9a28c9-b3e3-4bb0-a811-f5375a4a263a
 ---
 {nav}
 

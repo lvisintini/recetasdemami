@@ -1,6 +1,6 @@
 ---
 title: Recomendaciones
-uuid: e479ee50-5ab1-456c-ba24-34b0dfb7f8fc
+uuid: 0065d8b7-091d-48f5-9996-8169f39e1bd4
 ---
 {nav}
 

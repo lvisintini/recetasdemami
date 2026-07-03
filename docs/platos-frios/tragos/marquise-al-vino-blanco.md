@@ -1,6 +1,6 @@
 ---
 title: Marquise al vino blanco
-uuid: e2e12be2-7b8d-4ec7-b7e1-5f516a6bd46b
+uuid: 9f5c7e59-ce6c-49aa-ae4e-6b2fecdfe86f
 ---
 {nav}
 

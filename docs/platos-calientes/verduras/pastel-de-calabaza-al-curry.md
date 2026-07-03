@@ -1,6 +1,6 @@
 ---
 title: Pastel de calabaza al curry
-uuid: d4a556ad-cd1c-4362-acda-4e5c6a1c02b5
+uuid: 360e4e27-18f4-4d34-b9a0-a3faba599f85
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Guacamole
-uuid: a2dc564b-d1d2-4014-ae12-74ca4dd4eb86
+uuid: 06e603d7-c750-447f-89e1-138adf8f990f
 ---
 {nav}
 

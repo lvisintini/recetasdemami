@@ -1,6 +1,6 @@
 ---
 title: Pollo con champiñones
-uuid: 9dcd184c-c8e2-4338-a249-82372ae86b82
+uuid: 6bc33c43-d5a8-4259-902b-6cbf55d10aba
 ---
 {nav}
 

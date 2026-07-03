@@ -1,6 +1,6 @@
 ---
 title: Guiso de verduras y cerdo a la oriental
-uuid: 1f26cf59-e033-4c63-8cc6-9f4b0c474bc2
+uuid: 3888a80b-0b16-4b3a-9dab-adf16b9633f1
 ---
 {nav}
 

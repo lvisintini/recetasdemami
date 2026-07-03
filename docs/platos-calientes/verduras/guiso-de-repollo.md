@@ -1,6 +1,6 @@
 ---
 title: Guiso de repollo
-uuid: 9616822e-77e8-4963-8f9c-e769f9984176
+uuid: 3c4b2b99-6f78-4126-935e-4407946153ef
 ---
 {nav}
 

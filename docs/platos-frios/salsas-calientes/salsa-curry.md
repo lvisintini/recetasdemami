@@ -1,6 +1,6 @@
 ---
 title: Salsa curry
-uuid: 21904649-bf6f-4052-ab3a-8bd8bb611a6e
+uuid: 47caedc9-0b37-4d40-bbc9-71f94e6ec614
 ---
 {nav}
 

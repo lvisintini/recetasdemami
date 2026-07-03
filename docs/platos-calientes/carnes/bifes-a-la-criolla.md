@@ -1,6 +1,6 @@
 ---
 title: Bifes a la criolla
-uuid: a03d0e2b-0137-45da-9b47-5075325f80da
+uuid: 744bbe02-339d-4324-bf75-197bd24e2acd
 ---
 {nav}
 

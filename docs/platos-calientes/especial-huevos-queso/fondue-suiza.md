@@ -1,6 +1,6 @@
 ---
 title: Fondue suiza
-uuid: f2c8d2e7-0cf9-4229-826d-d57972ad22fd
+uuid: 0e74ca82-5cda-46b8-a752-9bfb97980aa1
 ---
 {nav}
 

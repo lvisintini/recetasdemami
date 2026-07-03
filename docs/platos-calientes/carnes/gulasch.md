@@ -1,6 +1,6 @@
 ---
 title: Gulasch
-uuid: 07699b13-a483-40b0-b901-43568380ebfa
+uuid: b954cea7-b890-449a-857b-fa94a747128d
 ---
 {nav}
 

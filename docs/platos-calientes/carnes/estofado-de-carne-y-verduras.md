@@ -1,6 +1,6 @@
 ---
 title: Estofado de carne y verduras
-uuid: b0bb6e37-6d4d-4050-aeb7-36050d3e411f
+uuid: 5573967d-d81b-40a9-a33f-5f02800526a3
 ---
 {nav}
 
