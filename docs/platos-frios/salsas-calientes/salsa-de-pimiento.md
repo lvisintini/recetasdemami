@@ -1,6 +1,6 @@
 ---
 title: Salsa de pimiento
-uuid: fa04bc3e-15f3-4ee8-977b-49069bc0e205
+uuid: 9357bc36-1bfe-43f8-af78-3c8014113854
 ---
 {nav}
 

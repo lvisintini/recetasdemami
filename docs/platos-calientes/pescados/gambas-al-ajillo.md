@@ -1,6 +1,6 @@
 ---
 title: Gambas al ajillo
-uuid: 3f84df48-4e2a-4b76-a487-8683b69740c9
+uuid: 5338b4a6-f592-4c30-991b-b4d24dece8d7
 ---
 {nav}
 

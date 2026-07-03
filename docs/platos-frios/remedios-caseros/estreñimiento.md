@@ -1,6 +1,6 @@
 ---
 title: Estreñimiento
-uuid: f3666ad0-43b0-4d3f-924f-ea5142c84943
+uuid: 1b64ce01-725d-4c16-9f2e-7f8bf5300684
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Escabeche de verduras
-uuid: 9866db8f-47b1-4060-b92c-d3f687d2ed26
+uuid: fca10d26-ccda-498b-b239-0994ddce359e
 ---
 {nav}
 

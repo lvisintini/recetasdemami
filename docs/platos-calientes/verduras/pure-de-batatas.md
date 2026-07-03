@@ -1,6 +1,6 @@
 ---
 title: Pure de batatas
-uuid: baa924d2-e748-42aa-bbc4-eb426e69f1b8
+uuid: b8b950ff-d73d-4545-bd54-d4034c03282f
 ---
 {nav}
 

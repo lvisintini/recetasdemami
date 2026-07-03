@@ -1,6 +1,6 @@
 ---
 title: Sopa de panceta y queso
-uuid: 11b1c1cf-d31b-4ddb-a414-3356b912be58
+uuid: ec338eec-6fc3-4f2d-b254-73b6bc7c0f2f
 ---
 {nav}
 

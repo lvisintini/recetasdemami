@@ -1,6 +1,6 @@
 ---
 title: Remedios caseros
-uuid: 6248ca92-5301-4642-a43e-8ac380e8c7fb
+uuid: d86fd33a-2ca8-4689-8cd4-c2d3a616ceea
 ---
 {nav}
 

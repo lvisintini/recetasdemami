@@ -1,6 +1,6 @@
 ---
 title: Crepes suzette
-uuid: 4cbf14b0-d460-468e-846e-f3f6d85c0648
+uuid: da8b476a-82d7-418c-a3fb-75693339929b
 ---
 {nav}
 

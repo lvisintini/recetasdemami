@@ -1,6 +1,6 @@
 ---
 title: Tostadas francesas o ropa vieja
-uuid: 630d5d76-6ca7-48c8-8df7-f772736eccc1
+uuid: 04e4b6bd-5217-48fe-a930-eb994c341abd
 ---
 {nav}
 

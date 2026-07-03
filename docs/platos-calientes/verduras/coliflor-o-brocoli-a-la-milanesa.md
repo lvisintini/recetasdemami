@@ -1,6 +1,6 @@
 ---
 title: Coliflor o brocoli a la milanesa
-uuid: ea9787c8-e2fa-4330-8066-ce5049f1ede0
+uuid: 1e8028d1-b4d0-45d7-9414-17d9febad02e
 ---
 {nav}
 

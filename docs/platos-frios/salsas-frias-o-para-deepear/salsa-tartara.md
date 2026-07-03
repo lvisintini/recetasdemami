@@ -1,6 +1,6 @@
 ---
 title: Salsa tartara
-uuid: 13f8768f-5b39-4791-8c74-9f5d131b525b
+uuid: 4b7d44b7-7ecf-4905-bf16-fdd658a21602
 ---
 {nav}
 

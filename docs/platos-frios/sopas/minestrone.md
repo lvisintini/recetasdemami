@@ -1,6 +1,6 @@
 ---
 title: Minestrone
-uuid: 8ae13510-1f75-417a-a1fa-5fdcd1544485
+uuid: 9bbe193c-e687-4f4f-9e55-4b0be4f56b1a
 ---
 {nav}
 

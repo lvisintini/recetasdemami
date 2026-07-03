@@ -1,6 +1,6 @@
 ---
 title: Salsa de Ananá
-uuid: 67340d8c-cc9d-405d-9a7e-e0bcf3c52a71
+uuid: e1c112d4-dc86-43de-92c6-7f89e8537d01
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Frijoles
-uuid: 16f414bc-6d44-4f61-8c3b-775363529e43
+uuid: 8af39ed8-941b-42bb-b4f9-89a2c143b2c1
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Pescado al curry de alcira en la sartén
-uuid: 6042007a-82fa-46d6-a7e6-bd08a6f7bcaf
+uuid: e2f5e4fd-9f53-4987-b73d-dbf96bcef2a5
 ---
 {nav}
 

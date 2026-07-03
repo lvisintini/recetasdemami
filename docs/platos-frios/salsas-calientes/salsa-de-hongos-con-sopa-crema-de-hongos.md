@@ -1,6 +1,6 @@
 ---
 title: Salsa de hongos con sopa crema de hongos
-uuid: bf84edca-5838-4752-9271-c5c11c1d35e6
+uuid: 4104ba6c-66ca-4c3b-b634-7cdec2d8cb5d
 ---
 {nav}
 

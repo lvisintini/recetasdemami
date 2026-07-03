@@ -1,6 +1,6 @@
 ---
 title: Remolacha al estilo Vir
-uuid: ee17de10-3fad-41d8-82db-a11b3d17ba5b
+uuid: e0e92d7d-6519-4d12-8c42-54d19951efef
 ---
 {nav}
 

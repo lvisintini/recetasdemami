@@ -1,6 +1,6 @@
 ---
 title: Escalopes al vino Marsala
-uuid: e2e44235-eb5c-41fd-bf3c-d9b2a5841342
+uuid: 13822e4e-90b1-4361-9d75-2e9a4afce304
 ---
 {nav}
 

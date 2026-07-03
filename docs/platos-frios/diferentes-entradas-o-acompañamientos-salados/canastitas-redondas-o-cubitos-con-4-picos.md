@@ -1,6 +1,6 @@
 ---
 title: Canastitas redondas o cubitos con 4 picos
-uuid: 61cba806-20e4-4f31-b056-67ed99a50c7f
+uuid: a12fa25d-75d9-45de-8fef-727397fb20ea
 ---
 {nav}
 

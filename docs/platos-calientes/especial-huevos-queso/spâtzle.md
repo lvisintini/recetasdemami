@@ -1,6 +1,6 @@
 ---
 title: Spâtzle
-uuid: 0a5f0335-f357-45dd-b9ff-9e250c4b935c
+uuid: 93d33158-ed0c-4e07-ba42-2e0556388661
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Palta y mortadela
-uuid: aac1dd58-83c9-4b23-8468-37063448afe1
+uuid: cf80f17e-10fd-4714-bf2f-e611df0b1fa5
 ---
 {nav}
 

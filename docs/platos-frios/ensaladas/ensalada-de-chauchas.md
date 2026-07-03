@@ -1,6 +1,6 @@
 ---
 title: Ensalada de chauchas
-uuid: 5d044edc-74e0-43a2-8152-34539b7104d2
+uuid: b42f7384-a8eb-4fab-8cba-b4edca9245c1
 ---
 {nav}
 

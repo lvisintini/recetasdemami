@@ -1,6 +1,6 @@
 ---
 title: Quiche lorraine de luigi
-uuid: 6f0feeed-58be-464e-8b49-c45134bfad77
+uuid: 7b8db69e-a730-4414-a138-464573f5ee24
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Panaché de verduras
-uuid: a78dd202-1154-446e-9761-32beb543062a
+uuid: 6fab7438-8009-4b2f-98ac-1a14ca8a0adc
 ---
 {nav}
 

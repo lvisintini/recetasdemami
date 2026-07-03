@@ -1,6 +1,6 @@
 ---
 title: Cortaduras
-uuid: d4d37f29-da76-486e-a32b-6fc774d21207
+uuid: 058e0d8b-3bc4-4e3d-94be-c70bd4d9dc99
 ---
 {nav}
 

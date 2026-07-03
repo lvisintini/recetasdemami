@@ -1,6 +1,6 @@
 ---
 title: Clafoutis de manzanas rojas
-uuid: 2dcc28d9-5fe8-427c-9c25-3ce361f6d78b
+uuid: 8260245f-4c9c-47c3-8ca9-3c9fd8c9d8ac
 ---
 {nav}
 

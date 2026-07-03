@@ -1,6 +1,6 @@
 ---
 title: Mayonesa a baño maría
-uuid: 58728aee-d2c0-486f-b130-227e7847f864
+uuid: e6b7d888-1ee6-4a80-ad88-4b9d1ee8ccae
 ---
 {nav}
 

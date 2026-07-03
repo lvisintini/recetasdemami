@@ -1,6 +1,6 @@
 ---
 title: Crepes al champignon
-uuid: 327de488-2dbb-484d-a57c-7327ef5959c3
+uuid: 27775ac9-fbee-468f-8ae6-5d147daaccd8
 ---
 {nav}
 

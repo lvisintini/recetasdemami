@@ -1,6 +1,6 @@
 ---
 title: Bondiola de cerdo a la cerveza
-uuid: b7207b35-58bd-4f0f-b3f6-9e5ac0161f5c
+uuid: 0eb6c0c1-e0db-4638-a83f-0418e723396a
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 title: Arroz a la oriental
-uuid: 4d32b878-c4ab-4377-9de5-16036ebf4227
+uuid: 4b8429ea-4afb-4c6d-bdfe-29f7ab605bf5
 ---
 {nav}
 

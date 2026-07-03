@@ -1,6 +1,6 @@
 ---
 title: Salsa de pimientos  2
-uuid: ab324e2e-bad5-48f8-94cb-19cef942dde6
+uuid: 546de534-15a1-4156-8593-ab80921f9202
 ---
 {nav}
 

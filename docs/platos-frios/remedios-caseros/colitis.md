@@ -1,6 +1,6 @@
 ---
 title: Colitis
-uuid: fc7f04ad-fe49-44bb-b2a4-d4695bad4c02
+uuid: 9372e64f-1999-4ffd-ad4c-c5da0ccdb519
 ---
 {nav}
 

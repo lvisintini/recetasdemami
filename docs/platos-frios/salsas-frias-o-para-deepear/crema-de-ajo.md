@@ -1,6 +1,6 @@
 ---
 title: Crema de Ajo
-uuid: faa2a514-0abb-4d25-9ace-4857bd44d1e2
+uuid: 6a1abffb-983c-4fbe-93f6-58564924f314
 ---
 {nav}
 

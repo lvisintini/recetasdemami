@@ -1,6 +1,6 @@
 ---
 title: Guiso de lentejas
-uuid: b13663f1-4efa-441d-a9d9-4c96a09ccd29
+uuid: 4b9063f5-3e97-4c41-840c-2e71939f2f48
 ---
 {nav}
 

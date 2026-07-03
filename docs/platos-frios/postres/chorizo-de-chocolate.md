@@ -1,6 +1,6 @@
 ---
 title: Chorizo de chocolate
-uuid: 9cb4279e-b2a2-4608-8030-2b87d66c53a4
+uuid: bfdb1a44-8dc1-473a-ad77-716550d2afbe
 ---
 {nav}
 

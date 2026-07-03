@@ -1,6 +1,6 @@
 ---
 title: Palta con salsa criolla
-uuid: 23f64998-5ccb-4c87-8ff4-0cc144b0e573
+uuid: 92c07785-e324-431f-b2c4-65cd208bd609
 ---
 {nav}
 

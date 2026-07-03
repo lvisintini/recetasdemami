@@ -34,16 +34,16 @@ for x in m:
             
             if os.path.exists(file_to_create):
                 raise Exception('May be overriding data', file_to_create)
-            with open(file_to_create, 'w') as f:
-                f.write(template.format(
-                    title=title,
-                    uuid=str(uuid.uuid4()),
-                    nav='{nav}',
-                    content='\n'.join(content)
-                ))
-            
             if content[2:] and file_to_create.endswith("index.md"):
-                print(file_to_create, content)
+                print('Skipped:', file_to_create, content)
+            else:
+                with open(file_to_create, 'w') as f:
+                    f.write(template.format(
+                        title=title,
+                        uuid=str(uuid.uuid4()),
+                        nav='{nav}',
+                        content='\n'.join(content)
+                    ))
 
         path = path[:c-1]
         title = clean(x)

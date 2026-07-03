@@ -1,6 +1,6 @@
 ---
 title: Proporciones para polenta instantánea
-uuid: 0a0f50c2-1a8b-4ffa-a3b7-595355443b71
+uuid: 1ba96dab-cb6e-4e41-9aca-ed6d032bf313
 ---
 {nav}
 

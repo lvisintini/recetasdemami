@@ -1,6 +1,6 @@
 ---
 title: Pisco sour
-uuid: 4169bc84-3829-4bce-8df9-1dc2b12d5add
+uuid: 6a79c254-92d6-479e-b8d4-bab682ad393d
 ---
 {nav}
 

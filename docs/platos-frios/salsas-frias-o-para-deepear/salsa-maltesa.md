@@ -1,6 +1,6 @@
 ---
 title: Salsa Maltesa
-uuid: 07d88dbd-a6c3-4e33-ae41-f9eb786b5c45
+uuid: ce0b25bd-0c84-4ebd-9ff1-43c5b90e4250
 ---
 {nav}
 

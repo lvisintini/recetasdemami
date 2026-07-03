@@ -1,6 +1,6 @@
 ---
 title: Cielo y tierra del repollo dorado
-uuid: 7e6dd6c5-629c-4138-b72b-b8c77ae2be65
+uuid: 6a2a4563-1df7-4e2c-9f43-f6074310c84c
 ---
 {nav}
 

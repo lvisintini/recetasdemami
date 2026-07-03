@@ -1,6 +1,6 @@
 ---
 title: Diferentes entradas o acompañamientos salados
-uuid: 856b2eb4-2232-4480-9fdb-ab5d30e6cadb
+uuid: d0aadb66-2ee5-4f7c-bcc3-ee57bc3303a0
 ---
 {nav}
 

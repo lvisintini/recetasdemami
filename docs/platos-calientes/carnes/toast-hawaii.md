@@ -1,6 +1,6 @@
 ---
 title: Toast Hawaii
-uuid: 9208a636-bd0a-4313-89c7-0f84ac7152ac
+uuid: 8874b652-e379-4b0c-8873-a164c77a2b0b
 ---
 {nav}
 

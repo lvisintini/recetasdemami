@@ -1,6 +1,6 @@
 ---
 title: Bloody Mary
-uuid: 58a87470-4893-412c-8a2f-1a9ccb86f806
+uuid: 38034597-d206-430c-ac89-2e5049f705b7
 ---
 {nav}
 

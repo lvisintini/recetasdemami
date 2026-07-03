@@ -1,6 +1,6 @@
 ---
 title: Paleta de pintor 2
-uuid: e07c8a8b-4443-4ab4-9956-30b122b3972b
+uuid: de40e43f-aeb2-4732-9dad-c91cd5bb8d40
 ---
 {nav}
 

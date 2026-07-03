@@ -1,6 +1,6 @@
 ---
 title: Tortilla de papas a la española
-uuid: c51b472b-9328-49a6-ada5-2f035952c3fa
+uuid: 1f289acc-06d8-450a-968e-db69e0855a65
 ---
 {nav}
 

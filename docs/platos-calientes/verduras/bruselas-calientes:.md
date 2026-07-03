@@ -1,6 +1,6 @@
 ---
 title: Bruselas calientes:
-uuid: c937c93b-f924-45b5-9b28-6be5ec5fb504
+uuid: eaa12110-2611-4798-837d-efa3f5ca8c01
 ---
 {nav}
 

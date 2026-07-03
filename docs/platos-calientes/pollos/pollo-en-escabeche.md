@@ -1,6 +1,6 @@
 ---
 title: Pollo en escabeche
-uuid: dd7239c8-5ecf-4262-b9a1-87c8dca09d82
+uuid: 59be3021-bfc7-440a-9277-8c4e145f404d
 ---
 {nav}
 

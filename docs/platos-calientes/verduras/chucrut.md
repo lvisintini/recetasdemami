@@ -1,6 +1,6 @@
 ---
 title: Chucrut
-uuid: bd161cad-c12d-451c-adb3-1cc4279e6491
+uuid: 7b597447-01b6-463b-816a-c17b75d71ce5
 ---
 {nav}
 
