@@ -833,7 +833,7 @@ Colocar en cada rollito un trozo de queso cremoso (total 200 gr) y espolvorear c
 
 ## Ensaladas
 
-## Recomendaciones
+### Recomendaciones
 Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.
 
 ### Caprece
