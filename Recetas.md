@@ -832,6 +832,8 @@ Colocar en cada rollito un trozo de queso cremoso (total 200 gr) y espolvorear c
 # Platos Frios
 
 ## Ensaladas
+
+## Recomendaciones
 Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.
 
 ### Caprece
@@ -3510,6 +3512,8 @@ Para agregar a cualquier sopa al momento de ser servidas
 - Pequeñas tostaditas de pan pinceladas con manteca y pimienta, orégano, paprika, albahaca, perejil, u otras hierbas.
 
 ## Tragos
+
+### Recomendaciones
 
 Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla como decoración.
 
