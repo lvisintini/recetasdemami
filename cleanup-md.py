@@ -12,6 +12,7 @@ title: {title}
 subtitle: {subtitle}
 slug: {slug}
 uuid: {uuid}
+credits: {credits}
 ---
 {nav}
 
@@ -47,7 +48,8 @@ for x in m:
                         slug=filename,
                         uuid=str(uuid.uuid4()),
                         nav='{nav}',
-                        content='\n'.join(content)
+                        content='\n'.join(content),
+                        credits="{credits}"
                     ))
 
         path = path[:c-1]
