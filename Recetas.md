@@ -438,14 +438,14 @@ En una fuente colocar la preparación, y sobre esta, un puré hecho con 4 papas 
 
 ## Verduras
 
-### Bruselas calientes:
+### Bruselas calientes
 Cortar la base de los repollitos en cruz, hervirlos en agua y sal por 12 minutos. dorar en poco aceite cubos de jamón, agregar los repollitos, salpimentar y saltear unos minutos. Servir caliente.
 También queda bien con salsa holandesa.
 
-### Salsa holandeza:
+### Salsa holandeza
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. servir tibio.
 
-### Zanahorias a la Vichy.
+### Zanahorias a la Vichy
 Derretir un poco de manteca y dorar apenas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. Cuando las zanahorias estén tiernas, agregar perejil picado y un chorrito de vinagre. y servir.
 
 La cantidad de caldo depende de la cantidad de zanahorias y de lo que demoren en estar blandas.
@@ -833,7 +833,6 @@ Colocar en cada rollito un trozo de queso cremoso (total 200 gr) y espolvorear c
 
 ## Ensaladas
 
-### Recomendaciones
 Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.
 
 ### Caprece
@@ -2425,7 +2424,7 @@ Llevar a horno precalentado de 80°C por 40 minutos.
 - ¼ cucharadita pimienta negra
 - perejil
 
-### Aderezo de Soja:
+### Aderezo de Soja
 Para ensaladas de lechuga, zanahorias, etc.
 
 Salsa de soja, aceite de oliva y jugo de limón.
@@ -2542,7 +2541,7 @@ Licuar:
 - Jugo limón
 - Crema de leche (Para suavizar si hace falta)
 
-### Dip de Almendras y Curry:
+### Dip de Almendras y Curry
 Mezclar:
 
 - 50 grs de almendras procesadas
@@ -2745,7 +2744,7 @@ Mezclar:
 
 ## Salsas calientes
 
-### Salsa italiana:
+### Salsa italiana
 Saltear en aceite de oliva 2 cebollas cortadas en juliana,
 
 Añadir 8 fetas de panceta cortada en tiras y dorar.
@@ -3512,8 +3511,6 @@ Para agregar a cualquier sopa al momento de ser servidas
 - Pequeñas tostaditas de pan pinceladas con manteca y pimienta, orégano, paprika, albahaca, perejil, u otras hierbas.
 
 ## Tragos
-
-### Recomendaciones
 
 Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla como decoración.
 
