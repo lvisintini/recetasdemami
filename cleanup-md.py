@@ -9,6 +9,8 @@ with open('./Recetas.md', 'r') as f:
 
 template = """---
 title: {title}
+subtitle: {subtitle}
+slug: {slug}
 uuid: {uuid}
 ---
 {nav}
@@ -27,18 +29,22 @@ for x in m:
             first = True
         else:
             directory = './docs/' + '/'.join(path)
-            if not os.path.exists(directory):
-                 os.makedirs(directory)
-                
-            file_to_create = directory + ('/index.md' if len(path) < 3 else '.md')
+            if len(path) < 3:
+                if not os.path.exists(directory):
+                     os.makedirs(directory)
+                file_to_create = directory + '/index.md'
+            else:
+                file_to_create = directory + '.md'
             
             if os.path.exists(file_to_create):
                 raise Exception('May be overriding data', file_to_create)
-
-            if not file_to_create.endswith("index.md") or content[2:]:
+            
+            if (file_to_create.endswith("index.md") and content[2:]) or not file_to_create.endswith("index.md"):
                 with open(file_to_create, 'w') as f:
                     f.write(template.format(
                         title=title,
+                        subtitle="{subtitle}",
+                        slug=filename,
                         uuid=str(uuid.uuid4()),
                         nav='{nav}',
                         content='\n'.join(content)

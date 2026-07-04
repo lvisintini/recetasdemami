@@ -6,5 +6,6 @@ def clean(value):
     return cleaned
 
 def slugify(value):
-    return value.replace(' ','-').lower()
+    cleanded = value.replace('ó','o').replace('ú','u').replace('í','i').replace('á','a').replace('é','e').replace('ñ','n').replace('´','').replace('â','a').replace('Ñ', 'N')
+    return cleanded.replace(' ','-').lower()
 
