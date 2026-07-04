@@ -5,9 +5,6 @@
 ### Huevos benedictinos
 Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verdeo picada, huevo poché (ver más abajo) y salsa holandesa.
 
-#### Salsa holandeza
-3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. servir tibio.
-
 ### Huevos poche 1
 Hervir agua con un chorro de vinagre y poca sal. bajar el fuego y hacer girar el agua según las agujas del reloj. introducir el huevo (a temperatura ambiente) sin cáscara en el centro y cocinar a fuego fuerte por 2 minutos. tratando de hacer movimientos envolventes con cuchara de madera.
 
@@ -58,14 +55,6 @@ Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil 
 ### Paleta de pintor 2
 Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: media zanahoria rallada, en el otro: medio zucchini también rallado y en el último cuarto: remolacha rallada, condimentada con aceite de oliva y sal. por último bañar con salsa holandesa.
 
-### Buñuelos de papa y queso
-Poner en un bol 3 tazas de harina leudante, en el centro 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el puré de 4 papas. mezclar todo y hacer una masa consistente, agregando un poco de leche.
-
-Tomar porciones por cucharadas y freírlos en aceite.
-
-Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se busca la cucharada de la mezcla. esto es para que no se desarme la croqueta cuando se la lleva al aceite.
-Servir caliente.
-
 ### Bomba de papa y queso
 1 kg de papa peladas, 50 gr manteca, sal, pimienta, ½ taza queso rallado, 1 huevo, pan rallado, queso mantecoso.
 Hacer puré, agregar sal y pimienta, manteca y queso rallado.
@@ -111,13 +100,21 @@ Mezclar todos los ingredientes hasta obtener una preparación bien homogénea. C
 Frotar el interior de un recipiente de barro con un diente de ajo, cortar los quesos en láminas finas y ponerlos en la cazuela junto con el vino y calentar suavemente revolviendo en forma de ocho, hasta formar una masa lisa. agregar el kirsch y la pimienta sin dejar de revolver. servir con el mismo vino. al final, servir una copita de kirsch.
 
 ### Flammkuchen
-Colocar sobre una asadera un papel manteca y sobre este una masa de tarta. esparcir por toda su superficie queso crema. y sobre esta colocar tiritas de panceta ahumada,trocitos de cebolla de verdeo, queso rallado y condimentar. Llevar al horno por 15 minutos y servir. no dorar demasiado.
+La masa especial para los flammkuchen, está en la parte de masas.
 
-Pueden hacerse otras variaciones: sobre el queso crema colocar espinaca al ajo.
+Colocar sobre una asadera un papel manteca y sobre este una masa de tarta.
+
+Esparcir por toda su superficie queso crema. Sobre esta colocar tiritas de panceta ahumada, trocitos de cebollita de verdeo, queso rallado y condimentar.
+
+Llevar al horno por 15 minutos. No dorar demasiado.
+
+Servir.
+
+**Pueden hacerse otras variaciones:**
+
+Sobre el queso crema colocar espinaca al ajo con panceta.
 
 Se puede hacer con tomate seco, ajo, cebolla ,champiñones, puré de choclo, etc.
-
-Ver masa especial para flammkuchen en masas.
 
 #### Arrollado candombe de Luigi
 Dispersar sobre una masa de tarta rectangular, en forma de capas:
@@ -442,9 +439,6 @@ En una fuente colocar la preparación, y sobre esta, un puré hecho con 4 papas 
 Cortar la base de los repollitos en cruz, hervirlos en agua y sal por 12 minutos. dorar en poco aceite cubos de jamón, agregar los repollitos, salpimentar y saltear unos minutos. Servir caliente.
 También queda bien con salsa holandesa.
 
-### Salsa holandeza
-3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. servir tibio.
-
 ### Zanahorias a la Vichy
 Derretir un poco de manteca y dorar apenas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. Cuando las zanahorias estén tiernas, agregar perejil picado y un chorrito de vinagre. y servir.
 
@@ -474,11 +468,23 @@ Lavar, picar y escurrir bien la espinaca. batir las yemas con la harina, aflojar
 A fuego moderado, revolver frecuentemente durante 5 minutos o hasta que la cebolla se caramelice.
 
 ### Escabeche de verduras
-Puede ser mezcla de varias verduras o de una sola: coliflor, zanahorias, brócoli, repollitos bruselas, cebollitas, cebollitas de verdeo etc. condimentar con sal, pimienta, laurel, ají molido, semillas de mostaza.
+Puede ser mezcla de varias verduras o de una sola:
 
-Humedecer con 1 ½ taza de vinagre, 1 taza de aceite y una de agua.
+- coliflor
+- zanahorias
+- brocoli
+- repollitos brucelas
+- cebollitas
+- cebollitas de verdeo
+- etc.
 
-Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras. Cocinar hasta que las zanahorias estén tiernas.
+Condimentar con sal, pimienta, laurel, ají molido, semillas de mostaza.
+
+Humedecer con 1 ½ taza de vinagre, 1 taza de aceite y una de agua (o puede ser vino blanco).
+ 
+Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras.
+
+Cocinar hasta que las zanahorias estén tiernas.
 
 ### Panaché de verduras
 Poner en una fuente diferentes verduras por capas según el gusto, puede ser: coliflor, zanahoria, papa, brócoli, chauchas, choclo, cebollitas de verdeo, arvejas, etc.
@@ -547,10 +553,22 @@ Hacer un puré con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azúcar y 1
 ### Pure de manzanas
 Hervir 5 manzanas peladas y sin semillas con muy poca agua. pisarlas en la misma olla y agregarle 50 gr de manteca, ½ taza de azúcar y un poco de canela. mezclar bien y calentar antes de servir.
 
-### Crema de choclos
-Hervir 6 choclos y desgranarlos. freír en 1 cucharada de manteca
+### Crema de Choclos
+Hervir 6 choclos y desgranarlos (o 1 lata de crema de choclos)
 
-2 cebollas y 1 pimiento, incorporar los granos de choclo ( o 1 lata de crema de choclos). sazonar con sal y azúcar (1 cucharadita). agregar 1 taza de leche y 2 cucharadas de crema de leche y cocinar hasta que tome consistencia. Se puede incorporar 1 cucharada de harina si es necesario o pasarla por la licuadora. por último agregarle queso rallado.
+Freír 2 cebollas y 1 pimiento en una cucharada de manteca
+
+Incorporar los granos de choclo (o la lata)
+
+Sazonar con sal y azúcar (1 cucharadita).
+
+Agregar 1 taza de leche y 2 cucharadas de crema de leche.
+
+Cocinar hasta que tome consistencia.
+
+Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora.
+
+Por último agregarle queso rallado.
 
 ### Chucrut
 Freír cebolla hasta que esté transparente, agregar abundante panceta cortada en daditos y el chucrut con caldo de carne suficiente para calentar todo y que no quede seco. condimentar con sal, pimienta negra en granos y ají molido. queda bien con un poco de anís picado.
@@ -959,8 +977,19 @@ Palta, pera, queso cremoso, crema de leche, jugo de limón, almendras, salsa de 
 ### Palta y mortadela
 Mortadela en cubos, tomates cherry, rucula, cebolla, palta, crustones, aceite de oliva, sal y pimienta.
 
-### Guacamole
+### Guacamole 1
 1 palta, 1 tomate, 1 cucharada de cebolla verdeo, jugo de limón, aceite oliva, sal.
+
+### Guacamole 2
+Mezclar:
+
+- 1 Palta
+- 1 Cucharada de cebolla de verdeo
+- Ajo picado
+- Tomate
+- Jugo de limón
+- Aceite de oliva
+- Sal
 
 ### Zanahoria
 Zanahoria, apio, manzana, palmitos, queso crema, mayonesa, limón, sal y pimienta.
@@ -2409,6 +2438,13 @@ Llevar a horno precalentado de 80°C por 40 minutos.
 
 ## Salsas frias o para deepear
 
+Otras recetas, como algunas sopas, pueden presentarse como salsas o dips
+
+Por Ejemplo:
+
+- Crema de Choclos
+- Guacamole
+
 ### Salsa criolla
 
 - 2 tomates
@@ -2464,17 +2500,6 @@ Mezclar mayonesa y albahaca picada
 
 ### Dip de Perejil
 Mezclar perejil, ajo y mayonesa
-
-### Guacamole
-Mezclar:
-
-- 1 Palta
-- 1 Cucharada de cebolla de verdeo
-- Ajo picado
-- Tomate
-- Jugo de limón
-- Aceite de oliva
-- Sal
 
 ### Salsa de Palta 1
 Licuar:
@@ -2680,8 +2705,6 @@ Mezclar:
 - 1 cdita de mostaza
 - sal
 - pimienta
-
-
 
 ### Mayonesa a baño maría
 Calentar a baño maria:
@@ -2905,23 +2928,6 @@ Incorporar unas 15 a 20 aceitunas picadas y caldo.
 
 Cocinar hasta obtener la consistencia adecuada.
 
-### Crema de Choclos
-Hervir 6 choclos y desgranarlos.
-
-Freír en manteca (1 cucharada) 2 cebollas y 1 pimiento.
-
-Incorporar los granos de choclo.
-
-Sazonar con sal y azúcar (1 cucharadita).
-
-Agregar 1 taza de leche y 2 cucharadas de crema de leche
-
-Cocinar hasta que tome consistencia.
-
-Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora.
-
-Por último agregarle queso rallado.
-
 ### Salsa holandeza
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. Servir tibio.
 
@@ -2976,6 +2982,14 @@ Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la c
 
 ## Diferentes entradas o acompañamientos salados
 
+Algunas otras recetas se pueden presentar como acompañamientos o tapas.
+
+Por ejemplo:
+
+- Flammkuchen
+- Buñuelos de papa y queso
+- Escabeche de verduras
+
 ### Chipá de Emilia
 Ingredientes:
 
@@ -3025,25 +3039,6 @@ Cocinar despacio, 5 minutos c/u.
 Cada torta frita debe pesar aprox. 35 grs.
 
 Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
-
-### Flammkuchen
-Colocar sobre una asadera un papel manteca y sobre este una masa de tarta.
-
-Esparcir por toda su superficie queso crema. Sobre esta colocar tiritas de panceta ahumada, trocitos de cebollita de verdeo, queso rallado y condimentar.
-
-Llevar al horno por 15 minutos. No dorar demasiado.
-
-Servir.
-
-**Pueden hacerse otras variaciones:**
-
-Sobre el queso crema colocar espinaca al ajo con panceta.
-
-Se puede hacer con tomate seco, ajo, cebolla ,champiñones, puré de choclo, etc.
-
-La masa especial para los flammkuchen, está en la parte de masas.
-
-
 
 ### Bruschettas para muchas personas.
 Poner 10 rebanadas de pan sobre una fuente para horno.
@@ -3164,9 +3159,7 @@ Mezclar todo y hacer una masa consistente, agregando un poco de leche.
 
 Tomar porciones por cucharadas y freírlos en aceite.
 
-Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se busca la cucharada de la mezcla.
-
-Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se busca la cucharada de la mezcla. Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
 
 Servir caliente.
 
@@ -3293,25 +3286,6 @@ Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien.
 Cocinar 4 minutos en el microondas, mezclar y volver a cocinar otros 4 minutos.
 
 Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser suficiente para esa cantidad de hongos. 
-
-### Escabeche de verduras
-Puede ser mezcla de varias verduras o de una sola:
-
-- coliflor
-- zanahorias
-- brocoli
-- repollitos brucelas
-- cebollitas
-- cebollitas de verdeo
-- etc.
-
-Condimentar con sal, pimienta, laurel, ají molido, semillas de mostaza.
-
-Humedecer con 1 taza de vinagre, 1 taza de aceite y una de agua (o puede ser vino blanco).
- 
-Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras.
-
-Cocinar hasta que las zanahorias estén tiernas.
 
 ### Bocadito aleman
 Sobre biscochos “Rex” (también llamados "Ritz") colocar una rodajita de leberwurst, rodajita de pepinitos en vinagre y un copetito de savora.
