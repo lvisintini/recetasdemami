@@ -1,6 +1,6 @@
 ---
 slug: pastel-de-calabaza-al-curry
-uuid: 61343a56-96b2-4c52-ba64-a202daf95204
+uuid: 670fe684-832f-493b-a882-fb8cd004419f
 ---
 {nav}
 

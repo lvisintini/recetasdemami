@@ -1,6 +1,6 @@
 ---
 slug: old-fashion
-uuid: afa40dce-9439-4435-8608-d9ae22d99345
+uuid: f8e96d01-136d-4550-9f93-797266a8c747
 ---
 {nav}
 

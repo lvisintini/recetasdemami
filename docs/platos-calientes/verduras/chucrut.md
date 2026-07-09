@@ -1,6 +1,6 @@
 ---
 slug: chucrut
-uuid: 04a30504-4c89-4821-aad3-421c0a6ca9b8
+uuid: bf642e14-51e2-48d5-a19b-6ead0cef2054
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 slug: paleta-de-pintor-1
-uuid: 75ce28f2-14a2-4bea-b88a-c16989f1d581
+uuid: 283d793f-c4ab-4e05-9e45-d0dc0e958a56
 ---
 {nav}
 

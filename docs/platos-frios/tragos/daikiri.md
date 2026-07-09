@@ -1,6 +1,6 @@
 ---
 slug: daikiri
-uuid: 4370bf3d-b2b6-44df-86ae-e7f7ab439061
+uuid: e3f32c27-4ec2-4acc-8057-3c27490ea2fc
 ---
 {nav}
 

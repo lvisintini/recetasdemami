@@ -1,6 +1,6 @@
 ---
 slug: pure-de-manzanas
-uuid: f45ef467-1068-47c1-ac9f-4988109d5ee7
+uuid: 0c5d757e-6da3-495e-85b5-7fb16d83e06e
 ---
 {nav}
 

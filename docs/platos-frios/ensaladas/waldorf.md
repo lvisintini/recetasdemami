@@ -1,6 +1,6 @@
 ---
 slug: waldorf
-uuid: e7c0eb9d-2ac4-433b-bb5a-2359dc59e097
+uuid: 82bda3b7-3f10-44b9-898c-1c2823b5e3f1
 ---
 {nav}
 

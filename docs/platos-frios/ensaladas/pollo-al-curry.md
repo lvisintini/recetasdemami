@@ -1,6 +1,6 @@
 ---
 slug: pollo-al-curry
-uuid: 0d3e3bcc-1dbf-49b4-bd0c-71d552510184
+uuid: cd83e71a-82e5-41c2-ace8-797930dd195d
 ---
 {nav}
 

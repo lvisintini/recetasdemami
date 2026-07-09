@@ -1,6 +1,6 @@
 ---
 slug: frijoles
-uuid: b4c4e5a5-0032-4217-a9c7-dcf27892032f
+uuid: 9579fc73-d532-4f60-8e21-d70b35a85125
 ---
 {nav}
 

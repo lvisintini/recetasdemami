@@ -1,6 +1,6 @@
 ---
 slug: salsa-a-la-maitre-dhotel
-uuid: 32aa5806-9f72-4a38-9d9c-181f99afce26
+uuid: 35420a1c-8be6-45ac-96de-27cd7b3d0bbf
 ---
 {nav}
 

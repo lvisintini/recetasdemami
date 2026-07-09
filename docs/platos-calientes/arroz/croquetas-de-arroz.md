@@ -1,6 +1,6 @@
 ---
 slug: croquetas-de-arroz
-uuid: 426f0140-bd80-4105-8a5b-b32d0903b8e9
+uuid: dbb9d11e-20c4-4252-9084-7b1956bd3d20
 ---
 {nav}
 

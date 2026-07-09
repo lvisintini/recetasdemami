@@ -1,6 +1,6 @@
 ---
 slug: gulasch
-uuid: 16195526-4fc1-43d1-b9fe-d7799577b6d9
+uuid: 3b72f8d8-cd55-47a1-a7d2-2ac6b825df6e
 ---
 {nav}
 

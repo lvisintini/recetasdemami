@@ -1,6 +1,6 @@
 ---
 slug: caipirinha
-uuid: 5aae6607-354f-4feb-bdf1-e14d52ea705d
+uuid: 3f7b12d8-88bb-4f89-9e30-fa1e328fc207
 ---
 {nav}
 

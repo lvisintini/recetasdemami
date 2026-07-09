@@ -1,6 +1,6 @@
 ---
 slug: panache-de-verduras
-uuid: 39ca8b13-e7c3-42c6-a583-47f3051d8a73
+uuid: 6fbf8aff-1b3e-435c-919e-04edecb414fb
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 slug: garganta-irritada
-uuid: 0df8d01c-d150-4112-a850-810ca1cadd6b
+uuid: 2bf719db-a8b4-4039-9722-f1b4e6c37878
 ---
 {nav}
 

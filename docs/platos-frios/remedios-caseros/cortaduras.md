@@ -1,6 +1,6 @@
 ---
 slug: cortaduras
-uuid: 7daf3fd1-8186-47ba-b31c-c91ee7623f57
+uuid: d16843cb-4ed5-4e73-8ae4-cc012da5412e
 ---
 {nav}
 

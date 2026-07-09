@@ -1,6 +1,6 @@
 ---
 slug: bomba-de-papa-y-queso
-uuid: 53d497a8-fa95-4efd-93e5-2a3386873470
+uuid: 59099b38-9c66-4ff4-9607-ea1af6863293
 ---
 {nav}
 

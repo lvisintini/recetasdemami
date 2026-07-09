@@ -1,6 +1,6 @@
 ---
 slug: chimichurri-para-100-kg-de-mamona
-uuid: 2a95c07f-8ce5-4baa-9c0c-8b2acfba2b42
+uuid: 3e7a2c6f-bb10-4099-a159-cec57ba575d8
 ---
 {nav}
 

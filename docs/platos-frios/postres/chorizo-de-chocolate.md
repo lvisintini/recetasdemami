@@ -1,6 +1,6 @@
 ---
 slug: chorizo-de-chocolate
-uuid: 67cad4a4-8f45-42b1-8bfe-683e6733e92a
+uuid: 7d7e9e68-fa0e-4805-a3ff-f2f89a29e62d
 ---
 {nav}
 

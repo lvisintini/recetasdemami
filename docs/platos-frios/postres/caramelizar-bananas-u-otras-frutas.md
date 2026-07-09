@@ -1,6 +1,6 @@
 ---
 slug: caramelizar-bananas-u-otras-frutas
-uuid: 12cb4abb-c755-4404-849e-d754f380c5b7
+uuid: 0ce3df08-f0c1-419d-b53b-c75a74524601
 ---
 {nav}
 

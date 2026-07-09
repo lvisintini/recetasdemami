@@ -1,6 +1,6 @@
 ---
 slug: salsa-de-palta-2
-uuid: 2ab409d7-a194-4fb9-a078-f72ce26e12cb
+uuid: 114faafe-93ff-4706-b26c-d5df45fe513c
 ---
 {nav}
 

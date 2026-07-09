@@ -1,6 +1,6 @@
 ---
 slug: estofado-de-carne-y-verduras
-uuid: ba2a5b6a-1cce-4144-bb6b-b7a69da406f2
+uuid: af10acab-cba4-44a5-85e4-523c4dd0cd91
 ---
 {nav}
 

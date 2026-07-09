@@ -1,6 +1,6 @@
 ---
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
-uuid: cf9895cb-5182-40d6-b397-66e8545611a6
+uuid: 3d4f689e-df91-4af9-a2de-c48f3373d2e7
 ---
 {nav}
 

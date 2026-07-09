@@ -1,6 +1,6 @@
 ---
 slug: bloody-mary
-uuid: 1efd240c-5b0a-4a09-a883-b6f76a90c57a
+uuid: 7867c675-d64a-4558-b316-04fc20429af0
 ---
 {nav}
 

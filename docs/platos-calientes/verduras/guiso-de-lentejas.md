@@ -1,6 +1,6 @@
 ---
 slug: guiso-de-lentejas
-uuid: d7f36c93-1c19-4316-a42c-c0c85798fc23
+uuid: 43da9cf6-2dee-41f6-9b54-acde21842383
 ---
 {nav}
 

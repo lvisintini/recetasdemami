@@ -80,3 +80,26 @@ for x in m:
         content = []
     else:
         content.append(x if not x.startswith('#') else x[len(path)-1:])
+
+directory = './docs/' + '/'.join(path)
+if len(path) < 3:
+    if not os.path.exists(directory):
+         os.makedirs(directory)
+    file_to_create = directory + '/index.md'
+else:
+    file_to_create = directory + '.md'
+
+if os.path.exists(file_to_create):
+    raise Exception('May be overriding data', file_to_create)
+
+if (file_to_create.endswith("index.md") and content[2:]) or not file_to_create.endswith("index.md"):
+    with open(file_to_create, 'w') as f:
+        f.write(template.format(
+            clean_title=clean_title,
+            dirty_title=dirty_title,
+            slug=filename,
+            uuid=str(uuid.uuid4()),
+            nav='{nav}',
+            content='\n'.join(content),
+            summary="{summary}"
+        ))

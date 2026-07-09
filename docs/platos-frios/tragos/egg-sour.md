@@ -1,6 +1,6 @@
 ---
 slug: egg-sour
-uuid: 4f5427e8-f752-4c7d-be6d-c602e4b63c2d
+uuid: 3ab5dad5-5ba0-4d3a-8ab4-dd99dc480bb6
 ---
 {nav}
 

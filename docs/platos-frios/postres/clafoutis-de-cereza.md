@@ -1,6 +1,6 @@
 ---
 slug: clafoutis-de-cereza
-uuid: a6f67390-3368-4d5e-83b9-6bbae939f99e
+uuid: 80160a17-4ae4-49fa-a045-bd5d423ce8b0
 ---
 {nav}
 

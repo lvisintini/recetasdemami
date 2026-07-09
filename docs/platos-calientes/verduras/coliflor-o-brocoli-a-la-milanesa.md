@@ -1,6 +1,6 @@
 ---
 slug: coliflor-o-brocoli-a-la-milanesa
-uuid: bae993cd-4e2d-4bcb-8bfe-dd6164611ce4
+uuid: 45a7a0f1-f35c-4269-b7dd-4bb41b8ab10d
 ---
 {nav}
 

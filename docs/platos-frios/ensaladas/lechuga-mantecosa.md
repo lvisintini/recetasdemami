@@ -1,6 +1,6 @@
 ---
 slug: lechuga-mantecosa
-uuid: 2704339d-f499-4fab-810e-dcee2b9736a7
+uuid: b7b20916-66af-4b74-8df0-855dd62c291f
 ---
 {nav}
 

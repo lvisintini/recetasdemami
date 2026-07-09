@@ -1,6 +1,6 @@
 ---
 slug: pollo-en-escabeche
-uuid: cab3ea64-54cf-4ecb-b894-ff91f233f15f
+uuid: 96858932-f5aa-4ada-9626-551e865b2f69
 ---
 {nav}
 

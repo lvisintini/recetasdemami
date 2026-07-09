@@ -1,6 +1,6 @@
 ---
 slug: salsa-de-pimiento
-uuid: aeced145-537a-45f9-9b7c-df3a81bae1bc
+uuid: 72a9ff6f-3895-49a9-be12-d10ae30f8064
 ---
 {nav}
 

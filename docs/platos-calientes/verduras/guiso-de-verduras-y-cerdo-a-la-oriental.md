@@ -1,6 +1,6 @@
 ---
 slug: guiso-de-verduras-y-cerdo-a-la-oriental
-uuid: bad9ca5c-c3b2-4ec5-a2eb-8febc206fcba
+uuid: 81ecc2fc-3419-47c1-a55c-dead9d948720
 ---
 {nav}
 

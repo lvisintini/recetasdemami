@@ -1,6 +1,6 @@
 ---
 slug: wok-con-carne
-uuid: 73c84f4c-8d85-46af-8bb7-46364347b9d8
+uuid: c9adf33b-381a-4d78-9f83-997925441c68
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 slug: quinoa
-uuid: ff42df91-6062-4aca-abe9-3ce0b6dee327
+uuid: 07839f08-9ca8-4912-bac2-f5bc1ead5791
 ---
 {nav}
 

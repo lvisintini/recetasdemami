@@ -1,6 +1,6 @@
 ---
 slug: arroz-blanco
-uuid: 43808242-e1c8-4b5a-8d3b-f6bd374ce64c
+uuid: 6dea3ac0-b032-4e87-9558-be43d66ee8bf
 ---
 {nav}
 

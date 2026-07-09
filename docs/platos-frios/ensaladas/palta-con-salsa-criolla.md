@@ -1,6 +1,6 @@
 ---
 slug: palta-con-salsa-criolla
-uuid: 6f5266cc-3649-41a5-bcf3-9192daa6698a
+uuid: 1368ce96-8e74-43d6-b889-ace7541d1057
 ---
 {nav}
 

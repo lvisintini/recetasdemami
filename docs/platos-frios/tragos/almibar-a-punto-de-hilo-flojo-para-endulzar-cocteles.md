@@ -1,6 +1,6 @@
 ---
 slug: almibar-a-punto-de-hilo-flojo-para-endulzar-cocteles
-uuid: c578a104-abb4-4dab-a50b-6719b225214d
+uuid: abe93ec2-5200-41c6-a87e-f538ba7efd91
 ---
 {nav}
 

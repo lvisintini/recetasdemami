@@ -1,6 +1,6 @@
 ---
 slug: proporciones-para-polenta-instantanea
-uuid: 8d772475-372f-42e1-925e-a0aa2cc559d6
+uuid: 24845318-0798-480c-a59c-8caf683d2a32
 ---
 {nav}
 

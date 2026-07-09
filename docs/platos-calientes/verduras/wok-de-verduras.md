@@ -1,6 +1,6 @@
 ---
 slug: wok-de-verduras
-uuid: 5a495a81-41f8-4ae9-a7cf-f53a5be605f9
+uuid: 807566fb-fcb0-4014-92ec-cdcf62c044a2
 ---
 {nav}
 

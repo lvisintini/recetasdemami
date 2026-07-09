@@ -1,6 +1,6 @@
 ---
 slug: tortas-fritas
-uuid: e6b3296b-c0ec-4ca5-8eba-2b435f29cb7a
+uuid: 3a416c0c-273a-4522-ade6-15e467ecf7ef
 ---
 {nav}
 

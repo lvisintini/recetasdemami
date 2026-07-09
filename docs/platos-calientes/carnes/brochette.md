@@ -1,6 +1,6 @@
 ---
 slug: brochette
-uuid: d97a93d2-ebe1-4b98-9774-cffac9232bf8
+uuid: 8511ccce-58ca-4984-b1c1-1b9fb12b1bfb
 ---
 {nav}
 

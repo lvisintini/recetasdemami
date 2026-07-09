@@ -1,6 +1,6 @@
 ---
 slug: sopa-de-panceta-y-queso
-uuid: dc51e0c3-c03c-42a5-ac63-2a72a0d36710
+uuid: c2849c67-a762-45b4-b236-474dcd49778d
 ---
 {nav}
 

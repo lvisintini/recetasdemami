@@ -1,6 +1,6 @@
 ---
 slug: kasse-kuche-de-sofi
-uuid: 53ef3448-c930-4836-a137-731dc2858840
+uuid: cec4c7de-82b2-4773-b722-6df2f492eb36
 ---
 {nav}
 

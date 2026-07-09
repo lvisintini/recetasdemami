@@ -1,6 +1,6 @@
 ---
 slug: escabeche-de-verduras
-uuid: 4a9c5047-ff05-43fa-b163-26cd119981d5
+uuid: 5218243f-74bc-4547-8499-54a0c9360386
 ---
 {nav}
 

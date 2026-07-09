@@ -1,6 +1,6 @@
 ---
 slug: pure-de-batatas
-uuid: 029086e1-c355-4a67-9872-02edf2464274
+uuid: ee296a9e-04fe-4022-9427-658abe263216
 ---
 {nav}
 

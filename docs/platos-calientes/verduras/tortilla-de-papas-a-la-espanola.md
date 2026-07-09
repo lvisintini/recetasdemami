@@ -1,6 +1,6 @@
 ---
 slug: tortilla-de-papas-a-la-espanola
-uuid: f4090991-3c09-44eb-9fcf-bd7030ab4e55
+uuid: 2f941062-9cf9-469c-b3ea-d632a4b7a4b3
 ---
 {nav}
 

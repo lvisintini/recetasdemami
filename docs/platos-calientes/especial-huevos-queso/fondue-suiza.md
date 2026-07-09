@@ -1,6 +1,6 @@
 ---
 slug: fondue-suiza
-uuid: 5f25cc96-e82c-4518-9e20-51b1ef423e17
+uuid: ee0ed4cf-5f60-482d-8faf-5472a4b37445
 ---
 {nav}
 

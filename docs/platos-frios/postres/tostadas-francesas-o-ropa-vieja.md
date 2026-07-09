@@ -1,6 +1,6 @@
 ---
 slug: tostadas-francesas-o-ropa-vieja
-uuid: 7ebf8a54-3ce5-4837-bc28-ea4df88674f1
+uuid: 567cdb19-3485-4863-b439-e8289d4163e3
 ---
 {nav}
 

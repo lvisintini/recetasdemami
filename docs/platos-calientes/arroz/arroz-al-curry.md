@@ -1,6 +1,6 @@
 ---
 slug: arroz-al-curry
-uuid: 850ea970-edf4-409a-96f0-3eb757199bc3
+uuid: bed00fba-1bb1-481b-bea1-11eb52164b01
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 slug: lentejas
-uuid: 081427ff-22e7-4692-abb2-3203c1978bbb
+uuid: 8bc753d3-19f7-4c67-94f6-81995501a623
 ---
 {nav}
 

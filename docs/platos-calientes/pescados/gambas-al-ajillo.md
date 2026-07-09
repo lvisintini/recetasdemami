@@ -1,6 +1,6 @@
 ---
 slug: gambas-al-ajillo
-uuid: 4e726ff3-8d14-4242-b3c2-4214317c8e53
+uuid: 63aeeb7c-2aac-4de0-84f3-62c1c7f264e5
 ---
 {nav}
 

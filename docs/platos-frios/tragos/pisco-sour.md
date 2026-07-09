@@ -1,6 +1,6 @@
 ---
 slug: pisco-sour
-uuid: d9592a72-96bc-47b8-b5a8-bcb7975dd65e
+uuid: fe9055ab-bdff-41d2-9cc4-3d4aa8ddfd0d
 ---
 {nav}
 

@@ -1,6 +1,6 @@
 ---
 slug: champinones-en-escabeche-de-maria-rosa
-uuid: 06bc0396-bf3e-4371-9792-bd4057fd1c4d
+uuid: 94896b99-db2e-4969-861b-98ae31a76487
 ---
 {nav}
 

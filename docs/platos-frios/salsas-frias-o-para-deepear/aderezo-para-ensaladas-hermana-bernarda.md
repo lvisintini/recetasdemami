@@ -1,6 +1,6 @@
 ---
 slug: aderezo-para-ensaladas-hermana-bernarda
-uuid: 734549e6-dbc8-49b6-8294-6b235a9b0c9d
+uuid: ecf522b4-1ee7-4e85-8037-9419a9651a9b
 ---
 {nav}
 

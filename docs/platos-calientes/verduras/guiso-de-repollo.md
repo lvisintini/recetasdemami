@@ -1,6 +1,6 @@
 ---
 slug: guiso-de-repollo
-uuid: cb2ded7d-3ce7-40e2-b129-9dd64ba924cf
+uuid: a4eb9225-7aaf-49a7-a6e2-6ecaf1eaf84f
 ---
 {nav}
 

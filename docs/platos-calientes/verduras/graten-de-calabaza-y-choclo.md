@@ -1,6 +1,6 @@
 ---
 slug: graten-de-calabaza-y-choclo
-uuid: 4591c0f2-f779-49d4-9b82-483fb3ed1484
+uuid: 2d4e485f-9dfb-4ba3-9843-51c4a20d6a6c
 ---
 {nav}
 

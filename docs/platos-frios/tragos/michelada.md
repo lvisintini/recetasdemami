@@ -1,6 +1,6 @@
 ---
 slug: michelada
-uuid: 6b2293c7-277b-4587-9333-2119a05f7a56
+uuid: 1bde3474-1373-48a0-9aef-02a68675d95c
 ---
 {nav}
 

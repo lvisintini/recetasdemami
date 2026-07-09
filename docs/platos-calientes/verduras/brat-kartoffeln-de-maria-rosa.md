@@ -1,6 +1,6 @@
 ---
 slug: brat-kartoffeln-de-maria-rosa
-uuid: d03beafa-fe67-4017-9b2e-969f84115e28
+uuid: 3440c2d2-0af5-4899-95aa-17110c8f488b
 ---
 {nav}
 

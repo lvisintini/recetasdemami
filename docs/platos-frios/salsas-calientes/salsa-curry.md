@@ -1,6 +1,6 @@
 ---
 slug: salsa-curry
-uuid: aac9fd4a-f1b1-4104-910d-0cbc15d01572
+uuid: 192efc28-1b91-46f9-ac99-e1d747211288
 ---
 {nav}
 

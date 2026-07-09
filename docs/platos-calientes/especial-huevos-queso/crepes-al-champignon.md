@@ -1,6 +1,6 @@
 ---
 slug: crepes-al-champignon
-uuid: 028e1d4a-12a7-479d-849c-67165f473b4f
+uuid: ac04461a-346d-44d4-b9a0-1e93e7ef05d6
 ---
 {nav}
 

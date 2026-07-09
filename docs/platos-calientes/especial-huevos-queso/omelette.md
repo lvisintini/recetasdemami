@@ -1,6 +1,6 @@
 ---
 slug: omelette
-uuid: ba657182-626d-4b4f-a01c-e8d42eb0fc43
+uuid: cbe1c93d-b02c-40d8-82d7-55f155324171
 ---
 {nav}
 

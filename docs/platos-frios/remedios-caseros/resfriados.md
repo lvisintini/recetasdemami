@@ -1,6 +1,6 @@
 ---
 slug: resfriados
-uuid: 3863e75a-e3d5-4385-ba92-c867e1aa67ea
+uuid: 47082209-9c76-43b6-829d-825b29f38127
 ---
 {nav}
 

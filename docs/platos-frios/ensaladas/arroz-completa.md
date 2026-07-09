@@ -1,6 +1,6 @@
 ---
 slug: arroz-completa
-uuid: 899a95bb-87df-45a8-96e3-fdf9d8a3235b
+uuid: 3d5be6d9-3c5f-4f09-b8ac-cc32c40c9adb
 ---
 {nav}
 

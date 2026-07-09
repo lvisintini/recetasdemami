@@ -1,6 +1,6 @@
 ---
 slug: crepes-suzette
-uuid: 1df0b078-d76b-4c5b-97ed-c4e4ab3ed00c
+uuid: 76e46ac5-82a7-41c3-8348-27fd3aa13044
 ---
 {nav}
 

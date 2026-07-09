@@ -1,6 +1,6 @@
 ---
 slug: palta-completa
-uuid: afd64700-fb17-4601-a25d-ed41ffac8e3a
+uuid: 97300c0a-d8b5-47a3-baad-ef6a0d6de898
 ---
 {nav}
 

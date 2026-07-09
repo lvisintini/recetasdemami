@@ -1,6 +1,6 @@
 ---
 slug: palmitos
-uuid: 29db2dae-7239-4916-9119-f9a3f9219ae8
+uuid: f8db7d1a-c643-43be-ae09-12727b2752cd
 ---
 {nav}
 

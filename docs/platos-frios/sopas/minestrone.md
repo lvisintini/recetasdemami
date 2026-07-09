@@ -1,6 +1,6 @@
 ---
 slug: minestrone
-uuid: 8774c1f9-db7a-4447-a6f3-4ad3131ddab6
+uuid: 216e4963-bbe6-4695-b313-81dbe44f2372
 ---
 {nav}
 

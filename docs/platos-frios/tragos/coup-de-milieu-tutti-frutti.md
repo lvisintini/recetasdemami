@@ -1,6 +1,6 @@
 ---
 slug: coup-de-milieu-tutti-frutti
-uuid: 29643c4b-6d77-4ee8-8e6a-d9e33ee26f7f
+uuid: 3bddb359-8611-4c57-8120-a085347a5619
 ---
 {nav}
 

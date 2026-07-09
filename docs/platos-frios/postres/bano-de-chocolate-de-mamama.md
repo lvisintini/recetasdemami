@@ -1,6 +1,6 @@
 ---
 slug: bano-de-chocolate-de-mamama
-uuid: b7ca4302-ee56-413a-a252-1b3f225c2701
+uuid: e7ec8152-b143-4ce7-b78a-96bb44a86a31
 ---
 {nav}
 
