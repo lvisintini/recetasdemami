@@ -1,8 +1,31 @@
 ---
-title: Las Recetas de Mami
+title: Arroz a la oriental
+subtitle: {subtitle}
+slug: arroz-a-la-oriental
+uuid: 88fb0bf5-9266-4abf-885e-68eb5e9f3bd4
 ---
-[Home]({{ site.baseurl }}) > [Platos calientes]({{ site.baseurl }}/platos-calientes) > [Arroz]({{ site.baseurl }}/platos-calientes/arroz) > [Arroz a la oriental]({{ site.baseurl }}/platos-calientes/arroz/arroz-a-la-oriental)
+{nav}
 
 # Arroz a la oriental
-Hervir el arroz 10 minutos y pasarlo por agua fria, en la sarten con aceite freir cebolla, ajo y pimiento cortados finito. agregar panceta, pollo o carne de vaca, cortado chiquito. incorporar arvejas, el arroz, un huevo revuelto (preperado con anticipacion) , curry, salsa de soja, sal y pimienta. cocinar por unos minutos mas. si es necesario agregar un poco de caldo.
+
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
+Hervir el arroz 10 minutos y pasarlo por agua fría, en la sartén con aceite freír cebolla, ajo y pimiento cortados finitos. agregar panceta, pollo o carne de vaca, cortado chiquito. incorporar arvejas, el arroz, un huevo revuelto (preparado con anticipación) , curry, salsa de soja, sal y pimienta. Cocinar por unos minutos más. si es necesario agregar un poco de caldo.
+
+
+## Variantes
+
 
