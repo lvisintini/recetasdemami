@@ -2,17 +2,18 @@
 title: Torre de panqueques o piononos
 subtitle: {subtitle}
 slug: torre-de-panqueques-o-piononos
-uuid: 70378a17-11a2-44c5-8827-caf1b2404bd1
+uuid: f6c49f00-d7dc-4323-88dd-ef3f5b6b81f9
 ---
 {nav}
 
 # Torre de panqueques o piononos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

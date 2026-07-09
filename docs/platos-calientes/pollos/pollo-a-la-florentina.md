@@ -2,17 +2,18 @@
 title: Pollo a la florentina
 subtitle: {subtitle}
 slug: pollo-a-la-florentina
-uuid: 1480fb67-65ac-43bc-a6e9-c4704a091798
+uuid: 41214f77-5225-4a40-bda5-08a59643aaf3
 ---
 {nav}
 
 # Pollo a la florentina
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Orange pie
 subtitle: {subtitle}
 slug: orange-pie
-uuid: 05c91c2d-17f6-4b28-8513-153e46d921f4
+uuid: b27d8443-0ac3-4057-97cb-4ffb35666b47
 ---
 {nav}
 
 # Orange pie
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

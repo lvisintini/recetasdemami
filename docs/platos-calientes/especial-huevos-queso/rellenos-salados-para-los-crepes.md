@@ -2,17 +2,18 @@
 title: Rellenos salados para los crepes
 subtitle: {subtitle}
 slug: rellenos-salados-para-los-crepes
-uuid: c2f13295-017d-4720-810b-cd7c660c0eeb
+uuid: f724e8d3-8333-476a-9f64-8c57aa9537d2
 ---
 {nav}
 
 # Rellenos salados para los crepes
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

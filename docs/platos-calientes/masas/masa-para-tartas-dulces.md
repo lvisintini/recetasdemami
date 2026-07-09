@@ -2,17 +2,18 @@
 title: Masa para tartas dulces
 subtitle: {subtitle}
 slug: masa-para-tartas-dulces
-uuid: e8b34e8d-1a19-4a5a-9b45-915039309fe9
+uuid: 1351e5d3-2ffe-44d8-a719-b954cb23d9d5
 ---
 {nav}
 
 # Masa para tartas dulces
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

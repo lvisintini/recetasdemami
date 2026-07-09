@@ -2,17 +2,18 @@
 title: Lechuga mantecosa
 subtitle: {subtitle}
 slug: lechuga-mantecosa
-uuid: 413218fd-c22a-4383-a3b7-9c7d5fda588c
+uuid: 2859b07a-bbfd-4328-90db-29909767f348
 ---
 {nav}
 
 # Lechuga mantecosa
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

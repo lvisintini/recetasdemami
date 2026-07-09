@@ -2,17 +2,18 @@
 title: Californiana
 subtitle: {subtitle}
 slug: californiana
-uuid: e128ecdf-35fc-4145-af0b-51ff5a86062a
+uuid: 5ff8082a-a066-40d4-8275-79c70d963bdf
 ---
 {nav}
 
 # Californiana
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

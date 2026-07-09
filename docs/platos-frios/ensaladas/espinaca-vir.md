@@ -2,17 +2,18 @@
 title: Espinaca Vir
 subtitle: {subtitle}
 slug: espinaca-vir
-uuid: a557c07a-3701-41a3-a89f-9ffe22a06fc6
+uuid: 318f8139-27da-4a77-a8fe-f194e5e5f3c9
 ---
 {nav}
 
 # Espinaca Vir
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

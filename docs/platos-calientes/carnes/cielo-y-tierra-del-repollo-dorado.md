@@ -2,17 +2,18 @@
 title: Cielo y tierra del repollo dorado
 subtitle: {subtitle}
 slug: cielo-y-tierra-del-repollo-dorado
-uuid: 034e0f0c-0485-4b71-a5e1-3e5790617791
+uuid: 20d15c16-812b-47e9-9f48-0eb84e13a3a5
 ---
 {nav}
 
 # Cielo y tierra, del “repollo dorado”
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

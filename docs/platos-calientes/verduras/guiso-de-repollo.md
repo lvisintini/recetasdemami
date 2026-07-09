@@ -2,17 +2,18 @@
 title: Guiso de repollo
 subtitle: {subtitle}
 slug: guiso-de-repollo
-uuid: 2b90578e-2b67-4228-9df3-86ef2c51bc49
+uuid: 5fbb2ca0-8600-4844-9439-1a4cad4582c0
 ---
 {nav}
 
 # Guiso de repollo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

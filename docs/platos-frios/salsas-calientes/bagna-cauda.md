@@ -2,17 +2,18 @@
 title: Bagna cauda
 subtitle: {subtitle}
 slug: bagna-cauda
-uuid: 330c28e3-4c2e-4e85-b3fa-19b0e8d6034d
+uuid: a66d957a-c768-4004-9155-1a6d24fb86fa
 ---
 {nav}
 
 # Bagna cauda
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

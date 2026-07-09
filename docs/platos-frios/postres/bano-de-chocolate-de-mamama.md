@@ -2,17 +2,18 @@
 title: Baño de chocolate de mamama
 subtitle: {subtitle}
 slug: bano-de-chocolate-de-mamama
-uuid: 9bfabaf9-be72-45df-92fb-02e7e60af2dc
+uuid: 8ba80eaf-4053-476d-9b76-1a61f95b4a9a
 ---
 {nav}
 
 # Baño de chocolate de mamama
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

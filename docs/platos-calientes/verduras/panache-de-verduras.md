@@ -2,17 +2,18 @@
 title: Panaché de verduras
 subtitle: {subtitle}
 slug: panache-de-verduras
-uuid: b5174833-938b-477d-b47a-1f3cc5e104d4
+uuid: a2182174-56a5-4e83-bf68-8cdcc185cb24
 ---
 {nav}
 
 # Panaché de verduras
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

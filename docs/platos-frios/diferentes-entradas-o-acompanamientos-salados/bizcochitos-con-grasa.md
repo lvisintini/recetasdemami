@@ -2,17 +2,18 @@
 title: Bizcochitos con grasa
 subtitle: {subtitle}
 slug: bizcochitos-con-grasa
-uuid: bb77013e-2af7-4361-bae2-c79c3c958e16
+uuid: 8f7b2132-8f17-4e08-a384-94a2361d73c8
 ---
 {nav}
 
 # Bizcochitos con grasa
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

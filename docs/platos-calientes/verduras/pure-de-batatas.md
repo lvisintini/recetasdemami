@@ -2,17 +2,18 @@
 title: Pure de batatas
 subtitle: {subtitle}
 slug: pure-de-batatas
-uuid: 56fb7363-d4ee-405a-9dea-ae2c7d57c220
+uuid: 27058cbc-f929-46dc-b801-62f932371ee4
 ---
 {nav}
 
 # Pure de batatas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Masa para flammkuchen de Sofi
 subtitle: {subtitle}
 slug: masa-para-flammkuchen-de-sofi
-uuid: f51e5c2f-52ff-447f-ac80-1131ac7f3556
+uuid: bb3fca29-51e6-4556-a8ca-e869b36378d8
 ---
 {nav}
 
 # Masa para flammkuchen de Sofi
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

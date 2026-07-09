@@ -2,17 +2,18 @@
 title: Torta haragana de manzanas
 subtitle: {subtitle}
 slug: torta-haragana-de-manzanas
-uuid: bc4029aa-625c-4ad1-ab51-fb108dc411e1
+uuid: 65baf7ca-d0ff-4c1c-9ee7-d9c8beb8990d
 ---
 {nav}
 
 # Torta haragana de manzanas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

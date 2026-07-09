@@ -2,17 +2,18 @@
 title: Salsa ranchera
 subtitle: {subtitle}
 slug: salsa-ranchera
-uuid: 5491d99e-1479-48d8-ae14-33dc019b0392
+uuid: 06bf4dd9-3b76-4e84-8a1b-5d6b479bb513
 ---
 {nav}
 
 # Salsa ranchera
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

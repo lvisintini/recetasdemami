@@ -2,17 +2,18 @@
 title: Huevos en las nieves
 subtitle: {subtitle}
 slug: huevos-en-las-nieves
-uuid: dcacdd92-fc85-4c14-af2d-d4b20713df26
+uuid: 7c176850-929b-4155-8065-fd60490612bb
 ---
 {nav}
 
 # Huevos en las nieves
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Negroni
 subtitle: {subtitle}
 slug: negroni
-uuid: 09a6f046-fe31-4bec-9c7e-fb309761d496
+uuid: ace57880-f783-4ea4-98c2-cea49b1c5de3
 ---
 {nav}
 
 # Negroni
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

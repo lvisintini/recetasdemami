@@ -2,17 +2,18 @@
 title: Garbanzos
 subtitle: {subtitle}
 slug: garbanzos
-uuid: 1012ff58-5957-4696-a8d8-45d8d2183442
+uuid: a6fdb3e6-edc3-4714-8b99-417006d291f5
 ---
 {nav}
 
 # Garbanzos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

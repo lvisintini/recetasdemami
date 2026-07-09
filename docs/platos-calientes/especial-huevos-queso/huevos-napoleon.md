@@ -2,17 +2,18 @@
 title: Huevos napoleon
 subtitle: {subtitle}
 slug: huevos-napoleon
-uuid: 402e21dd-2ecd-4f04-9c54-dc946a5b3eb2
+uuid: fa28f92a-c460-4a92-9df1-497244a18b5e
 ---
 {nav}
 
 # Huevos napoleon
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

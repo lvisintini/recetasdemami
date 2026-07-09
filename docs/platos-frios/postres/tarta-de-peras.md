@@ -2,17 +2,18 @@
 title: Tarta de peras
 subtitle: {subtitle}
 slug: tarta-de-peras
-uuid: f0695d23-bf8d-42bb-b5b8-ab80538e664b
+uuid: a19c3a50-0f3a-4810-8fae-5424610917d9
 ---
 {nav}
 
 # Tarta de peras (y otras frutas)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Zapallitos crudos
 subtitle: {subtitle}
 slug: zapallitos-crudos
-uuid: f0d292dd-85b9-4adb-8db6-8d402bdb3025
+uuid: ed5af288-510b-421b-aab2-0f090d4fcc9d
 ---
 {nav}
 
 # Zapallitos crudos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Crepes suzette
 subtitle: {subtitle}
 slug: crepes-suzette
-uuid: 40044ee2-d89f-4ce3-ad02-1468817c6761
+uuid: 2d403ecc-838e-4d0f-b9ef-6c2850715af2
 ---
 {nav}
 
 # Crepes suzette
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

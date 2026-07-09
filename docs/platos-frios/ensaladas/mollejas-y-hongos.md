@@ -2,17 +2,18 @@
 title: Mollejas y hongos
 subtitle: {subtitle}
 slug: mollejas-y-hongos
-uuid: 394a172d-f7ae-4b36-b0ea-53424c513a75
+uuid: 085d2aab-f431-40a5-a0d6-1a674b2f5220
 ---
 {nav}
 
 # Mollejas y hongos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

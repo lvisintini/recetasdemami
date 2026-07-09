@@ -2,17 +2,18 @@
 title: Hojaldre con cebolla
 subtitle: {subtitle}
 slug: hojaldre-con-cebolla
-uuid: c1d5b8f9-ce1d-4764-9b19-591547a7e515
+uuid: eaf4cbcb-2fb0-4ac9-85e5-a86010976d04
 ---
 {nav}
 
 # Hojaldre con cebolla (no probado)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

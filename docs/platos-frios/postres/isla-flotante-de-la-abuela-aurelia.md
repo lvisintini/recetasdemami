@@ -2,17 +2,18 @@
 title: Isla flotante de la Abuela Aurelia
 subtitle: {subtitle}
 slug: isla-flotante-de-la-abuela-aurelia
-uuid: 4a321e51-a928-4e26-abe4-3ea6d5a22b0a
+uuid: 39beb436-fe6f-454c-b047-4200785532c6
 ---
 {nav}
 
 # Isla flotante de la Abuela Aurelia
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

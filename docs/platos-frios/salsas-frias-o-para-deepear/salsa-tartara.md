@@ -2,17 +2,18 @@
 title: Salsa tartara
 subtitle: {subtitle}
 slug: salsa-tartara
-uuid: 34c2fa68-27df-4efe-b7b2-36f67c8c8813
+uuid: 1d1962c5-b925-478a-858f-064728e37f2d
 ---
 {nav}
 
 # Salsa tartara
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

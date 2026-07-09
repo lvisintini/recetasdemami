@@ -2,17 +2,18 @@
 title: Cesar
 subtitle: {subtitle}
 slug: cesar
-uuid: b1bef773-ff7d-492c-b153-6aee20f480ab
+uuid: 5bbb2108-7110-4da5-9e37-a771ef368b48
 ---
 {nav}
 
 # Cesar
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

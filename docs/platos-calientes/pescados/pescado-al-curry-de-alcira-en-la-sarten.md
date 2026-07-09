@@ -2,17 +2,18 @@
 title: Pescado al curry de alcira en la sartén
 subtitle: {subtitle}
 slug: pescado-al-curry-de-alcira-en-la-sarten
-uuid: a980a070-cf36-4687-a2bc-0f6ab7a2674e
+uuid: 1426872a-b02f-4b4a-936c-87a56ff80ff6
 ---
 {nav}
 
 # Pescado al curry de alcira en la sartén
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Papines
 subtitle: {subtitle}
 slug: papines
-uuid: d5678a7c-b778-48a1-921b-bff87572a6e7
+uuid: c853583f-d202-4b5d-a71e-6ad853a6b198
 ---
 {nav}
 
 # Papines
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

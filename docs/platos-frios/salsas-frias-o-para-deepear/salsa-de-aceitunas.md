@@ -2,17 +2,18 @@
 title: Salsa de aceitunas
 subtitle: {subtitle}
 slug: salsa-de-aceitunas
-uuid: 8cd0e0c5-19d0-4ee5-b2b8-aa20cae40800
+uuid: adb14e4f-b269-486a-88eb-c6b5b442225b
 ---
 {nav}
 
 # Salsa de aceitunas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

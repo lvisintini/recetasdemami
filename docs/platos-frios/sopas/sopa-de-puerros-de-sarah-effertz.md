@@ -2,17 +2,18 @@
 title: Sopa de puerros de Sarah Effertz
 subtitle: {subtitle}
 slug: sopa-de-puerros-de-sarah-effertz
-uuid: 324c576c-6373-4b1d-8fc0-286c08f40409
+uuid: 81cb39ed-fac8-4812-b9f8-e9094218ee21
 ---
 {nav}
 
 # Sopa de puerros de Sarah Effertz
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

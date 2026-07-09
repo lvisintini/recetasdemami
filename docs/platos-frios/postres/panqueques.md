@@ -2,17 +2,18 @@
 title: Panqueques
 subtitle: {subtitle}
 slug: panqueques
-uuid: ba34bfea-4c7c-440b-87ef-53fb4baed55f
+uuid: 285284b6-0d6a-4421-9d05-b0c47456bb9e
 ---
 {nav}
 
 # Panqueques (finitos)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

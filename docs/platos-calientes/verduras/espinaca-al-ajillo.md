@@ -2,17 +2,18 @@
 title: Espinaca al ajillo
 subtitle: {subtitle}
 slug: espinaca-al-ajillo
-uuid: aad5f50b-c68a-4dc1-80cc-2d7b1fd2cc7d
+uuid: e7f16e50-cfaf-46c1-a45f-dfbf0a6e8d11
 ---
 {nav}
 
 # Espinaca al ajillo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

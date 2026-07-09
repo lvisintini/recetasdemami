@@ -2,17 +2,18 @@
 title: Marroki
 subtitle: {subtitle}
 slug: marroki
-uuid: 7e7a7710-428e-46bc-8764-736bd86b61fb
+uuid: 76cfee55-64e1-49b8-b38f-442966e955aa
 ---
 {nav}
 
 # Marroki
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

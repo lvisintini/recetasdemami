@@ -2,17 +2,18 @@
 title: Calabaza asada con miel y queso
 subtitle: {subtitle}
 slug: calabaza-asada-con-miel-y-queso
-uuid: 2fabaf83-4c8f-45f5-8a69-f52f90718418
+uuid: 8e6e6206-8eaa-43c0-b76f-ff3581d16c70
 ---
 {nav}
 
 # Calabaza asada con miel y queso.
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

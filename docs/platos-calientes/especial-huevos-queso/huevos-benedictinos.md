@@ -2,17 +2,18 @@
 title: Huevos benedictinos
 subtitle: {subtitle}
 slug: huevos-benedictinos
-uuid: 69f523a3-ccde-45d0-a0ce-950db521740f
+uuid: a09f7213-1d6d-49f5-9fa0-cf00ed7a1299
 ---
 {nav}
 
 # Huevos benedictinos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

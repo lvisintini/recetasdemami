@@ -2,17 +2,18 @@
 title: Aros de cebolla
 subtitle: {subtitle}
 slug: aros-de-cebolla
-uuid: db18063c-0057-48ff-85b5-74931d232c8f
+uuid: 69cf3ca9-2c69-4f0f-bcee-d6962decf7d5
 ---
 {nav}
 
 # Aros de cebolla
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

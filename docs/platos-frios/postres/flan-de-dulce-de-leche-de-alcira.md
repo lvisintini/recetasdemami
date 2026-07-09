@@ -2,17 +2,18 @@
 title: Flan de Dulce de Leche de Alcira
 subtitle: {subtitle}
 slug: flan-de-dulce-de-leche-de-alcira
-uuid: d4926ca3-06a1-42ab-af49-bf534f936ec1
+uuid: a426da80-fbf2-4ab5-98b9-b87f6d93ebe1
 ---
 {nav}
 
 # Flan de Dulce de Leche de Alcira
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

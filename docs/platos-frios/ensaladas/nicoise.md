@@ -2,17 +2,18 @@
 title: Nicoise
 subtitle: {subtitle}
 slug: nicoise
-uuid: 728ddb32-d4c1-4824-bfe9-6dc7ddd8f801
+uuid: d98bc6ad-37ea-493d-92b4-f41409dcadc0
 ---
 {nav}
 
 # Nicoise
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Masa quebrada
 subtitle: {subtitle}
 slug: masa-quebrada
-uuid: 3a71820d-428f-4eca-9a71-5fa1240bb7d8
+uuid: bbf4925b-dc71-49fa-a364-dddfce9e0a20
 ---
 {nav}
 
 # Masa quebrada
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

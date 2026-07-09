@@ -2,17 +2,18 @@
 title: Michelada
 subtitle: {subtitle}
 slug: michelada
-uuid: 814ce0db-d544-4dc1-85dd-88733fce5094
+uuid: cbd85de1-5b76-4454-9df5-00132aaa4c1e
 ---
 {nav}
 
 # Michelada
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

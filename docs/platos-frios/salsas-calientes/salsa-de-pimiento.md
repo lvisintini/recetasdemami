@@ -2,17 +2,18 @@
 title: Salsa de pimiento
 subtitle: {subtitle}
 slug: salsa-de-pimiento
-uuid: 3c4566f4-ea16-407d-a975-56cfcd7e165b
+uuid: 43beb894-b229-4439-b444-9c9ce3db7667
 ---
 {nav}
 
 # Salsa de pimiento
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

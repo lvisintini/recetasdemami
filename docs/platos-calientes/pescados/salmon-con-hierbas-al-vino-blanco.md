@@ -2,17 +2,18 @@
 title: Salmón con hierbas al vino blanco
 subtitle: {subtitle}
 slug: salmon-con-hierbas-al-vino-blanco
-uuid: 906084f9-b73b-4ce7-96d4-5b9768bad19d
+uuid: a91f4b31-24f3-4614-b493-49bafbddce01
 ---
 {nav}
 
 # Salmón con hierbas al vino blanco
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Anzac masitas australianas
 subtitle: {subtitle}
 slug: anzac-masitas-australianas
-uuid: 9d1eee0e-ee71-4348-89bc-d5c535118333
+uuid: 05cfacc0-3524-4e94-91ed-6e19eb71815d
 ---
 {nav}
 
 # Anzac, masitas australianas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

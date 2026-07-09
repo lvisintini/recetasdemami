@@ -2,17 +2,18 @@
 title: Anchoas
 subtitle: {subtitle}
 slug: anchoas
-uuid: 9e59e99c-13e1-4d1e-a5de-1f8afd1ac3f1
+uuid: ed17ceb8-3e9c-493d-939d-7e0f8f4e7cfe
 ---
 {nav}
 
 # Anchoas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

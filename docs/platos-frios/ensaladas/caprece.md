@@ -2,17 +2,18 @@
 title: Caprece
 subtitle: {subtitle}
 slug: caprece
-uuid: 07c2245f-7112-4d13-9dd8-19763e44d885
+uuid: 1603faaf-00b5-4e02-bfc0-aa17ee3343a6
 ---
 {nav}
 
 # Caprece
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

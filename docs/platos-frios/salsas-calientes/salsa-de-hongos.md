@@ -2,17 +2,18 @@
 title: Salsa de hongos
 subtitle: {subtitle}
 slug: salsa-de-hongos
-uuid: 112396a3-c44c-4416-8bcc-e74d550edffb
+uuid: 4ea1ce76-a053-4a36-85a4-84bfc1a53f7b
 ---
 {nav}
 
 # Salsa de hongos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

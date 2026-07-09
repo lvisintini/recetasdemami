@@ -2,17 +2,18 @@
 title: Florentinos
 subtitle: {subtitle}
 slug: florentinos
-uuid: accae3fe-7efc-4a21-9780-270d759105b4
+uuid: e71c76d8-d266-4e5d-ac61-f28d490f0386
 ---
 {nav}
 
 # Florentinos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

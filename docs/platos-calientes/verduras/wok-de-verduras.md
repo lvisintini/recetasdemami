@@ -2,17 +2,18 @@
 title: Wok de verduras
 subtitle: {subtitle}
 slug: wok-de-verduras
-uuid: ebd63377-e7b8-4ee7-914a-d92d2df30b5d
+uuid: ee0c4033-d9ec-47c3-9e59-8002b010b72c
 ---
 {nav}
 
 # Wok de verduras
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

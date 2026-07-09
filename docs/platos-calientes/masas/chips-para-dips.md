@@ -2,17 +2,18 @@
 title: Chips para dips
 subtitle: {subtitle}
 slug: chips-para-dips
-uuid: 98fa94e3-fcc7-4c3a-9787-2613dbbe4a33
+uuid: 03269a7e-15f9-446b-9021-24df22e516b4
 ---
 {nav}
 
 # Chips para dips
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

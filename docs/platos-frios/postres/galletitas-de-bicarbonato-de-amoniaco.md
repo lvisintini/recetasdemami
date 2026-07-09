@@ -2,17 +2,18 @@
 title: Galletitas de Bicarbonato de Amoniaco
 subtitle: {subtitle}
 slug: galletitas-de-bicarbonato-de-amoniaco
-uuid: 5490d936-156e-423a-9157-668bdeded545
+uuid: 4aa2b74b-6d23-4908-b8f9-612456002c41
 ---
 {nav}
 
 # Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -1,94 +1,30 @@
-Recetas de cocina
-	Entradas y piqueteo
-	Sopas
-	Ensaladas
-	Platos principales
-		Huevos y quesos
-		Aves
-		Carnes
-		Pescados y mariscos
-		Arroz
-	Verduras y guarniciones
-	Masas base
-	Salsas y aderezos
-		Frías / para dipear
-		Calientes
-	Postres y dulces
-		Tortas y bizcochuelos
-		Tartas y pies dulces
-		Cremas, flanes, mousses y natillas
-		Galletitas y masitas
-		Postres de fruta y varios
-		Crepes y panqueques dulces
-	Tragos y bebidas
-Fuera de cocina
-	Remedios caseros
-	Manchas y trucos de limpieza
+# Recetas de cocina
+	## Entradas y picoteo
+	## Sopas
+	## Ensaladas
+	## Platos principales
+		### Huevos y quesos
+		### Aves
+		### Carnes
+		### Pescados y mariscos
+		### Arroz
+	    ### Verduras
+	## Guarniciones y Acompañamientos
+	## Masas base
+	## Salsas, Dips y Aderezos
+		### Salsas Frías
+		### Dips
+		### Aderezos
+		### Salsas Calientes
+	## Postres y dulces
+		### Tortas y bizcochuelos
+		### Tartas dulces
+		### Cremas, flanes, mousses y natillas
+		### Galletitas y masitas
+		### Postres de fruta y varios
+		### Crepes y panqueques
+	## Tragos y bebidas
+# Fuera de cocina
+    ## Remedios caseros
+    ## Manchas y trucos de limpieza
 
-
-Recetas de cocina\Entradas y piqueteo
-Recetas de cocina\Sopas
-Recetas de cocina\Ensaladas
-Recetas de cocina\Platos principales\Huevos y quesos
-Recetas de cocina\Platos principales\Aves
-Recetas de cocina\Platos principales\Carnes
-Recetas de cocina\Platos principales\Pescados y mariscos
-Recetas de cocina\Platos principales\Arroz
-Recetas de cocina\Verduras y guarniciones
-Recetas de cocina\Masas base
-Recetas de cocina\Salsas y aderezos\Frías
-Recetas de cocina\Salsas y aderezos\Calientes
-Recetas de cocina\Salsas y aderezos\Dips
-Recetas de cocina\Postres y dulces\Tortas y bizcochuelos
-Recetas de cocina\Postres y dulces\Tartas y pies dulces
-Recetas de cocina\Postres y dulces\Cremas, flanes, mousses y natillas
-Recetas de cocina\Postres y dulces\Galletitas y masitas
-Recetas de cocina\Postres y dulces\Postres de fruta y varios
-Recetas de cocina\Postres y dulces\Crepes y panqueques dulces
-Recetas de cocina\Tragos y bebidas
-Fuera de cocina\Remedios caseros
-Fuera de cocina\Manchas y trucos de limpieza
-
-
-
-Introducción
-
-Preparaciones Base
-    Masas
-    Salsas Calientes
-    Salsas Frías
-    Dips
-    Aderezos
-Entradas, Aperitivos y Sopas
-    Entradas y Bocaditos Salados
-    Sopas
-    Guarniciones para sopas
-Ensaladas
-    Verdes y clásicas
-    Por ingrediente
-    Con palta
-    Con proteína
-    Otras
-Platos Principales
-    Arroces
-    Carnes
-    Aves (Pollo)
-    Pescados y Mariscos
-    Huevos y Quesos
-    Pastas
-    Verduras y Guarniciones
-        Guisos
-Postres y Dulces
-    Cremas, Flanes y Postres de Cuchara
-    Tortas y Budines
-    Tartas Dulces y Pies
-    Galletas, Masitas y Bocados Dulces
-    Crepes, Panqueques y Desayunos Dulces
-    Coberturas, Rellenos y Conservas Dulces
-Bebidas
-    Tragos y Cócteles
-        Whisky y clásicos
-        Otros
-        Base
-Remedios Caseros
-Manchas y limpieza

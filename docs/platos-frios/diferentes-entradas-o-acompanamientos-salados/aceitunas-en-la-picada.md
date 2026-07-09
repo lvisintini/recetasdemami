@@ -2,17 +2,18 @@
 title: Aceitunas en la picada
 subtitle: {subtitle}
 slug: aceitunas-en-la-picada
-uuid: 1e1b38a9-67d0-40c6-811e-4ea56a9e3ebf
+uuid: 54c66a29-d39f-4505-b35b-dc7be9442f7e
 ---
 {nav}
 
 # Aceitunas en la picada
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

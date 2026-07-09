@@ -2,17 +2,18 @@
 title: Maracubahaca
 subtitle: {subtitle}
 slug: maracubahaca
-uuid: a3ca770e-ff08-4e01-a521-b37609bb2e07
+uuid: b598eda9-0ad7-42d3-9b8a-5cda29056367
 ---
 {nav}
 
 # Maracubahaca
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

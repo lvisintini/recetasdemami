@@ -2,17 +2,18 @@
 title: Brownies de Antonela
 subtitle: {subtitle}
 slug: brownies-de-antonela
-uuid: dd97d869-d1f0-4820-87fa-dcba34f194ec
+uuid: 7bb3f843-eb4f-4522-85b5-5de67d625be4
 ---
 {nav}
 
 # Brownies de Antonela
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

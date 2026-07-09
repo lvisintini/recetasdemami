@@ -2,17 +2,18 @@
 title: Piña colada
 subtitle: {subtitle}
 slug: pina-colada
-uuid: 5acfc3b1-7fb4-4e0f-88d7-c4320de1b97c
+uuid: 6c3078dc-008e-4793-85ac-ac9c6d8ca5f4
 ---
 {nav}
 
 # Piña colada
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Estreñimiento
 subtitle: {subtitle}
 slug: estrenimiento
-uuid: 8de51e9c-6304-401f-8aab-afeb3fa9348a
+uuid: 1afde7ea-aa55-487f-ba4e-72d62f5fc155
 ---
 {nav}
 
 # Estreñimiento
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

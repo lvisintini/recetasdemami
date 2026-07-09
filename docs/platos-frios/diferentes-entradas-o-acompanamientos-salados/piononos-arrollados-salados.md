@@ -2,17 +2,18 @@
 title: Piononos arrollados salados
 subtitle: {subtitle}
 slug: piononos-arrollados-salados
-uuid: 22159d51-6032-44ac-95ef-f2003bdf7adb
+uuid: dc11a49e-cd0d-40d3-816b-43543200b571
 ---
 {nav}
 
 # Piononos arrollados salados
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

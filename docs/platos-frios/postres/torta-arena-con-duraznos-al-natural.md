@@ -2,17 +2,18 @@
 title: Torta arena con duraznos al natural
 subtitle: {subtitle}
 slug: torta-arena-con-duraznos-al-natural
-uuid: 882e8e66-94c4-4f67-883d-3485d8bfd161
+uuid: 5a6831db-1b1f-4e10-8347-19106234d9ef
 ---
 {nav}
 
 # Torta arena con duraznos al natural
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

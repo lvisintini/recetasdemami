@@ -2,17 +2,18 @@
 title: Torta invertida de ananá de Gigi
 subtitle: {subtitle}
 slug: torta-invertida-de-anana-de-gigi
-uuid: 82c95d31-de44-4959-9099-aa22438f472f
+uuid: bb65a43c-474d-4ca2-80be-6245d91315ad
 ---
 {nav}
 
 # Torta invertida de ananá de Gigi
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

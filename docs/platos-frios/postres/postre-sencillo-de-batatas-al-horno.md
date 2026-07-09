@@ -2,17 +2,18 @@
 title: Postre sencillo de batatas al horno
 subtitle: {subtitle}
 slug: postre-sencillo-de-batatas-al-horno
-uuid: 9f34fa82-fe90-47de-b3bf-0941f86f1e39
+uuid: 7f89b5fd-fb0c-4452-9eb6-7f96734939df
 ---
 {nav}
 
 # Postre sencillo de batatas al horno
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

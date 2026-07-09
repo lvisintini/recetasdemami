@@ -2,17 +2,18 @@
 title: Pollo con champiñones
 subtitle: {subtitle}
 slug: pollo-con-champinones
-uuid: 168d9908-99bc-4155-8f1a-58a7a5ecee52
+uuid: 067cecda-aa66-4b57-ad00-b34d291b9de0
 ---
 {nav}
 
 # Pollo con champiñones
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

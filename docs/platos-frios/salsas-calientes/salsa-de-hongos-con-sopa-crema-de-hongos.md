@@ -2,17 +2,18 @@
 title: Salsa de hongos con sopa crema de hongos
 subtitle: {subtitle}
 slug: salsa-de-hongos-con-sopa-crema-de-hongos
-uuid: 878ce78a-530b-4a55-ba6f-decefbb87540
+uuid: 4f884518-121b-45b1-9031-f697fc783807
 ---
 {nav}
 
 # Salsa de hongos con sopa crema de hongos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

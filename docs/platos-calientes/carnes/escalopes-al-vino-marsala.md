@@ -2,17 +2,18 @@
 title: Escalopes al vino Marsala
 subtitle: {subtitle}
 slug: escalopes-al-vino-marsala
-uuid: ed7f1c91-0536-4536-9cf6-517885e8bdcc
+uuid: 081862dc-3677-4bf9-87ec-61becd141c7e
 ---
 {nav}
 
 # Escalopes al vino Marsala.
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

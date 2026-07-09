@@ -2,17 +2,18 @@
 title: Bocaditos de quinoa
 subtitle: {subtitle}
 slug: bocaditos-de-quinoa
-uuid: 31e1b34b-5c6c-4b8a-973d-03bf2a6732f0
+uuid: 3757a841-f198-4f7e-9056-863579b594a2
 ---
 {nav}
 
 # Bocaditos de quinoa
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

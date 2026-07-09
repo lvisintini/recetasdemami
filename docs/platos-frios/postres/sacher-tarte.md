@@ -2,17 +2,18 @@
 title: Sacher tarte
 subtitle: {subtitle}
 slug: sacher-tarte
-uuid: aaf0bc46-2c41-483f-a50f-d56bcfe36ec9
+uuid: a55166b1-63bd-49b3-a9bf-f83fde93215c
 ---
 {nav}
 
 # Sacher tarte (torta de chocolate)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

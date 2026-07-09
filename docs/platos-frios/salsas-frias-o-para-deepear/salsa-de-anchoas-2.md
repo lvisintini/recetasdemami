@@ -2,17 +2,18 @@
 title: Salsa de anchoas 2
 subtitle: {subtitle}
 slug: salsa-de-anchoas-2
-uuid: f21ac689-5590-4021-9a08-c0fc6523b1a8
+uuid: 1b9db66f-b009-47c0-afb2-f1d417946381
 ---
 {nav}
 
 # Salsa de anchoas 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Condimento Frances
 subtitle: {subtitle}
 slug: condimento-frances
-uuid: 89a12cec-154c-44b5-9ef5-669dbf0ba384
+uuid: 594f16d6-7586-48b5-8d92-a3f2c29a56b6
 ---
 {nav}
 
 # Condimento Frances
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

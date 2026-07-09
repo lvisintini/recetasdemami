@@ -2,17 +2,18 @@
 title: Borrachito
 subtitle: {subtitle}
 slug: borrachito
-uuid: 1470d32e-622c-4136-b2ae-a8de5c187445
+uuid: 3fa42df2-214e-4060-9ed5-ba975e0d6937
 ---
 {nav}
 
 # Borrachito
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

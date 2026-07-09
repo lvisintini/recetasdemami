@@ -2,17 +2,18 @@
 title: Cachetes de abadejo a la sartén
 subtitle: {subtitle}
 slug: cachetes-de-abadejo-a-la-sarten
-uuid: 3762d7b1-5e35-4aa3-82ec-70b66816ef86
+uuid: d27bf33d-c657-4e7c-9ab0-a93ee891c625
 ---
 {nav}
 
 # Cachetes de abadejo a la sartén
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

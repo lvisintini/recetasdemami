@@ -2,17 +2,18 @@
 title: Bruselas calientes
 subtitle: {subtitle}
 slug: bruselas-calientes
-uuid: ed36dc98-675d-4f44-91ad-af946f8138a2
+uuid: b75970fe-33cf-4ddd-8fe5-a4ad05a80a4c
 ---
 {nav}
 
 # Bruselas calientes
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

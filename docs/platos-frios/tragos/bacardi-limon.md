@@ -2,17 +2,18 @@
 title: Bacardi limón
 subtitle: {subtitle}
 slug: bacardi-limon
-uuid: e55d545b-400b-4d73-a8d1-526fbaf434bb
+uuid: a41ca6e1-57f9-4c4f-b67c-5b1786020690
 ---
 {nav}
 
 # Bacardi limón
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

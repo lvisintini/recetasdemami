@@ -2,17 +2,18 @@
 title: Resfriados
 subtitle: {subtitle}
 slug: resfriados
-uuid: 2df3320f-3f9e-4413-8e43-0d95fc98f72a
+uuid: 693e3041-c68f-4dce-9f86-afa7d933b0fd
 ---
 {nav}
 
 # Resfriados
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

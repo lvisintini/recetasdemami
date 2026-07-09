@@ -2,17 +2,18 @@
 title: Egg sour
 subtitle: {subtitle}
 slug: egg-sour
-uuid: 80a2b712-3bca-4610-b97b-bda8b799d209
+uuid: a20dbbce-4102-454c-b69e-067e0d338de4
 ---
 {nav}
 
 # Egg sour
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Batata
 subtitle: {subtitle}
 slug: batata
-uuid: 2a82a2c3-ef77-4c72-af26-0bb0a2debbb9
+uuid: 5968634b-6ffe-4e71-ba0c-f194583bc1c4
 ---
 {nav}
 
 # Batata
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Tarteletas saladas
 subtitle: {subtitle}
 slug: tarteletas-saladas
-uuid: 12b3e01d-ec5c-462e-a5e9-c66516338f36
+uuid: 49601b80-3904-4d98-9ebc-852fb3fff715
 ---
 {nav}
 
 # Tarteletas saladas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

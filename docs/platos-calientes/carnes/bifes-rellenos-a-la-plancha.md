@@ -2,17 +2,18 @@
 title: Bifes rellenos a la plancha
 subtitle: {subtitle}
 slug: bifes-rellenos-a-la-plancha
-uuid: 52b0dd34-a903-49d9-842a-20ca00a151bd
+uuid: 25708e1a-0bf3-4f8c-8758-1eac5b97c5dc
 ---
 {nav}
 
 # Bifes rellenos a la plancha
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

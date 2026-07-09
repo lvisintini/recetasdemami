@@ -2,17 +2,18 @@
 title: Tarta de bananas crocantes de la Mamama
 subtitle: {subtitle}
 slug: tarta-de-bananas-crocantes-de-la-mamama
-uuid: 8b5ecf72-4b2f-4d44-802a-b46963ffb85c
+uuid: 8c9cda9d-b526-409d-bb97-5daab2042881
 ---
 {nav}
 
 # Tarta de bananas crocantes de la Mamama
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

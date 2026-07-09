@@ -2,17 +2,18 @@
 title: Torta de ricota
 subtitle: {subtitle}
 slug: torta-de-ricota
-uuid: 8c497685-270f-4cae-956d-92ab56d38a9b
+uuid: 494cba42-0a42-478b-8552-218cb4b64a81
 ---
 {nav}
 
 # Torta de ricota
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

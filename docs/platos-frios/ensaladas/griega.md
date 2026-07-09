@@ -2,17 +2,18 @@
 title: Griega
 subtitle: {subtitle}
 slug: griega
-uuid: a66e85a4-c2d3-4c6f-9e55-c2c6b95150de
+uuid: fd67dc38-3fa9-4b98-94be-f380cf78ec8c
 ---
 {nav}
 
 # Griega
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

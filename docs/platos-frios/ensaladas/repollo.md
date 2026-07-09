@@ -2,17 +2,18 @@
 title: Repollo
 subtitle: {subtitle}
 slug: repollo
-uuid: 38f341de-75b6-411b-8a03-d260f3999afe
+uuid: bb3d48da-5d1a-4ceb-8bd4-048d37acfef8
 ---
 {nav}
 
 # Repollo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

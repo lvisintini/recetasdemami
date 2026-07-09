@@ -2,17 +2,18 @@
 title: Daikiri frutilla
 subtitle: {subtitle}
 slug: daikiri-frutilla
-uuid: cc41f71e-3377-4b7e-8be3-80502d279e80
+uuid: bbff6007-2c66-46a1-99b1-f886d08d4bfd
 ---
 {nav}
 
 # Daikiri frutilla
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Salsa Cesar 2
 subtitle: {subtitle}
 slug: salsa-cesar-2
-uuid: da6e2319-36ec-46bf-ab46-f206752605ba
+uuid: 89e65023-ec56-4d46-b940-be5fb5614cea
 ---
 {nav}
 
 # Salsa Cesar 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

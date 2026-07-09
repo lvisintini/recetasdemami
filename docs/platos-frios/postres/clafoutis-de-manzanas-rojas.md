@@ -2,17 +2,18 @@
 title: Clafoutis de manzanas rojas
 subtitle: {subtitle}
 slug: clafoutis-de-manzanas-rojas
-uuid: 61b83f44-4a0c-4525-98fc-5bb37c1c560d
+uuid: 043a4ca0-aa4b-478c-baef-fdb5391ed150
 ---
 {nav}
 
 # Clafoutis de manzanas rojas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

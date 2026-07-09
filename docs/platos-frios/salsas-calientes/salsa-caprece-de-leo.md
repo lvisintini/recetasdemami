@@ -2,17 +2,18 @@
 title: Salsa caprece de Leo
 subtitle: {subtitle}
 slug: salsa-caprece-de-leo
-uuid: 5b29cf62-d311-4be2-9b4a-f57612621654
+uuid: f59d65c5-1e6b-41a5-8572-cd5f3594b56f
 ---
 {nav}
 
 # Salsa caprece de Leo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Dip de Almendras y Curry
 subtitle: {subtitle}
 slug: dip-de-almendras-y-curry
-uuid: 184d1a48-0add-4831-92ce-07e3b582d844
+uuid: 2f89975a-ad3a-4d50-8b2a-29d386c91d03
 ---
 {nav}
 
 # Dip de Almendras y Curry
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

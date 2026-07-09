@@ -2,17 +2,18 @@
 title: Tartas de maria rosa
 subtitle: {subtitle}
 slug: tartas-de-maria-rosa
-uuid: 4cbc73e9-8542-4493-bdfe-2f3824c2c041
+uuid: 2eaef61e-8d19-44a7-adc4-f3c8bfc38513
 ---
 {nav}
 
 # Tartas de maria rosa (muy buenas; saladas)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

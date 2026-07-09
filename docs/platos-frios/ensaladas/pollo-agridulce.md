@@ -2,17 +2,18 @@
 title: Pollo agridulce
 subtitle: {subtitle}
 slug: pollo-agridulce
-uuid: 05a72f71-3689-49e9-b318-b0d8fe5bc63d
+uuid: ae6e14a0-017b-409d-90bb-ace1c02da16a
 ---
 {nav}
 
 # Pollo agridulce
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

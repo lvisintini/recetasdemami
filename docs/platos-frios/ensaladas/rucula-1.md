@@ -2,17 +2,18 @@
 title: Rucula 1
 subtitle: {subtitle}
 slug: rucula-1
-uuid: 251fa56a-c41b-4570-b6c7-6310ed9e09e4
+uuid: a13f8917-fd71-495f-8a50-43d1326b32ab
 ---
 {nav}
 
 # Rucula 1
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Crema de Choclos
 subtitle: {subtitle}
 slug: crema-de-choclos
-uuid: cfa5111d-feda-4820-861d-5c7a559101dc
+uuid: f82501f6-3081-4593-91da-1310414038c2
 ---
 {nav}
 
 # Crema de Choclos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

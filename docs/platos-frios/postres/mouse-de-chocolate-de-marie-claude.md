@@ -2,17 +2,18 @@
 title: Mouse de chocolate de Marie Claude
 subtitle: {subtitle}
 slug: mouse-de-chocolate-de-marie-claude
-uuid: d66533b8-a2c4-41c9-aa48-622422503727
+uuid: 705afa33-97df-42fe-a8f0-0bbf1664bb67
 ---
 {nav}
 
 # Mouse de chocolate de Marie Claude
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

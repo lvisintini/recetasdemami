@@ -2,17 +2,18 @@
 title: Estofado de carne y verduras
 subtitle: {subtitle}
 slug: estofado-de-carne-y-verduras
-uuid: d26bf20c-f49e-49c3-86e2-3b1ae5774b97
+uuid: 95e2302f-d656-4621-b33a-d4b044903301
 ---
 {nav}
 
 # Estofado de carne y verduras
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Peras al vino
 subtitle: {subtitle}
 slug: peras-al-vino
-uuid: 7fbbb5d1-5d87-478f-b13c-8ddb12a5098d
+uuid: 72a2cf32-076a-4022-9462-5c400c07235f
 ---
 {nav}
 
 # Peras al vino
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

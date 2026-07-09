@@ -2,17 +2,18 @@
 title: Pollo al puerro
 subtitle: {subtitle}
 slug: pollo-al-puerro
-uuid: 8dee0b80-4923-4f65-982b-28d0ca054dc4
+uuid: 2e1071eb-95d6-46f3-b07f-f1a16e6f5981
 ---
 {nav}
 
 # Pollo al puerro
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

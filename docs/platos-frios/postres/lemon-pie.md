@@ -2,17 +2,18 @@
 title: Lemon pie
 subtitle: {subtitle}
 slug: lemon-pie
-uuid: 0d55d6fa-2439-4ea4-bc6b-975553683707
+uuid: 6670f697-83d2-4c87-958b-11b8625fd924
 ---
 {nav}
 
 # Lemon pie
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

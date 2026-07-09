@@ -2,17 +2,18 @@
 title: Arroz con mejillones
 subtitle: {subtitle}
 slug: arroz-con-mejillones
-uuid: 992cb9eb-c770-40d1-a9cd-d4586de1b9cc
+uuid: 3f3f3cb5-7fe6-441d-b821-82068cf38038
 ---
 {nav}
 
 # Arroz con mejillones (berberechos, u otro bicho de mar)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Tomates frutillas y queso
 subtitle: {subtitle}
 slug: tomates-frutillas-y-queso
-uuid: c91bd069-57ce-42e5-a666-68a754817ad3
+uuid: dffebd39-d296-442d-9868-647dd8c40003
 ---
 {nav}
 
 # Tomates, frutillas y queso (para 10 personas)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

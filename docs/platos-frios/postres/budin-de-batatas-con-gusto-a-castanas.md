@@ -2,17 +2,18 @@
 title: Budin de batatas con gusto a castañas
 subtitle: {subtitle}
 slug: budin-de-batatas-con-gusto-a-castanas
-uuid: 2ff1abcc-7700-4359-a95e-d222e0149d32
+uuid: c4ef51bf-e7ba-4c32-a605-4015473d7bd9
 ---
 {nav}
 
 # Budin de batatas con gusto a castañas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

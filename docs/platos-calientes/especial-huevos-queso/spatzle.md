@@ -2,17 +2,18 @@
 title: Spâtzle
 subtitle: {subtitle}
 slug: spatzle
-uuid: 3fbecf87-707a-4002-a029-14a52e5b3ffe
+uuid: c8de1389-ca6d-438e-8cbc-8593db2453fd
 ---
 {nav}
 
 # Spâtzle (4 personas)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

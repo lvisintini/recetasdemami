@@ -2,17 +2,18 @@
 title: Bacardi banana
 subtitle: {subtitle}
 slug: bacardi-banana
-uuid: f1239d6a-3047-48ba-b483-6e23faf62608
+uuid: 7cac59f1-d5cc-487f-a23c-451a6a853e0d
 ---
 {nav}
 
 # Bacardi banana
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

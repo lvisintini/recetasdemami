@@ -2,17 +2,18 @@
 title: Borrachito de la Tía Nely
 subtitle: {subtitle}
 slug: borrachito-de-la-tia-nely
-uuid: 9c624dc0-e828-4d77-9c2a-e84b75bd6378
+uuid: e71a302e-9408-4e3a-978a-80b32f4368c5
 ---
 {nav}
 
 # Borrachito de la Tía Nely
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

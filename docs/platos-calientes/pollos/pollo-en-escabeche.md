@@ -2,17 +2,18 @@
 title: Pollo en escabeche
 subtitle: {subtitle}
 slug: pollo-en-escabeche
-uuid: e2c3977b-fab9-49d1-81e5-65c39a2bb305
+uuid: 99fcd0de-f4d7-440f-b6fc-688ac54da988
 ---
 {nav}
 
 # Pollo en escabeche
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

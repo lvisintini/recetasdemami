@@ -2,17 +2,18 @@
 title: Zanahorias caramelizadas
 subtitle: {subtitle}
 slug: zanahorias-caramelizadas
-uuid: 7853211c-9c52-4cb0-94b3-3220a0400042
+uuid: 0054d8e5-92ed-492c-8e0c-7104a2990ecf
 ---
 {nav}
 
 # Zanahorias caramelizadas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

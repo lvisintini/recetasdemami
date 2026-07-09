@@ -2,17 +2,18 @@
 title: Substituto para salsa bechamel
 subtitle: {subtitle}
 slug: substituto-para-salsa-bechamel
-uuid: 5f93844a-a655-47a9-95af-a626a0c85cb8
+uuid: d5d22b2f-2d82-4cdf-8349-2551c3e49571
 ---
 {nav}
 
 # Substituto para salsa bechamel
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

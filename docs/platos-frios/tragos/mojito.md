@@ -2,17 +2,18 @@
 title: Mojito
 subtitle: {subtitle}
 slug: mojito
-uuid: cc0dd195-9f16-482b-a072-2b8f83a83214
+uuid: 39860180-ae61-4ead-84a2-bfa2c96ef310
 ---
 {nav}
 
 # Mojito
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Kâsse kuche de Sofi
 subtitle: {subtitle}
 slug: kasse-kuche-de-sofi
-uuid: a23aebff-8079-4773-94bc-e1ab3ad25b44
+uuid: fd36fcb2-1fed-47c8-a734-48d32bdc9376
 ---
 {nav}
 
 # Kâsse kuche de Sofi
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

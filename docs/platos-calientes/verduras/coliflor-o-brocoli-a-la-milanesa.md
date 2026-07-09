@@ -2,17 +2,18 @@
 title: Coliflor o brocoli a la milanesa
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-a-la-milanesa
-uuid: b8340e95-057d-4ba2-8c2c-ec6d084db1cf
+uuid: d022bf0e-6578-473f-8f78-a19feeefe4df
 ---
 {nav}
 
 # Coliflor o brocoli a la milanesa
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

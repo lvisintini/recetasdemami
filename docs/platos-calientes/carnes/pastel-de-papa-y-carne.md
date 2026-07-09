@@ -2,17 +2,18 @@
 title: Pastel de papa y carne
 subtitle: {subtitle}
 slug: pastel-de-papa-y-carne
-uuid: e6fc2c2a-4657-4415-93a2-859f5ca0e1c6
+uuid: c7e957de-5ca8-4590-89e6-cf780e857928
 ---
 {nav}
 
 # Pastel de papa y carne
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

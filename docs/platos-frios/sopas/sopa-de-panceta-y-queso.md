@@ -2,17 +2,18 @@
 title: Sopa de panceta y queso
 subtitle: {subtitle}
 slug: sopa-de-panceta-y-queso
-uuid: ea4cc0e5-0a52-4617-ae1e-910460a2d50a
+uuid: cfe7f360-f798-4717-bf6e-9d78bf23a3e8
 ---
 {nav}
 
 # Sopa de panceta y queso
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

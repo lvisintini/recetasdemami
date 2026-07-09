@@ -2,17 +2,18 @@
 title: Dip de atun
 subtitle: {subtitle}
 slug: dip-de-atun
-uuid: 1ec5acee-8ba1-4cc9-af68-8d57529fdee2
+uuid: ea987898-89d8-4a1e-a86d-9c39a9a6b9ec
 ---
 {nav}
 
 # Dip de atun
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

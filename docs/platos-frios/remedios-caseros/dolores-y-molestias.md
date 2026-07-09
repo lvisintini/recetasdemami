@@ -2,17 +2,18 @@
 title: Dolores y molestias
 subtitle: {subtitle}
 slug: dolores-y-molestias
-uuid: 433d1e00-5aa1-410e-b856-7e975bd92972
+uuid: dece783c-55b9-4139-b0bd-f34348571e60
 ---
 {nav}
 
 # Dolores y molestias
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

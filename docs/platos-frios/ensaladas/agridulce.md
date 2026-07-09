@@ -2,17 +2,18 @@
 title: Agridulce
 subtitle: {subtitle}
 slug: agridulce
-uuid: 9301ff38-04fa-4386-86d8-a5c67a4937a4
+uuid: 023b694f-9e44-46a7-bf88-06a610410e04
 ---
 {nav}
 
 # Agridulce
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Wok con carne
 subtitle: {subtitle}
 slug: wok-con-carne
-uuid: 87a26eed-3b17-48bd-8e44-b67642e24776
+uuid: 5a8c418b-97f8-47f7-bb6c-389a37f3ce24
 ---
 {nav}
 
 # Wok con carne
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

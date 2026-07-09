@@ -2,17 +2,18 @@
 title: Pesto
 subtitle: {subtitle}
 slug: pesto
-uuid: 65578260-4fed-4084-97dc-99a76e014649
+uuid: c8c5d8ef-9143-4f6f-a528-212659f5e9b7
 ---
 {nav}
 
 # Pesto
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

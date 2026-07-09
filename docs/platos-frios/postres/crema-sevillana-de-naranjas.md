@@ -2,17 +2,18 @@
 title: Crema sevillana de naranjas
 subtitle: {subtitle}
 slug: crema-sevillana-de-naranjas
-uuid: ebbeb18d-d3d1-4fa3-b9b6-ec0fe9e1a51a
+uuid: 5e4b3f1e-314d-4c1c-915e-2e59f6ea9692
 ---
 {nav}
 
 # Crema sevillana de naranjas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

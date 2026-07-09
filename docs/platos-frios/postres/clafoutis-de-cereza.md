@@ -2,17 +2,18 @@
 title: Clafoutis de cereza
 subtitle: {subtitle}
 slug: clafoutis-de-cereza
-uuid: 7c7b8655-ba70-4188-b772-54ef5c62794a
+uuid: cdcf57b0-8fd0-4ff8-874e-95379b2464bc
 ---
 {nav}
 
 # Clafoutis de cereza
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

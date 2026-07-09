@@ -2,17 +2,18 @@
 title: Pastel de caballa
 subtitle: {subtitle}
 slug: pastel-de-caballa
-uuid: 03d8152d-600d-4220-9ebe-7603ce978dc9
+uuid: d88b24d9-7dc5-4569-bf5e-bf61af722ac7
 ---
 {nav}
 
 # Pastel de caballa
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

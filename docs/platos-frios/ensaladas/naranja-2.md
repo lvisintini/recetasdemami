@@ -2,17 +2,18 @@
 title: Naranja 2
 subtitle: {subtitle}
 slug: naranja-2
-uuid: c13ea122-c300-4457-aa0f-c9ae3a46a02b
+uuid: 2bc0c901-66c5-4b18-9aea-9cd0c2a104ec
 ---
 {nav}
 
 # Naranja 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

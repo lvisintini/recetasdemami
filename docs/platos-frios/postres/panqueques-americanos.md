@@ -2,17 +2,18 @@
 title: Panqueques americanos
 subtitle: {subtitle}
 slug: panqueques-americanos
-uuid: c351fa48-b104-468d-b6ec-42e8d72c7808
+uuid: 91a0de6f-5ec1-4263-b7e1-80ad6e4f6ae1
 ---
 {nav}
 
 # Panqueques americanos (gruesos)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

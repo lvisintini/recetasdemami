@@ -2,17 +2,18 @@
 title: Alcira
 subtitle: {subtitle}
 slug: alcira
-uuid: 8af494d0-6364-4786-bb9e-53c406ee90dd
+uuid: f69d83ad-f824-4dde-945b-6db4b5836c72
 ---
 {nav}
 
 # Alcira
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

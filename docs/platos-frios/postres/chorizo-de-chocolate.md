@@ -2,17 +2,18 @@
 title: Chorizo de chocolate
 subtitle: {subtitle}
 slug: chorizo-de-chocolate
-uuid: d4e4c1c4-9cd2-46ce-ba6c-ccd3a3d5b4d0
+uuid: 1c9fc9ae-3c21-4db2-b4af-1d805d64cb9c
 ---
 {nav}
 
 # Chorizo de chocolate
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

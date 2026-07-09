@@ -2,17 +2,18 @@
 title: Croquetas de espinaca
 subtitle: {subtitle}
 slug: croquetas-de-espinaca
-uuid: 5e9610d4-5e84-4040-80fd-13a6ad87c4eb
+uuid: d93cc402-0b83-4d06-9f0b-7424f2db7f94
 ---
 {nav}
 
 # Croquetas de espinaca
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

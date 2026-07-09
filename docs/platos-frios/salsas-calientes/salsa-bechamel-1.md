@@ -2,17 +2,18 @@
 title: Salsa Bechamel 1
 subtitle: {subtitle}
 slug: salsa-bechamel-1
-uuid: aa3f64b1-4307-4537-9870-566fd7efef4c
+uuid: f8187247-bf95-40ab-b5b6-0fce5e5797ea
 ---
 {nav}
 
 # Salsa Bechamel 1
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

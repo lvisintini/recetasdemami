@@ -2,17 +2,18 @@
 title: Crema de Ajo
 subtitle: {subtitle}
 slug: crema-de-ajo
-uuid: 25bec980-a78c-4896-95b7-1189366bd800
+uuid: d693cbb1-98ce-4d4c-a565-1e18986ebb08
 ---
 {nav}
 
 # Crema de Ajo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

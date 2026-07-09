@@ -2,17 +2,18 @@
 title: Clafoutis de frutos rojos
 subtitle: {subtitle}
 slug: clafoutis-de-frutos-rojos
-uuid: 8506b050-80df-44cb-b7f3-c57c6b7fdd66
+uuid: e8ea53cc-e972-4f4c-966d-7940b91579cb
 ---
 {nav}
 
 # Clafoutis de frutos rojos
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

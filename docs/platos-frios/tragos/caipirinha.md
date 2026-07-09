@@ -2,17 +2,18 @@
 title: Caipirinha
 subtitle: {subtitle}
 slug: caipirinha
-uuid: 69fd1858-fdb6-4706-9b15-192d50218ab5
+uuid: 7ec093bd-d1bc-4fb4-b3b7-560452d23752
 ---
 {nav}
 
 # Caipirinha
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

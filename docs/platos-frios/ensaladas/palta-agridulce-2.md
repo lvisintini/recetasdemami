@@ -2,17 +2,18 @@
 title: Palta agridulce 2
 subtitle: {subtitle}
 slug: palta-agridulce-2
-uuid: b28aba9b-1efc-4763-89a1-1014007d7234
+uuid: d1d75083-30a7-4529-ad14-18d3a923774d
 ---
 {nav}
 
 # Palta agridulce 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

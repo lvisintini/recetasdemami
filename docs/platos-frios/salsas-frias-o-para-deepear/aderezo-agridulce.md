@@ -2,17 +2,18 @@
 title: Aderezo Agridulce
 subtitle: {subtitle}
 slug: aderezo-agridulce
-uuid: 0ce96c40-5374-4306-ab0e-f47fb1050807
+uuid: 09143466-26f3-425c-b6c4-95479553f711
 ---
 {nav}
 
 # Aderezo Agridulce
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

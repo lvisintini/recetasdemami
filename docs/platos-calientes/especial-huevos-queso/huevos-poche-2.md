@@ -2,17 +2,18 @@
 title: Huevos poche 2
 subtitle: {subtitle}
 slug: huevos-poche-2
-uuid: 5387cadb-1b87-4422-9c83-55922e50ffbb
+uuid: be92ddd6-c624-4856-aa65-9a0033e642d0
 ---
 {nav}
 
 # Huevos poche 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

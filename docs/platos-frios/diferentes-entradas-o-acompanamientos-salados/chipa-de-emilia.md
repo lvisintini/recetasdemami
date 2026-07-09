@@ -2,17 +2,18 @@
 title: Chipá de Emilia
 subtitle: {subtitle}
 slug: chipa-de-emilia
-uuid: d94eacb7-2c21-4a53-b8be-037cc3c2131d
+uuid: 30d6d40c-5c9e-46db-9d5b-9a911730b32a
 ---
 {nav}
 
 # Chipá de Emilia
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

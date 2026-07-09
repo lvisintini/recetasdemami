@@ -2,17 +2,18 @@
 title: Palta y mortadela
 subtitle: {subtitle}
 slug: palta-y-mortadela
-uuid: e6e1cdde-5583-4ba6-add7-0538ed54ec3a
+uuid: bee9503b-f542-4a52-99f2-18c895d99740
 ---
 {nav}
 
 # Palta y mortadela
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

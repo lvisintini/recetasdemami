@@ -2,17 +2,18 @@
 title: Albondigas
 subtitle: {subtitle}
 slug: albondigas
-uuid: 651ece04-fb05-4d41-86e7-6fa641e4bbeb
+uuid: ba3ab572-189a-4798-afbc-6f55a2a5314d
 ---
 {nav}
 
 # Albondigas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

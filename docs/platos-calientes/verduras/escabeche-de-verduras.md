@@ -2,17 +2,18 @@
 title: Escabeche de verduras
 subtitle: {subtitle}
 slug: escabeche-de-verduras
-uuid: 816aa025-7f44-408b-a75a-1a9bffb58bda
+uuid: 38448d16-3e59-4f60-b9ce-437518e19f6a
 ---
 {nav}
 
 # Escabeche de verduras
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

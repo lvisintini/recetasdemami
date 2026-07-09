@@ -2,17 +2,18 @@
 title: Tarantela de Tía Chicha
 subtitle: {subtitle}
 slug: tarantela-de-tia-chicha
-uuid: 7b667b9d-a226-457b-b87f-8a8fe4fa1011
+uuid: 69721a81-27db-44e0-993d-4aadff4de89f
 ---
 {nav}
 
 # Tarantela de Tía Chicha
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

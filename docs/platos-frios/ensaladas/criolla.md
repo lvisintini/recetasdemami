@@ -2,17 +2,18 @@
 title: Criolla
 subtitle: {subtitle}
 slug: criolla
-uuid: ed1e8e59-85c7-4ca3-a0d3-7764f8925f77
+uuid: cfb16e5c-e9a9-4dd1-b1e5-99be35242fc8
 ---
 {nav}
 
 # Criolla
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

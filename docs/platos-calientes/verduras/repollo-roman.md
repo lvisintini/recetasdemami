@@ -2,17 +2,18 @@
 title: Repollo Roman
 subtitle: {subtitle}
 slug: repollo-roman
-uuid: bffb9262-f9eb-4cea-ae71-6afd7989a092
+uuid: bf7950d3-9782-4480-a7d6-3b25c84fe4e0
 ---
 {nav}
 
 # Repollo Roman (bisabuelo)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

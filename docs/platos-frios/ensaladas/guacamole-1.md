@@ -2,17 +2,18 @@
 title: Guacamole 1
 subtitle: {subtitle}
 slug: guacamole-1
-uuid: 876a39fe-7802-4ded-8f1b-1d5e71c27d1f
+uuid: fb9438c1-5f75-4f41-9c99-6cd1aa3c7a95
 ---
 {nav}
 
 # Guacamole 1
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Cerdo a la florentin
 subtitle: {subtitle}
 slug: cerdo-a-la-florentin
-uuid: b1a1a18f-ac25-4d62-b632-75d4af981d7a
+uuid: 12e09f7d-c694-4343-95c0-f388879295f8
 ---
 {nav}
 
 # Cerdo a la florentin (agridulce)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

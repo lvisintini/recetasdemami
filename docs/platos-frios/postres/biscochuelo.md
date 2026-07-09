@@ -2,17 +2,18 @@
 title: Biscochuelo
 subtitle: {subtitle}
 slug: biscochuelo
-uuid: 4e6edbbe-35ff-4dbb-9d03-76510519bad0
+uuid: c91c97f0-be82-4737-ae63-4657d51bd178
 ---
 {nav}
 
 # Biscochuelo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

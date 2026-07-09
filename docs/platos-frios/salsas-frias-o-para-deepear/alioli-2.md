@@ -2,17 +2,18 @@
 title: Alioli 2
 subtitle: {subtitle}
 slug: alioli-2
-uuid: e6f757fd-ce1c-4f29-96ec-6795f5f3af5b
+uuid: b8a96e67-f2f2-4f8c-ae42-34273308689e
 ---
 {nav}
 
 # Alioli 2
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

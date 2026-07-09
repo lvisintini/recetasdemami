@@ -2,17 +2,18 @@
 title: Garganta irritada
 subtitle: {subtitle}
 slug: garganta-irritada
-uuid: 50e336c1-407c-495e-9d07-64625b1a2c34
+uuid: 55979688-0160-46e6-85a0-002e85503ba1
 ---
 {nav}
 
 # Garganta irritada
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

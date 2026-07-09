@@ -2,17 +2,18 @@
 title: Spekulatius
 subtitle: {subtitle}
 slug: spekulatius
-uuid: 7eae6906-a367-4b5c-b57b-5477b3351538
+uuid: 6e6e9a57-cddc-4a49-b661-1b7469cc968c
 ---
 {nav}
 
 # Spekulatius
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

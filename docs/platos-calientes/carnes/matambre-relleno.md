@@ -2,17 +2,18 @@
 title: Matambre relleno
 subtitle: {subtitle}
 slug: matambre-relleno
-uuid: d6e82021-ceb9-4070-9d06-413e67bd97e4
+uuid: 0effb1de-020d-4ca3-9b40-477c65cb5163
 ---
 {nav}
 
 # Matambre relleno (2 kg)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

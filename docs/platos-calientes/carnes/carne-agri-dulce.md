@@ -2,17 +2,18 @@
 title: Carne agri-dulce
 subtitle: {subtitle}
 slug: carne-agri-dulce
-uuid: 596080d6-a897-4983-85fc-c45e99f49c19
+uuid: 7c39c970-2d65-4532-8252-ab6def6b3825
 ---
 {nav}
 
 # Carne agri-dulce (receta de gigi)
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

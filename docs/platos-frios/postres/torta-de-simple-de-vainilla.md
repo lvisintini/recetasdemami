@@ -2,17 +2,18 @@
 title: Torta de simple de vainilla
 subtitle: {subtitle}
 slug: torta-de-simple-de-vainilla
-uuid: 7567208a-8ca8-42a3-976a-37d73546918b
+uuid: 727c5e6c-b7bd-4c68-8e96-b2e9cff01e9f
 ---
 {nav}
 
 # Torta de simple de vainilla
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

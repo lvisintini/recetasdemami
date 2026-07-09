@@ -2,17 +2,18 @@
 title: bacardi durazno
 subtitle: {subtitle}
 slug: bacardi-durazno
-uuid: 7d1027c3-f5ee-4433-8e15-36e3d7559e64
+uuid: 0c6df903-759e-444a-bcac-ca32c3fae35a
 ---
 {nav}
 
 # bacardi durazno
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

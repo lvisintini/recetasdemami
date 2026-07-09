@@ -2,17 +2,18 @@
 title: Gulasch
 subtitle: {subtitle}
 slug: gulasch
-uuid: 13411f2c-89b2-4f3e-b32b-1c9fb8c3a464
+uuid: c931f510-1212-4de7-86f3-0e6be9487dcb
 ---
 {nav}
 
 # Gulasch
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

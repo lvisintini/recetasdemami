@@ -2,17 +2,18 @@
 title: Torta invertida de manzanas
 subtitle: {subtitle}
 slug: torta-invertida-de-manzanas
-uuid: ce36e306-51b0-4aa5-b3f9-0d093cc40977
+uuid: f81edab8-b66a-4e8a-8ff3-d161fa52fbf6
 ---
 {nav}
 
 # Torta invertida de manzanas
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

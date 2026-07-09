@@ -2,17 +2,18 @@
 title: Crema Catalana
 subtitle: {subtitle}
 slug: crema-catalana
-uuid: 4ee9f492-7819-4d3e-90c7-791aadab64c9
+uuid: db4a423f-55de-4e2b-aaaa-16d77dafaff3
 ---
 {nav}
 
 # Crema Catalana
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

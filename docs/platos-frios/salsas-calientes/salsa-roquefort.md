@@ -2,17 +2,18 @@
 title: Salsa Roquefort
 subtitle: {subtitle}
 slug: salsa-roquefort
-uuid: 63f0d38f-feb9-4bd7-9dd7-91a09d6b7198
+uuid: 803bf668-a05a-42ed-bc5d-5c9c330ec8fa
 ---
 {nav}
 
 # Salsa Roquefort
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

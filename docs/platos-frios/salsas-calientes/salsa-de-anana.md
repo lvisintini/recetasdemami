@@ -2,17 +2,18 @@
 title: Salsa de Ananá
 subtitle: {subtitle}
 slug: salsa-de-anana
-uuid: b3ce69dc-a45b-4689-b0a1-9a922c3f7be5
+uuid: 4cdc7414-0d6f-4083-aec2-d3a9531e04b5
 ---
 {nav}
 
 # Salsa de Ananá
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

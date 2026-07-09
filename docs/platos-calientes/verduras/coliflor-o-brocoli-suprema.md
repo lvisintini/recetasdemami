@@ -2,17 +2,18 @@
 title: Coliflor o brócoli suprema
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-suprema
-uuid: ddccf9f2-c7c5-47f7-b128-aae109e33137
+uuid: d6fbaacc-19cc-47c3-a99b-a56638b3f631
 ---
 {nav}
 
 # Coliflor o brócoli suprema
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

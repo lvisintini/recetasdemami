@@ -2,17 +2,18 @@
 title: Graten de calabaza y choclo
 subtitle: {subtitle}
 slug: graten-de-calabaza-y-choclo
-uuid: baad45e0-a16c-496b-81e8-4eb5f3c95ed4
+uuid: 3992ff5b-b65f-4cc6-838c-c4d7d23e785e
 ---
 {nav}
 
 # Graten de calabaza y choclo
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

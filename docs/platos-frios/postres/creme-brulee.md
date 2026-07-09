@@ -2,17 +2,18 @@
 title: Creme brulee
 subtitle: {subtitle}
 slug: creme-brulee
-uuid: 8c639f83-b93c-42a7-9313-bb25dc4882e4
+uuid: 47a53fa1-ef86-45ca-8764-d3ee6b515c4f
 ---
 {nav}
 
 # Creme brulee
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

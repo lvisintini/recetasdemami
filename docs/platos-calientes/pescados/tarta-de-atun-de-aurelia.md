@@ -2,17 +2,18 @@
 title: Tarta de atun de Aurelia
 subtitle: {subtitle}
 slug: tarta-de-atun-de-aurelia
-uuid: e96b6cc7-a6c0-465f-b6c0-94c4c6803474
+uuid: f32c571e-5ccc-4cce-ab9d-1d137ccec059
 ---
 {nav}
 
 # Tarta de atun de Aurelia
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

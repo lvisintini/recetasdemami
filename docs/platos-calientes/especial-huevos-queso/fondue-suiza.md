@@ -2,17 +2,18 @@
 title: Fondue suiza
 subtitle: {subtitle}
 slug: fondue-suiza
-uuid: 1943eb48-7f5e-4df3-8b5f-a0bab9685644
+uuid: fe1979e8-af63-4b28-bfa0-73cad763efea
 ---
 {nav}
 
 # Fondue suiza
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

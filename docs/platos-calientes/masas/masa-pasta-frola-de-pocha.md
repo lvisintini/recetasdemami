@@ -2,17 +2,18 @@
 title: Masa pasta frola de Pocha
 subtitle: {subtitle}
 slug: masa-pasta-frola-de-pocha
-uuid: 849010e9-9aa1-4916-a162-4a385f9c46c2
+uuid: 92894330-b128-4906-89b4-c680e4d604bc
 ---
 {nav}
 
 # Masa pasta frola de Pocha
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

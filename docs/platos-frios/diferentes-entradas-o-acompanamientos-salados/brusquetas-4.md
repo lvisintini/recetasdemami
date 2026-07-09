@@ -2,17 +2,18 @@
 title: Brusquetas 4
 subtitle: {subtitle}
 slug: brusquetas-4
-uuid: 7ed2e6ab-5828-4efd-899d-c44dadb947e4
+uuid: adeb39b2-5d11-4516-9ee2-80e05316d517
 ---
 {nav}
 
 # Brusquetas 4
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

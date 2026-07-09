@@ -2,17 +2,18 @@
 title: Grog de miel
 subtitle: {subtitle}
 slug: grog-de-miel
-uuid: 32f2fe43-b18b-4569-a1c8-8079398b75b4
+uuid: 093c80e8-50f0-4ef6-87c1-cd20de7e7855
 ---
 {nav}
 
 # Grog de miel
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

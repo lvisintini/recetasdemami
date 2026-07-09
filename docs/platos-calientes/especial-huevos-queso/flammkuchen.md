@@ -2,17 +2,18 @@
 title: Flammkuchen
 subtitle: {subtitle}
 slug: flammkuchen
-uuid: 79f31bb7-9751-49d3-a310-3d44fc3d3449
+uuid: 59418d1a-ae75-4960-8bb6-0ab6afa9ad5f
 ---
 {nav}
 
 # Flammkuchen
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

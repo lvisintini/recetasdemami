@@ -2,17 +2,18 @@
 title: Tarteletas dulces
 subtitle: {subtitle}
 slug: tarteletas-dulces
-uuid: b5ac3b87-fd53-40b0-943a-84304524049b
+uuid: 6a13bdd1-6679-4f09-b8fb-35d57f36e8d6
 ---
 {nav}
 
 # Tarteletas dulces
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

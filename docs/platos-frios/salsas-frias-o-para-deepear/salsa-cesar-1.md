@@ -2,17 +2,18 @@
 title: Salsa Cesar 1
 subtitle: {subtitle}
 slug: salsa-cesar-1
-uuid: ce450b3b-460d-4797-92d5-e83813c8e75a
+uuid: af0c1284-2abb-4dd0-8b2c-5257b04fdc8c
 ---
 {nav}
 
 # Salsa Cesar 1
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

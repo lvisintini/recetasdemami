@@ -2,17 +2,18 @@
 title: Pollo a la Haiti
 subtitle: {subtitle}
 slug: pollo-a-la-haiti
-uuid: b595572f-8c1d-4610-8dd1-f4ea83bc15d0
+uuid: 474c8bb2-fa11-486b-9967-6587942288d0
 ---
 {nav}
 
 # Pollo a la Haiti.
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

@@ -2,17 +2,18 @@
 title: Niños envueltos a la cacerola
 subtitle: {subtitle}
 slug: ninos-envueltos-a-la-cacerola
-uuid: d71e8197-a8bb-4b2f-8b38-7956903b48d8
+uuid: 97197f3f-9825-445e-8f43-c5228d33745e
 ---
 {nav}
 
 # Niños envueltos a la cacerola
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

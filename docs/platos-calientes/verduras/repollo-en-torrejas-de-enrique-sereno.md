@@ -2,17 +2,18 @@
 title: Repollo en torrejas de Enrique Sereno
 subtitle: {subtitle}
 slug: repollo-en-torrejas-de-enrique-sereno
-uuid: 5ce6c6e6-be3d-4cef-b749-e70367095258
+uuid: 867cdfc5-c7cb-4a1b-9511-618d0e2480b8
 ---
 {nav}
 
 # Repollo en torrejas de Enrique Sereno
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 

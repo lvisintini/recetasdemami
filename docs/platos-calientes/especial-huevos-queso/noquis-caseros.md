@@ -2,17 +2,18 @@
 title: Ñoquis caseros
 subtitle: {subtitle}
 slug: noquis-caseros
-uuid: 7ec74e03-9019-410a-8f5e-d393a63e75c7
+uuid: 66d4dc08-b5df-49e8-9aa6-96fbcc7d5055
 ---
 {nav}
 
 # Ñoquis caseros
 
-- **Crédito(s):**
-- **Tiempo de Preparación Estimado:**
-- **Tiempo de Cocción Estimado:**
-- **Raciones:**
-- **Dificultad:**
+Summary
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
 
 ## Ingredientes
 
