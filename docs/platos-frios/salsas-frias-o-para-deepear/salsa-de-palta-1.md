@@ -1,27 +1,25 @@
 ---
-title: Salsa de Palta 1
-subtitle: {subtitle}
 slug: salsa-de-palta-1
-uuid: b3ac3fd4-6236-4fc3-bd00-bca336c7563f
+uuid: d9fee4af-1b43-4edd-99a3-9fbf1b1cdf67
 ---
 {nav}
 
-# Salsa de Palta 1
-
-Summary
+## Salsa de Palta 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -34,6 +32,5 @@ Licuar:
 - Pimienta
 
 
-## Variantes
-
+### Variantes
 

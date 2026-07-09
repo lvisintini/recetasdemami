@@ -1,27 +1,25 @@
 ---
-title: Spekulatius
-subtitle: {subtitle}
 slug: spekulatius
-uuid: 6e6e9a57-cddc-4a49-b661-1b7469cc968c
+uuid: 7033e94f-6459-4e37-89f4-25406ff95005
 ---
 {nav}
 
-# Spekulatius
-
-Summary
+## Spekulatius
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 355 gr harina
@@ -61,6 +59,5 @@ Pasar a la bandeja de horno (cubierto con papel manteca) utilizando espátula.
 Llevar al horno a 180°C por 10 minutos. Dejar entibiar antes de retirarlas.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Buñuelos de papa y queso
-subtitle: {subtitle}
 slug: bunuelos-de-papa-y-queso
-uuid: af12b98a-20f9-4b11-b8c7-b509124c58b2
+uuid: 71953963-c579-482d-a5b3-5787e1ae9b8e
 ---
 {nav}
 
-# Buñuelos de papa y queso
-
-Summary
+## Buñuelos de papa y queso
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner en un bol 3 tazas de harina leudante
 
@@ -36,6 +34,5 @@ Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se
 Servir caliente.
 
 
-## Variantes
-
+### Variantes
 

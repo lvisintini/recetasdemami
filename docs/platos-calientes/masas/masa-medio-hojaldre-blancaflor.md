@@ -1,27 +1,25 @@
 ---
-title: Masa medio hojaldre blancaflor
-subtitle: {subtitle}
 slug: masa-medio-hojaldre-blancaflor
-uuid: 11200e4b-2040-4e22-a2a7-e5b7c21caa9d
+uuid: eddb62a4-7471-42ec-8cb6-471f2d14a3e8
 ---
 {nav}
 
-# Masa medio hojaldre blancaflor
-
-Summary
+## Masa medio hojaldre blancaflor
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 2 ½ taza de harina blancaflor (300 gr), 200 gr manteca y ½ taza agua fría (125 cm3)
 
@@ -34,6 +32,5 @@ Los elementos que se usen deben estar fríos, tocar la masa lo menos posible. Co
 Con esta masa se pueden hacer palmeritas, rellenar con frutas, hacer cañoncitos (enroscando tiras de masa en cilindros), pascualina, vol-au-vent, torta 1000 hojas (pinchar cada disco de masa antes de cocinar) con dulce de leche
 
 
-## Variantes
-
+### Variantes
 

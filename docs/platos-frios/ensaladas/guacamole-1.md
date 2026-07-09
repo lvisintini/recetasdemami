@@ -1,31 +1,28 @@
 ---
-title: Guacamole 1
-subtitle: {subtitle}
 slug: guacamole-1
-uuid: fb9438c1-5f75-4f41-9c99-6cd1aa3c7a95
+uuid: 70fe545a-839b-4a77-9162-c0d923fd618b
 ---
 {nav}
 
-# Guacamole 1
-
-Summary
+## Guacamole 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1 palta, 1 tomate, 1 cucharada de cebolla verdeo, jugo de limón, aceite oliva, sal.
 
 
-## Variantes
-
+### Variantes
 

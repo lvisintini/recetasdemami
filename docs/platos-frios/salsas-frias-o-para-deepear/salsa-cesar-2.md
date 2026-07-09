@@ -1,27 +1,25 @@
 ---
-title: Salsa Cesar 2
-subtitle: {subtitle}
 slug: salsa-cesar-2
-uuid: 89e65023-ec56-4d46-b940-be5fb5614cea
+uuid: 2c0700b8-bb03-4c33-996a-90d3b1a79fc7
 ---
 {nav}
 
-# Salsa Cesar 2
-
-Summary
+## Salsa Cesar 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -38,6 +36,5 @@ Licuar:
 - Jugo de limón (Opcional)
 
 
-## Variantes
-
+### Variantes
 

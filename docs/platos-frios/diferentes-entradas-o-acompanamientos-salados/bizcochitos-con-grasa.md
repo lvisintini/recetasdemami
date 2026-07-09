@@ -1,27 +1,25 @@
 ---
-title: Bizcochitos con grasa
-subtitle: {subtitle}
 slug: bizcochitos-con-grasa
-uuid: 8f7b2132-8f17-4e08-a384-94a2361d73c8
+uuid: 19ea4bd6-5da1-4742-8dcc-ed62b90d32f5
 ---
 {nav}
 
-# Bizcochitos con grasa
-
-Summary
+## Bizcochitos con grasa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -38,6 +36,5 @@ Se estira dejándola de ½ cm de espesor y se cortan los bizcochos.
 Pincharlos con un tenedor y cocinarlos en horno caliente durante 15 minutos.
 
 
-## Variantes
-
+### Variantes
 

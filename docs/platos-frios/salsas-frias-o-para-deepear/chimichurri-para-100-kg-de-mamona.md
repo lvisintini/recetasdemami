@@ -1,27 +1,25 @@
 ---
-title: Chimichurri para 100 kg de Mamona
-subtitle: {subtitle}
 slug: chimichurri-para-100-kg-de-mamona
-uuid: 7e1aa68a-f0ac-41d3-9112-c79737d29f5e
+uuid: 2a95c07f-8ce5-4baa-9c0c-8b2acfba2b42
 ---
 {nav}
 
-# Chimichurri para 100 kg de Mamona
-
-Summary
+## Chimichurri para 100 kg de Mamona
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Procesar:
 
@@ -39,6 +37,5 @@ Cocinar en el horno agregando vino tinto o caldo de carne.
 Por último agregarle la salsa y cocinar hasta que esté tierna
 
 
-## Variantes
-
+### Variantes
 

@@ -1,32 +1,29 @@
 ---
-title: Ensaladas
-subtitle: {subtitle}
 slug: ensaladas
-uuid: 5be4ba3e-89c9-4c07-832f-01cf821cd564
+uuid: 9bd96ea2-8f56-49b9-8a21-9f076489fe56
 ---
 {nav}
 
-# Ensaladas
-
-Summary
+## Ensaladas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.
 
 
-## Variantes
-
+### Variantes
 

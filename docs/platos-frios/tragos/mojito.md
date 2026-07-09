@@ -1,27 +1,25 @@
 ---
-title: Mojito
-subtitle: {subtitle}
 slug: mojito
-uuid: 39860180-ae61-4ead-84a2-bfa2c96ef310
+uuid: 6f0e09df-2f5f-4a94-a74a-010eaef844f1
 ---
 {nav}
 
-# Mojito
-
-Summary
+## Mojito
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Machacar:
@@ -39,6 +37,5 @@ Puede agregarse seven up.
 Decorar con hojitas de menta.
 
 
-## Variantes
-
+### Variantes
 

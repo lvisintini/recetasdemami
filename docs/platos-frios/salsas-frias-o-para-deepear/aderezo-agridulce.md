@@ -1,27 +1,25 @@
 ---
-title: Aderezo Agridulce
-subtitle: {subtitle}
 slug: aderezo-agridulce
-uuid: 09143466-26f3-425c-b6c4-95479553f711
+uuid: 48e032ee-4393-49ed-9b49-1abf4dda0701
 ---
 {nav}
 
-# Aderezo Agridulce
-
-Summary
+## Aderezo Agridulce
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Para la ensalada de papas hervidas.
 
@@ -34,6 +32,5 @@ Para la ensalada de papas hervidas.
 - 1 cdita sal.
 
 
-## Variantes
-
+### Variantes
 

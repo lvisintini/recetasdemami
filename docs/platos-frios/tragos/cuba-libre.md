@@ -1,27 +1,25 @@
 ---
-title: Cuba libre
-subtitle: {subtitle}
 slug: cuba-libre
-uuid: a1e08a92-84f8-4587-8276-17c275167956
+uuid: 0cae3531-de1f-40e0-9775-d26d5c91ad7e
 ---
 {nav}
 
-# Cuba libre
-
-Summary
+## Cuba libre
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 medida de ron
@@ -31,6 +29,5 @@ Summary
 Decorar con 2 rodajas de limón
 
 
-## Variantes
-
+### Variantes
 

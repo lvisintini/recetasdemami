@@ -1,31 +1,28 @@
 ---
-title: Hueso perdido
-subtitle: {subtitle}
 slug: hueso-perdido
-uuid: d74cd219-4417-4d2f-9734-b21ab3fd8a84
+uuid: 9e31b105-982f-4b2b-aa23-5b9afb0d0229
 ---
 {nav}
 
-# Hueso perdido
-
-Summary
+## Hueso perdido
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 naranja, cebolla (previamente pasada por agua caliente) o ciboulette, zanahoria, mayonesa. Aceitunas.
 
 
-## Variantes
-
+### Variantes
 

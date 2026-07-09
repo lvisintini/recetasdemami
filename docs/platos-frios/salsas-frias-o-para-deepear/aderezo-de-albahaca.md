@@ -1,27 +1,25 @@
 ---
-title: Aderezo de Albahaca
-subtitle: {subtitle}
 slug: aderezo-de-albahaca
-uuid: 44ec7fd3-7c1c-4c00-ab1c-ae3770e63c49
+uuid: 6e894f1f-4751-4a92-8251-4e23a98f4c53
 ---
 {nav}
 
-# Aderezo de Albahaca
-
-Summary
+## Aderezo de Albahaca
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -33,6 +31,5 @@ Licuar:
 - Sal
 
 
-## Variantes
-
+### Variantes
 

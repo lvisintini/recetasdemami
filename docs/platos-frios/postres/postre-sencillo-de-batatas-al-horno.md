@@ -1,27 +1,25 @@
 ---
-title: Postre sencillo de batatas al horno
-subtitle: {subtitle}
 slug: postre-sencillo-de-batatas-al-horno
-uuid: 7f89b5fd-fb0c-4452-9eb6-7f96734939df
+uuid: bd4fc9a5-6485-4ce8-a355-8f92b5d39ad6
 ---
 {nav}
 
-# Postre sencillo de batatas al horno
-
-Summary
+## Postre sencillo de batatas al horno
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Enmantecar una asadera y colocar una capa de batatas cortadas en rodajas.
 
@@ -34,6 +32,5 @@ No pasarse con la leche.
 Llevar 1 hora en horno moderado.
 
 
-## Variantes
-
+### Variantes
 

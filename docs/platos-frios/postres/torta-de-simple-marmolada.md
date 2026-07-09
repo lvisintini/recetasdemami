@@ -1,27 +1,25 @@
 ---
-title: Torta de simple marmolada
-subtitle: {subtitle}
 slug: torta-de-simple-marmolada
-uuid: 3669be99-2138-417a-b3ab-9f94fc7e5652
+uuid: 2ab41565-ceef-44c9-9394-c681e4c25d9c
 ---
 {nav}
 
-# Torta de simple marmolada
-
-Summary
+## Torta de simple marmolada
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Se ablanda 100 gr de manteca y se agrega 1 ¼ taza de azúcar.
 
@@ -41,6 +39,5 @@ Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
 
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Salsa de anchoas 2
-subtitle: {subtitle}
 slug: salsa-de-anchoas-2
-uuid: 1b9db66f-b009-47c0-afb2-f1d417946381
+uuid: 465f7576-eb12-4057-9f34-9495e615174e
 ---
 {nav}
 
-# Salsa de anchoas 2
-
-Summary
+## Salsa de anchoas 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -33,6 +31,5 @@ Licuar:
 - Crema de leche (Para suavizar si hace falta)
 
 
-## Variantes
-
+### Variantes
 

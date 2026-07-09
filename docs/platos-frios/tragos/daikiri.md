@@ -1,27 +1,25 @@
 ---
-title: Daikiri
-subtitle: {subtitle}
 slug: daikiri
-uuid: e9066a07-4f3a-4648-b5ba-c79ec285e4c9
+uuid: 4370bf3d-b2b6-44df-86ae-e7f7ab439061
 ---
 {nav}
 
-# Daikiri
-
-Summary
+## Daikiri
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 ½ ron
@@ -32,6 +30,5 @@ Summary
 Escarchar el vaso con jugo de limón y azúcar.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,33 +1,30 @@
 ---
-title: Flout
-subtitle: {subtitle}
 slug: flout
-uuid: c56f93bd-955c-450a-ab72-f3a26d3abf79
+uuid: 9b6cb4e9-1007-4064-ad76-cad7e574db81
 ---
 {nav}
 
-# Flout
-
-Summary
+## Flout
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Se pisa bien la papa cocida, se puede agragar un poco de agua, y se le agrega harina mezclando bien sobre el fuego.
 
 Cuando tiene cierta consistencia se fríe en manteca.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Negroni
-subtitle: {subtitle}
 slug: negroni
-uuid: ace57880-f783-4ea4-98c2-cea49b1c5de3
+uuid: 61307ac3-076e-44bd-80e1-79a2bbe36c28
 ---
 {nav}
 
-# Negroni
-
-Summary
+## Negroni
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - Una medida (30 cc) de gin
@@ -31,6 +29,5 @@ Summary
 - Una rodaja de naranja
 
 
-## Variantes
-
+### Variantes
 

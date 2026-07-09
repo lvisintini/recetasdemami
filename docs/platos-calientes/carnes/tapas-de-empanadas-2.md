@@ -1,27 +1,25 @@
 ---
-title: Tapas de empanadas 2
-subtitle: {subtitle}
 slug: tapas-de-empanadas-2
-uuid: e7c790bc-cd82-43b4-b3b6-4b3a7fcae484
+uuid: 66e7432c-ffe4-45cc-bb8f-c49a16d0673c
 ---
 {nav}
 
-# Tapas de empanadas 2
-
-Summary
+## Tapas de empanadas 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y una taza de salmuera tibia. se va ingresando de a poco la harina a la mezcla del centro, hasta formar una masa flexible. Se estira sobre la mesada dejándola de 1,5 a 2mm de espesor y se corta en discos de 11 a 12 cm de diámetro.
 
@@ -39,6 +37,5 @@ Si se quiere agridulce, agregar a la cocción pasas de uva sin semilla y algo de
 Se fríen en grasa de cerdo y se sirven calientes.
 
 
-## Variantes
-
+### Variantes
 

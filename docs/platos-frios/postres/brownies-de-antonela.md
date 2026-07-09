@@ -1,27 +1,25 @@
 ---
-title: Brownies de Antonela
-subtitle: {subtitle}
 slug: brownies-de-antonela
-uuid: 7bb3f843-eb4f-4522-85b5-5de67d625be4
+uuid: 0a641b44-f20c-49c8-ba9a-dd1dd5a193bc
 ---
 {nav}
 
-# Brownies de Antonela
-
-Summary
+## Brownies de Antonela
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 150 grs. de manteca
@@ -44,6 +42,5 @@ Verificar que estén listos clavandoles un palillo y sacándolo limpio.
 A los 25 minutos aproximadamente están listos.
 
 
-## Variantes
-
+### Variantes
 

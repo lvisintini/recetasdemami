@@ -1,27 +1,25 @@
 ---
-title: Torta de queso y cebolla
-subtitle: {subtitle}
 slug: torta-de-queso-y-cebolla
-uuid: fcf41af8-afd3-4e51-8017-9240715d8b97
+uuid: 091522a4-dacc-4689-bd72-88c3c942bc9d
 ---
 {nav}
 
-# Torta de queso y cebolla (muy buena)
-
-Summary
+## Torta de queso y cebolla (muy buena)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Puede usarse la masa de tarta de vir o la siguiente, pero pre cocinarlas antes de rellenarlas.
 
@@ -32,6 +30,5 @@ Saltear en 2 cucharadas de manteca 2 o 3 cebollas cortadas finitas, sin dorar. u
 Se baten 3 huevos con sal y pimienta, 1 taza de queso rallado y ½ taza de crema de leche o leche. Todo ese líquido se pone sobre las cebollas y se lleva a horno moderado por 45 minutos aproximadamente.
 
 
-## Variantes
-
+### Variantes
 

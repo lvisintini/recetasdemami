@@ -1,31 +1,28 @@
 ---
-title: Marroki
-subtitle: {subtitle}
 slug: marroki
-uuid: 76cfee55-64e1-49b8-b38f-442966e955aa
+uuid: 5e769d54-616b-4c84-aead-1d26d8deb416
 ---
 {nav}
 
-# Marroki
-
-Summary
+## Marroki
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Rúcula, tomate, semillas de girasol, champiñones salteados, queso gruyere, sal, aceite de oliva, aceto.
 
 
-## Variantes
-
+### Variantes
 

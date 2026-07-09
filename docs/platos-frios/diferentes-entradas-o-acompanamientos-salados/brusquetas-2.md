@@ -1,31 +1,28 @@
 ---
-title: Brusquetas 2
-subtitle: {subtitle}
 slug: brusquetas-2
-uuid: 97c492f7-2f61-4746-8be6-6ecfd04e5204
+uuid: 7ff94707-95f8-4322-8ce3-bf192dda151f
 ---
 {nav}
 
-# Brusquetas 2
-
-Summary
+## Brusquetas 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 tostada frotada con ajo, palta, huevo en rodajas, sal, ají molido, perejil.
 
 
-## Variantes
-
+### Variantes
 

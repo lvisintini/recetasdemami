@@ -1,27 +1,25 @@
 ---
-title: Bacardi limón
-subtitle: {subtitle}
 slug: bacardi-limon
-uuid: a41ca6e1-57f9-4c4f-b67c-5b1786020690
+uuid: 4941a6e3-eb50-4df0-b62b-3c5b52807c70
 ---
 {nav}
 
-# Bacardi limón
-
-Summary
+## Bacardi limón
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -31,6 +29,5 @@ Licuar:
 - 2 cucharadas de azúcar
 
 
-## Variantes
-
+### Variantes
 

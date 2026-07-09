@@ -1,27 +1,25 @@
 ---
-title: Humita
-subtitle: {subtitle}
 slug: humita
-uuid: de7a594c-a228-4c07-916e-8d21dd4569d4
+uuid: 3a25f536-132e-4b7e-986a-db6c9a8fb043
 ---
 {nav}
 
-# Humita
-
-Summary
+## Humita
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Saltear en aceite una cebolla finamente picada, agregar 1 aji, 1 tomate picado y 1 taza de caldo de carne, cocinar hasta que se logre una salsa liviana. ingresar una lata de choclos, sal y pimienta.
 
@@ -34,6 +32,5 @@ Si es posible, la humita se sirve envuelta en hojas de la chala y se calienta al
 Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla.
 
 
-## Variantes
-
+### Variantes
 

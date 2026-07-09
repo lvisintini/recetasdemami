@@ -1,31 +1,28 @@
 ---
-title: Nicoise
-subtitle: {subtitle}
 slug: nicoise
-uuid: d98bc6ad-37ea-493d-92b4-f41409dcadc0
+uuid: 0e26f780-8a37-4ca5-935d-33ea3e92dbab
 ---
 {nav}
 
-# Nicoise
-
-Summary
+## Nicoise
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 chauchas hervidas, huevo duro, cibulette, aceitunas verdes, perejil, rayadura gruesa de limón, aceto, aceite de oliva y sal.
 
 
-## Variantes
-
+### Variantes
 

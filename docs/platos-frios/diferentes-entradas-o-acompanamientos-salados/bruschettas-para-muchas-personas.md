@@ -1,27 +1,25 @@
 ---
-title: Bruschettas para muchas personas
-subtitle: {subtitle}
 slug: bruschettas-para-muchas-personas
-uuid: e121b7bf-f965-4166-b14e-894cc9f3adb1
+uuid: 292931b7-0103-4b38-8f42-0d65ed72d6a5
 ---
 {nav}
 
-# Bruschettas para muchas personas.
-
-Summary
+## Bruschettas para muchas personas.
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner 10 rebanadas de pan sobre una fuente para horno.
 
@@ -34,6 +32,5 @@ Condimentar con sal marina, hierbas aromáticas y hojas de albahaca.
 Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Doughnuts de las tías maría y anita o donas
-subtitle: {subtitle}
 slug: doughnuts-de-las-tias-maria-y-anita-o-donas
-uuid: 769a90f8-6b31-4830-aff9-2771615a9e34
+uuid: fc4d7162-034c-4c19-8c1f-6027680a1c41
 ---
 {nav}
 
-# Doughnuts de las tías maría y anita o donas
-
-Summary
+## Doughnuts de las tías maría y anita o donas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Se mezclan:
@@ -42,6 +40,5 @@ A esto se le agregan los elementos sólidos mezclados:
 Se extiende sobre la mesada con el palo de amasar, se corta en aros y se fríen en aceite o grasa de cerdo.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,31 +1,28 @@
 ---
-title: Pollo con champiñones
-subtitle: {subtitle}
 slug: pollo-con-champinones
-uuid: 067cecda-aa66-4b57-ad00-b34d291b9de0
+uuid: 9a082bae-c5ca-4074-9146-7f986717cbce
 ---
 {nav}
 
-# Pollo con champiñones
-
-Summary
+## Pollo con champiñones
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Condimentar con sal, pimienta, ajo picado, y orégano las presas de pollo. dorarlas en aceite. agregar vino blanco seco y caldo. continuar la cocción y, 3 minutos antes de terminar, añadir los champignones cortados en láminas, por último incorporar crema de leche o queso crema y salpicar con perejil picado.
 
 
-## Variantes
-
+### Variantes
 

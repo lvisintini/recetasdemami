@@ -1,27 +1,25 @@
 ---
-title: Gulasch
-subtitle: {subtitle}
 slug: gulasch
-uuid: c931f510-1212-4de7-86f3-0e6be9487dcb
+uuid: 16195526-4fc1-43d1-b9fe-d7799577b6d9
 ---
 {nav}
 
-# Gulasch
-
-Summary
+## Gulasch
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 ½ litro agua,½ kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, aji molido, pimienta.
 
@@ -32,6 +30,5 @@ Diluir el caldito y el polvo gulasch en el agua caliente e ingresarlo a la carne
 Acompañar con papas o arroz hervido.
 
 
-## Variantes
-
+### Variantes
 

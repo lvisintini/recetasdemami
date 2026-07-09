@@ -1,27 +1,25 @@
 ---
-title: Salsa Roquefort
-subtitle: {subtitle}
 slug: salsa-roquefort
-uuid: 803bf668-a05a-42ed-bc5d-5c9c330ec8fa
+uuid: 72645866-5bbd-4ea2-8ce5-00873866c2a9
 ---
 {nav}
 
-# Salsa Roquefort
-
-Summary
+## Salsa Roquefort
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 A una salsa blanca liviana añadir el queso roquefort hasta disolver.
 
@@ -30,6 +28,5 @@ Para ¼ l de leche, 150 grs de queso.
 Sobre esta salsa se puede agregar nueces picadas y queso rallado para hornear y gratinar.
 
 
-## Variantes
-
+### Variantes
 

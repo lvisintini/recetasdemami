@@ -1,27 +1,25 @@
 ---
-title: Waffles
-subtitle: {subtitle}
 slug: waffles
-uuid: 6fe9f30b-ea5e-455d-9cfb-7598036fb1b1
+uuid: ea2ddf11-39ab-42e2-9f52-e5d0e72fca90
 ---
 {nav}
 
-# Waffles
-
-Summary
+## Waffles
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - ½ taza harina común
@@ -41,6 +39,5 @@ Summary
 - 1 ½ taza Leche
 
 
-## Variantes
-
+### Variantes
 

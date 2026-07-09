@@ -1,27 +1,25 @@
 ---
-title: Salsa de queso 1
-subtitle: {subtitle}
 slug: salsa-de-queso-1
-uuid: dca36264-47e9-42e1-9e0c-42ed6a067138
+uuid: 8a045643-e681-4baa-a982-fc7e47522eef
 ---
 {nav}
 
-# Salsa de queso 1
-
-Summary
+## Salsa de queso 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Derretir 2 cucharadas de manteca, agregarle 2 cucharadas de harina y mezclar hasta obtener una pasta.
 
@@ -34,6 +32,5 @@ Cocinar hasta que se derrita
 Condimentar con sal, pimienta y ½ cucharadita de mostaza.
 
 
-## Variantes
-
+### Variantes
 

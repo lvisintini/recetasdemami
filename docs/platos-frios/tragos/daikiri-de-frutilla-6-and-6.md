@@ -1,27 +1,25 @@
 ---
-title: Daikiri de frutilla 6 and 6
-subtitle: {subtitle}
 slug: daikiri-de-frutilla-6-and-6
-uuid: de5ce9ea-a155-464b-83f0-18b9433a5686
+uuid: f0580961-c7fb-40fb-bcbc-36b36ab4efee
 ---
 {nav}
 
-# Daikiri de frutilla 6 and 6
-
-Summary
+## Daikiri de frutilla 6 and 6
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 de ron
@@ -30,6 +28,5 @@ Summary
 - jugo de limón
 
 
-## Variantes
-
+### Variantes
 

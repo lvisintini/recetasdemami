@@ -1,27 +1,25 @@
 ---
-title: Omelette
-subtitle: {subtitle}
 slug: omelette
-uuid: 9b16b107-9b2a-4947-9715-a036e0634dd1
+uuid: ba657182-626d-4b4f-a01c-e8d42eb0fc43
 ---
 {nav}
 
-# Omelette
-
-Summary
+## Omelette
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimienta, se pueden hacer otras variaciones:
 
@@ -31,6 +29,5 @@ A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimient
 - Jamón, tomate, cebolla,nuez moscada.
 
 
-## Variantes
-
+### Variantes
 

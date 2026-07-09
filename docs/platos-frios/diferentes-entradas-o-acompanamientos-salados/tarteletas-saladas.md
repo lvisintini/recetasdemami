@@ -1,27 +1,25 @@
 ---
-title: Tarteletas saladas
-subtitle: {subtitle}
 slug: tarteletas-saladas
-uuid: 49601b80-3904-4d98-9ebc-852fb3fff715
+uuid: 1d428baf-9e8e-4880-a142-88f04551daba
 ---
 {nav}
 
-# Tarteletas saladas
-
-Summary
+## Tarteletas saladas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hacer una masa con:
 
@@ -39,6 +37,5 @@ Pinchar el fondo y los costados para que mantenga la forma y llevar a horno a 18
 Usar cualquiera de los rellenos salados
 
 
-## Variantes
-
+### Variantes
 

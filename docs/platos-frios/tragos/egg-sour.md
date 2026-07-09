@@ -1,27 +1,25 @@
 ---
-title: Egg sour
-subtitle: {subtitle}
 slug: egg-sour
-uuid: a20dbbce-4102-454c-b69e-067e0d338de4
+uuid: 4f5427e8-f752-4c7d-be6d-c602e4b63c2d
 ---
 {nav}
 
-# Egg sour
-
-Summary
+## Egg sour
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Poner en la batidora:
@@ -36,6 +34,5 @@ Poner en la batidora:
 Se sirve frío y con una rodaja de naranja.
 
 
-## Variantes
-
+### Variantes
 

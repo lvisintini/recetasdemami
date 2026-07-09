@@ -1,27 +1,25 @@
 ---
-title: Resfriados
-subtitle: {subtitle}
 slug: resfriados
-uuid: 693e3041-c68f-4dce-9f86-afa7d933b0fd
+uuid: 3863e75a-e3d5-4385-ba92-c867e1aa67ea
 ---
 {nav}
 
-# Resfriados
-
-Summary
+## Resfriados
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Una Sopa:
@@ -40,6 +38,5 @@ Se pone todo a cocer a fuego lento por 5 minutos.
 El ajo ayuda a combatir infecciones virales y bacterianas de las vías respiratorias. Es más eficaz si se come crudo, agregar a la sopa al final, muy poco pues puede producir trastornos gastrointestinales.
 
 
-## Variantes
-
+### Variantes
 

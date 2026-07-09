@@ -1,27 +1,25 @@
 ---
-title: Torta de chocolate de Lili Morey
-subtitle: {subtitle}
 slug: torta-de-chocolate-de-lili-morey
-uuid: 0033f2ae-945f-456b-956b-4c87c30eaae2
+uuid: 7d9e42e1-6499-4865-adfc-e98117498e9f
 ---
 {nav}
 
-# Torta de chocolate de Lili Morey
-
-Summary
+## Torta de chocolate de Lili Morey
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Batir 200 gr de manteca con 200 gr de azúcar.
 
@@ -38,6 +36,5 @@ Por último poner las 4 claras batidas a punto nieve.
 Y al horno.
 
 
-## Variantes
-
+### Variantes
 

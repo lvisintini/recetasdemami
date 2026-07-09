@@ -1,27 +1,25 @@
 ---
-title: Bacardi banana
-subtitle: {subtitle}
 slug: bacardi-banana
-uuid: 7cac59f1-d5cc-487f-a23c-451a6a853e0d
+uuid: 3a2ffc3c-85c5-4ae3-bb10-c4799c97982f
 ---
 {nav}
 
-# Bacardi banana
-
-Summary
+## Bacardi banana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -32,6 +30,5 @@ Licuar:
 - 2 cucharadas de azúcar
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Rellenos dulces para crepes
-subtitle: {subtitle}
 slug: rellenos-dulces-para-crepes
-uuid: 1e2cd53f-6a14-4d5d-a55f-4a5332c339ed
+uuid: 636463a9-7f7c-42c4-9a40-9d602edf285c
 ---
 {nav}
 
-# Rellenos dulces para crepes
-
-Summary
+## Rellenos dulces para crepes
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 1. Crema, azúcar, frutillas.
@@ -30,6 +28,5 @@ Summary
 1. Ananá, azúcar negra, crema, mani.
 
 
-## Variantes
-
+### Variantes
 

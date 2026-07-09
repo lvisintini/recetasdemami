@@ -1,33 +1,30 @@
 ---
-title: Tostadas francesas o ropa vieja
-subtitle: {subtitle}
 slug: tostadas-francesas-o-ropa-vieja
-uuid: 234a9114-b34e-44de-8628-2d7ac0bfa21a
+uuid: 7ebf8a54-3ce5-4837-bc28-ea4df88674f1
 ---
 {nav}
 
-# Tostadas francesas o ropa vieja
-
-Summary
+## Tostadas francesas o ropa vieja
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pasar rodajas de pan por leche con azúcar, luego por huevo batido y después freírlos en aceite.
 
 Servirlos con miel, kero, chocolate, caramelo líquido o dulce.
 
 
-## Variantes
-
+### Variantes
 

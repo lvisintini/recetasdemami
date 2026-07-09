@@ -1,27 +1,25 @@
 ---
-title: Daikiri frutilla
-subtitle: {subtitle}
 slug: daikiri-frutilla
-uuid: bbff6007-2c66-46a1-99b1-f886d08d4bfd
+uuid: 4e80e4fb-544e-43a1-83b9-d2554ac98aa9
 ---
 {nav}
 
-# Daikiri frutilla
-
-Summary
+## Daikiri frutilla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 6 frutillas
@@ -30,6 +28,5 @@ Summary
 - ½ taza de ron
 
 
-## Variantes
-
+### Variantes
 

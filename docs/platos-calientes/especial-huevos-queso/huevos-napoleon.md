@@ -1,27 +1,25 @@
 ---
-title: Huevos napoleon
-subtitle: {subtitle}
 slug: huevos-napoleon
-uuid: fa28f92a-c460-4a92-9df1-497244a18b5e
+uuid: 7bf4f9c1-d899-45da-b764-44c1ccae0e44
 ---
 {nav}
 
-# Huevos napoleon
-
-Summary
+## Huevos napoleon
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Dorar en manteca: cebolla, ajo y pimiento picados.
 
@@ -30,6 +28,5 @@ Sobre una rodaja de pan colocar la mezcla anterior; sobre esta una rodaja de moz
 Llevar al horno a 180°C por 10 a 12 minutos.
 
 
-## Variantes
-
+### Variantes
 

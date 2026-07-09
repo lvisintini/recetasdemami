@@ -1,27 +1,25 @@
 ---
-title: Anzac masitas australianas
-subtitle: {subtitle}
 slug: anzac-masitas-australianas
-uuid: 05cfacc0-3524-4e94-91ed-6e19eb71815d
+uuid: b411231b-f569-432b-8edf-4e34ef4d2ca7
 ---
 {nav}
 
-# Anzac, masitas australianas
-
-Summary
+## Anzac, masitas australianas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 150 gr harina
@@ -49,6 +47,5 @@ Hornear por 12 a 15 minutos en horno a 170°C.
 Dejar entibiar (al principio están muy blandas y se pueden quebrar, utilizar espátula) antes de pasarlas a una rejilla para que se terminen de enfriar
 
 
-## Variantes
-
+### Variantes
 

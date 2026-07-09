@@ -1,27 +1,25 @@
 ---
-title: Quinoa
-subtitle: {subtitle}
 slug: quinoa
-uuid: 5b851bb1-25fa-480a-890d-4435d07c4de7
+uuid: ff42df91-6062-4aca-abe9-3ce0b6dee327
 ---
 {nav}
 
-# Quinoa
-
-Summary
+## Quinoa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Enjuagar rápidamente la quinoa con agua fría, solo una pasada, no dejarla en remojo.
 
@@ -30,6 +28,5 @@ Cocinarla en agua por 15 minutos aproximadamente: duplica su volumen y libera su
 ½ Taza de quinoa es para 2 personas.
 
 
-## Variantes
-
+### Variantes
 

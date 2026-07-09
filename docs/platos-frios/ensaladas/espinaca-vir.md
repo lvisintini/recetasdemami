@@ -1,31 +1,28 @@
 ---
-title: Espinaca Vir
-subtitle: {subtitle}
 slug: espinaca-vir
-uuid: 318f8139-27da-4a77-a8fe-f194e5e5f3c9
+uuid: 3d2c07d0-16a0-49e0-ba37-b6476bf22f60
 ---
 {nav}
 
-# Espinaca Vir
-
-Summary
+## Espinaca Vir
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Espinaca, atun, zanahoria, tomate, huevo, crutones.
 
 
-## Variantes
-
+### Variantes
 

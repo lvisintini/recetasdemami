@@ -1,27 +1,25 @@
 ---
-title: Salsa tartara
-subtitle: {subtitle}
 slug: salsa-tartara
-uuid: 1d1962c5-b925-478a-858f-064728e37f2d
+uuid: c457c264-e68c-44b6-bb9d-c375e56b0ca2
 ---
 {nav}
 
-# Salsa tartara
-
-Summary
+## Salsa tartara
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 - Mayonesa
 - Mostaza
@@ -31,6 +29,5 @@ Summary
 - Alcaparras
 
 
-## Variantes
-
+### Variantes
 

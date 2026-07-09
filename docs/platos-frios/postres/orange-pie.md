@@ -1,27 +1,25 @@
 ---
-title: Orange pie
-subtitle: {subtitle}
 slug: orange-pie
-uuid: b27d8443-0ac3-4057-97cb-4ffb35666b47
+uuid: b1af44ed-885d-4ce3-85ba-edc845031afb
 ---
 {nav}
 
-# Orange pie
-
-Summary
+## Orange pie
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Igual que el lemon pie, pero cambiando el relleno.
@@ -31,6 +29,5 @@ En un bols colocado a baño maria poner 1 huevo, 3 yemas, 3 cucharadas de azúca
 Cocinar hasta que tenga la consistencia adecuada.
 
 
-## Variantes
-
+### Variantes
 

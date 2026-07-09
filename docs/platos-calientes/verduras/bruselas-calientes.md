@@ -1,32 +1,29 @@
 ---
-title: Bruselas calientes
-subtitle: {subtitle}
 slug: bruselas-calientes
-uuid: b75970fe-33cf-4ddd-8fe5-a4ad05a80a4c
+uuid: e4154c06-cc4b-4e13-a673-a5ba36cebdf6
 ---
 {nav}
 
-# Bruselas calientes
-
-Summary
+## Bruselas calientes
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Cortar la base de los repollitos en cruz, hervirlos en agua y sal por 12 minutos. dorar en poco aceite cubos de jamón, agregar los repollitos, salpimentar y saltear unos minutos. Servir caliente.
 También queda bien con salsa holandesa.
 
 
-## Variantes
-
+### Variantes
 

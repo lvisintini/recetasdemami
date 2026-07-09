@@ -1,27 +1,25 @@
 ---
-title: Quiche lorraine de luigi
-subtitle: {subtitle}
 slug: quiche-lorraine-de-luigi
-uuid: 5cb6f4fb-e746-4f1b-bb1c-fea8e132f423
+uuid: 68535459-027e-44d8-8679-b6165d5a5e39
 ---
 {nav}
 
-# Quiche lorraine de luigi.
-
-Summary
+## Quiche lorraine de luigi.
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Masa para tarta, puede ser: 200 grs de harina,100 grs de manteca y 100 de agua salada. cocinarla un poco.
 
@@ -48,6 +46,5 @@ Continuar con el resto de los elementos, por capas: cebollas, queso. la crema re
 Llevar al horno caliente por 45 minutos.
 
 
-## Variantes
-
+### Variantes
 

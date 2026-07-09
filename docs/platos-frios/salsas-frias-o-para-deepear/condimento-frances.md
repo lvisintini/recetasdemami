@@ -1,27 +1,25 @@
 ---
-title: Condimento Frances
-subtitle: {subtitle}
 slug: condimento-frances
-uuid: 594f16d6-7586-48b5-8d92-a3f2c29a56b6
+uuid: 213592ed-60cf-4880-83e3-bf83b790380d
 ---
 {nav}
 
-# Condimento Frances
-
-Summary
+## Condimento Frances
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Para condimentar ensaladas en reemplazo del tradicional aceite, vinagre y sal.
 
@@ -35,6 +33,5 @@ Mezclar:
 - pimienta
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Palta agridulce 1
-subtitle: {subtitle}
 slug: palta-agridulce-1
-uuid: 046d8800-b3a4-440b-8ac8-82d29ed073d8
+uuid: 31e0a853-758e-4d73-9ef6-d4160aa42735
 ---
 {nav}
 
-# Palta agridulce 1
-
-Summary
+## Palta agridulce 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Palta, brocoli, frutilla, arandano.
 
@@ -29,6 +27,5 @@ Palta, brocoli, frutilla, arandano.
 Salsa de soja, aceite de oliva y jugo de limón.
 
 
-## Variantes
-
+### Variantes
 

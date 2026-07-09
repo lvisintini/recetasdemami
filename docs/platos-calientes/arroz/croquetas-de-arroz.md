@@ -1,27 +1,25 @@
 ---
-title: Croquetas de arroz
-subtitle: {subtitle}
 slug: croquetas-de-arroz
-uuid: 3a9479a5-3907-4155-ab62-c136375bc0f6
+uuid: 426f0140-bd80-4105-8a5b-b32d0903b8e9
 ---
 {nav}
 
-# Croquetas de arroz
-
-Summary
+## Croquetas de arroz
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Arroz hervido, huevo, polvo de hornear (importante), harina, cebollita de verdeo, queso rallado, sal, ají molido, perejil y pimienta.
 
@@ -32,6 +30,5 @@ Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se
 Servir caliente.
 
 
-## Variantes
-
+### Variantes
 

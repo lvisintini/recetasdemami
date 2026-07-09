@@ -1,27 +1,25 @@
 ---
-title: Salsa de hongos con sopa crema de hongos
-subtitle: {subtitle}
 slug: salsa-de-hongos-con-sopa-crema-de-hongos
-uuid: 4f884518-121b-45b1-9031-f697fc783807
+uuid: 72dacc21-3873-491e-b9dc-cce348367e5b
 ---
 {nav}
 
-# Salsa de hongos con sopa crema de hongos
-
-Summary
+## Salsa de hongos con sopa crema de hongos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Derretir 2 cucharadas de manteca.
 
@@ -32,6 +30,5 @@ Agregar 1 taza de sopa crema de hongos concentrada, ¼ taza de leche o crema de 
 Mezclar y cocinar hasta la consistencia adecuada.
 
 
-## Variantes
-
+### Variantes
 

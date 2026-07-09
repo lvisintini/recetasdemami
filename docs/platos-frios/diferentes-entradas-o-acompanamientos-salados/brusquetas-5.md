@@ -1,27 +1,25 @@
 ---
-title: Brusquetas 5
-subtitle: {subtitle}
 slug: brusquetas-5
-uuid: bac2096c-9754-43b3-979c-0128aae23734
+uuid: a58ae4cb-fe77-404d-a2ad-9e8dab223c86
 ---
 {nav}
 
-# Brusquetas 5
-
-Summary
+## Brusquetas 5
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Bruschetta de pan con salsa de queso
 
@@ -32,6 +30,5 @@ Se bate la manteca hasta que esté cremosa, se agregan los huevos de a uno, siem
 Se cubren las rebanadas de pan con una capa de ½ cm de espesor y se tuestan al horno.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,31 +1,28 @@
 ---
-title: Espinaca y frutillas
-subtitle: {subtitle}
 slug: espinaca-y-frutillas
-uuid: 6f619d51-f5a3-490c-9023-f5461191eef4
+uuid: 95651db3-5563-4408-8f0b-d83bac486846
 ---
 {nav}
 
-# Espinaca y frutillas
-
-Summary
+## Espinaca y frutillas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Espinacas, frutillas, azúcar, aceite de oliva, aceto, sal y pimienta.
 
 
-## Variantes
-
+### Variantes
 

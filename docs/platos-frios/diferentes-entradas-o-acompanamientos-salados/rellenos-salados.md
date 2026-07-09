@@ -1,27 +1,25 @@
 ---
-title: Rellenos Salados
-subtitle: {subtitle}
 slug: rellenos-salados
-uuid: eab3d048-a641-402a-ba05-25f09a7c9b1a
+uuid: 13cccb57-6b3c-4859-81dd-6d771f363f8e
 ---
 {nav}
 
-# Rellenos Salados
-
-Summary
+## Rellenos Salados
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Muchas recetas utilizan una variedad de rellenos salados.
@@ -47,6 +45,5 @@ Lo que sigue es una lista de opciones, pero también se puede usar la imaginaci�
 - Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morrón, aceite de oliva, sal y pimienta.
 
 
-## Variantes
-
+### Variantes
 

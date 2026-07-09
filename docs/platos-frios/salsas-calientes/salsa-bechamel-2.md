@@ -1,27 +1,25 @@
 ---
-title: Salsa Bechamel 2
-subtitle: {subtitle}
 slug: salsa-bechamel-2
-uuid: 3675591a-f6c4-437b-aba9-4ef5e8ed2e74
+uuid: 95465839-cfe7-4bb1-9fb2-794432f4dd21
 ---
 {nav}
 
-# Salsa Bechamel 2
-
-Summary
+## Salsa Bechamel 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 La preparación resultante de derretir manteca (125 gr) y cocinar la harina (125 gr) se llama Roux, una salsa base.
 
@@ -30,6 +28,5 @@ Si le echamos leche y crema de leche(1 litro) caliente (y cocinamos a fuego mín
 La diferencia entre salsa blanca y bechamel es que la primera se hace con leche. Y la segunda con crema de leche y leche (queda más suave).
 
 
-## Variantes
-
+### Variantes
 

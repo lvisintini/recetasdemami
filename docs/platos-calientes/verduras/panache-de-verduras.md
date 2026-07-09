@@ -1,27 +1,25 @@
 ---
-title: Panaché de verduras
-subtitle: {subtitle}
 slug: panache-de-verduras
-uuid: a2182174-56a5-4e83-bf68-8cdcc185cb24
+uuid: 39ca8b13-e7c3-42c6-a583-47f3051d8a73
 ---
 {nav}
 
-# Panaché de verduras
-
-Summary
+## Panaché de verduras
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner en una fuente diferentes verduras por capas según el gusto, puede ser: coliflor, zanahoria, papa, brócoli, chauchas, choclo, cebollitas de verdeo, arvejas, etc.
 
@@ -32,6 +30,5 @@ Como las verduras tienen diferentes tiempos de cocción, hay dos alternativas: h
 Llevar al horno hasta que se gratine todo.
 
 
-## Variantes
-
+### Variantes
 

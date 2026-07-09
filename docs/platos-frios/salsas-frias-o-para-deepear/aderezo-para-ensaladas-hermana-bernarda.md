@@ -1,27 +1,25 @@
 ---
-title: Aderezo para ensaladas hermana Bernarda
-subtitle: {subtitle}
 slug: aderezo-para-ensaladas-hermana-bernarda
-uuid: ff73245c-244e-4c03-ab61-63c40073f032
+uuid: 734549e6-dbc8-49b6-8294-6b235a9b0c9d
 ---
 {nav}
 
-# Aderezo para ensaladas hermana Bernarda
-
-Summary
+## Aderezo para ensaladas hermana Bernarda
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - 1 cucharadita de mostaza
 
 
-## Variantes
-
+### Variantes
 

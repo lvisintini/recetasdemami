@@ -1,27 +1,25 @@
 ---
-title: Salsa de pimiento
-subtitle: {subtitle}
 slug: salsa-de-pimiento
-uuid: 43beb894-b229-4439-b444-9c9ce3db7667
+uuid: aeced145-537a-45f9-9b7c-df3a81bae1bc
 ---
 {nav}
 
-# Salsa de pimiento
-
-Summary
+## Salsa de pimiento
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -33,6 +31,5 @@ Ingredientes:
 Cocinar a fuego suave.
 
 
-## Variantes
-
+### Variantes
 

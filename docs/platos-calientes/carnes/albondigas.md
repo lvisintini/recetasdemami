@@ -1,27 +1,25 @@
 ---
-title: Albondigas
-subtitle: {subtitle}
 slug: albondigas
-uuid: ba3ab572-189a-4798-afbc-6f55a2a5314d
+uuid: a12a715d-b963-4d8b-a284-a30e4ab51ca3
 ---
 {nav}
 
-# Albondigas
-
-Summary
+## Albondigas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 ½ cebolla rehogada, ¾ kg carne picada, 1 cucharada perejil picado,
 
@@ -32,6 +30,5 @@ Pasarlas por harina o pan rallado.
 Freírlas o cocinarlas en salsa.
 
 
-## Variantes
-
+### Variantes
 

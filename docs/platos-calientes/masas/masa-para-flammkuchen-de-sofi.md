@@ -1,27 +1,25 @@
 ---
-title: Masa para flammkuchen de Sofi
-subtitle: {subtitle}
 slug: masa-para-flammkuchen-de-sofi
-uuid: bb3fca29-51e6-4556-a8ca-e869b36378d8
+uuid: 51616cb2-d720-4916-a824-105e78216819
 ---
 {nav}
 
-# Masa para flammkuchen de Sofi
-
-Summary
+## Masa para flammkuchen de Sofi
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar 25 gr de levadura fresca con 1 cucharadita de azúcar , hasta que quede líquido.
 
@@ -30,6 +28,5 @@ Agregar 600 gr de harina, 1 cucharadita de sal, pimienta, 6 cucharadas de aceite
 Salen 4 tapas grandes y finitas.
 
 
-## Variantes
-
+### Variantes
 

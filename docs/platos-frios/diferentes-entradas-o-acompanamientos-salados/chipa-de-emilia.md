@@ -1,27 +1,25 @@
 ---
-title: Chipá de Emilia
-subtitle: {subtitle}
 slug: chipa-de-emilia
-uuid: 30d6d40c-5c9e-46db-9d5b-9a911730b32a
+uuid: ccf7f111-88c4-46fa-8050-388e9b84b333
 ---
 {nav}
 
-# Chipá de Emilia
-
-Summary
+## Chipá de Emilia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -51,6 +49,5 @@ Preferentemente comerlos tibios.
 Son los mas ricos.
 
 
-## Variantes
-
+### Variantes
 

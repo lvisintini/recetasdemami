@@ -1,27 +1,25 @@
 ---
-title: Coup de Milieu Tutti Frutti
-subtitle: {subtitle}
 slug: coup-de-milieu-tutti-frutti
-uuid: a9c2b577-031b-41f3-bbde-ed902e0aa3f0
+uuid: 29643c4b-6d77-4ee8-8e6a-d9e33ee26f7f
 ---
 {nav}
 
-# Coup de Milieu, Tutti Frutti
-
-Summary
+## Coup de Milieu, Tutti Frutti
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azúcar molida y una pizca de sal.
 
@@ -32,6 +30,5 @@ Retirar e incluir 2 claras batidas a nieve con 3 cucharadas de azúcar (merengue
 Si es necesario volver a enfriar y completar con sidra helada.
 
 
-## Variantes
-
+### Variantes
 

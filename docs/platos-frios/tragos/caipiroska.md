@@ -1,27 +1,25 @@
 ---
-title: Caipiroska
-subtitle: {subtitle}
 slug: caipiroska
-uuid: 5ba379e4-2541-4d90-a2d5-acd0a3b76092
+uuid: f72ebdd8-8396-403d-8cdd-9ce6fcb61a90
 ---
 {nav}
 
-# Caipiroska
-
-Summary
+## Caipiroska
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 limón o lima cortado en 4
@@ -31,6 +29,5 @@ Summary
 - 3 cubitos de hielo
 
 
-## Variantes
-
+### Variantes
 

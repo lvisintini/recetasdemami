@@ -1,27 +1,25 @@
 ---
-title: Bacardi lima limón
-subtitle: {subtitle}
 slug: bacardi-lima-limon
-uuid: cc2bebaa-746a-4b67-b7a2-ee996316ce96
+uuid: 39b20657-82e4-4cbb-af25-3f900db4a3a9
 ---
 {nav}
 
-# Bacardi lima limón
-
-Summary
+## Bacardi lima limón
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - 1 rodaja de limón
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Salsa Cesar 1
-subtitle: {subtitle}
 slug: salsa-cesar-1
-uuid: af0c1284-2abb-4dd0-8b2c-5257b04fdc8c
+uuid: bae25787-5269-4209-9a79-bd34a3b6b3c6
 ---
 {nav}
 
-# Salsa Cesar 1
-
-Summary
+## Salsa Cesar 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Machacar 1 diente de ajo con 50 grs anchoas.
 
@@ -32,6 +30,5 @@ Batir hasta lograr homogeneidad e incorporar 100 ml de aceite de girasol de a po
 Luego sumarle 2 cucharadas de queso parmesano y una pizca pimienta
 
 
-## Variantes
-
+### Variantes
 

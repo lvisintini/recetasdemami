@@ -1,27 +1,25 @@
 ---
-title: Panqueques
-subtitle: {subtitle}
 slug: panqueques
-uuid: 285284b6-0d6a-4421-9d05-b0c47456bb9e
+uuid: 63c6e090-29ee-4f52-99e0-9976d7846743
 ---
 {nav}
 
-# Panqueques (finitos)
-
-Summary
+## Panqueques (finitos)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 huevo
@@ -29,6 +27,5 @@ Summary
 - 600 de leche
 
 
-## Variantes
-
+### Variantes
 

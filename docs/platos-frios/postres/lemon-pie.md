@@ -1,27 +1,25 @@
 ---
-title: Lemon pie
-subtitle: {subtitle}
 slug: lemon-pie
-uuid: 6670f697-83d2-4c87-958b-11b8625fd924
+uuid: 3f81424c-ed61-43c9-aca8-cf7914acc55a
 ---
 {nav}
 
-# Lemon pie
-
-Summary
+## Lemon pie
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Masa
@@ -82,6 +80,5 @@ Luego de rellenada y merengada la tarta, se pone en horno suave por 10 a 15 minu
 
 
 
-## Variantes
-
+### Variantes
 

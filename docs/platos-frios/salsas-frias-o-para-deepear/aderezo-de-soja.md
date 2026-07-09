@@ -1,33 +1,30 @@
 ---
-title: Aderezo de Soja
-subtitle: {subtitle}
 slug: aderezo-de-soja
-uuid: b2d4620b-0545-4f41-879e-9cc7a3890b86
+uuid: 02e169af-caf7-45b7-9173-aba033f78f36
 ---
 {nav}
 
-# Aderezo de Soja
-
-Summary
+## Aderezo de Soja
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Para ensaladas de lechuga, zanahorias, etc.
 
 Salsa de soja, aceite de oliva y jugo de limón.
 
 
-## Variantes
-
+### Variantes
 

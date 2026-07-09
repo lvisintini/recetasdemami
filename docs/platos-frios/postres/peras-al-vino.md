@@ -1,27 +1,25 @@
 ---
-title: Peras al vino
-subtitle: {subtitle}
 slug: peras-al-vino
-uuid: 72a2cf32-076a-4022-9462-5c400c07235f
+uuid: 9e05195c-a977-4ec9-9b96-a8cf2d044f0b
 ---
 {nav}
 
-# Peras al vino
-
-Summary
+## Peras al vino
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 6 peras
@@ -38,6 +36,5 @@ Colocar todo en la cacerola, menos las peras y cuando comience a hervir echar la
 Cocinar por 45 minutos aproximadamente. Retirar las peras y reducir el líquido hasta un almíbar (para acompañar las peras).
 
 
-## Variantes
-
+### Variantes
 

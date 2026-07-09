@@ -1,27 +1,25 @@
 ---
-title: Sacher tarte
-subtitle: {subtitle}
 slug: sacher-tarte
-uuid: a55166b1-63bd-49b3-a9bf-f83fde93215c
+uuid: 040d2b11-7bc0-414a-acbd-b4243ba48927
 ---
 {nav}
 
-# Sacher tarte (torta de chocolate)
-
-Summary
+## Sacher tarte (torta de chocolate)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ablandar 140 gr de manteca y agregarla al batido de 6 yemas con 160 gr de azúcar impalpable.
 
@@ -42,6 +40,5 @@ También puede ser una mermelada de frutos rojos.
 Bañar con el Baño de chocolate de Mamama
 
 
-## Variantes
-
+### Variantes
 

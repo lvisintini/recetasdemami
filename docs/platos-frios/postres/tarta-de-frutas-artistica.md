@@ -1,27 +1,25 @@
 ---
-title: Tarta de frutas artística
-subtitle: {subtitle}
 slug: tarta-de-frutas-artistica
-uuid: 03df92ee-9a18-4e1e-9ab6-c9d13beaeed7
+uuid: a6c35e80-b2b9-49b4-8874-11dd1dbd82cf
 ---
 {nav}
 
-# Tarta de frutas artística
-
-Summary
+## Tarta de frutas artística
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Preparar la masa de la tarta de peras y forrar el molde dándole un reborde alto y cocinarla.
@@ -33,6 +31,5 @@ Disponer artísticamente rodajas de banana, uvas, manzanas, kiwi, ciruelas, dura
 Cubrir con gelatina a punto de cuajar, de naranja u otra fruta y llevar a la heladera.
 
 
-## Variantes
-
+### Variantes
 

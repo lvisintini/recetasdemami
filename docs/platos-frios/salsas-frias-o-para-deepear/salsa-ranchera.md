@@ -1,27 +1,25 @@
 ---
-title: Salsa ranchera
-subtitle: {subtitle}
 slug: salsa-ranchera
-uuid: 06bf4dd9-3b76-4e84-8a1b-5d6b479bb513
+uuid: b288fc7f-8723-4f81-aee0-36e016b81eab
 ---
 {nav}
 
-# Salsa ranchera
-
-Summary
+## Salsa ranchera
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 90 ml crema de leche
@@ -35,6 +33,5 @@ Summary
 - un poco de cebollita de verdeo
 
 
-## Variantes
-
+### Variantes
 

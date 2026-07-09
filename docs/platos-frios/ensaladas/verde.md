@@ -1,31 +1,28 @@
 ---
-title: Verde
-subtitle: {subtitle}
 slug: verde
-uuid: 27cc7023-0b32-48ee-99a4-9a56d63792fd
+uuid: d93f28ed-d8b3-4e1b-9fb2-065ef0fe410d
 ---
 {nav}
 
-# Verde
-
-Summary
+## Verde
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 queso de cabra, rúcula, lechuga, radicheta, tomates secos, aceitunas negras, croutones, aceite de oliva, aceto, sal.
 
 
-## Variantes
-
+### Variantes
 

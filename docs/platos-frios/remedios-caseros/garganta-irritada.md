@@ -1,27 +1,25 @@
 ---
-title: Garganta irritada
-subtitle: {subtitle}
 slug: garganta-irritada
-uuid: 55979688-0160-46e6-85a0-002e85503ba1
+uuid: 0df8d01c-d150-4112-a850-810ca1cadd6b
 ---
 {nav}
 
-# Garganta irritada
-
-Summary
+## Garganta irritada
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -35,6 +33,5 @@ No usar durante el período de embarazo.
 Emplear con precaución.
 
 
-## Variantes
-
+### Variantes
 

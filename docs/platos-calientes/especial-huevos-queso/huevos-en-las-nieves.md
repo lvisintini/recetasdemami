@@ -1,31 +1,28 @@
 ---
-title: Huevos en las nieves
-subtitle: {subtitle}
 slug: huevos-en-las-nieves
-uuid: 7c176850-929b-4155-8065-fd60490612bb
+uuid: bbc4d5b2-8e02-45c0-97a4-7f571cc5e012
 ---
 {nav}
 
-# Huevos en las nieves
-
-Summary
+## Huevos en las nieves
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en la clara y ubicar allí la yema, condimentar. cocinar por 10 minutos en horno a 180°C
 
 
-## Variantes
-
+### Variantes
 

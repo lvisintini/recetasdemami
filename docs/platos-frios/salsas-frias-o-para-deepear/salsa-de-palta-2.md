@@ -1,27 +1,25 @@
 ---
-title: Salsa de Palta 2
-subtitle: {subtitle}
 slug: salsa-de-palta-2
-uuid: 00c499ed-4010-4fd4-96c0-431e1189c65b
+uuid: 2ab409d7-a194-4fb9-a078-f72ce26e12cb
 ---
 {nav}
 
-# Salsa de Palta 2
-
-Summary
+## Salsa de Palta 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -34,6 +32,5 @@ Mezclar:
 - Crema de leche (Opcional)
 
 
-## Variantes
-
+### Variantes
 

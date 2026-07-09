@@ -1,27 +1,25 @@
 ---
-title: Otra natilla
-subtitle: {subtitle}
 slug: otra-natilla
-uuid: 62b7213a-1c4f-4c7b-840f-3d3e8b6bc1b6
+uuid: 245135bd-ef7c-488c-8cde-2aa2e1355209
 ---
 {nav}
 
-# Otra natilla
-
-Summary
+## Otra natilla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 8 yemas
@@ -32,6 +30,5 @@ Summary
 Cocinar, no debe hervir.
 
 
-## Variantes
-
+### Variantes
 

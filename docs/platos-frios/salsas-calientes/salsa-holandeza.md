@@ -1,31 +1,28 @@
 ---
-title: Salsa holandeza
-subtitle: {subtitle}
 slug: salsa-holandeza
-uuid: fd5c947f-0062-4cdf-b82b-5029907e0142
+uuid: 6ecda662-792c-4a7c-8ae9-a73cd7306fd2
 ---
 {nav}
 
-# Salsa holandeza
-
-Summary
+## Salsa holandeza
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 3 cucharadas de manteca derretida, 1 cucharada de jugo de limón y ½ taza de mayonesa. Servir tibio.
 
 
-## Variantes
-
+### Variantes
 

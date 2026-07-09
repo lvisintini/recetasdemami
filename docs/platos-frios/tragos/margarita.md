@@ -1,27 +1,25 @@
 ---
-title: Margarita
-subtitle: {subtitle}
 slug: margarita
-uuid: 9b810e67-3834-4cef-89cc-35152b94eb78
+uuid: 8cc7cee3-c977-4275-9887-cfc78df3401f
 ---
 {nav}
 
-# Margarita
-
-Summary
+## Margarita
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 ½ oz tequila
@@ -32,6 +30,5 @@ Summary
 Humedecer el borde de la copa con jugo de limón y sal.
 
 
-## Variantes
-
+### Variantes
 

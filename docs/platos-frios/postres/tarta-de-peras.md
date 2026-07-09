@@ -1,27 +1,25 @@
 ---
-title: Tarta de peras
-subtitle: {subtitle}
 slug: tarta-de-peras
-uuid: a19c3a50-0f3a-4810-8fae-5424610917d9
+uuid: ab79631d-7932-4a91-8da4-a0811d3c86a8
 ---
 {nav}
 
-# Tarta de peras (y otras frutas)
-
-Summary
+## Tarta de peras (y otras frutas)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Masa
@@ -52,6 +50,5 @@ En el caso de ciruelas, lleva 750 grs. de ciruelas cortadas por la mitad y desca
 Las bananas y el ananá deben ser previamente caramelizados.
 
 
-## Variantes
-
+### Variantes
 

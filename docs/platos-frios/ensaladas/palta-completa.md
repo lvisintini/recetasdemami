@@ -1,31 +1,28 @@
 ---
-title: Palta completa
-subtitle: {subtitle}
 slug: palta-completa
-uuid: a18f5cf4-9419-435e-ad3d-eb8b0b34c9c3
+uuid: afd64700-fb17-4601-a25d-ed41ffac8e3a
 ---
 {nav}
 
-# Palta completa
-
-Summary
+## Palta completa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Palta, pera, queso cremoso, crema de leche, jugo de limón, almendras, salsa de soja, azúcar.
 
 
-## Variantes
-
+### Variantes
 

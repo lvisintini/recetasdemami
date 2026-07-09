@@ -1,27 +1,25 @@
 ---
-title: Hojaldre con cebolla
-subtitle: {subtitle}
 slug: hojaldre-con-cebolla
-uuid: eaf4cbcb-2fb0-4ac9-85e5-a86010976d04
+uuid: 6d0b1c67-d69c-4348-96fe-0e62d9d65af7
 ---
 {nav}
 
-# Hojaldre con cebolla (no probado)
-
-Summary
+## Hojaldre con cebolla (no probado)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Cortar la cebolla de menos de ½ cm de espesor, sazonarlas con sal y aceite de oliva. Llevar al horno microondas por 15 minutos.
 
@@ -32,6 +30,5 @@ Sobre papel para hornear colocar 1 pasta de hojaldre. sobre ella colocar el ques
 Espolvorear con tomillo y romero frescos, rociar con aceite de oliva y servir.
 
 
-## Variantes
-
+### Variantes
 

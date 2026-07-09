@@ -1,27 +1,25 @@
 ---
-title: Marquise al vino blanco
-subtitle: {subtitle}
 slug: marquise-al-vino-blanco
-uuid: 6dc25d49-6263-486c-ad2c-e63f951d9d91
+uuid: d319b26a-ca54-4e80-b21d-ca7f5af36119
 ---
 {nav}
 
-# Marquise al vino blanco
-
-Summary
+## Marquise al vino blanco
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 litro de vino blanco
@@ -32,6 +30,5 @@ Summary
 Poner en la heladera y servirlo con soda fría.
 
 
-## Variantes
-
+### Variantes
 

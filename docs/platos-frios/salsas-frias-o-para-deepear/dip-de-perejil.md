@@ -1,31 +1,28 @@
 ---
-title: Dip de Perejil
-subtitle: {subtitle}
 slug: dip-de-perejil
-uuid: d190cbe7-1f8b-4872-b62e-eae9d31d17f7
+uuid: 028ea37b-57fe-465a-8451-5819479d84af
 ---
 {nav}
 
-# Dip de Perejil
-
-Summary
+## Dip de Perejil
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar perejil, ajo y mayonesa
 
 
-## Variantes
-
+### Variantes
 

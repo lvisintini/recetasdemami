@@ -1,27 +1,25 @@
 ---
-title: Salsa de Pimientos 1
-subtitle: {subtitle}
 slug: salsa-de-pimientos-1
-uuid: d491b86e-0bcb-4397-ae5d-a853be2cf82b
+uuid: 6a98cff7-b027-407f-bf00-39b3cbbf9060
 ---
 {nav}
 
-# Salsa de Pimientos 1
-
-Summary
+## Salsa de Pimientos 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - Agua
 
 
-## Variantes
-
+### Variantes
 

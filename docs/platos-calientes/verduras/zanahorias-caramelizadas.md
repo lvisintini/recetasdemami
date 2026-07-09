@@ -1,27 +1,25 @@
 ---
-title: Zanahorias caramelizadas
-subtitle: {subtitle}
 slug: zanahorias-caramelizadas
-uuid: 0054d8e5-92ed-492c-8e0c-7104a2990ecf
+uuid: c9e960f7-fdd4-4b06-a352-22d99c4fd474
 ---
 {nav}
 
-# Zanahorias caramelizadas
-
-Summary
+## Zanahorias caramelizadas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 3 zanahorias en rodajas finas, 1 cucharada de azúcar, 1 cucharada de miel,1 cucharada manteca, 1 cucharada jugo limón, ½ taza de agua,sal, pimienta, opcion perejil picado.
 
@@ -30,6 +28,5 @@ Derretir la manteca con el azúcar, la miel y el agua. colocar las rodajas de za
 Retirar y colocarles el perejil picado.
 
 
-## Variantes
-
+### Variantes
 

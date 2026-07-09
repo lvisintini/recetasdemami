@@ -1,27 +1,25 @@
 ---
-title: Mollejas y hongos
-subtitle: {subtitle}
 slug: mollejas-y-hongos
-uuid: 085d2aab-f431-40a5-a0d6-1a674b2f5220
+uuid: 4754c008-3086-4044-b266-aeb682a9d0f2
 ---
 {nav}
 
-# Mollejas y hongos
-
-Summary
+## Mollejas y hongos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Mollejas y hongos doraditos a la parrilla con rúcula, aceite oliva, vinagre y sal, servir las mollejas y los hongos tibios.
@@ -33,6 +31,5 @@ Mollejas y hongos doraditos a la parrilla con rúcula, aceite oliva, vinagre y s
 - papas, huevo, salchichas, tomate, atún y manzana
 
 
-## Variantes
-
+### Variantes
 

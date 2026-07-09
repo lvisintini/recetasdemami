@@ -1,31 +1,28 @@
 ---
-title: Chips para dips
-subtitle: {subtitle}
 slug: chips-para-dips
-uuid: 03269a7e-15f9-446b-9021-24df22e516b4
+uuid: 0250fc9a-747b-407f-a915-cbdf6184dea9
 ---
 {nav}
 
-# Chips para dips
-
-Summary
+## Chips para dips
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Usar los crepes, cortarlos en 32 triángulos. ponerlos en molde sobre papel manteca, pintarlos con manteca batida y rociarlos con sal. hornearlos por 8 minutos a 350°C, darlos vuelta y dejarlos por 5 o 7 minutos más.
 
 
-## Variantes
-
+### Variantes
 

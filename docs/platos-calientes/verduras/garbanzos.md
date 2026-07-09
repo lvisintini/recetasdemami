@@ -1,27 +1,25 @@
 ---
-title: Garbanzos
-subtitle: {subtitle}
 slug: garbanzos
-uuid: a6fdb3e6-edc3-4714-8b99-417006d291f5
+uuid: 6473d6a2-3c06-41ff-b905-4472ae9b67e6
 ---
 {nav}
 
-# Garbanzos
-
-Summary
+## Garbanzos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Dejar los garbanzos en remojo por 24 horas. cubrirlos con agua con poca sal. agregar agua a medida que sea necesario.
 
@@ -36,6 +34,5 @@ Poner abundante líquido para que no quede seco.
 Yo pondría 2 latas de tomates al natural y 3 tazas de caldo o vino.
 
 
-## Variantes
-
+### Variantes
 

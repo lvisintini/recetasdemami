@@ -1,27 +1,25 @@
 ---
-title: Salsa Maltesa
-subtitle: {subtitle}
 slug: salsa-maltesa
-uuid: d6146121-a17b-4ea4-a35a-cc50b3f5d2f8
+uuid: 6f6e73c5-17aa-47e5-9073-5eb7ff284e24
 ---
 {nav}
 
-# Salsa Maltesa
-
-Summary
+## Salsa Maltesa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - 1 cucharada de mostaza
 
 
-## Variantes
-
+### Variantes
 

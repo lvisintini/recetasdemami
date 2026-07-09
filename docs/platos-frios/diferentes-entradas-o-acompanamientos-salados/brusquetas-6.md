@@ -1,27 +1,25 @@
 ---
-title: Brusquetas 6
-subtitle: {subtitle}
 slug: brusquetas-6
-uuid: 338f92f2-012d-4ad5-86e7-2cd8ddb780a2
+uuid: b7c2e089-536d-4869-96bc-4bc97cd1776e
 ---
 {nav}
 
-# Brusquetas 6
-
-Summary
+## Brusquetas 6
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Brusquetas con queso, cerveza y especias al horno
 
@@ -34,6 +32,5 @@ Tostar 8 rodajas de pan lactal y enmantecarlo y distribuir sobre ellos la crema.
 Gratinar por 5 minutos en horno fuerte.
 
 
-## Variantes
-
+### Variantes
 

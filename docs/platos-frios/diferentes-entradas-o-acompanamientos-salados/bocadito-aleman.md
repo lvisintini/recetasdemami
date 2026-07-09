@@ -1,31 +1,28 @@
 ---
-title: Bocadito aleman
-subtitle: {subtitle}
 slug: bocadito-aleman
-uuid: dcdebf80-01fc-4832-99ad-5d665c2a4a4d
+uuid: fbb0acb8-5ae6-4999-beb2-35456e060e22
 ---
 {nav}
 
-# Bocadito aleman
-
-Summary
+## Bocadito aleman
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Sobre biscochos “Rex” (también llamados "Ritz") colocar una rodajita de leberwurst, rodajita de pepinitos en vinagre y un copetito de savora.
 
 
-## Variantes
-
+### Variantes
 

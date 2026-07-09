@@ -1,27 +1,25 @@
 ---
-title: Caramelizar bananas u otras frutas
-subtitle: {subtitle}
 slug: caramelizar-bananas-u-otras-frutas
-uuid: c5acf398-5964-4124-81e7-d66b9dd23691
+uuid: 12cb4abb-c755-4404-849e-d754f380c5b7
 ---
 {nav}
 
-# Caramelizar bananas u otras frutas
-
-Summary
+## Caramelizar bananas u otras frutas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Proporciones
@@ -37,6 +35,5 @@ Revolver poco con cuchara de madera.
 Antes de agregar las bananas, incluir el jugo de ½ limón y el jugo de ½ naranja, ron o canela.
 
 
-## Variantes
-
+### Variantes
 

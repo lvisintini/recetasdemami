@@ -1,27 +1,25 @@
 ---
-title: Brusquetas 7
-subtitle: {subtitle}
 slug: brusquetas-7
-uuid: e7dd7598-b7da-4ab3-b552-241e3ba33236
+uuid: 77aed1a9-8fd2-4fd9-9b79-4c9f9a7136c1
 ---
 {nav}
 
-# Brusquetas 7
-
-Summary
+## Brusquetas 7
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Brusquetas mediterraneas
 
@@ -38,6 +36,5 @@ Sobre tostadas calientes colocar la siguiente preparación:
 Decorar con perejil.
 
 
-## Variantes
-
+### Variantes
 

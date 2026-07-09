@@ -1,27 +1,25 @@
 ---
-title: Pollo a la Haiti
-subtitle: {subtitle}
 slug: pollo-a-la-haiti
-uuid: 474c8bb2-fa11-486b-9967-6587942288d0
+uuid: 0377599e-19aa-4189-a43d-5c6144e26ac3
 ---
 {nav}
 
-# Pollo a la Haiti.
-
-Summary
+## Pollo a la Haiti.
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pasar las rodajas de ananá de una lata por harina y freírlas en aceite caliente.
 
@@ -34,6 +32,5 @@ Continuar la cocción por 10 minutos con la cacerola tapada. Batir 2 yemas con u
 Retirar y disponer junto a las rodajas de ananá. salsear con el fondo de cocción y servir. puede espolvorearse con canela, o suavizar con crema de leche.
 
 
-## Variantes
-
+### Variantes
 

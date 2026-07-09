@@ -1,27 +1,25 @@
 ---
-title: Gateau suizo o torta alemana de la nona
-subtitle: {subtitle}
 slug: gateau-suizo-o-torta-alemana-de-la-nona
-uuid: 16256c3c-e8c0-456e-9609-fd7e5b19f4a8
+uuid: c6c4f341-4f63-4a01-a765-f9f92aa0d7c0
 ---
 {nav}
 
-# Gateau suizo o torta alemana de la nona
-
-Summary
+## Gateau suizo o torta alemana de la nona
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Masa
@@ -44,6 +42,5 @@ Forrar el molde con la masa y ponerle la crema sobre la masas
 Sobre la masa se puede colocar rodajas de 3 manzanas y cubrirlas con más crema (También queda muy rico).
 
 
-## Variantes
-
+### Variantes
 

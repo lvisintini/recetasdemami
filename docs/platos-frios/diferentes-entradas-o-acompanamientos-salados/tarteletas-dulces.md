@@ -1,27 +1,25 @@
 ---
-title: Tarteletas dulces
-subtitle: {subtitle}
 slug: tarteletas-dulces
-uuid: 6a13bdd1-6679-4f09-b8fb-35d57f36e8d6
+uuid: 7f610559-6130-4492-88b2-575c077591fd
 ---
 {nav}
 
-# Tarteletas dulces
-
-Summary
+## Tarteletas dulces
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hacer una masa con:
 
@@ -37,6 +35,5 @@ Pinchar el fondo y los costados para que mantenga la forma y llevar a horno a 18
 
 
 
-## Variantes
-
+### Variantes
 

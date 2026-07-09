@@ -1,27 +1,25 @@
 ---
-title: Dip de almendras
-subtitle: {subtitle}
 slug: dip-de-almendras
-uuid: 5e53d88c-4119-4f4f-a2ae-14a7cb5b9233
+uuid: 7961b2bb-90f6-4d4c-bf60-a2df3f159a00
 ---
 {nav}
 
-# Dip de almendras
-
-Summary
+## Dip de almendras
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - 1 cucharada de hierbas frescas picadas (albahaca, perejil, orégano).
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Salsa curry
-subtitle: {subtitle}
 slug: salsa-curry
-uuid: de0ba8f5-556e-4d51-96d6-13305990258d
+uuid: aac9fd4a-f1b1-4104-910d-0cbc15d01572
 ---
 {nav}
 
-# Salsa curry
-
-Summary
+## Salsa curry
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Dorar 1 cebolla en 100 grs de manteca.
 
@@ -34,6 +32,5 @@ Cocinar revolviendo constantemente hasta que espese.
 Retirar y agregar 100 grs de crema de leche.
 
 
-## Variantes
-
+### Variantes
 

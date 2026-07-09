@@ -1,27 +1,25 @@
 ---
-title: Torta haragana de manzanas
-subtitle: {subtitle}
 slug: torta-haragana-de-manzanas
-uuid: 65baf7ca-d0ff-4c1c-9ee7-d9c8beb8990d
+uuid: cc3ad889-b642-4ef0-b11d-6d0dfe7130ed
 ---
 {nav}
 
-# Torta haragana de manzanas
-
-Summary
+## Torta haragana de manzanas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Ingredientes
@@ -49,6 +47,5 @@ Volcar sobre toda la superficie, ir de a poco filtrándose por la torta, esperar
 Debe cocinarse lentamente.
 
 
-## Variantes
-
+### Variantes
 

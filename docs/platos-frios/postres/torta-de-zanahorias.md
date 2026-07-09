@@ -1,27 +1,25 @@
 ---
-title: Torta de zanahorias
-subtitle: {subtitle}
 slug: torta-de-zanahorias
-uuid: a84d39e8-adc9-43a4-90df-1ae7f869b7eb
+uuid: c50e6239-5ab9-4642-8ce0-74a182d1cbb0
 ---
 {nav}
 
-# Torta de zanahorias
-
-Summary
+## Torta de zanahorias
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar 3 zanahorias, 1 taza de leche, 1 taza de aceite y 3 huevos.
 
@@ -34,6 +32,5 @@ Llevar a horno precalentado de 80°C por 40 minutos.
 **Cobertura:** 1 cajita de crema de leche, 1 lata de leche condensada y chocolate amargo, calentar hasta que hierva.
 
 
-## Variantes
-
+### Variantes
 

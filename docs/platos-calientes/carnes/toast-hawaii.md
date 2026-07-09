@@ -1,31 +1,28 @@
 ---
-title: Toast Hawaii
-subtitle: {subtitle}
 slug: toast-hawaii
-uuid: 7d61191e-eff1-4022-81b4-7f8621165858
+uuid: abb05485-0a94-4644-841b-2441971d90f3
 ---
 {nav}
 
-# Toast Hawaii
-
-Summary
+## Toast Hawaii
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pan lactal, extender sobre el pan mostaza, jamón cocido, rodaja de ananá, espolvorear con azúcar y llevar al horno, sopletear con fuego o quemar con hierro caliente.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,31 +1,28 @@
 ---
-title: Remolachas 2
-subtitle: {subtitle}
 slug: remolachas-2
-uuid: 2f70231a-45a7-4417-a15c-89582ac426c9
+uuid: 57d88f48-7228-4478-a758-0da9e6123c29
 ---
 {nav}
 
-# Remolachas 2
-
-Summary
+## Remolachas 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Remolachas, champiñones, perejil, almendras, ralladura gruesa de limón, aceite oliva, sal, aceto.
 
 
-## Variantes
-
+### Variantes
 

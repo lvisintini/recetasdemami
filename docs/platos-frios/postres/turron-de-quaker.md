@@ -1,27 +1,25 @@
 ---
-title: Turron de quaker
-subtitle: {subtitle}
 slug: turron-de-quaker
-uuid: e75cfa53-8036-4ed3-b593-09ae9de823e7
+uuid: 93fb3916-b8bc-42df-b6eb-cd52898a3072
 ---
 {nav}
 
-# Turron de quaker
-
-Summary
+## Turron de quaker
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 200 grs. Manteca
@@ -35,6 +33,5 @@ Calentar 10 minutos.
 Poner en una fuente, una capa de la crema y una capa de galletitas criollitas
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Mermelada de frutas
-subtitle: {subtitle}
 slug: mermelada-de-frutas
-uuid: 55a72074-1c74-483a-85f2-ff4bf525b1e1
+uuid: d2b2daa6-9041-49d4-88a6-f6ed4ff24b73
 ---
 {nav}
 
-# Mermelada de frutas
-
-Summary
+## Mermelada de frutas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pelar y cortar la fruta en trozos.
 
@@ -40,6 +38,5 @@ Para aromatizar, dependiendo de la fruta, se le puede agregar cascaritas de lim�
 Si tiene color, consistencia y la fruta está blanda pero tiene pedazos grandes, se puede pasar por la licuadora o batidora.
 
 
-## Variantes
-
+### Variantes
 

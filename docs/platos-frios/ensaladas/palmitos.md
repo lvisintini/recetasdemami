@@ -1,31 +1,28 @@
 ---
-title: Palmitos
-subtitle: {subtitle}
 slug: palmitos
-uuid: af937cbf-7f47-4a5a-b29b-f9256bf82e3a
+uuid: 29db2dae-7239-4916-9119-f9a3f9219ae8
 ---
 {nav}
 
-# Palmitos
-
-Summary
+## Palmitos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 palmitos, ananá, manzana, almendras, queso, apio, jugo de limón, aceite, sal.
 
 
-## Variantes
-
+### Variantes
 

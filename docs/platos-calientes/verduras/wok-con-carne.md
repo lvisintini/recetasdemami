@@ -1,31 +1,28 @@
 ---
-title: Wok con carne
-subtitle: {subtitle}
 slug: wok-con-carne
-uuid: 5a8c418b-97f8-47f7-bb6c-389a37f3ce24
+uuid: 73c84f4c-8d85-46af-8bb7-46364347b9d8
 ---
 {nav}
 
-# Wok con carne
-
-Summary
+## Wok con carne
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) en tiras. queda bien agregando vino blanco y jengibre rallado.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Zanahorias a la Vichy
-subtitle: {subtitle}
 slug: zanahorias-a-la-vichy
-uuid: 740a6483-4c4f-4c8a-af4d-2228724e188c
+uuid: c3b99d00-8f5f-42e8-bf8b-894278e4e53b
 ---
 {nav}
 
-# Zanahorias a la Vichy
-
-Summary
+## Zanahorias a la Vichy
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Derretir un poco de manteca y dorar apenas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. Cuando las zanahorias estén tiernas, agregar perejil picado y un chorrito de vinagre. y servir.
 
@@ -34,6 +32,5 @@ En vez de harina se puede usar, al final de la cocción, maizena disuelta en un 
 Es para acompañar carnes o servirla con puré de papas.
 
 
-## Variantes
-
+### Variantes
 

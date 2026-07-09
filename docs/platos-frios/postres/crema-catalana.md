@@ -1,27 +1,25 @@
 ---
-title: Crema Catalana
-subtitle: {subtitle}
 slug: crema-catalana
-uuid: db4a423f-55de-4e2b-aaaa-16d77dafaff3
+uuid: c44d927a-7cda-401f-8ac8-635b52adb939
 ---
 {nav}
 
-# Crema Catalana
-
-Summary
+## Crema Catalana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - ½ litro de leche
@@ -46,6 +44,5 @@ Esparcir azúcar (1 o 2 cucharadas) en cada una de ellas y sopletearlas con fueg
 O hacer un caramelo con azúcar y agua.
 
 
-## Variantes
-
+### Variantes
 

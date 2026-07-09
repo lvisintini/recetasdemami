@@ -1,31 +1,28 @@
 ---
-title: Naranja 2
-subtitle: {subtitle}
 slug: naranja-2
-uuid: 2bc0c901-66c5-4b18-9aea-9cd0c2a104ec
+uuid: 1a533c0c-ec93-4102-8fd4-11044108d883
 ---
 {nav}
 
-# Naranja 2
-
-Summary
+## Naranja 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Tomates, naranja, aceitunas negras, queso fresco, aceite oliva, vinagre de vino, sal.
 
 
-## Variantes
-
+### Variantes
 

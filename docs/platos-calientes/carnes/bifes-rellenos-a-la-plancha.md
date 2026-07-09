@@ -1,27 +1,25 @@
 ---
-title: Bifes rellenos a la plancha
-subtitle: {subtitle}
 slug: bifes-rellenos-a-la-plancha
-uuid: 25708e1a-0bf3-4f8c-8758-1eac5b97c5dc
+uuid: 1d3172cc-b628-4e1a-8509-ac1f650051bd
 ---
 {nav}
 
-# Bifes rellenos a la plancha
-
-Summary
+## Bifes rellenos a la plancha
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 El bife debe ser cortado finito como para milanesa
 
@@ -40,6 +38,5 @@ Ajustarlos con palillos. ponerlos en la plancha con un poquito de aceite y a fue
 Pueden también bañarse con diferentes salsa, como la salsa maître d'hôtel.
 
 
-## Variantes
-
+### Variantes
 

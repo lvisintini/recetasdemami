@@ -1,31 +1,28 @@
 ---
-title: Rusa
-subtitle: {subtitle}
 slug: rusa
-uuid: 38dcc8b7-0c23-4c51-8fa4-d7d006bbeb17
+uuid: 5e29370c-58a6-4c65-adb3-82b3e85c43a1
 ---
 {nav}
 
-# Rusa
-
-Summary
+## Rusa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Papas, zanahorias, chauchas, arvejas, pepinitos en vinagre, huevo duro, jamón, manzana verde, mayonesa, sal, mostaza, pimienta.
 
 
-## Variantes
-
+### Variantes
 

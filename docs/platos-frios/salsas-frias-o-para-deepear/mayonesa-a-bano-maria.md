@@ -1,27 +1,25 @@
 ---
-title: Mayonesa a baño maría
-subtitle: {subtitle}
 slug: mayonesa-a-bano-maria
-uuid: c57e300e-6c98-468e-a8cd-ff91ee02c9ea
+uuid: c7343da4-0a58-4c7b-9e33-4d4af0464498
 ---
 {nav}
 
-# Mayonesa a baño maría
-
-Summary
+## Mayonesa a baño maría
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Calentar a baño maria:
 
@@ -37,6 +35,5 @@ Espesar a la consistencia de mayonesa y agregarle 200 gr de crema de leche.
 Llevar a la heladera.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Torta de ricota
-subtitle: {subtitle}
 slug: torta-de-ricota
-uuid: 494cba42-0a42-478b-8552-218cb4b64a81
+uuid: ccb1309d-605c-4804-bb9d-ff9cc2c8b88a
 ---
 {nav}
 
-# Torta de ricota
-
-Summary
+## Torta de ricota
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Colocar en un bol 400 gr de harina leudante y 100 gr de azúcar.
@@ -43,6 +41,5 @@ Hornear hasta que la masa esté dorada y se desprenda de los bordes.
 Servir con pasas de uva maceradas en oporto.
 
 
-## Variantes
-
+### Variantes
 

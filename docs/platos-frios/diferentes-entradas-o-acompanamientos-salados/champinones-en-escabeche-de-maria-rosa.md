@@ -1,27 +1,25 @@
 ---
-title: Champiñones en escabeche de Maria Rosa
-subtitle: {subtitle}
 slug: champinones-en-escabeche-de-maria-rosa
-uuid: 5f9997e6-b64b-4b3c-b4f8-34ab865fe4a4
+uuid: 06bc0396-bf3e-4371-9792-bd4057fd1c4d
 ---
 {nav}
 
-# Champiñones en escabeche de Maria Rosa
-
-Summary
+## Champiñones en escabeche de Maria Rosa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes
 
@@ -55,6 +53,5 @@ Cocinar 4 minutos en el microondas, mezclar y volver a cocinar otros 4 minutos.
 Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser suficiente para esa cantidad de hongos.
 
 
-## Variantes
-
+### Variantes
 

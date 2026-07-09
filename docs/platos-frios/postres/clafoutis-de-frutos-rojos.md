@@ -1,27 +1,25 @@
 ---
-title: Clafoutis de frutos rojos
-subtitle: {subtitle}
 slug: clafoutis-de-frutos-rojos
-uuid: e8ea53cc-e972-4f4c-966d-7940b91579cb
+uuid: 3d011cad-7d33-405e-8d23-8bf3f323e35f
 ---
 {nav}
 
-# Clafoutis de frutos rojos
-
-Summary
+## Clafoutis de frutos rojos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner frutos rojos (150 gr) dentro de un molde (bajo y de 20 cm de diámetro) enmantecado.
 
@@ -40,6 +38,5 @@ Durante la cocción, el batido se va al fondo y emergen las frutas.
 Espolvorear con abundante azúcar impalpable y servir.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,5 +1,5 @@
 # Recetas de cocina
-	## Entradas y picoteo
+	## Aperitivos, Entradas y Picoteo
 	## Sopas
 	## Ensaladas
 	## Platos principales
@@ -10,13 +10,11 @@
 		### Arroz
 	    ### Verduras
 	## Guarniciones y Acompañamientos
-	## Masas base
-	## Salsas, Dips y Aderezos
+	## Salsas y Dips
 		### Salsas Frías
 		### Dips
-		### Aderezos
 		### Salsas Calientes
-	## Postres y dulces
+	## Postres y Dulces
 		### Tortas y bizcochuelos
 		### Tartas dulces
 		### Cremas, flanes, mousses y natillas
@@ -24,6 +22,11 @@
 		### Postres de fruta y varios
 		### Crepes y panqueques
 	## Tragos y bebidas
+	## Preparaciones base
+	    ### Masas
+	    ### Salsas
+	    ### Aderezos
+	    ### Cremas
 # Fuera de cocina
     ## Remedios caseros
     ## Manchas y trucos de limpieza

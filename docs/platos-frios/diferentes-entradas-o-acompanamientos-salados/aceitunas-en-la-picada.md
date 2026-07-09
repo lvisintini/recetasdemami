@@ -1,31 +1,28 @@
 ---
-title: Aceitunas en la picada
-subtitle: {subtitle}
 slug: aceitunas-en-la-picada
-uuid: 54c66a29-d39f-4505-b35b-dc7be9442f7e
+uuid: 3d4fab1e-eca4-48df-bcb7-aff2db0a300a
 ---
 {nav}
 
-# Aceitunas en la picada
-
-Summary
+## Aceitunas en la picada
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner las aceitunas en aceite, jugo de naranja, pimienta y orégano.
 
 
-## Variantes
-
+### Variantes
 

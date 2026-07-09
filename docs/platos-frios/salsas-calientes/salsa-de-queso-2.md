@@ -1,27 +1,25 @@
 ---
-title: Salsa de queso 2
-subtitle: {subtitle}
 slug: salsa-de-queso-2
-uuid: 73d9a512-5bed-444c-b194-a73d1eb1af1f
+uuid: d19c4767-8959-48b6-96a0-b0866e9e112d
 ---
 {nav}
 
-# Salsa de queso 2
-
-Summary
+## Salsa de queso 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar 1 vaso de leche con ½ taza de queso fundido.
 
@@ -30,6 +28,5 @@ Remover sobre fuego normal y cocer hasta que quede una masa homogénea.
 Condimentar y servir.
 
 
-## Variantes
-
+### Variantes
 

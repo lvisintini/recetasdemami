@@ -1,27 +1,25 @@
 ---
-title: Torta hungara de los 120 golpes o de los bollitos
-subtitle: {subtitle}
 slug: torta-hungara-de-los-120-golpes-o-de-los-bollitos
-uuid: 99fb4460-c41e-4f42-9540-8656a7003007
+uuid: 5fbae668-80dc-48ae-b982-326fe7d2c28e
 ---
 {nav}
 
-# Torta hungara, de los 120 golpes, o de los bollitos
-
-Summary
+## Torta hungara, de los 120 golpes, o de los bollitos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Esponja
@@ -62,6 +60,5 @@ Los últimos 3 minutos apoyarla en el piso del horno para que se acaramele de ab
 Retirar del horno y dejar reposar 10 minutos antes de desmoldar.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Dulce de leche
-subtitle: {subtitle}
 slug: dulce-de-leche
-uuid: 2e9a764b-ba76-462a-a1de-18301fec33fa
+uuid: ec3c83fb-474f-4aea-8b22-d66555a07a36
 ---
 {nav}
 
-# Dulce de leche
-
-Summary
+## Dulce de leche
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner en una cacerola 1 litro de leche y 350 gr de azúcar.
 
@@ -44,6 +42,5 @@ Para saber si está listo, poner un poco en un plato (truco del plato) y con un 
 Retirarlo del fuego pero seguir revolviendo por 5 o 10 minutos más para que se enfríe, ya que se sigue espesándo.
 
 
-## Variantes
-
+### Variantes
 

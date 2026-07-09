@@ -1,27 +1,25 @@
 ---
-title: Tortas fritas
-subtitle: {subtitle}
 slug: tortas-fritas
-uuid: 49c658b8-6257-492a-a488-2ced8facf224
+uuid: e6b3296b-c0ec-4ca5-8eba-2b435f29cb7a
 ---
 {nav}
 
-# Tortas fritas
-
-Summary
+## Tortas fritas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -45,6 +43,5 @@ Cada torta frita debe pesar aprox. 35 grs.
 Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
 
 
-## Variantes
-
+### Variantes
 

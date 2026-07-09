@@ -1,27 +1,25 @@
 ---
-title: Besitos - friche de Renato
-subtitle: {subtitle}
 slug: besitos---friche-de-renato
-uuid: e5cbe882-0fff-494c-974a-de6ed4d00a32
+uuid: f3eed57b-f3b6-49c9-b8e1-4432f66671ec
 ---
 {nav}
 
-# Besitos - friche de Renato
-
-Summary
+## Besitos - friche de Renato
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 3 Tazas de harina 000
@@ -35,6 +33,5 @@ Summary
 Freír con grasa de cerdo
 
 
-## Variantes
-
+### Variantes
 

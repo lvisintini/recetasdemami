@@ -1,27 +1,25 @@
 ---
-title: Brochette
-subtitle: {subtitle}
 slug: brochette
-uuid: 0f309696-275d-4faa-be38-5e464fa1a10c
+uuid: d97a93d2-ebe1-4b98-9774-cffac9232bf8
 ---
 {nav}
 
-# Brochette
-
-Summary
+## Brochette
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Las carnes a utilizar pueden ser: vacuna, pollo, cerdo, langostinos, riñoncitos ( en este caso, retirarles la piel y dejarlos por 2 horas en agua fría y vinagre).
 
@@ -34,6 +32,5 @@ Llevar los brochettes al horno, plancha o parrilla, y rociarlos periódicamente 
 También pueden hacerse agridulce agregando: manzanas, ciruelas, etc y rociarlos con miel diluida. son solo ejemplos.
 
 
-## Variantes
-
+### Variantes
 

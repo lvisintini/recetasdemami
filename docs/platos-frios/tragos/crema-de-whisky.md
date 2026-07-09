@@ -1,27 +1,25 @@
 ---
-title: Crema de whisky
-subtitle: {subtitle}
 slug: crema-de-whisky
-uuid: c56bc467-436b-4bf0-a9c6-09401122cd1c
+uuid: a9f23219-73b0-411d-82e0-0b16d2aeb51a
 ---
 {nav}
 
-# Crema de whisky
-
-Summary
+## Crema de whisky
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 medida de whisky
@@ -29,6 +27,5 @@ Summary
 - hielo
 
 
-## Variantes
-
+### Variantes
 

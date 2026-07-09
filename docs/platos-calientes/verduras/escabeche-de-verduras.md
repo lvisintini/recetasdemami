@@ -1,27 +1,25 @@
 ---
-title: Escabeche de verduras
-subtitle: {subtitle}
 slug: escabeche-de-verduras
-uuid: 38448d16-3e59-4f60-b9ce-437518e19f6a
+uuid: 4a9c5047-ff05-43fa-b163-26cd119981d5
 ---
 {nav}
 
-# Escabeche de verduras
-
-Summary
+## Escabeche de verduras
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Puede ser mezcla de varias verduras o de una sola:
 
@@ -42,6 +40,5 @@ Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo 
 Cocinar hasta que las zanahorias estén tiernas.
 
 
-## Variantes
-
+### Variantes
 

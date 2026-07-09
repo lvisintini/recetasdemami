@@ -1,27 +1,25 @@
 ---
-title: Arroz con pollo a la Multichef
-subtitle: {subtitle}
 slug: arroz-con-pollo-a-la-multichef
-uuid: fe0e5736-11b0-460d-b57d-a5fda9a408f9
+uuid: 02b227a8-5244-4d67-82c7-c57d67191afc
 ---
 {nav}
 
-# Arroz con pollo a la Multichef (o sin multichef)
-
-Summary
+## Arroz con pollo a la Multichef (o sin multichef)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Salpimentar muslos y pechugas de pollo (preferentemente deshuesados) y pasarlos por harina.
 
@@ -36,6 +34,5 @@ Agregar el pollo y cocinar por 10 minutos a rejilla tapada. verificar que no le 
 Acordarse de colocar papel de aluminio, para que sea más fácil la limpieza.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,31 +1,28 @@
 ---
-title: Brusquetas 3
-subtitle: {subtitle}
 slug: brusquetas-3
-uuid: b1f2d2d3-6823-4b5f-bf84-274ab8091032
+uuid: 85faff57-1b0a-4846-8a05-97d9ec7d9aa3
 ---
 {nav}
 
-# Brusquetas 3
-
-Summary
+## Brusquetas 3
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
 
-## Variantes
-
+### Variantes
 

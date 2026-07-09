@@ -1,27 +1,25 @@
 ---
-title: Salsa a la maitre d´hotel
-subtitle: {subtitle}
 slug: salsa-a-la-maitre-dhotel
-uuid: 349f9d27-4513-4d93-9820-8fb45555e3f5
+uuid: 32aa5806-9f72-4a38-9d9c-181f99afce26
 ---
 {nav}
 
-# Salsa a la maitre d´hotel
-
-Summary
+## Salsa a la maitre d´hotel
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -37,6 +35,5 @@ Condimentar con sal y pimienta.
 Las proporciones son: 100 gr de manteca, 15 gr de perejil, 1 cucharadita de jugo de limón.
 
 
-## Variantes
-
+### Variantes
 

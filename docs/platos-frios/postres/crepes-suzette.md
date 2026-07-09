@@ -1,27 +1,25 @@
 ---
-title: Crepes suzette
-subtitle: {subtitle}
 slug: crepes-suzette
-uuid: 2d403ecc-838e-4d0f-b9ef-6c2850715af2
+uuid: 1df0b078-d76b-4c5b-97ed-c4e4ab3ed00c
 ---
 {nav}
 
-# Crepes suzette
-
-Summary
+## Crepes suzette
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Para 12 crepes poner en una cacerola:
 
@@ -44,6 +42,5 @@ Calentar todo, bañar con 2 copitas de cointreau y encender.
 Se puede reemplazar el Cointreau con: ¼ taza de triple sec y ¼ taza de brandy calentados y volcarlos sobre los crepes y prenderles fuego, flambearlos.
 
 
-## Variantes
-
+### Variantes
 

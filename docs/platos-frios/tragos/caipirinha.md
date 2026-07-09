@@ -1,27 +1,25 @@
 ---
-title: Caipirinha
-subtitle: {subtitle}
 slug: caipirinha
-uuid: 7ec093bd-d1bc-4fb4-b3b7-560452d23752
+uuid: 5aae6607-354f-4feb-bdf1-e14d52ea705d
 ---
 {nav}
 
-# Caipirinha
-
-Summary
+## Caipirinha
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 1 limón o lima cortado en 4
@@ -31,6 +29,5 @@ Summary
 - 3 cubitos de hielo
 
 
-## Variantes
-
+### Variantes
 

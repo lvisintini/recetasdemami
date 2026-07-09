@@ -1,27 +1,25 @@
 ---
-title: Alioli 1
-subtitle: {subtitle}
 slug: alioli-1
-uuid: 5b85dfc4-e80f-44fc-8833-2894b259b555
+uuid: a033a46b-2a32-4949-b32a-620311aaa94a
 ---
 {nav}
 
-# Alioli 1
-
-Summary
+## Alioli 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -32,6 +30,5 @@ Licuar:
 - Pizca de sal
 
 
-## Variantes
-
+### Variantes
 

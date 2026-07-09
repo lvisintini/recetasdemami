@@ -1,33 +1,30 @@
 ---
-title: Dolores y molestias
-subtitle: {subtitle}
 slug: dolores-y-molestias
-uuid: dece783c-55b9-4139-b0bd-f34348571e60
+uuid: 0344aec6-dea9-4984-8d2e-a3a968710c27
 ---
 {nav}
 
-# Dolores y molestias
-
-Summary
+## Dolores y molestias
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Las hojas de uña de gato (harpagofito) alivian el dolor de las articulaciones, reumatismo y artritis.
 No se recomienda para mujeres embarazadas pues estimulan el útero.
 
 
-## Variantes
-
+### Variantes
 

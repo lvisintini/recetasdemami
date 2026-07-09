@@ -1,27 +1,25 @@
 ---
-title: Budin de batatas con gusto a castañas
-subtitle: {subtitle}
 slug: budin-de-batatas-con-gusto-a-castanas
-uuid: c4ef51bf-e7ba-4c32-a605-4015473d7bd9
+uuid: 74607a65-f67d-4d51-8c73-a9ca8847b1e7
 ---
 {nav}
 
-# Budin de batatas con gusto a castañas
-
-Summary
+## Budin de batatas con gusto a castañas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hervir 1 kg de batatas (cortadas en cubitos) en 1 litro de leche.
 
@@ -34,6 +32,5 @@ Colocar todo en un molde acaramelado y llevar a horno moderado a baño maría po
 Esperar que se enfríe y desmoldar, adornar con crema chantilly, castañas y/o trocitos de chocolate.
 
 
-## Variantes
-
+### Variantes
 

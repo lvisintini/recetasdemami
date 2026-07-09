@@ -1,27 +1,25 @@
 ---
-title: Limonada completa
-subtitle: {subtitle}
 slug: limonada-completa
-uuid: 48ff550a-4126-4eb6-8589-2a51456024bd
+uuid: a92dd981-8c49-419e-b842-2f0b47f4397e
 ---
 {nav}
 
-# Limonada completa
-
-Summary
+## Limonada completa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - Jugo de limón
@@ -31,6 +29,5 @@ Summary
 - hielo molido.
 
 
-## Variantes
-
+### Variantes
 

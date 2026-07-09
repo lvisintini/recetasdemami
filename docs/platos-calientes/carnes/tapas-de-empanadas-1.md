@@ -1,27 +1,25 @@
 ---
-title: Tapas de empanadas 1
-subtitle: {subtitle}
 slug: tapas-de-empanadas-1
-uuid: add67bb5-41d4-47e8-a8b3-2e8207b01e05
+uuid: b1ab95cd-e0b3-4b88-a8e2-45f970442e31
 ---
 {nav}
 
-# Tapas de empanadas 1
-
-Summary
+## Tapas de empanadas 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 250 gr de harina, 50 gr de manteca o grasa de cerdo, 100 cc de agua, 2 cucharaditas de jugo de limón, ¼ de cucharadita de polvo para hornear, ½ de cucharadita al ras de sal.
 
@@ -32,6 +30,5 @@ Sacamos de la heladera y estiramos y cortamos las tapas de 2 mm de espesor y de 
 Espolvorear con harina entre tapa y tapa o poner un film. se puede dejar 48 horas en la heladera o se puede congelar. para freír
 
 
-## Variantes
-
+### Variantes
 

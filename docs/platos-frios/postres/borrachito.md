@@ -1,27 +1,25 @@
 ---
-title: Borrachito
-subtitle: {subtitle}
 slug: borrachito
-uuid: 3fa42df2-214e-4060-9ed5-ba975e0d6937
+uuid: ead7dae4-4200-4c26-aa74-a9f62e137ec4
 ---
 {nav}
 
-# Borrachito
-
-Summary
+## Borrachito
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Colocar en el molde 12 vainillas previamente bañadas en vino dulce (marsala, oporto, moscato), de modo que no queden totalmente blandas.
 
@@ -40,6 +38,5 @@ Decorar la superficie con ralladura de chocolate, chocolino, etc.
 También se pueden invertir los postres y terminar con el de chocolate, decorandolo con azúcar impalpable (una vez frío) merengue molido, etc.
 
 
-## Variantes
-
+### Variantes
 

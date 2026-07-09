@@ -1,27 +1,25 @@
 ---
-title: Alfajores de maizena
-subtitle: {subtitle}
 slug: alfajores-de-maizena
-uuid: 9a3ff0ae-9d03-4bd6-87d6-7519a65edc8d
+uuid: 66598e0b-f6e0-4ed8-857b-2c8a6d242ab3
 ---
 {nav}
 
-# Alfajores de maizena
-
-Summary
+## Alfajores de maizena
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Se baten 100 gr de manteca con 150 gs de azúcar hasta que esté cremosa
 
@@ -38,6 +36,5 @@ En una chapa enmantecada se llevan a horno moderado por 12 a 15 minutos. No debe
 Una vez fríos se unen de a dos con dulce de leche, poniéndoles un poco del dulce en los costados con un cuchillo para poder pegarles luego el coco rallado (3 cucharadas).
 
 
-## Variantes
-
+### Variantes
 

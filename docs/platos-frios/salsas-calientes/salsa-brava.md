@@ -1,27 +1,25 @@
 ---
-title: Salsa Brava
-subtitle: {subtitle}
 slug: salsa-brava
-uuid: 17a35666-1b5b-42c1-b07b-0b29e7acc0c4
+uuid: 8ef41d1e-7ffa-4bcc-bf16-c2f01b5c4576
 ---
 {nav}
 
-# Salsa Brava
-
-Summary
+## Salsa Brava
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -38,6 +36,5 @@ Ingredientes:
 Cocinar reduciendo a la mitad.
 
 
-## Variantes
-
+### Variantes
 

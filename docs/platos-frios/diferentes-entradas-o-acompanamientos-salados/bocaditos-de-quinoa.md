@@ -1,27 +1,25 @@
 ---
-title: Bocaditos de quinoa
-subtitle: {subtitle}
 slug: bocaditos-de-quinoa
-uuid: 3757a841-f198-4f7e-9056-863579b594a2
+uuid: e737a447-4dc7-4611-92c7-6c27a4554164
 ---
 {nav}
 
-# Bocaditos de quinoa
-
-Summary
+## Bocaditos de quinoa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Ingredientes:
 
@@ -39,6 +37,5 @@ Mezclar todo y colocar 1 cucharada colmada en cada muffins (previamente enmantec
 Salen 24 bocaditos.
 
 
-## Variantes
-
+### Variantes
 

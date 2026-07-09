@@ -1,27 +1,25 @@
 ---
-title: Galletitas de Bicarbonato de Amoniaco
-subtitle: {subtitle}
 slug: galletitas-de-bicarbonato-de-amoniaco
-uuid: 4aa2b74b-6d23-4908-b8f9-612456002c41
+uuid: fa31d364-72f5-4c17-bd41-66f73731ac12
 ---
 {nav}
 
-# Galletitas de Bicarbonato de Amoniaco (CO3NH4)
-
-Summary
+## Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Hacer una corona con 250 gr de azúcar y 800 gr de harina común.
@@ -39,6 +37,5 @@ Precalentar el horno y cocinar a fuego medio por 10 a 12 minutos.
 Dejar enfriar bien antes de sacarlas.
 
 
-## Variantes
-
+### Variantes
 

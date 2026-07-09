@@ -1,27 +1,25 @@
 ---
-title: Galletitas con chispitas de chocolate
-subtitle: {subtitle}
 slug: galletitas-con-chispitas-de-chocolate
-uuid: 20302c64-b38d-4703-ae55-07635c04a0f1
+uuid: 568fa4e3-7bf5-445a-9ea6-1957939d29da
 ---
 {nav}
 
-# Galletitas con chispitas de chocolate
-
-Summary
+## Galletitas con chispitas de chocolate
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Para 18 unidades
@@ -43,6 +41,5 @@ Cocinarlos en horno moderado de 15 a 18 minutos.
 Dejar enfriar en el horno.
 
 
-## Variantes
-
+### Variantes
 

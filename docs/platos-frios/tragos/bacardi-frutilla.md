@@ -1,27 +1,25 @@
 ---
-title: Bacardi frutilla
-subtitle: {subtitle}
 slug: bacardi-frutilla
-uuid: 52254010-c942-4a14-9bf0-fa37a4eacb5f
+uuid: f8f7fcbe-29e8-4dc9-9b9a-713d4487848a
 ---
 {nav}
 
-# Bacardi frutilla
-
-Summary
+## Bacardi frutilla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -32,6 +30,5 @@ Licuar:
 - 2 cucharadas de azúcar
 
 
-## Variantes
-
+### Variantes
 

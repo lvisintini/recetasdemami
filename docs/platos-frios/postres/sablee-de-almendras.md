@@ -1,27 +1,25 @@
 ---
-title: Sablée de almendras
-subtitle: {subtitle}
 slug: sablee-de-almendras
-uuid: 3325512c-0414-478f-a5dd-2fc5ebffb7d6
+uuid: 33485091-6d8f-4c0d-aef8-590ecd5b2b8f
 ---
 {nav}
 
-# Sablée de almendras
-
-Summary
+## Sablée de almendras
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 ## Ingredientes
@@ -51,6 +49,5 @@ Untar los discos con capas de dulce de leche, crema y los frutos rojos, y encima
 Decorar con hojas de menta.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Pesto
-subtitle: {subtitle}
 slug: pesto
-uuid: c8c5d8ef-9143-4f6f-a528-212659f5e9b7
+uuid: 649eeae6-0da7-45d5-a7ff-0f34e993ad79
 ---
 {nav}
 
-# Pesto
-
-Summary
+## Pesto
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -32,6 +30,5 @@ Licuar:
 - ½ taza de aceite
 
 
-## Variantes
-
+### Variantes
 

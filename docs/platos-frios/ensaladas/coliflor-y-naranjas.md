@@ -1,27 +1,25 @@
 ---
-title: Coliflor y naranjas
-subtitle: {subtitle}
 slug: coliflor-y-naranjas
-uuid: 9a325450-d945-444c-95cb-5ffcae06f7d2
+uuid: aa781e1c-82fb-4065-9cff-21c616c70f8c
 ---
 {nav}
 
-# Coliflor y naranjas
-
-Summary
+## Coliflor y naranjas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1 coliflor grande hervido y separado en ramos, los gajos de 4 naranjas.
 
@@ -30,6 +28,5 @@ Machacar 1 ajo, añadir el jugo de 1 naranja, sal, vinagre y aceite.
 Servir tibio.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Creme brulee
-subtitle: {subtitle}
 slug: creme-brulee
-uuid: 47a53fa1-ef86-45ca-8764-d3ee6b515c4f
+uuid: 75bc01fe-5921-4eb9-b499-c776c7d892b6
 ---
 {nav}
 
-# Creme brulee
-
-Summary
+## Creme brulee
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 375 cc leche
@@ -45,6 +43,5 @@ Espolvorear con el resto de azúcar y quemar con soplete.
 Adicional colocar al costado ralladura de limón.
 
 
-## Variantes
-
+### Variantes
 

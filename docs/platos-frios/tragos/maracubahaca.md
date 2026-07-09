@@ -1,27 +1,25 @@
 ---
-title: Maracubahaca
-subtitle: {subtitle}
 slug: maracubahaca
-uuid: b598eda9-0ad7-42d3-9b8a-5cda29056367
+uuid: 244981d8-2c27-45d7-ad1b-57330db0c05d
 ---
 {nav}
 
-# Maracubahaca
-
-Summary
+## Maracubahaca
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - ½ medida de ron o vodka,
@@ -31,6 +29,5 @@ Summary
 - Almíbar (ver al inicio)
 
 
-## Variantes
-
+### Variantes
 

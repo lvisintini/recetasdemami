@@ -1,27 +1,25 @@
 ---
-title: Brisle
-subtitle: {subtitle}
 slug: brisle
-uuid: 6ae537a3-1f26-4b63-8569-c28c301ad6a7
+uuid: 399e5142-0ffa-4ceb-9574-f3b761e82911
 ---
 {nav}
 
-# Brisle
-
-Summary
+## Brisle
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 - 350 Harina comun
 - 300 Crema de leche
@@ -29,6 +27,5 @@ Summary
 - 200 azúcar
 
 
-## Variantes
-
+### Variantes
 

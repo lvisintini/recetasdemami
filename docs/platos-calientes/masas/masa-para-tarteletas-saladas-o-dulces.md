@@ -1,27 +1,25 @@
 ---
-title: Masa para tarteletas saladas o dulces
-subtitle: {subtitle}
 slug: masa-para-tarteletas-saladas-o-dulces
-uuid: 3a86bb83-17d4-420e-93dc-f6d1f251b0de
+uuid: eb387ce6-6bbe-459e-a9c4-17b69a59efc8
 ---
 {nav}
 
-# Masa para tarteletas saladas o dulces
-
-Summary
+## Masa para tarteletas saladas o dulces
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hacer una masa con: 300 gr harina leudante, 150 gr manteca, 1 cucharadita sal, pimienta, 2 yemas, agua fría cantidad necesaria.
 
@@ -30,6 +28,5 @@ Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa. pinchar 
 Para las dulces, se suprime la sal y la pimienta y se agregan 3 cucharadas de azúcar.
 
 
-## Variantes
-
+### Variantes
 

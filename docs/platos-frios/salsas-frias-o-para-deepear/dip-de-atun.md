@@ -1,27 +1,25 @@
 ---
-title: Dip de atun
-subtitle: {subtitle}
 slug: dip-de-atun
-uuid: ea987898-89d8-4a1e-a86d-9c39a9a6b9ec
+uuid: d53fba14-7bb4-4628-a014-b49f69428382
 ---
 {nav}
 
-# Dip de atun
-
-Summary
+## Dip de atun
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -32,6 +30,5 @@ Mezclar:
 - 1 cucharada de cebolla de verdeo.
 
 
-## Variantes
-
+### Variantes
 

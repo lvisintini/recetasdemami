@@ -1,27 +1,25 @@
 ---
-title: Minestrone
-subtitle: {subtitle}
 slug: minestrone
-uuid: ceea54be-ebfe-49cd-9b60-565fe8af9a20
+uuid: 8774c1f9-db7a-4447-a6f3-4ad3131ddab6
 ---
 {nav}
 
-# Minestrone
-
-Summary
+## Minestrone
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Rehogar una cebolla picada en aceite.
 
@@ -48,6 +46,5 @@ Cocinar por 10 minutos más.
 Por último colocar aceite de oliva, crutones y queso rallado.
 
 
-## Variantes
-
+### Variantes
 

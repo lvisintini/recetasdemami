@@ -1,27 +1,25 @@
 ---
-title: Rellenos salados para los crepes
-subtitle: {subtitle}
 slug: rellenos-salados-para-los-crepes
-uuid: f724e8d3-8333-476a-9f64-8c57aa9537d2
+uuid: 5183bded-633c-418d-9c2c-8d3f72b1b5ed
 ---
 {nav}
 
-# Rellenos salados para los crepes
-
-Summary
+## Rellenos salados para los crepes
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1. Queso crema, cebollitas de verdeo picadas, aceitunas picadas.
 1. Queso azul, nueces picadas y manteca batida.
@@ -37,6 +35,5 @@ Una vez rellenados los crepes en sus diferentes formas (enrollados, en triángul
 Ver la receta de los crepes en donde figuran las masas.
 
 
-## Variantes
-
+### Variantes
 

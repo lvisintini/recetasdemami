@@ -1,27 +1,25 @@
 ---
-title: Tarta de atun de Aurelia
-subtitle: {subtitle}
 slug: tarta-de-atun-de-aurelia
-uuid: f32c571e-5ccc-4cce-ab9d-1d137ccec059
+uuid: 3c5cfe56-1432-418e-9086-1edd7a042d9d
 ---
 {nav}
 
-# Tarta de atun de Aurelia
-
-Summary
+## Tarta de atun de Aurelia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1 lata grande de atún en aceite, 2 cebollas grandes, aceitunas, 3 huevos duros, 1 latita de pimientos morrones, 1 masa para pascualina, 1 cucharada de crema de leche, queso cuartirolo en daditos o de queso rallado, 1 o 2 huevos batidos.
 
@@ -30,6 +28,5 @@ Freír las cebollas hasta dorarlas, mezclar con el atún, incorporar la crema de
 Rellenar la pascualina y llevar al horno.
 
 
-## Variantes
-
+### Variantes
 

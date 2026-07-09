@@ -1,27 +1,25 @@
 ---
-title: Tiramisu
-subtitle: {subtitle}
 slug: tiramisu
-uuid: 7040a74a-b8b7-4f03-94e2-b4f5175fe079
+uuid: 82813a53-b71f-42c0-84db-c350f8681ae2
 ---
 {nav}
 
-# Tiramisu
-
-Summary
+## Tiramisu
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 1. Batir 2 yemas con 1 taza de azúcar y luego agregar 300 gr de queso crema.
@@ -36,6 +34,5 @@ Colocar por capas las vainillas y la crema.
 Espolvorear con chocolate.
 
 
-## Variantes
-
+### Variantes
 

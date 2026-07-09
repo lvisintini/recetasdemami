@@ -1,27 +1,25 @@
 ---
-title: Salsa criolla
-subtitle: {subtitle}
 slug: salsa-criolla
-uuid: 7d30ef46-595a-48d7-943f-7544dc6aa856
+uuid: 58997dc7-fcca-4fec-8ae1-a9ebec0a8211
 ---
 {nav}
 
-# Salsa criolla
-
-Summary
+## Salsa criolla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 2 tomates
@@ -38,6 +36,5 @@ Summary
 - perejil
 
 
-## Variantes
-
+### Variantes
 

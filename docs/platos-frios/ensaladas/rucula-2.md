@@ -1,31 +1,28 @@
 ---
-title: Rucula 2
-subtitle: {subtitle}
 slug: rucula-2
-uuid: 73e7ced3-e3f0-409d-b099-1fbab2ba4f97
+uuid: 3d3424a0-ba4d-4e1d-bc39-6d3556ba49ab
 ---
 {nav}
 
-# Rucula 2
-
-Summary
+## Rucula 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Rucula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, pimienta y aceto.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Salsa de anchoas 1
-subtitle: {subtitle}
 slug: salsa-de-anchoas-1
-uuid: 6c74e12a-f85b-48be-9290-ab53c6f577df
+uuid: 919d1098-9673-46cc-8f90-da98305ff911
 ---
 {nav}
 
-# Salsa de anchoas 1
-
-Summary
+## Salsa de anchoas 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -31,6 +29,5 @@ Licuar:
 - Jugo de limón
 
 
-## Variantes
-
+### Variantes
 

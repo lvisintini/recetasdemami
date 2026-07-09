@@ -1,27 +1,25 @@
 ---
-title: Pollo
-subtitle: {subtitle}
 slug: pollo
-uuid: 98dbdf0f-525d-4a46-beaf-48772dc46846
+uuid: 94b49044-951a-4165-8e11-c6c59399f220
 ---
 {nav}
 
-# Pollo
-
-Summary
+## Pollo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pollo, queso mantecoso, ajo, lechuga mantecosa, jamón cocido, tomates, huevo duro, ciboulette, mayonesa, mostaza, sal, pimienta.
 
@@ -29,6 +27,5 @@ Pollo, queso mantecoso, ajo, lechuga mantecosa, jamón cocido, tomates, huevo du
 6 cucharadas de aceite de oliva, 6 de ketchup, 2 de jugo de limón, 1 cdita. de mostaza, sal y pimienta.
 
 
-## Variantes
-
+### Variantes
 

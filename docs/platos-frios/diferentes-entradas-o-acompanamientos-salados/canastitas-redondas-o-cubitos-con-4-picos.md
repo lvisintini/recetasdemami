@@ -1,27 +1,25 @@
 ---
-title: Canastitas redondas o cubitos con 4 picos
-subtitle: {subtitle}
 slug: canastitas-redondas-o-cubitos-con-4-picos
-uuid: cc47f6b3-9f4e-4a16-8981-a596aeb4477c
+uuid: b2690263-09b1-42f8-8de3-69d8f7097e07
 ---
 {nav}
 
-# Canastitas redondas o cubitos con 4 picos
-
-Summary
+## Canastitas redondas o cubitos con 4 picos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Se hacen con tapas de empanadas.
@@ -37,6 +35,5 @@ Espolvorear las bases de las canastitas y/o los cubitos con pan rallado para que
 Cocinar en horno a 190°C por 15 a 20 minutos.
 
 
-## Variantes
-
+### Variantes
 

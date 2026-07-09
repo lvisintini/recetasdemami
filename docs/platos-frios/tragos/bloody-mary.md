@@ -1,27 +1,25 @@
 ---
-title: Bloody Mary
-subtitle: {subtitle}
 slug: bloody-mary
-uuid: bfd96543-3275-44c7-b167-f07baef37941
+uuid: 1efd240c-5b0a-4a09-a883-b6f76a90c57a
 ---
 {nav}
 
-# Bloody Mary
-
-Summary
+## Bloody Mary
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 En un vaso alto:
 
@@ -34,6 +32,5 @@ En un vaso alto:
 - una rodaja de limón
 
 
-## Variantes
-
+### Variantes
 

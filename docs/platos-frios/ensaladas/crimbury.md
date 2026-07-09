@@ -1,31 +1,28 @@
 ---
-title: Crimbury
-subtitle: {subtitle}
 slug: crimbury
-uuid: 67264cca-2222-43e3-a095-8316a93142d7
+uuid: 1ab4f746-0690-44c3-b7ba-eb08e8b99b1e
 ---
 {nav}
 
-# Crimbury
-
-Summary
+## Crimbury
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Almendras (muchas), lechuga, rucula, queso gruyere, dados de jamon crudo, tomates secos, mostaza grillon, aceite oliva, aceto, sal.
 
 
-## Variantes
-
+### Variantes
 

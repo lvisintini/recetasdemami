@@ -1,27 +1,25 @@
 ---
-title: Salsas frias o para deepear
-subtitle: {subtitle}
 slug: salsas-frias-o-para-deepear
-uuid: c17d0bbb-ba82-44bc-8789-d3f8dcc48279
+uuid: 5f290448-ec62-4bd3-b1c4-9efd151643f5
 ---
 {nav}
 
-# Salsas frias o para deepear
-
-Summary
+## Salsas frias o para deepear
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Otras recetas, como algunas sopas, pueden presentarse como salsas o dips
@@ -32,6 +30,5 @@ Por Ejemplo:
 - Guacamole
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: bacardi durazno
-subtitle: {subtitle}
 slug: bacardi-durazno
-uuid: 0c6df903-759e-444a-bcac-ca32c3fae35a
+uuid: 5636997c-26d6-4f83-b536-b5c3fb9f9a38
 ---
 {nav}
 
-# bacardi durazno
-
-Summary
+## bacardi durazno
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -33,6 +31,5 @@ Licuar:
 
 
 
-## Variantes
-
+### Variantes
 

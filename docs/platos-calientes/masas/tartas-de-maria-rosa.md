@@ -1,27 +1,25 @@
 ---
-title: Tartas de maria rosa
-subtitle: {subtitle}
 slug: tartas-de-maria-rosa
-uuid: 2eaef61e-8d19-44a7-adc4-f3c8bfc38513
+uuid: 61c79813-7489-46d0-9937-adf1ba3c4ebe
 ---
 {nav}
 
-# Tartas de maria rosa (muy buenas; saladas)
-
-Summary
+## Tartas de maria rosa (muy buenas; saladas)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Para dos unidades:
 
@@ -47,6 +45,5 @@ Cocinar en horno moderado, en mi horno unos 40 minutos.
 A la de jamón y queso le pongo solo queso, jamón, crema de leche, queso rallado y 2 huevos,
 
 
-## Variantes
-
+### Variantes
 

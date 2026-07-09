@@ -1,31 +1,28 @@
 ---
-title: Naranja 1
-subtitle: {subtitle}
 slug: naranja-1
-uuid: 1d3c6cb9-9fb6-4568-9554-2734c2da5a58
+uuid: 0e4d3844-b96e-46c7-b9c2-75d59e4c0169
 ---
 {nav}
 
-# Naranja 1
-
-Summary
+## Naranja 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 4 naranjas, 1 manzana, 150 gr dados de jamón, 3 cucharadas de limón, 100 gr crema de leche, 1 cucharadita sal, ½ cucharadita pimienta y 1 cucharada mostaza.
 
 
-## Variantes
-
+### Variantes
 

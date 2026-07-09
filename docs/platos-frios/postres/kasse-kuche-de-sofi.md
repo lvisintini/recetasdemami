@@ -1,27 +1,25 @@
 ---
-title: Kâsse kuche de Sofi
-subtitle: {subtitle}
 slug: kasse-kuche-de-sofi
-uuid: fd36fcb2-1fed-47c8-a734-48d32bdc9376
+uuid: 53ef3448-c930-4836-a137-731dc2858840
 ---
 {nav}
 
-# Kâsse kuche de Sofi
-
-Summary
+## Kâsse kuche de Sofi
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 **Base:**
@@ -44,6 +42,5 @@ Los huevos hay que separarlos y las claras unidas a los demás pero batidas a ni
 Horno mínimo por 45 minutos.
 
 
-## Variantes
-
+### Variantes
 

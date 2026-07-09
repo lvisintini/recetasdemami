@@ -1,31 +1,28 @@
 ---
-title: Pollo al curry
-subtitle: {subtitle}
 slug: pollo-al-curry
-uuid: c38c9b66-94be-4bfc-a915-630272f45b55
+uuid: 0d3e3bcc-1dbf-49b4-bd0c-71d552510184
 ---
 {nav}
 
-# Pollo al curry
-
-Summary
+## Pollo al curry
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 ½ pollo cocido y cortadito, 1 cucharadita de curry, apio picado, manzana verde cortada, arvejas, corazones de alcauciles, huevo duro y mayonesa.
 
 
-## Variantes
-
+### Variantes
 

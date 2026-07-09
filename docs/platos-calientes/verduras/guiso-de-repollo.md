@@ -1,31 +1,28 @@
 ---
-title: Guiso de repollo
-subtitle: {subtitle}
 slug: guiso-de-repollo
-uuid: 5fbb2ca0-8600-4844-9439-1a4cad4582c0
+uuid: cb2ded7d-3ce7-40e2-b129-9dd64ba924cf
 ---
 {nav}
 
-# Guiso de repollo
-
-Summary
+## Guiso de repollo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con caldo de carne hasta que esté blando y con poco líquido. para darle el sabor ácido del chucrut, agregar vinagre de vino. luego proceder del mismo modo que con el chucrut.
 
 
-## Variantes
-
+### Variantes
 

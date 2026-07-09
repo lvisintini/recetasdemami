@@ -1,27 +1,25 @@
 ---
-title: Cheesecake
-subtitle: {subtitle}
 slug: cheesecake
-uuid: 46b775be-8860-48ec-b8f4-e2da70c0589a
+uuid: df41981c-358f-457d-bf35-fd3eb72ea27e
 ---
 {nav}
 
-# Cheesecake
-
-Summary
+## Cheesecake
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Procesar un paquete de galletitas Maná de vainilla o limón con 100 gr de manteca y tapizar un molde enmantecado desmontable de 22 cm de diámetro. Llevar a la heladera.
 
@@ -30,6 +28,5 @@ Mezclar 500 gr de queso crema con 150 gr de azúcar, 1 cucharadita de esencia de
 Se puede suprimir la gelatina y reemplazarla por 4 claras batidas a punto de nieve. En este caso hay que cocinar el cheesecake a baño maría en un horno medio unos 45 minutos aproximadamente.
 
 
-## Variantes
-
+### Variantes
 

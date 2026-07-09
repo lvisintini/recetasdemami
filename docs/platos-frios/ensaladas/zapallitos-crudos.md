@@ -1,31 +1,28 @@
 ---
-title: Zapallitos crudos
-subtitle: {subtitle}
 slug: zapallitos-crudos
-uuid: ed5af288-510b-421b-aab2-0f090d4fcc9d
+uuid: a142447c-45d7-4c80-9914-a01a06f9f6ce
 ---
 {nav}
 
-# Zapallitos crudos
-
-Summary
+## Zapallitos crudos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Zapallitos rallados grueso, tomates cherry cortados al medio, aceitunas negras descarozadas, cebolla de verdeo picada. Aderezo: aceto, mostaza, limón, miel, aceite, sal.
 
 
-## Variantes
-
+### Variantes
 

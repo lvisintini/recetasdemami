@@ -1,27 +1,25 @@
 ---
-title: Torta arena con duraznos al natural
-subtitle: {subtitle}
 slug: torta-arena-con-duraznos-al-natural
-uuid: 5a6831db-1b1f-4e10-8347-19106234d9ef
+uuid: 695b0e45-cdff-4d76-ac06-93f81dbc7076
 ---
 {nav}
 
-# Torta arena con duraznos al natural
-
-Summary
+## Torta arena con duraznos al natural
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar 500 grs. de harina, 200 grs. azúcar, 150 grs. azúcar negra, 1 cucharada de canela y 4 cucharaditas de polvo de hornear.
 
@@ -34,6 +32,5 @@ Se hace una crema con un postre royal de vainilla utilizando el jugo de la lata 
 Puede decorarse con crema chantilly y finos gajos de durazno formando círculos concéntricos.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Souffle de pollo
-subtitle: {subtitle}
 slug: souffle-de-pollo
-uuid: 010df855-530b-4acb-90af-d0dac383c4df
+uuid: 5601de71-1585-4551-9ded-fbe9526f81c7
 ---
 {nav}
 
-# Souffle de pollo
-
-Summary
+## Souffle de pollo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 En 3 cucharadas de manteca cocinar 3 cucharadas de harina. agregar 1 litro de leche caliente de a poco y revolviendo hasta que espese.
 
@@ -30,6 +28,5 @@ Incorporar 1 taza de cebolla rehogada, 1 taza de pollo desmenuzado, 1 taza de qu
 Llevar a horno por 1 a 1 ½ hora
 
 
-## Variantes
-
+### Variantes
 

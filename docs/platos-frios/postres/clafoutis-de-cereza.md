@@ -1,27 +1,25 @@
 ---
-title: Clafoutis de cereza
-subtitle: {subtitle}
 slug: clafoutis-de-cereza
-uuid: cdcf57b0-8fd0-4ff8-874e-95379b2464bc
+uuid: a6f67390-3368-4d5e-83b9-6bbae939f99e
 ---
 {nav}
 
-# Clafoutis de cereza
-
-Summary
+## Clafoutis de cereza
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Poner abundantes cerezas (200 gr) descarozadas (frescas o en almíbar y escurridas) dentro de un molde (bajo y de 20 cm de diámetro) enmantecado.
 
@@ -38,6 +36,5 @@ Durante la cocción, el batido se va al fondo y emergen las frutas.
 Espolvorear con abundante azúcar impalpable y servir.
 
 
-## Variantes
-
+### Variantes
 

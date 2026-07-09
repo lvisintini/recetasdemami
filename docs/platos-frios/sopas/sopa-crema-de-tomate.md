@@ -1,27 +1,25 @@
 ---
-title: Sopa crema de tomate
-subtitle: {subtitle}
 slug: sopa-crema-de-tomate
-uuid: 5ed13acd-ec14-43fe-bc43-29a654748fdb
+uuid: 9644834f-d416-4775-a293-9e3419d973f8
 ---
 {nav}
 
-# Sopa crema de tomate
-
-Summary
+## Sopa crema de tomate
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Freir 1 cebolla picada en manteca.
 
@@ -49,6 +47,5 @@ Cocinar de 20 minutos a ½ hora.
 Agregar queso crema y, por último, unos crutones y perejil picado.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Salsa de Queso Crema
-subtitle: {subtitle}
 slug: salsa-de-queso-crema
-uuid: e00a617c-de76-490f-a7fc-bf29e27ba37c
+uuid: 3f947a4a-39d6-4a4b-9543-7f0c0f10317b
 ---
 {nav}
 
-# Salsa de Queso Crema
-
-Summary
+## Salsa de Queso Crema
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 - Queso crema
@@ -30,6 +28,5 @@ Mezclar:
 - Crema de leche
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Pollo a la florentina
-subtitle: {subtitle}
 slug: pollo-a-la-florentina
-uuid: 41214f77-5225-4a40-bda5-08a59643aaf3
+uuid: ab0abc98-61b3-4896-b353-4e6ea4b0ae20
 ---
 {nav}
 
-# Pollo a la florentina
-
-Summary
+## Pollo a la florentina
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Cortar el pollo, colocarlo en una asadera y rebozarlo con sal, limón, savora y pimienta.
 
@@ -34,6 +32,5 @@ Agregar el jugo de 1 limón y el caldo de 1 o 2 cubitos de carne, cuando se han 
 Terminar de cocinar.
 
 
-## Variantes
-
+### Variantes
 

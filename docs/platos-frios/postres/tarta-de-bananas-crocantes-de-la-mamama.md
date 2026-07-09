@@ -1,27 +1,25 @@
 ---
-title: Tarta de bananas crocantes de la Mamama
-subtitle: {subtitle}
 slug: tarta-de-bananas-crocantes-de-la-mamama
-uuid: 8c9cda9d-b526-409d-bb97-5daab2042881
+uuid: daf67b43-0909-490e-ade4-e6e21b1028b7
 ---
 {nav}
 
-# Tarta de bananas crocantes de la Mamama
-
-Summary
+## Tarta de bananas crocantes de la Mamama
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 1. Hacer una masa para tartas dulces y cubrir un molde (ver masas).
@@ -33,6 +31,5 @@ Summary
 1. Llevar al horno por 25 minutos a 180°C.
 
 
-## Variantes
-
+### Variantes
 

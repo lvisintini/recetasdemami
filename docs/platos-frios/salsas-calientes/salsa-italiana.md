@@ -1,27 +1,25 @@
 ---
-title: Salsa italiana
-subtitle: {subtitle}
 slug: salsa-italiana
-uuid: 6a794499-33b0-46a7-9476-72358a6fd8c7
+uuid: a84045d3-8da6-4ac4-9f35-a0970ad76b5e
 ---
 {nav}
 
-# Salsa italiana
-
-Summary
+## Salsa italiana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Saltear en aceite de oliva 2 cebollas cortadas en juliana,
 
@@ -34,6 +32,5 @@ Con fuego bajo reducir a la mitad.
 Servir sobre pasta y esparcir queso rallado.
 
 
-## Variantes
-
+### Variantes
 

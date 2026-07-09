@@ -1,31 +1,28 @@
 ---
-title: Grumos de avena
-subtitle: {subtitle}
 slug: grumos-de-avena
-uuid: 4293233e-6dcb-4398-9208-b97b85bd1c92
+uuid: 36d29474-2345-4342-b033-e974848d0348
 ---
 {nav}
 
-# Grumos de avena
-
-Summary
+## Grumos de avena
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Formar con los dedos grumos utilizando 1 taza de azúcar, 1 taza de avena tradicional y ¼ taza de manteca.
 
 
-## Variantes
-
+### Variantes
 

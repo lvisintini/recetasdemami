@@ -1,27 +1,25 @@
 ---
-title: Salsa de hongos
-subtitle: {subtitle}
 slug: salsa-de-hongos
-uuid: 4ea1ce76-a053-4a36-85a4-84bfc1a53f7b
+uuid: 57cc4224-07d3-4b4b-b99b-a8ba73cfefec
 ---
 {nav}
 
-# Salsa de hongos
-
-Summary
+## Salsa de hongos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Dorar en manteca ½ cebolla rallada.
 
@@ -36,6 +34,5 @@ Cocinar.
 Para espesar, si es necesario, agregar una cucharada de maizena.
 
 
-## Variantes
-
+### Variantes
 

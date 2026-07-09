@@ -1,27 +1,25 @@
 ---
-title: Salsa del Español
-subtitle: {subtitle}
 slug: salsa-del-espanol
-uuid: c5fbb2d0-107e-407c-8c4e-207c10013ebb
+uuid: 2d9c1e3f-89e8-4329-8b9f-97dcf5755f26
 ---
 {nav}
 
-# Salsa del Español
-
-Summary
+## Salsa del Español
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Picar y mezclar:
 
@@ -34,6 +32,5 @@ Picar y mezclar:
 Cocinar por 20 minutos aproximadamente, agregando la cantidad de caldo necesaria.
 
 
-## Variantes
-
+### Variantes
 

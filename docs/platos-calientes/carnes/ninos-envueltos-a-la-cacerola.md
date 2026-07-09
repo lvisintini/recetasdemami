@@ -1,27 +1,25 @@
 ---
-title: Niños envueltos a la cacerola
-subtitle: {subtitle}
 slug: ninos-envueltos-a-la-cacerola
-uuid: 97197f3f-9825-445e-8f43-c5228d33745e
+uuid: 71a3a496-3097-4059-8e48-eef1c159c837
 ---
 {nav}
 
-# Niños envueltos a la cacerola
-
-Summary
+## Niños envueltos a la cacerola
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 6 bifes finitos como para milanesa, 6 fetas de jamon, 6 fetas de panceta, 2 cebollas picadas, 1 aji picado, sal, pimienta, perejil, 1 vaso de vino blanco, caldo.
 
@@ -34,6 +32,5 @@ Luego hay 2 variantes:
 Bañarlos con la salsa y salpicar con perejil picado.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Mousse de chocolate de Emilia
-subtitle: {subtitle}
 slug: mousse-de-chocolate-de-emilia
-uuid: 8bf96612-6c2f-4da7-95f0-ed9932b913f9
+uuid: 9a2819f1-61a2-48c2-be6b-0d88fcb0ad3b
 ---
 {nav}
 
-# Mousse de chocolate de Emilia
-
-Summary
+## Mousse de chocolate de Emilia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 1. Batir 5 yemas con 5 cucharadas colmadas de azúcar.
@@ -31,6 +29,5 @@ Summary
 1. Poner en el freezer en un recipiente tapado y sobre algo que lo mantenga separado del piso por 1 hora y después pasarlo a la heladera.
 
 
-## Variantes
-
+### Variantes
 

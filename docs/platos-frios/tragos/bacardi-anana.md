@@ -1,27 +1,25 @@
 ---
-title: Bacardi ananá
-subtitle: {subtitle}
 slug: bacardi-anana
-uuid: 3ba3e086-146a-46b7-80c0-a21a5a64f3ab
+uuid: ac5053db-1d07-4c59-8136-8ce894230da0
 ---
 {nav}
 
-# Bacardi ananá
-
-Summary
+## Bacardi ananá
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -32,6 +30,5 @@ Licuar:
 - 2 cucharadas de azúcar
 
 
-## Variantes
-
+### Variantes
 

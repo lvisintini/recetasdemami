@@ -1,27 +1,25 @@
 ---
-title: Salsa para peceto o carnes frias
-subtitle: {subtitle}
 slug: salsa-para-peceto-o-carnes-frias
-uuid: 3b4f9f3b-1c9d-475d-881e-d68b552de0a5
+uuid: 6c47e076-e641-4f2e-b2f8-45f5a7331d2a
 ---
 {nav}
 
-# Salsa para peceto o carnes frias
-
-Summary
+## Salsa para peceto o carnes frias
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Licuar:
 
@@ -33,6 +31,5 @@ Licuar:
 - ketchup.
 
 
-## Variantes
-
+### Variantes
 

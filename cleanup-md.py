@@ -10,34 +10,31 @@ with open('./Recetas.md', 'r') as f:
     m = list(f.readlines())
 
 template = """---
-title: {clean_title}
-subtitle: {subtitle}
 slug: {slug}
 uuid: {uuid}
 ---
 {nav}
 
-# {dirty_title}
-
-Summary
+## {dirty_title}
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 {content}
 
-## Variantes
-
+### Variantes
 
 """
 content = []
@@ -67,11 +64,11 @@ for x in m:
                     f.write(template.format(
                         clean_title=clean_title,
                         dirty_title=dirty_title,
-                        subtitle="{subtitle}",
                         slug=filename,
                         uuid=str(uuid.uuid4()),
                         nav='{nav}',
                         content='\n'.join(content),
+                        summary="{summary}"
                     ))
 
         path = path[:c-1]

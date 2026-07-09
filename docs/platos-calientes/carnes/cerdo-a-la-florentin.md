@@ -1,27 +1,25 @@
 ---
-title: Cerdo a la florentin
-subtitle: {subtitle}
 slug: cerdo-a-la-florentin
-uuid: 12e09f7d-c694-4343-95c0-f388879295f8
+uuid: 15863416-a5c1-4db7-8a39-749bbc0a44cc
 ---
 {nav}
 
-# Cerdo a la florentin (agridulce)
-
-Summary
+## Cerdo a la florentin (agridulce)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Se unta la carne con mostaza, pimienta, sal y se deja descansar.
 
@@ -32,6 +30,5 @@ Se coloca la carne en una asadera junto con 1 taza de caldo o más si es necesar
 Una vez cocido, también se puede cortar e intercalar rodajas de ananá, dándole otro golpe de horno.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Bacardi cola
-subtitle: {subtitle}
 slug: bacardi-cola
-uuid: 3f3e249e-6f7a-4565-b870-5d19482e5e1a
+uuid: 4ed5c4d2-e2e9-4345-90b5-cf5ec4f4c685
 ---
 {nav}
 
-# Bacardi cola
-
-Summary
+## Bacardi cola
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -31,6 +29,5 @@ Mezclar:
 - 1 rodaja de limón
 
 
-## Variantes
-
+### Variantes
 

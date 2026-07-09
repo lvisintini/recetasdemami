@@ -1,27 +1,25 @@
 ---
-title: Bifes a la criolla
-subtitle: {subtitle}
 slug: bifes-a-la-criolla
-uuid: 282c34c4-768b-4b90-879a-f9bb85063a45
+uuid: 80a86a5e-4b08-4f5e-b402-0b2ffc9f92e0
 ---
 {nav}
 
-# Bifes a la criolla
-
-Summary
+## Bifes a la criolla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 En una cacerola se pone un poco de aceite y después por capas:
 
@@ -36,6 +34,5 @@ Tengo entendido que se puede cocinar también en el horno durante
 1 ½ horas, aceitando y poniendo pan rallado sobre la asadera.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Biscochuelo
-subtitle: {subtitle}
 slug: biscochuelo
-uuid: c91c97f0-be82-4737-ae63-4657d51bd178
+uuid: 163d2ba0-c647-400a-b738-9e0a207b5e2b
 ---
 {nav}
 
-# Biscochuelo
-
-Summary
+## Biscochuelo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Batir 8 yemas con 8 cucharadas de azúcar y de a poco ir agregando 8 cucharadas de harina.
 
@@ -34,6 +32,5 @@ Si introduciendo un palillo y al sacarlo está seco, indica que ya está cocido.
 Dejarlo en el horno apagado hasta que se enfríe, de lo contrario puede aplastarse.
 
 
-## Variantes
-
+### Variantes
 

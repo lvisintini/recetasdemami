@@ -1,27 +1,25 @@
 ---
-title: Arroz al curry
-subtitle: {subtitle}
 slug: arroz-al-curry
-uuid: 2c3aef89-5e18-4ae4-a23d-291afafc4b12
+uuid: 850ea970-edf4-409a-96f0-3eb757199bc3
 ---
 {nav}
 
-# Arroz al curry
-
-Summary
+## Arroz al curry
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1 cebolla rehogada, 1 tacita de café de arroz (3 personas) y sellar el arroz. Cuando la cebolla esté transparente, agregar ¾ litros de caldo de carne caliente (ojo que salta), a los 10 minutos agregar sal y 3 cucharaditas de buen curry.
 
@@ -34,6 +32,5 @@ Si queda muy seco, agregar crema de leche.
 Se puede espolvorear con perejil picado.
 
 
-## Variantes
-
+### Variantes
 

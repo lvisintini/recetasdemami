@@ -1,27 +1,25 @@
 ---
-title: Michelada
-subtitle: {subtitle}
 slug: michelada
-uuid: cbd85de1-5b76-4454-9df5-00132aaa4c1e
+uuid: 6b2293c7-277b-4587-9333-2119a05f7a56
 ---
 {nav}
 
-# Michelada
-
-Summary
+## Michelada
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - Cerveza rubia
@@ -29,6 +27,5 @@ Summary
 - pisca de sal.
 
 
-## Variantes
-
+### Variantes
 

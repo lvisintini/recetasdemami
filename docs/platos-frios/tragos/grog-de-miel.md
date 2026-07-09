@@ -1,27 +1,25 @@
 ---
-title: Grog de miel
-subtitle: {subtitle}
 slug: grog-de-miel
-uuid: 093c80e8-50f0-4ef6-87c1-cd20de7e7855
+uuid: 1f198eea-d1de-48b3-95fb-b11a92536780
 ---
 {nav}
 
-# Grog de miel
-
-Summary
+## Grog de miel
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 En un vaso poner:
@@ -33,6 +31,5 @@ En un vaso poner:
 - Soda fría (para llenar el vaso)
 
 
-## Variantes
-
+### Variantes
 

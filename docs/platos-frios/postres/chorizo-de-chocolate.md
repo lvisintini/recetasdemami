@@ -1,27 +1,25 @@
 ---
-title: Chorizo de chocolate
-subtitle: {subtitle}
 slug: chorizo-de-chocolate
-uuid: 1c9fc9ae-3c21-4db2-b4af-1d805d64cb9c
+uuid: 67cad4a4-8f45-42b1-8bfe-683e6733e92a
 ---
 {nav}
 
-# Chorizo de chocolate
-
-Summary
+## Chorizo de chocolate
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hacer una masa con 100 gr de manteca, 100 gr de azúcar, 1 huevo y 100 gr de cacao.
 
@@ -36,6 +34,5 @@ Cerrar las puntas como si fuera un caramelo y llevarlo al freezer por 3 horas co
 En mi opinion, pondria mas masitas mana.
 
 
-## Variantes
-
+### Variantes
 

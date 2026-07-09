@@ -1,31 +1,28 @@
 ---
-title: Indiana
-subtitle: {subtitle}
 slug: indiana
-uuid: efdd4cfa-2c65-4ee3-9489-0eedb0d85d8e
+uuid: 1ca8be1b-899c-4a8e-904f-3a3331f9a3fd
 ---
 {nav}
 
-# Indiana
-
-Summary
+## Indiana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 1 lata palmitos, 1 latita pimientos morrones, cubos de lomito ahumado, 2 tazas de zanahoria rallada, ½ taza mayonesa, 1 cucharada colmada de mostaza, gotas de salsa inglesa.
 
 
-## Variantes
-
+### Variantes
 

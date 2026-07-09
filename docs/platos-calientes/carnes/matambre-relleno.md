@@ -1,27 +1,25 @@
 ---
-title: Matambre relleno
-subtitle: {subtitle}
 slug: matambre-relleno
-uuid: 0effb1de-020d-4ca3-9b40-477c65cb5163
+uuid: 729e55e2-59db-4318-8fd0-adc720f26134
 ---
 {nav}
 
-# Matambre relleno (2 kg)
-
-Summary
+## Matambre relleno (2 kg)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Salarlo y adobarlo la noche anterior con ½ taza de vinagre, una taza de aceite, 8 granos de pimienta negra, una cucharadita de pimentón, una cucharadita de orégano y un diente de ajo machacado.
 Abrirlo con la grasa hacia adentro y el tejido musculoso hacia afuera.
@@ -31,6 +29,5 @@ Colocar en su interior: zanahorias crudas, pickles, ajíes en vinagre, todo cort
 Cerrar el matambre enroscándolo sobre el relleno, coserlo o atarlo para que tome su forma alargada. colocarlo en una cacerola profunda con abundante agua fría y hierbas aromáticas. Cocinar a fuego lento por 2 horas o más hasta que se note tierno. dejarlo en ese caldo hasta que se enfríe. prensarlo para que suelte el jugo, colocandole algo pesado que haga presión durante varias horas.
 
 
-## Variantes
-
+### Variantes
 

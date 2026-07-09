@@ -1,31 +1,28 @@
 ---
-title: Huevos benedictinos
-subtitle: {subtitle}
 slug: huevos-benedictinos
-uuid: a09f7213-1d6d-49f5-9fa0-cf00ed7a1299
+uuid: d4dcfa58-60cf-4c41-9b28-3f9f55ae2509
 ---
 {nav}
 
-# Huevos benedictinos
-
-Summary
+## Huevos benedictinos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verdeo picada, huevo poché (ver más abajo) y salsa holandesa.
 
 
-## Variantes
-
+### Variantes
 

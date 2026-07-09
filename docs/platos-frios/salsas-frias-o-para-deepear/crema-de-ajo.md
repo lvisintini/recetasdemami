@@ -1,27 +1,25 @@
 ---
-title: Crema de Ajo
-subtitle: {subtitle}
 slug: crema-de-ajo
-uuid: d693cbb1-98ce-4d4c-a565-1e18986ebb08
+uuid: c4e25fd4-d97a-4332-bbd4-110e0bb37307
 ---
 {nav}
 
-# Crema de Ajo
-
-Summary
+## Crema de Ajo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 - Puré de ajo (poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos para que salga la crema)
 - Casancrem
@@ -29,6 +27,5 @@ Summary
 - Mayonesa (Natura)
 
 
-## Variantes
-
+### Variantes
 

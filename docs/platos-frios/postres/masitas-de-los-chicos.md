@@ -1,27 +1,25 @@
 ---
-title: Masitas de los chicos
-subtitle: {subtitle}
 slug: masitas-de-los-chicos
-uuid: 50176b13-8e97-4bed-93c0-e93d0507adf0
+uuid: 5f16dbd9-0d0f-4e75-8bfe-06498f4397a0
 ---
 {nav}
 
-# Masitas de los chicos
-
-Summary
+## Masitas de los chicos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - 3 tazas de harina
@@ -61,6 +59,5 @@ Salen 83 masitas de 5 cm de diametro.
 - **Marmoladas:** ½ de masa con vainilla y ½ masa con chocolate amargo y azúcar.
 
 
-## Variantes
-
+### Variantes
 

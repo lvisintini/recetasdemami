@@ -1,27 +1,25 @@
 ---
-title: Tragos
-subtitle: {subtitle}
 slug: tragos
-uuid: 86a7b917-37dc-45fc-99eb-d62e44d51ec1
+uuid: d1bbf0b2-4309-4e36-bfcf-d85c771a35cb
 ---
 {nav}
 
-# Tragos
-
-Summary
+## Tragos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla como decoración.
@@ -29,6 +27,5 @@ Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla co
 Poner las copas en la heladera antes de servir el trago.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Cesar
-subtitle: {subtitle}
 slug: cesar
-uuid: 5bbb2108-7110-4da5-9e37-a771ef368b48
+uuid: 56e44cf1-b77d-4af6-a51d-659de82c14f2
 ---
 {nav}
 
-# Cesar
-
-Summary
+## Cesar
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 La base de la ensalada es: lechuga romana, rúcula, queso laminado y en tiritas o queso parmesano y crutones.
 
@@ -30,6 +28,5 @@ Se puede completar con champignones, panceta, pollo, langostinos, jamón en tiri
 La salsa tendría que ser César, o puede ser mayonesa con anchoa picada.
 
 
-## Variantes
-
+### Variantes
 

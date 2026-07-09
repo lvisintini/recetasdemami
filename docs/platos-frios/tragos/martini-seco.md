@@ -1,27 +1,25 @@
 ---
-title: Martini seco
-subtitle: {subtitle}
 slug: martini-seco
-uuid: 761806eb-64d3-4496-bd2e-d97cf9b2d65e
+uuid: 868aaa2c-fea8-4a54-954a-a7ba60e030c0
 ---
 {nav}
 
-# Martini seco
-
-Summary
+## Martini seco
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 En una copa de 90 cc:
 
@@ -32,6 +30,5 @@ En una copa de 90 cc:
 - 3 cubitos de hielo
 
 
-## Variantes
-
+### Variantes
 

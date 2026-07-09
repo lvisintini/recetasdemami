@@ -1,27 +1,25 @@
 ---
-title: Ensalada de chauchas
-subtitle: {subtitle}
 slug: ensalada-de-chauchas
-uuid: 5d0ae576-1d13-4f23-bae8-c5bc718900d0
+uuid: 97f031e5-9aca-4d6f-b2f6-b8514fb03b64
 ---
 {nav}
 
-# Ensalada de chauchas
-
-Summary
+## Ensalada de chauchas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Cortar y hervir ½ kg de chauchas, enfriar.
@@ -32,6 +30,5 @@ Condimentar con 4 cucharadas de aceite de oliva, 2 ½ cucharadas de vinagre de v
 
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Torta peruana de Tía Nilda
-subtitle: {subtitle}
 slug: torta-peruana-de-tia-nilda
-uuid: fb8ec876-b1a2-41fa-90e6-51560b35767d
+uuid: 5cbc7645-7c95-429c-b1d5-8503759d5f10
 ---
 {nav}
 
-# Torta peruana de Tía Nilda.
-
-Summary
+## Torta peruana de Tía Nilda.
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar 1 ½ taza de harina común con ¾ taza de azúcar, y 100 grs. de manteca.
 
@@ -34,6 +32,5 @@ Poner sobre la mezcla anterior y cocinar 20 minutos más.
 No cocinar mucho pues se seca y queda muy dura.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Crema sevillana de naranjas
-subtitle: {subtitle}
 slug: crema-sevillana-de-naranjas
-uuid: 5e4b3f1e-314d-4c1c-915e-2e59f6ea9692
+uuid: c7623b10-7af4-4507-87ab-759ed08e108f
 ---
 {nav}
 
-# Crema sevillana de naranjas
-
-Summary
+## Crema sevillana de naranjas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Pelar las naranjas, sacarle la parte blanca (hollejo), las semillas y pasarlas por la licuadora (2 tazas de pulpa de naranjas).
 
@@ -32,6 +30,5 @@ Dejar enfriar y añadir 200 gr de crema de leche bien batida y 2 cucharadas de l
 Decorar con 6 rodajas de naranja peladas y acarameladas con 4 cucharadas de azúcar y el almíbar restante.
 
 
-## Variantes
-
+### Variantes
 

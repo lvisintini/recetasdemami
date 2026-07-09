@@ -1,27 +1,25 @@
 ---
-title: Salsa de aceitunas
-subtitle: {subtitle}
 slug: salsa-de-aceitunas
-uuid: adb14e4f-b269-486a-88eb-c6b5b442225b
+uuid: 644e7382-85dd-48af-ab63-fec779cff194
 ---
 {nav}
 
-# Salsa de aceitunas
-
-Summary
+## Salsa de aceitunas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Con 2 huevos y 1 taza aceite de girasol, hacer una mayonesa.
 
@@ -30,6 +28,5 @@ Agregar 7 aceitunas descarozadas, 1 cucharadita de sal y el jugo de ½ limón.
 Procesar
 
 
-## Variantes
-
+### Variantes
 

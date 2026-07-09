@@ -1,31 +1,28 @@
 ---
-title: Caprece
-subtitle: {subtitle}
 slug: caprece
-uuid: 1603faaf-00b5-4e02-bfc0-aa17ee3343a6
+uuid: 84872f84-98b1-4889-a70e-c55daeadbfaf
 ---
 {nav}
 
-# Caprece
-
-Summary
+## Caprece
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 tomate, aceitunas negras, daditos de queso, albahaca, aceite de oliva, vinagre y sal.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Dip de Roquefort
-subtitle: {subtitle}
 slug: dip-de-roquefort
-uuid: b6a041fd-8a92-4c6d-a5f1-633f63677b6e
+uuid: 09fa7b35-5022-4f1a-9f70-1878a12d04be
 ---
 {nav}
 
-# Dip de Roquefort
-
-Summary
+## Dip de Roquefort
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Mezclar:
 
@@ -33,6 +31,5 @@ Mezclar:
 
 
 
-## Variantes
-
+### Variantes
 

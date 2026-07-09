@@ -1,27 +1,25 @@
 ---
-title: Aros de cebolla
-subtitle: {subtitle}
 slug: aros-de-cebolla
-uuid: 69cf3ca9-2c69-4f0f-bcee-d6962decf7d5
+uuid: 7c50680d-4c11-4a04-afc7-9d02008ed509
 ---
 {nav}
 
-# Aros de cebolla
-
-Summary
+## Aros de cebolla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Se hace una masa con:
@@ -42,6 +40,5 @@ De a poco se pasan los aros por la masa y se fríen con cuidado en aceite bien c
 Dorarlas de ambos lados y retirarlos con espumadera, colocándolos sobre papel de cocina.
 
 
-## Variantes
-
+### Variantes
 

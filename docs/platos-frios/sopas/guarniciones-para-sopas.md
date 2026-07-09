@@ -1,27 +1,25 @@
 ---
-title: Guarniciones para sopas
-subtitle: {subtitle}
 slug: guarniciones-para-sopas
-uuid: 89aa85bf-ae49-4494-ba2a-99a82268697a
+uuid: 44197028-e8e4-4c9d-a71a-c8997aecfe6d
 ---
 {nav}
 
-# Guarniciones para sopas
-
-Summary
+## Guarniciones para sopas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Para agregar a cualquier sopa al momento de ser servidas
@@ -32,6 +30,5 @@ Para agregar a cualquier sopa al momento de ser servidas
 - Pequeñas tostaditas de pan pinceladas con manteca y pimienta, orégano, paprika, albahaca, perejil, u otras hierbas.
 
 
-## Variantes
-
+### Variantes
 

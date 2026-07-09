@@ -1,27 +1,25 @@
 ---
-title: Pisco sour
-subtitle: {subtitle}
 slug: pisco-sour
-uuid: a5001eeb-7113-45b0-a1d6-e39e58792d67
+uuid: d9592a72-96bc-47b8-b5a8-bcb7975dd65e
 ---
 {nav}
 
-# Pisco sour
-
-Summary
+## Pisco sour
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 Batir:
@@ -34,6 +32,5 @@ Batir:
 - 5 cubitos de hielo
 
 
-## Variantes
-
+### Variantes
 

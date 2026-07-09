@@ -1,27 +1,25 @@
 ---
-title: Isla flotante de la Abuela Aurelia
-subtitle: {subtitle}
 slug: isla-flotante-de-la-abuela-aurelia
-uuid: 39beb436-fe6f-454c-b047-4200785532c6
+uuid: 7844c551-3997-4b49-b964-0548596d700f
 ---
 {nav}
 
-# Isla flotante de la Abuela Aurelia
-
-Summary
+## Isla flotante de la Abuela Aurelia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Se baten 6 claras a punto nieve, se le agregan de a poco 6 cucharadas de azúcar.
 
@@ -53,6 +51,5 @@ Cocinarlas en agua caliente, 2 minutos de cada lado.
 Batir, cocinar a baño maría hasta espesar. Que no hierva.
 
 
-## Variantes
-
+### Variantes
 

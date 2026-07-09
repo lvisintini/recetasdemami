@@ -1,27 +1,25 @@
 ---
-title: Carrot cake
-subtitle: {subtitle}
 slug: carrot-cake
-uuid: 80dee1a3-fd53-4775-bdb5-d96d8eaf3e66
+uuid: 0e040acb-0449-45a8-839c-e0aa7211f904
 ---
 {nav}
 
-# Carrot cake
-
-Summary
+## Carrot cake
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Hacer la torta en un molde de 18-20 cm de diámetro.
 
@@ -55,6 +53,5 @@ Batir ¾ taza de queso crema, 2 o 4 cucharadas de miel (o ⅓ taza de azúcar im
 Poner en la heladera hasta el momento de rellenar.
 
 
-## Variantes
-
+### Variantes
 

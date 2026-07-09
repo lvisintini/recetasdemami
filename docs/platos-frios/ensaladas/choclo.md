@@ -1,31 +1,28 @@
 ---
-title: Choclo
-subtitle: {subtitle}
 slug: choclo
-uuid: 0014ff59-47d2-48cd-b8f0-ae2701253f1a
+uuid: f05a6cb9-cd5e-4fbd-98f2-4aa481f1f7f3
 ---
 {nav}
 
-# Choclo
-
-Summary
+## Choclo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Choclo grano entero, nueces, apio, tomates, ciboulette, mayonesa, jugo limón, perejil picado, huevo muy picado, mostaza, crema de leche.
 
 
-## Variantes
-
+### Variantes
 

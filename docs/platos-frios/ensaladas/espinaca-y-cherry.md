@@ -1,27 +1,25 @@
 ---
-title: Espinaca y cherry
-subtitle: {subtitle}
 slug: espinaca-y-cherry
-uuid: 14afa78a-3ce3-439e-b387-775ef7f549e6
+uuid: f002ebf9-adf4-40a2-b065-f7a0e5b83bd3
 ---
 {nav}
 
-# Espinaca y cherry
-
-Summary
+## Espinaca y cherry
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 Espinaca, tomates cherry, naranja, semillas de girasol doradas sin aceite.
 
@@ -29,6 +27,5 @@ Espinaca, tomates cherry, naranja, semillas de girasol doradas sin aceite.
 Aceite de oliva, aceto, miel, mostaza, limón, sal.
 
 
-## Variantes
-
+### Variantes
 

@@ -1,27 +1,25 @@
 ---
-title: Ron-naranja
-subtitle: {subtitle}
 slug: ron-naranja
-uuid: c093218a-71cd-471b-832b-b2d945aa2545
+uuid: d96b09b4-de01-414d-9acd-072f4ef21065
 ---
 {nav}
 
-# Ron-naranja
-
-Summary
+## Ron-naranja
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 
 - Una parte de ron
@@ -31,6 +29,5 @@ Summary
 - Golpe de soda
 
 
-## Variantes
-
+### Variantes
 

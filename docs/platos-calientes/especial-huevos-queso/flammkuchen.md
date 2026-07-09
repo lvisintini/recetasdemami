@@ -1,27 +1,25 @@
 ---
-title: Flammkuchen
-subtitle: {subtitle}
 slug: flammkuchen
-uuid: 59418d1a-ae75-4960-8bb6-0ab6afa9ad5f
+uuid: 0cb5d997-2aa8-42fc-8a40-a21318cecbfc
 ---
 {nav}
 
-# Flammkuchen
-
-Summary
+## Flammkuchen
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 La masa especial para los flammkuchen, está en la parte de masas.
 
@@ -47,6 +45,5 @@ Dispersar sobre una masa de tarta rectangular, en forma de capas:
 Arrollar la masa y llevar al horno a fuego moderado hasta que se dore. cuando se entibie, cortar en rodajas.
 
 
-## Variantes
-
+### Variantes
 

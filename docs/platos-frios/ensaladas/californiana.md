@@ -1,27 +1,25 @@
 ---
-title: Californiana
-subtitle: {subtitle}
 slug: californiana
-uuid: 5ff8082a-a066-40d4-8275-79c70d963bdf
+uuid: a65abd51-e821-49ea-8c06-2e1f2c15d817
 ---
 {nav}
 
-# Californiana
-
-Summary
+## Californiana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-## Ingredientes
+{summary}
+
+### Ingredientes
 
 - 
 - 
 - 
 
-## Preparación
+### Preparación
 
 espinaca cruda, champignones, huevo duro, panceta ahumada en daditos y cocida, croutones, aceite de oliva, vinagre y sal.
 
@@ -29,6 +27,5 @@ espinaca cruda, champignones, huevo duro, panceta ahumada en daditos y cocida, c
 los hongos salteados con ajo.
 
 
-## Variantes
-
+### Variantes
 
