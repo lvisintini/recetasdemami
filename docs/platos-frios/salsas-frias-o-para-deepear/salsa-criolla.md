@@ -2,12 +2,26 @@
 title: Salsa criolla
 subtitle: {subtitle}
 slug: salsa-criolla
-uuid: 924075d2-0fa6-45a1-8936-71ab468f5d49
-credits: {credits}
+uuid: f22f2335-c108-475c-b9d5-a69b1359a7de
 ---
 {nav}
 
 # Salsa criolla
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 2 tomates
 - ½ pimiento rojo
@@ -21,4 +35,8 @@ credits: {credits}
 - ¼ cucharadita comino
 - ¼ cucharadita pimienta negra
 - perejil
+
+
+## Variantes
+
 

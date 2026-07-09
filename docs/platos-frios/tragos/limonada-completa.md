@@ -2,16 +2,34 @@
 title: Limonada completa
 subtitle: {subtitle}
 slug: limonada-completa
-uuid: d29c6a95-6993-4f2b-b8a3-5e9da1e6e161
-credits: {credits}
+uuid: 133cec5c-4dc4-49cc-bb5f-0820978e895a
 ---
 {nav}
 
 # Limonada completa
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - Jugo de limón
 - Cucharadas de azúcar
 - Jengibre rallado
 - Agua
 - hielo molido.
+
+
+## Variantes
+
 

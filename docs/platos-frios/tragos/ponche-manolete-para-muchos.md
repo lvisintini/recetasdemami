@@ -2,12 +2,26 @@
 title: Ponche Manolete para muchos
 subtitle: {subtitle}
 slug: ponche-manolete-para-muchos
-uuid: 89cfb5d8-d0b7-4c06-900d-bd2fa64c312a
-credits: {credits}
+uuid: 5337de0a-d6cc-4798-9a2b-11228df94ba5
 ---
 {nav}
 
 # Ponche Manolete para muchos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Espolvorear 1 kg de fruta de estación (pelada y cortadita) con 1 taza de azúcar
 
@@ -18,4 +32,8 @@ Dejar en reposo hasta que la fruta suelte su jugo y el azúcar se disuelva.
 Agregar 2 litros de vino blanco y enfriar en la heladera.
 
 Cuando esté bien helado agregar 1 litro de champán y servir con trocitos de fruta.
+
+
+## Variantes
+
 

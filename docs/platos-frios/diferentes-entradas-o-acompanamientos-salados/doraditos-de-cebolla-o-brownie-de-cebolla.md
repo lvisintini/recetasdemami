@@ -2,12 +2,26 @@
 title: Doraditos de cebolla o Brownie de cebolla
 subtitle: {subtitle}
 slug: doraditos-de-cebolla-o-brownie-de-cebolla
-uuid: f86a0108-678d-4415-bf2b-25c21e47de3c
-credits: {credits}
+uuid: 3a1c1fd7-0333-43b4-9e25-28b8fad9f301
 ---
 {nav}
 
 # Doraditos de cebolla o Brownie de cebolla
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - ½ kg. De cebolla picada
 - ½ taza de aceite (cualquiera menos oliva)
@@ -35,4 +49,8 @@ Una vez dorados, apagar el horno y dejar enfriar allí mismo.
 Cortar en cuadraditos.
 
 Puede acompañar la humita, o completar una picada.
+
+
+## Variantes
+
 

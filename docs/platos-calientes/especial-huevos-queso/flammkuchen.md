@@ -2,12 +2,26 @@
 title: Flammkuchen
 subtitle: {subtitle}
 slug: flammkuchen
-uuid: fb948bbe-8960-4bd5-b359-5b8ed5e061b8
-credits: {credits}
+uuid: bf78f3c8-fe68-4e50-bdc4-8daf23717df0
 ---
 {nav}
 
 # Flammkuchen
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 La masa especial para los flammkuchen, está en la parte de masas.
 
 Colocar sobre una asadera un papel manteca y sobre este una masa de tarta.
@@ -30,4 +44,8 @@ Dispersar sobre una masa de tarta rectangular, en forma de capas:
 100 gr de jamón, 100 gr de queso de máquina, 2 huevos duros picados, rodajas de 1 tomate y un manojo de perejil bien picado.
 
 Arrollar la masa y llevar al horno a fuego moderado hasta que se dore. cuando se entibie, cortar en rodajas.
+
+
+## Variantes
+
 

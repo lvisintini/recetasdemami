@@ -2,11 +2,29 @@
 title: Wok de verduras
 subtitle: {subtitle}
 slug: wok-de-verduras
-uuid: 5e0045ea-be0e-4db2-8236-566996e3b5fe
-credits: {credits}
+uuid: e5e07ebc-7c99-4c8e-a9a8-7919a3467965
 ---
 {nav}
 
 # Wok de verduras
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 En el elemento wok o en una sartén bien caliente incorporar aceite de oliva, ajo muy picado, cebollas en ¼ de aros, zanahorias y papas en juliana; revolver continuamente para que no se pegue y se cocine parejo, durante tres minutos aproximadamente. condimentar con sal, pimienta, ají molido, romero. después agregar champiñones ( u otro tipo de hongos hidratados en agua o vino), pimientos, calabacín, zapallitos, chauchas, panceta, todo en tiritas o juliana, granos de choclo, apio, brócoli, hojas verdes. Ir añadiendo todas estas verduras desde las más duras a las más blandas, y siempre revolviendo. Cuando todos los ingredientes estén en su punto, añadir la salsa de soja. lleva entre 20 y 30 minutos de cocción.
+
+
+## Variantes
+
 

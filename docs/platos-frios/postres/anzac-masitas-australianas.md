@@ -2,12 +2,26 @@
 title: Anzac masitas australianas
 subtitle: {subtitle}
 slug: anzac-masitas-australianas
-uuid: f7552efb-2a5d-4d76-bd1f-75e221853290
-credits: {credits}
+uuid: 7ec0faa4-db0a-42c4-a668-1245606c8477
 ---
 {nav}
 
 # Anzac, masitas australianas
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 150 gr harina
 - 90 gr avena
@@ -32,4 +46,8 @@ En una asadera forrada con papel para horno, colocar las bolas y aplastarlas for
 Hornear por 12 a 15 minutos en horno a 170°C.
 
 Dejar entibiar (al principio están muy blandas y se pueden quebrar, utilizar espátula) antes de pasarlas a una rejilla para que se terminen de enfriar
+
+
+## Variantes
+
 

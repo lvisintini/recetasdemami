@@ -2,11 +2,29 @@
 title: Griega
 subtitle: {subtitle}
 slug: griega
-uuid: e28ce0de-6a85-4d93-9e9b-fa42d984e8c5
-credits: {credits}
+uuid: d8107773-6d56-416c-805d-fb6f547717c6
 ---
 {nav}
 
 # Griega
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Daditos de queso, oregano, daditos de jamon crudo o lomito, aceitunas negras, tomate, cebolla o cibulette, sal, aceite de oliva y vinagre de vino.
+
+
+## Variantes
+
 

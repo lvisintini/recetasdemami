@@ -2,12 +2,26 @@
 title: Daikiri
 subtitle: {subtitle}
 slug: daikiri
-uuid: f180f52a-1b3a-423d-8bf5-73a166593ee1
-credits: {credits}
+uuid: e03bb87a-8753-4153-891a-54508f1ad5a3
 ---
 {nav}
 
 # Daikiri
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 1 ½ ron
 - ½ limón
@@ -15,4 +29,8 @@ credits: {credits}
 - Hielo molido
 
 Escarchar el vaso con jugo de limón y azúcar.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Tarteletas saladas
 subtitle: {subtitle}
 slug: tarteletas-saladas
-uuid: 5f5e550e-ed7d-4d20-9ebd-ce9dce4e40a2
-credits: {credits}
+uuid: 0086a072-dbff-447f-98e0-6a3f5317ff89
 ---
 {nav}
 
 # Tarteletas saladas
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer una masa con:
 
 - 300 gr harina leudante
@@ -22,4 +36,8 @@ Enmantecar y enharinar el molde correspondiente y cubrirlo con la masa.
 Pinchar el fondo y los costados para que mantenga la forma y llevar a horno a 180°C.
 
 Usar cualquiera de los rellenos salados
+
+
+## Variantes
+
 

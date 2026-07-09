@@ -2,12 +2,26 @@
 title: Salsa caprece de Leo
 subtitle: {subtitle}
 slug: salsa-caprece-de-leo
-uuid: cf68bfd5-b05f-43db-bb53-8d024b0cb19f
-credits: {credits}
+uuid: 8507e9a4-296a-4f6f-94a1-af3617d41acf
 ---
 {nav}
 
 # Salsa caprece de Leo
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Tomar 5 tomates grandes (1 por persona), retirarles el rabo y rociarlos con aceite de oliva.
 
 Envolverlos con papel de aluminio y al horno o en la essen. (El aluminio es para que no se quemen o se peguen).
@@ -21,4 +35,8 @@ Retirar el aluminio y las cáscaras de los ajos.
 Unir la crema de tomate con la crema de ajo y condimentar.
 
 Al final, agregar las hojas de albahaca (no se cocinan) y abundante queso rallado, Y a las pastas!!!
+
+
+## Variantes
+
 

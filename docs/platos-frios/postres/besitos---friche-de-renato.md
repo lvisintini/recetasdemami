@@ -2,12 +2,26 @@
 title: Besitos - friche de Renato
 subtitle: {subtitle}
 slug: besitos---friche-de-renato
-uuid: 341665d1-1f59-4da4-94f6-f21e59e82766
-credits: {credits}
+uuid: 854509dc-cd73-43ef-b195-be9b80e6c1a6
 ---
 {nav}
 
 # Besitos - friche de Renato
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 3 Tazas de harina 000
 - 1 taza de harina leudante
@@ -18,4 +32,8 @@ credits: {credits}
 - Ralladura de cáscara de 2 limones medianos
 
 Freír con grasa de cerdo
+
+
+## Variantes
+
 

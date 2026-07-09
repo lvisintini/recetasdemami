@@ -2,12 +2,26 @@
 title: Chipá de Emilia
 subtitle: {subtitle}
 slug: chipa-de-emilia
-uuid: 9e9236a8-7525-4cc4-999e-c468509909c1
-credits: {credits}
+uuid: fd871899-156d-4f5a-a056-dada1f2167d1
 ---
 {nav}
 
 # Chipá de Emilia
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - 3 tazas harina de mandioca
@@ -34,4 +48,8 @@ A media cocción, si es necesario, darlos vuelta.
 Preferentemente comerlos tibios.
 
 Son los mas ricos.
+
+
+## Variantes
+
 

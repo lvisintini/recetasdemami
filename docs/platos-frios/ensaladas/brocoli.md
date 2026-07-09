@@ -2,11 +2,29 @@
 title: Brócoli
 subtitle: {subtitle}
 slug: brocoli
-uuid: 3e914fe3-3a60-4c50-a6a8-31f48ab59630
-credits: {credits}
+uuid: 282725f3-7cdb-4db1-9d18-476b96b77fcd
 ---
 {nav}
 
 # Brócoli
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Brócoli, apio, choclo, jugo de limón, aceite de oliva, sal, pimienta. Complementar con salsa de queso.
+
+
+## Variantes
+
 

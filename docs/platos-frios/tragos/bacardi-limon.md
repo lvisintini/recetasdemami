@@ -2,16 +2,34 @@
 title: Bacardi limón
 subtitle: {subtitle}
 slug: bacardi-limon
-uuid: 2cecee91-61c2-4e3f-9f5d-d141c6f3c70f
-credits: {credits}
+uuid: 2c4ad205-7662-4acf-9b12-7b651a15f30f
 ---
 {nav}
 
 # Bacardi limón
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Licuar:
 
 - 50 cc de bacardi
 - hielo
 - jugo de 1 limón
 - 2 cucharadas de azúcar
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Torta invertida de ananá de Gigi
 subtitle: {subtitle}
 slug: torta-invertida-de-anana-de-gigi
-uuid: d07c9c49-4097-42e8-be7d-a64bcc332635
-credits: {credits}
+uuid: 8260a1d4-6c7b-4733-9916-ba57a2e2479b
 ---
 {nav}
 
 # Torta invertida de ananá de Gigi
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Derretir 1 taza de azúcar negra con 50 gr de manteca en un molde.
 
 Ponerle arriba las rodajas de una lata de ananá.
@@ -23,4 +37,8 @@ Cocinar a baja temperatura por 40 minutos.
 Desmoldar en frío y calentar un poco la base del molde para que el caramelo se derrita y se despegue del molde.
 
 Decorar con chantilly cream o merengue.
+
+
+## Variantes
+
 

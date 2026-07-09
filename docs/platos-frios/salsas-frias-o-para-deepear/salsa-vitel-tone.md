@@ -2,12 +2,26 @@
 title: Salsa Vitel Toné
 subtitle: {subtitle}
 slug: salsa-vitel-tone
-uuid: 995a6e1e-da57-4b8b-aa9d-06d51ecc129d
-credits: {credits}
+uuid: 009d2d10-6065-4593-b62e-69a63612c6f5
 ---
 {nav}
 
 # Salsa Vitel Toné
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Licuar:
 
 - 350 gr de mayonesa
@@ -17,4 +31,8 @@ Licuar:
 - jugo de ½ limón
 - sal
 - pimienta
+
+
+## Variantes
+
 

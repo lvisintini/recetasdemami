@@ -2,11 +2,29 @@
 title: Pure de batatas
 subtitle: {subtitle}
 slug: pure-de-batatas
-uuid: 665a7c57-9ddb-4c20-aff5-6d0d6b23778f
-credits: {credits}
+uuid: a82de1bd-ace4-43d6-af31-80136f27907a
 ---
 {nav}
 
 # Pure de batatas
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer un puré con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azúcar y 100 de leche,
+
+
+## Variantes
+
 

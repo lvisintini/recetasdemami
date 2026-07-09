@@ -2,12 +2,26 @@
 title: Garganta irritada
 subtitle: {subtitle}
 slug: garganta-irritada
-uuid: 29bb852c-da25-4d92-99b7-54486f5841c5
-credits: {credits}
+uuid: 9682869e-9053-4f0b-8a82-c4750c376d9a
 ---
 {nav}
 
 # Garganta irritada
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - 2 ½ tazas de agua
@@ -18,4 +32,8 @@ Hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta in
 No usar durante el período de embarazo.
 
 Emplear con precaución.
+
+
+## Variantes
+
 

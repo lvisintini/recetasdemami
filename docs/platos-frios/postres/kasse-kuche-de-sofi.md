@@ -2,12 +2,26 @@
 title: Kâsse kuche de Sofi
 subtitle: {subtitle}
 slug: kasse-kuche-de-sofi
-uuid: 586b6136-8a4c-465c-80f2-16788717b641
-credits: {credits}
+uuid: 828c058e-a9ab-4f00-af0b-1f975cf2c985
 ---
 {nav}
 
 # Kâsse kuche de Sofi
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 **Base:**
 - 120 gr manteca
@@ -27,4 +41,8 @@ credits: {credits}
 Los huevos hay que separarlos y las claras unidas a los demás pero batidas a nieve.
 
 Horno mínimo por 45 minutos.
+
+
+## Variantes
+
 

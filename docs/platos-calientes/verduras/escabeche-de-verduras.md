@@ -2,12 +2,26 @@
 title: Escabeche de verduras
 subtitle: {subtitle}
 slug: escabeche-de-verduras
-uuid: 1c88f74a-c217-4b69-92eb-fb80b7fbcea5
-credits: {credits}
+uuid: 313be799-e5f7-449c-ad28-c084545fd315
 ---
 {nav}
 
 # Escabeche de verduras
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Puede ser mezcla de varias verduras o de una sola:
 
 - coliflor
@@ -25,4 +39,8 @@ Humedecer con 1 ½ taza de vinagre, 1 taza de aceite y una de agua (o puede ser 
 Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo de la cantidad de verduras.
 
 Cocinar hasta que las zanahorias estén tiernas.
+
+
+## Variantes
+
 

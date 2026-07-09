@@ -2,12 +2,26 @@
 title: Pastel de calabaza al curry
 subtitle: {subtitle}
 slug: pastel-de-calabaza-al-curry
-uuid: 07c87007-ecec-4067-adf6-e0e757f9e602
-credits: {credits}
+uuid: a5934ffa-6e45-456c-b723-7e6dbf8d2e7f
 ---
 {nav}
 
 # Pastel de calabaza al curry (muy rico)
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 1. 1 diente de ajo
 1. 10 gr de manteca
 1. 500 gr anquito en dados
@@ -29,4 +43,8 @@ Agregar la mezcla de queso crema (8), queso rallado (9),y la albahaca (10), colo
 Retirar y cubrir con la mezcla de queso rallado (11), pan rallado /12) y manteca (13). hornear por 15 minutos más. esta capa queda crocante.
 
 Puede decorarse con hojas de albahaca fresca.
+
+
+## Variantes
+
 

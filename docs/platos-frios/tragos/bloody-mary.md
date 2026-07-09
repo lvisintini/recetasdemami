@@ -2,12 +2,26 @@
 title: Bloody Mary
 subtitle: {subtitle}
 slug: bloody-mary
-uuid: cf2997a1-9d78-4d60-a509-2eaf73c4782f
-credits: {credits}
+uuid: 1fed3312-4c82-4413-9cbe-f52b0a64580e
 ---
 {nav}
 
 # Bloody Mary
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 En un vaso alto:
 
 - 1 medida de vodka
@@ -17,4 +31,8 @@ En un vaso alto:
 - 4 gotas de worcestershire
 - 5 cubitos de hielo
 - una rodaja de limón
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Croquetas de arroz
 subtitle: {subtitle}
 slug: croquetas-de-arroz
-uuid: 00b282bc-2193-4b0f-abb9-6255a294dd59
-credits: {credits}
+uuid: 499f8382-c5c5-4aa1-a7fd-64752301e36c
 ---
 {nav}
 
 # Croquetas de arroz
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Arroz hervido, huevo, polvo de hornear (importante), harina, cebollita de verdeo, queso rallado, sal, ají molido, perejil y pimienta.
 
 Hacer una masa de consistencia como el engrudo o como para hacer panqueques gruesos.
@@ -15,4 +29,8 @@ Hacer una masa de consistencia como el engrudo o como para hacer panqueques grue
 Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se busca la cucharada de la mezcla. esto es para que no se desarme la croqueta cuando se la lleva al aceite.
 
 Servir caliente.
+
+
+## Variantes
+
 

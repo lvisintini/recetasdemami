@@ -2,12 +2,26 @@
 title: Dip de Roquefort
 subtitle: {subtitle}
 slug: dip-de-roquefort
-uuid: 2b1b7f0b-6d35-4a54-a92a-f46e478935c6
-credits: {credits}
+uuid: 751680fc-6d4a-45f7-98ec-9d6dccd0f736
 ---
 {nav}
 
 # Dip de Roquefort
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Mezclar:
 
 - Queso Roquefort
@@ -15,5 +29,9 @@ Mezclar:
 - Nueces
 - Un golpe de cognac
 - trocitos de Apio (Opcional)
+
+
+
+## Variantes
 
 

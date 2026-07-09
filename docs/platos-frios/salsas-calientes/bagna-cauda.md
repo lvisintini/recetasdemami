@@ -2,12 +2,26 @@
 title: Bagna cauda
 subtitle: {subtitle}
 slug: bagna-cauda
-uuid: d75b18fb-3ad5-48c3-b845-5543442415b8
-credits: {credits}
+uuid: 842570f5-732c-49e3-a14b-bec8d7264e19
 ---
 {nav}
 
 # Bagna cauda
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 - 1 y ½ cabeza de ajo
 - 12 anchoas (24 filetes)
 - 1 kg de crema de leche
@@ -25,4 +39,8 @@ Se agregan las anchoas y se mezcla a fuego suave, incorporando la crema de a poc
 Ni bien hierve, llevar a la mesa.
 
 Dicen que la original, lleva aceite de oliva en vez de crema.
+
+
+## Variantes
+
 

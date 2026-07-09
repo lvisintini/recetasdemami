@@ -2,12 +2,26 @@
 title: Pollo agridulce
 subtitle: {subtitle}
 slug: pollo-agridulce
-uuid: b1d408b9-e908-424e-9a74-b19c04acf311
-credits: {credits}
+uuid: f4f53809-1ce7-491e-bed8-881f5f8819c3
 ---
 {nav}
 
 # Pollo agridulce
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Pollo macerado con hierbas aromáticas, sal, pimienta y jugo de limón, ciboulette, arroz, champiñones, duraznos al natural, alcaparras, almendras.
 
 ## Aderezo
@@ -23,4 +37,8 @@ Calentar a baño maria
 Espesar como la mayonesa, y agregarle 200 g crema de leche.
 
 Unir al pollo y salpicar con perejil picado. Heladera.
+
+
+## Variantes
+
 

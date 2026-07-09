@@ -2,12 +2,26 @@
 title: Rellenos Salados
 subtitle: {subtitle}
 slug: rellenos-salados
-uuid: abc2656f-c606-4a98-8d81-54bc77748b2f
-credits: {credits}
+uuid: e607d648-13ad-43a6-9092-c0d82d62f727
 ---
 {nav}
 
 # Rellenos Salados
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Muchas recetas utilizan una variedad de rellenos salados.
 
@@ -30,4 +44,8 @@ Lo que sigue es una lista de opciones, pero también se puede usar la imaginaci�
 - Restos de pollo cocido, cebollitas de verdeo picadas,tomates picados, manteca, trocitos de panceta, sal y pimienta. (Puede agregarse salsa blanca)
 - Aceitunas, queso crema, queso rallado, salsa tomate, orégano, sal y pimienta.
 - Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morrón, aceite de oliva, sal y pimienta.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Salsa de pimiento
 subtitle: {subtitle}
 slug: salsa-de-pimiento
-uuid: e514f0d8-007c-4684-9ca8-c898f03d6ae3
-credits: {credits}
+uuid: 5e4d6d65-a5b4-4470-87f2-f94e2fed4e5b
 ---
 {nav}
 
 # Salsa de pimiento
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - 1 taza de salsa blanca
@@ -16,4 +30,8 @@ Ingredientes:
 - 3 cucharadas de leche
 
 Cocinar a fuego suave.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Salsa Cesar 2
 subtitle: {subtitle}
 slug: salsa-cesar-2
-uuid: e882fc78-6d69-414b-bdb7-4d7d78a1b91a
-credits: {credits}
+uuid: 056b604f-701d-4111-8868-6ad77cd0e8eb
 ---
 {nav}
 
 # Salsa Cesar 2
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Licuar:
 
 - 200 ml aceite girasol
@@ -21,4 +35,8 @@ Licuar:
 - gotas de salsa inglesa
 - vinagre de vino
 - Jugo de limón (Opcional)
+
+
+## Variantes
+
 

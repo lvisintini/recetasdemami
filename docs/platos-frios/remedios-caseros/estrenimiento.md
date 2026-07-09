@@ -2,12 +2,26 @@
 title: Estreñimiento
 subtitle: {subtitle}
 slug: estrenimiento
-uuid: 4071ffa7-040c-4a8f-8830-232cbc30e26b
-credits: {credits}
+uuid: 75775cd7-7110-46a4-ac8e-a85f90e33014
 ---
 {nav}
 
 # Estreñimiento
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Un puré hecho con tres tallos de ruibarbo chino, 1 taza de jugo de manzana, 4 tazas de agua, ¼ de limón sin cáscara y 1 cucharada de miel.
 
 Hervir a fuego lento durante 20 minutos.
@@ -22,4 +36,8 @@ Otros laxantes naturales:
 - Cereales
 - Yogurt
 - Lino quebrado
+
+
+## Variantes
+
 

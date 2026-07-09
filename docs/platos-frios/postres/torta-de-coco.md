@@ -2,12 +2,26 @@
 title: Torta de coco
 subtitle: {subtitle}
 slug: torta-de-coco
-uuid: 4dfa45db-5b23-4fe8-9cd2-ff98b1d99e21
-credits: {credits}
+uuid: f1942158-4163-42d4-969a-f5f690cd20c4
 ---
 {nav}
 
 # Torta de coco
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 1 Taza de azúcar
 - ½ taza de manteca
@@ -26,4 +40,8 @@ Añadir de a uno los huevos y batir después de agregar cada uno.
 Incorporar los ingredientes secos (harina, polvo royal, sal y el coco) alternando con la leche.
 
 Y al horno.
+
+
+## Variantes
+
 

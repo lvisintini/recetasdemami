@@ -2,12 +2,26 @@
 title: Torta invertida de manzanas
 subtitle: {subtitle}
 slug: torta-invertida-de-manzanas
-uuid: 5a15ec6e-b82e-4154-af42-63a618cb0e7d
-credits: {credits}
+uuid: a72701c4-689c-4b21-82e2-23cb167093e6
 ---
 {nav}
 
 # Torta invertida de manzanas
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer caramelo en una olla con 100 gr de azúcar, gotas de jugo de limón y agua solo para humedecer.
 
 Poner al fuego hasta que apenas se aclare y bañar las paredes y la base del molde.
@@ -23,4 +37,8 @@ Enfriar y antes de desmoldar, calentar la base del molde para que el caramelo se
 ## Opcional
 
 Agregar canela y ralladura de limón
+
+
+## Variantes
+
 

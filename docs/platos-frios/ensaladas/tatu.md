@@ -2,11 +2,29 @@
 title: Tatu
 subtitle: {subtitle}
 slug: tatu
-uuid: a5ae8765-0efa-4e7e-983a-2bde3fbaf1cb
-credits: {credits}
+uuid: e20ffcab-dbcf-404a-bca8-8d0e36fe1fbf
 ---
 {nav}
 
 # Tatu
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Lechuga, pollo picado, ananá en dados, apio, manzana ácida en dados, zanahoria rallada gruesa, condimento francés.
+
+
+## Variantes
+
 

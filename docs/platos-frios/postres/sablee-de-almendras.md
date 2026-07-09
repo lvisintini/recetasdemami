@@ -2,12 +2,26 @@
 title: Sablée de almendras
 subtitle: {subtitle}
 slug: sablee-de-almendras
-uuid: 5790c162-a636-4270-8667-53b4d17357e3
-credits: {credits}
+uuid: f7cc34af-98ad-4eb8-b051-292f12c81e30
 ---
 {nav}
 
 # Sablée de almendras
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 ## Ingredientes
 
@@ -34,4 +48,8 @@ Llevar los discos a horno (precalentado a temperatura moderada 180°C) sobre pap
 Untar los discos con capas de dulce de leche, crema y los frutos rojos, y encimarlos.
 
 Decorar con hojas de menta.
+
+
+## Variantes
+
 

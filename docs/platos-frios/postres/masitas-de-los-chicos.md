@@ -2,12 +2,26 @@
 title: Masitas de los chicos
 subtitle: {subtitle}
 slug: masitas-de-los-chicos
-uuid: d54cfd64-28a3-4cc2-aa68-ec8017c339a7
-credits: {credits}
+uuid: 10dfe527-5704-4aa9-9964-661555282230
 ---
 {nav}
 
 # Masitas de los chicos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 3 tazas de harina
 - 2 cucharaditas de polvo royal
@@ -44,4 +58,8 @@ Salen 83 masitas de 5 cm de diametro.
 - **Naranja:** Añádase la cáscara de una naranja rallada.
 - **Canela:** agregar 3 cucharadas de canela molida
 - **Marmoladas:** ½ de masa con vainilla y ½ masa con chocolate amargo y azúcar.
+
+
+## Variantes
+
 

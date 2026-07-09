@@ -2,12 +2,26 @@
 title: Florentinos
 subtitle: {subtitle}
 slug: florentinos
-uuid: d1b2f3e1-cbf6-4969-8b11-5da649721ebc
-credits: {credits}
+uuid: 0e678eba-7bcf-4fa1-92c7-fe3d344ba375
 ---
 {nav}
 
 # Florentinos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 3 cucharadas de nueces picadas
 - 2 cucharadas de azúcar
@@ -34,4 +48,8 @@ Cocinar en horno caliente hasta que se doren los bordes. Dejarlos entibiar y ret
 Disolver en baño maría el chocolate y pintar con un pincel o espátula la base de los florentinos.
 
 Llevarlos a la heladera hasta que se solidifique el chocolate.
+
+
+## Variantes
+
 

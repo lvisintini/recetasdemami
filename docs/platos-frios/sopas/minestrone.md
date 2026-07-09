@@ -2,12 +2,26 @@
 title: Minestrone
 subtitle: {subtitle}
 slug: minestrone
-uuid: 755e7d9e-0dca-4882-b92a-d63192459a44
-credits: {credits}
+uuid: dd61c6e3-88cb-4a4f-9fe2-fd355c5e9358
 ---
 {nav}
 
 # Minestrone
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Rehogar una cebolla picada en aceite.
 
 Cuando esta transparente agregar panceta cortada en trocitos y ajo picado
@@ -31,4 +45,8 @@ Salpimentar.
 Cocinar por 10 minutos más.
 
 Por último colocar aceite de oliva, crutones y queso rallado.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Salsa Brava
 subtitle: {subtitle}
 slug: salsa-brava
-uuid: 5a08a5b2-2faf-46c2-b278-9526b00d6595
-credits: {credits}
+uuid: 2c28b428-9f19-49d4-9284-4842398cbbbd
 ---
 {nav}
 
 # Salsa Brava
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - 1 cebolla rehogada
@@ -21,4 +35,8 @@ Ingredientes:
 - sal
 
 Cocinar reduciendo a la mitad.
+
+
+## Variantes
+
 

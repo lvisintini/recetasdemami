@@ -2,12 +2,26 @@
 title: Merenguitos de Mabel Malbert
 subtitle: {subtitle}
 slug: merenguitos-de-mabel-malbert
-uuid: 79b8b6ad-6614-406b-90e2-f92e4d1ca40c
-credits: {credits}
+uuid: 4721ca7d-a1fc-4795-9860-76b7798118db
 ---
 {nav}
 
 # Merenguitos de Mabel Malbert
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Poner en un bol, en donde se van a batir los merenguitos:
 
@@ -24,4 +38,8 @@ Tomar con una cucharita de té esa preparación, y con el dedo volcar en una pla
 Poner en el horno al mínimo, si igual se doran, dejar la puerta abierta, para que se sequen solamente.
 
 Para hacer coquitos, se le puede agregar 200 gr de coco rallado.
+
+
+## Variantes
+
 

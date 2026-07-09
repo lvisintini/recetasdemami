@@ -2,12 +2,26 @@
 title: Salsa Bechamel 1
 subtitle: {subtitle}
 slug: salsa-bechamel-1
-uuid: 8b5952f0-3ef6-4da3-8fe0-7ed61a061235
-credits: {credits}
+uuid: 7735a89a-724d-4323-b588-fcd2262bb0eb
 ---
 {nav}
 
 # Salsa Bechamel 1
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - 50 grs de manteca
@@ -29,4 +43,8 @@ Hervir la leche y agregarla, de golpe, a la preparación.
 Algunos dicen que hay que agregarla de a poco hasta lograr la consistencia deseada, batiendo todo el tiempo.
 
 Por último, condimentar con sal, pimienta y nuez moscada.
+
+
+## Variantes
+
 

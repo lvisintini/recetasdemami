@@ -2,12 +2,26 @@
 title: Pisco sour
 subtitle: {subtitle}
 slug: pisco-sour
-uuid: 43598eea-7288-4279-8732-a3e3f93f0cc2
-credits: {credits}
+uuid: 81c205f0-8f61-498a-ae1a-3d97870b4a1c
 ---
 {nav}
 
 # Pisco sour
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Batir:
 
@@ -17,4 +31,8 @@ Batir:
 - 1 clara de huevo
 - Gotas de bitter angostura (opcional)
 - 5 cubitos de hielo
+
+
+## Variantes
+
 

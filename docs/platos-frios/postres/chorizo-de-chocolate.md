@@ -2,12 +2,26 @@
 title: Chorizo de chocolate
 subtitle: {subtitle}
 slug: chorizo-de-chocolate
-uuid: 2f17671d-362c-4fde-8230-a83bc887bb84
-credits: {credits}
+uuid: 31325621-b920-459f-81d7-0aa6087eb4bc
 ---
 {nav}
 
 # Chorizo de chocolate
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer una masa con 100 gr de manteca, 100 gr de azúcar, 1 huevo y 100 gr de cacao.
 
 Agregar un paquete de masitas Maná (vainilla o con limón) muy trituradas y 50 gr de almendras picadas grandes.
@@ -19,4 +33,8 @@ Sobre papel de aluminio poner la masa y darle forma de chorizo.
 Cerrar las puntas como si fuera un caramelo y llevarlo al freezer por 3 horas como mínimo.
 
 En mi opinion, pondria mas masitas mana.
+
+
+## Variantes
+
 

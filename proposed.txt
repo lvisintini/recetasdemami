@@ -49,3 +49,46 @@ Recetas de cocina\Tragos y bebidas
 Fuera de cocina\Remedios caseros
 Fuera de cocina\Manchas y trucos de limpieza
 
+
+
+Introducción
+
+Preparaciones Base
+    Masas
+    Salsas Calientes
+    Salsas Frías
+    Dips
+    Aderezos
+Entradas, Aperitivos y Sopas
+    Entradas y Bocaditos Salados
+    Sopas
+    Guarniciones para sopas
+Ensaladas
+    Verdes y clásicas
+    Por ingrediente
+    Con palta
+    Con proteína
+    Otras
+Platos Principales
+    Arroces
+    Carnes
+    Aves (Pollo)
+    Pescados y Mariscos
+    Huevos y Quesos
+    Pastas
+    Verduras y Guarniciones
+        Guisos
+Postres y Dulces
+    Cremas, Flanes y Postres de Cuchara
+    Tortas y Budines
+    Tartas Dulces y Pies
+    Galletas, Masitas y Bocados Dulces
+    Crepes, Panqueques y Desayunos Dulces
+    Coberturas, Rellenos y Conservas Dulces
+Bebidas
+    Tragos y Cócteles
+        Whisky y clásicos
+        Otros
+        Base
+Remedios Caseros
+Manchas y limpieza

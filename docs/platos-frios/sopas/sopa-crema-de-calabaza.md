@@ -2,12 +2,26 @@
 title: Sopa crema de calabaza
 subtitle: {subtitle}
 slug: sopa-crema-de-calabaza
-uuid: 4116f103-b4d7-4ff6-9053-94cfdd047b1c
-credits: {credits}
+uuid: 6bad2315-88c3-4f1b-86e4-27665833e3a1
 ---
 {nav}
 
 # Sopa crema de calabaza
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Freír ajo picado y cebolla picada en aceite hasta dorar.
 
@@ -24,4 +38,8 @@ Por último, se puede incorporar leche de coco.
 Pasar por la licuadora.
 
 Servir decorado con perejil picado y semillas de calabaza tostadas.
+
+
+## Variantes
+
 

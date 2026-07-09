@@ -2,12 +2,26 @@
 title: Tapas de empanadas 2
 subtitle: {subtitle}
 slug: tapas-de-empanadas-2
-uuid: 00f25591-3e75-448b-8269-2099ef5f2465
-credits: {credits}
+uuid: 10606d41-81db-4f2f-8316-458d96b40ba9
 ---
 {nav}
 
 # Tapas de empanadas 2
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 En el centro de 1 kg de harina se coloca una taza de grasa de cerdo derretida y una taza de salmuera tibia. se va ingresando de a poco la harina a la mezcla del centro, hasta formar una masa flexible. Se estira sobre la mesada dejándola de 1,5 a 2mm de espesor y se corta en discos de 11 a 12 cm de diámetro.
 
 ## Empanadas criollas
@@ -22,4 +36,8 @@ Cuando se arman, se le pone a cada empanada una rodaja de huevo duro y una aceit
 Si se quiere agridulce, agregar a la cocción pasas de uva sin semilla y algo de azúcar.
 
 Se fríen en grasa de cerdo y se sirven calientes.
+
+
+## Variantes
+
 

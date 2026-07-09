@@ -2,12 +2,26 @@
 title: Torta arena de manzana  de Maria y Anita
 subtitle: {subtitle}
 slug: torta-arena-de-manzana--de-maria-y-anita
-uuid: 9871675e-1b7a-4c3a-9d38-3b8d9465b853
-credits: {credits}
+uuid: a09b1bf3-184a-4670-9bae-542189ec1db2
 ---
 {nav}
 
 # Torta arena de manzana (y otras frutas) de Maria y Anita
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 En un bol, colocar 2 tazas de harina, 1 taza de azúcar y 100 gr de manteca y desmenuzar con los dedos hasta dejar como arena. Ingresar la mitad de esta preparación en un molde enmantecado y enharinado, aplastandola.
 
 Precocinar la masa.
@@ -23,4 +37,8 @@ Poner arriba la otra mitad de la preparación, sin presionar y la siguiente crem
 Espolvorear con azúcar toda la superficie y llevar a horno a 180°C por 45 minutos, dejar enfriar en el horno y después desmoldar.
 
 Se puede usar manzanas cortadas finitas y azucaradas, ciruelas, damascos, ananá (sellado con caramelo), etc. Y poner arriba la crema.
+
+
+## Variantes
+
 

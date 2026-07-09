@@ -2,12 +2,26 @@
 title: Frijoles
 subtitle: {subtitle}
 slug: frijoles
-uuid: f9080cb6-b567-4c71-ab27-8a9b0d9533d4
-credits: {credits}
+uuid: 7d0192da-88e7-4ca9-9b10-0625ba7927aa
 ---
 {nav}
 
 # Frijoles
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Remojar 2 tazas de frijoles en agua fría, durante toda la noche.
 
 Cocerlos por 45 minutos, con un diente de ajo entero, 1 trozo de cebolla, 1 cucharada sopera de aceite y agua fría.
@@ -19,4 +33,8 @@ Preparar un sofrito con 4 cucharadas soperas de aceite, 2 cebollas picadas y 4 p
 Incluir los frijoles y terminar la cocción a fuego lento. rinde 8 porciones.
 
 Puede agregarse ½ kg de carne de cerdo en cubitos, previamente sellados.
+
+
+## Variantes
+
 

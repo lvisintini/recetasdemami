@@ -2,16 +2,34 @@
 title: Repollo
 subtitle: {subtitle}
 slug: repollo
-uuid: f34c45ab-e281-4a5d-8bf4-bbd8d4f0186a
-credits: {credits}
+uuid: b7213551-9a1e-4ee6-a11f-c49c6346c016
 ---
 {nav}
 
 # Repollo
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 repollo, nueces, jugo de limón, mayonesa.
 
 Puede agregarse zanahoria rallada, manzana o pasas de uva rubias sin semillas.
 
 ## Repollo completa
 agregar a la anterior palmitos, huevo duro y pizca mostaza.
+
+
+## Variantes
+
 

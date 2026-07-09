@@ -2,12 +2,26 @@
 title: Bocaditos de queso
 subtitle: {subtitle}
 slug: bocaditos-de-queso
-uuid: 2736d73e-16c3-421e-8745-bff023ccece0
-credits: {credits}
+uuid: 493a4897-9d19-4e55-a67d-b825838ae816
 ---
 {nav}
 
 # Bocaditos de queso
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer una corona con los siguientes ingredientes secos:
 
 - 300 gr de harina
@@ -27,4 +41,8 @@ Espolvorear con sal gruesa.
 Cocinar a horno caliente durante 12 minutos.
 
 Servir frio o caliente.
+
+
+## Variantes
+
 

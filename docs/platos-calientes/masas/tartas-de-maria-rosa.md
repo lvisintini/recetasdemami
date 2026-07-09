@@ -2,12 +2,26 @@
 title: Tartas de maria rosa
 subtitle: {subtitle}
 slug: tartas-de-maria-rosa
-uuid: 21cbb7f4-8fe2-4161-9406-13853a3b7483
-credits: {credits}
+uuid: af76e552-2580-48e7-98cf-20d79d40876f
 ---
 {nav}
 
 # Tartas de maria rosa (muy buenas; saladas)
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Para dos unidades:
 
 - 3 tazas de harina leudante
@@ -30,4 +44,8 @@ Así hago todas las tartas, de zapallitos, berenjenas, choclo, etc.
 Cocinar en horno moderado, en mi horno unos 40 minutos.
 
 A la de jamón y queso le pongo solo queso, jamón, crema de leche, queso rallado y 2 huevos,
+
+
+## Variantes
+
 

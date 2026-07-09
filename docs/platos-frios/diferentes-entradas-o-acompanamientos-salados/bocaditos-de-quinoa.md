@@ -2,12 +2,26 @@
 title: Bocaditos de quinoa
 subtitle: {subtitle}
 slug: bocaditos-de-quinoa
-uuid: 901b5fda-300b-48b4-903b-40357d78a33f
-credits: {credits}
+uuid: 99606648-5ebb-4284-b410-b2804fa704ca
 ---
 {nav}
 
 # Bocaditos de quinoa
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes:
 
 - ¾ taza de quinoa cocida
@@ -22,4 +36,8 @@ Ingredientes:
 Mezclar todo y colocar 1 cucharada colmada en cada muffins (previamente enmantecadas), y llevar al horno a 200°C, alrededor de 15 a 20 minutos.
 
 Salen 24 bocaditos.
+
+
+## Variantes
+
 

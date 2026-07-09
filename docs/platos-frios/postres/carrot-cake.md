@@ -2,12 +2,26 @@
 title: Carrot cake
 subtitle: {subtitle}
 slug: carrot-cake
-uuid: 1262d440-a4c0-411f-aa50-0f13cd692426
-credits: {credits}
+uuid: 6a1895e5-f887-4799-80ac-bee7a1ff8bc9
 ---
 {nav}
 
 # Carrot cake
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hacer la torta en un molde de 18-20 cm de diámetro.
 
 Una vez fría dividirla para rellenarla con el ”frosting de queso crema”
@@ -38,4 +52,8 @@ Una vez fría dividirla para rellenarla con ”frosting de queso crema” (hacer
 Batir ¾ taza de queso crema, 2 o 4 cucharadas de miel (o ⅓ taza de azúcar impalpable) y 2 o 4 cucharadas de yogur natural, hasta que todo se integre.
 
 Poner en la heladera hasta el momento de rellenar.
+
+
+## Variantes
+
 

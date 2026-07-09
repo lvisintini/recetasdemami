@@ -2,12 +2,26 @@
 title: Espinaca al ajillo
 subtitle: {subtitle}
 slug: espinaca-al-ajillo
-uuid: 59f55612-7741-4b60-940e-64fca38dd5cb
-credits: {credits}
+uuid: 82989208-8fec-4752-9748-fcbfa632847f
 ---
 {nav}
 
 # Espinaca al ajillo
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 250 gr de espinaca, media cucharada de manteca, 2 dientes de ajo, pizca de sal.
 
 Freír los ajos en la manteca, con cuidado que no se quemen. agregarla espinaca lavada y cortada, cocinar por 5 minutos. espolvorear con queso rallado.
@@ -22,4 +36,8 @@ Por otro lado, batir a punto nieve las claras apartadas y agregarlas también al
 Llevar a la sartén, con un poco de aceite o manteca. tapar para que se vaya cocinando de abajo y arriba. antes de darla vuelta, agregar nuevamente aceite o manteca a la sartén. ir moviéndola para que no se pegue.
 
 También puede agregarse trocitos de panceta cocida.
+
+
+## Variantes
+
 

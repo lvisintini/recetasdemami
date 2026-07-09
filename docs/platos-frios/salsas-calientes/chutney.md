@@ -2,12 +2,26 @@
 title: Chutney
 subtitle: {subtitle}
 slug: chutney
-uuid: 9bf1ce60-fe7a-4f9a-834b-5a8f7f4850f2
-credits: {credits}
+uuid: 5b58ee15-5b74-49c9-9c04-c5041e8c64f1
 ---
 {nav}
 
 # Chutney
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Receta de la estancia Cristina en el Upsala.
 
 **Ingredientes:**
@@ -26,4 +40,8 @@ Receta de la estancia Cristina en el Upsala.
 - canela
 
 Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la consistencia de una mermelada.
+
+
+## Variantes
+
 

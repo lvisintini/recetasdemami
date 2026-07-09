@@ -2,16 +2,34 @@
 title: Salsa tartara
 subtitle: {subtitle}
 slug: salsa-tartara
-uuid: 2fe37c57-36d3-4c4d-82ce-39ca2aec869e
-credits: {credits}
+uuid: 888b06ad-041b-4cee-aea0-9a30a9edd9ba
 ---
 {nav}
 
 # Salsa tartara
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 - Mayonesa
 - Mostaza
 - Pickles
 - Perejil
 - Huevo duro
 - Alcaparras
+
+
+## Variantes
+
 

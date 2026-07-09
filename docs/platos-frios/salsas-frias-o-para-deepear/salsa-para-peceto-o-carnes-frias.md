@@ -2,12 +2,26 @@
 title: Salsa para peceto o carnes frias
 subtitle: {subtitle}
 slug: salsa-para-peceto-o-carnes-frias
-uuid: 34d5fce1-d389-4fa7-98b1-a5dbdf44d241
-credits: {credits}
+uuid: 1409a216-2840-41c7-b23d-1bf9fc974b04
 ---
 {nav}
 
 # Salsa para peceto o carnes frias
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Licuar:
 
 - mayonesa
@@ -16,4 +30,8 @@ Licuar:
 - 1 cucharadita de mostaza
 - jugo de limón
 - ketchup.
+
+
+## Variantes
+
 

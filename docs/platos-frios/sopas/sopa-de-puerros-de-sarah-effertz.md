@@ -2,12 +2,26 @@
 title: Sopa de puerros de Sarah Effertz
 subtitle: {subtitle}
 slug: sopa-de-puerros-de-sarah-effertz
-uuid: 942a75ec-67cd-4b60-8061-9c859dbc0f2d
-credits: {credits}
+uuid: dfa15337-5fd8-4d73-a7df-e3610143ff23
 ---
 {nav}
 
 # Sopa de puerros de Sarah Effertz
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Para 4 personas
 
@@ -30,4 +44,8 @@ Cocinar a fuego medio hasta que se evapore un poco el agua. (Si la sopa lleva ca
 Salpimentar e incorporar hierbas a gusto.
 
 Está lista en 40 minutos aproximadamente. Se sirve con queso rallado.
+
+
+## Variantes
+
 

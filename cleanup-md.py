@@ -4,19 +4,40 @@ import uuid
 
 from utils import slugify, clean
 
+# https://chatlyai.app/chat/70a8b3ea-4665-44a3-a46a-f389ae340ddb
+
 with open('./Recetas.md', 'r') as f:
     m = list(f.readlines())
 
 template = """---
-title: {title}
+title: {clean_title}
 subtitle: {subtitle}
 slug: {slug}
 uuid: {uuid}
-credits: {credits}
 ---
 {nav}
 
+# {dirty_title}
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 {content}
+
+## Variantes
+
+
 """
 content = []
 path = []
@@ -43,19 +64,21 @@ for x in m:
             if (file_to_create.endswith("index.md") and content[2:]) or not file_to_create.endswith("index.md"):
                 with open(file_to_create, 'w') as f:
                     f.write(template.format(
-                        title=title,
+                        clean_title=clean_title,
+                        dirty_title=dirty_title,
                         subtitle="{subtitle}",
                         slug=filename,
                         uuid=str(uuid.uuid4()),
                         nav='{nav}',
                         content='\n'.join(content),
-                        credits="{credits}"
                     ))
 
         path = path[:c-1]
-        title = clean(x)
-        filename = slugify(title)
+        clean_title = clean(x)
+        dirty_title = x.split(' ',1)[1].strip()
+        filename = slugify(clean_title)
         path.append(filename)
             
         content = []
-    content.append(x if not x.startswith('#') else x[len(path)-1:])
+    else:
+        content.append(x if not x.startswith('#') else x[len(path)-1:])

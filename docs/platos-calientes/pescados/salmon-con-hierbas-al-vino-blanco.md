@@ -2,12 +2,26 @@
 title: Salmón con hierbas al vino blanco
 subtitle: {subtitle}
 slug: salmon-con-hierbas-al-vino-blanco
-uuid: 65f9b453-7973-4b6c-89af-16c72f56e701
-credits: {credits}
+uuid: 9958905a-7703-4508-b6fb-16d67d863bef
 ---
 {nav}
 
 # Salmón con hierbas al vino blanco
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 - Salmón blanco en filetes 1 kg.
 - Vino blanco 100 cc.
 - Harina 0000 100 g.
@@ -21,4 +35,8 @@ credits: {credits}
 - Aceite de oliva 1 cda.
 - Azafrán molido alicante ½ cápsula
 - Sal entrefina ¼ cdita.
+
+
+## Variantes
+
 

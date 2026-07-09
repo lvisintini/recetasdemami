@@ -2,12 +2,26 @@
 title: Panqueques americanos
 subtitle: {subtitle}
 slug: panqueques-americanos
-uuid: 368a6314-16b8-4450-ae63-7c7db0ce5bbb
-credits: {credits}
+uuid: 39d742e0-4787-4936-af95-0ab6ff32a4d2
 ---
 {nav}
 
 # Panqueques americanos (gruesos)
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 200 gr harina con levadura
 - 50 gr azúcar
@@ -16,4 +30,8 @@ credits: {credits}
 - 2 huevos
 - ½ cucharadita de esencia de vainilla
 - manteca para la sartén
+
+
+## Variantes
+
 

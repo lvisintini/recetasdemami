@@ -2,11 +2,29 @@
 title: Waldorf
 subtitle: {subtitle}
 slug: waldorf
-uuid: d248d51c-0db3-49d8-9630-2fc13b16c174
-credits: {credits}
+uuid: 2d15ecc6-d625-47c4-a2ea-06409cc7a048
 ---
 {nav}
 
 # Waldorf
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Apio, manzana, nueces, aceite, limón, mayonesa.
+
+
+## Variantes
+
 

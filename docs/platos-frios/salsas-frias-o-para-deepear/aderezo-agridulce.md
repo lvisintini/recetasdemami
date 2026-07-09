@@ -2,12 +2,26 @@
 title: Aderezo Agridulce
 subtitle: {subtitle}
 slug: aderezo-agridulce
-uuid: add045d4-95fb-4d1c-943f-29bfa1e201b0
-credits: {credits}
+uuid: 69123a58-9310-4026-8766-3fff0af5adcc
 ---
 {nav}
 
 # Aderezo Agridulce
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Para la ensalada de papas hervidas.
 
 
@@ -17,4 +31,8 @@ Para la ensalada de papas hervidas.
 - 1 cda mostaza
 - 1 cdita jugo limón
 - 1 cdita sal.
+
+
+## Variantes
+
 

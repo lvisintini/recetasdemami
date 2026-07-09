@@ -2,12 +2,26 @@
 title: Flan de peras y chocolate
 subtitle: {subtitle}
 slug: flan-de-peras-y-chocolate
-uuid: 2f5f633a-6985-480b-a55a-189d5577eadb
-credits: {credits}
+uuid: 42fa1145-34c0-4d17-9026-49981df15233
 ---
 {nav}
 
 # Flan de peras y chocolate
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Llevar a punto de ebullición ½ litro de leche y 200 gr de crema de leche.
 
 Incorporar 150 gr de chocolate en barra (trozado).
@@ -28,4 +42,8 @@ Agregar 1 cucharadita de bicarbonato de sodio (ojo que sube), y las cáscaras de
 Cocinar por 30 minutos.
 
 Una vez frías pasarlas por azúcar impalpable o bañarlas con chocolate.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Gateau suizo o torta alemana de la nona
 subtitle: {subtitle}
 slug: gateau-suizo-o-torta-alemana-de-la-nona
-uuid: ee4b8385-107f-4499-92d9-a7d3f6432a28
-credits: {credits}
+uuid: d76411fd-bd92-4486-ae25-428290324923
 ---
 {nav}
 
 # Gateau suizo o torta alemana de la nona
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 ## Masa
 Puede hacerse con masa de pasta frola o masa de pan
@@ -27,4 +41,8 @@ Mezclar y dejar descansar 15 minutos en la heladera.
 Forrar el molde con la masa y ponerle la crema sobre la masas
 
 Sobre la masa se puede colocar rodajas de 3 manzanas y cubrirlas con más crema (También queda muy rico).
+
+
+## Variantes
+
 

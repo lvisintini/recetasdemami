@@ -2,12 +2,26 @@
 title: Tarta de peras
 subtitle: {subtitle}
 slug: tarta-de-peras
-uuid: 02e34c09-2280-4118-a7f2-0aaf2a2796ca
-credits: {credits}
+uuid: a476af68-872b-45e1-8496-6329fa4170c8
 ---
 {nav}
 
 # Tarta de peras (y otras frutas)
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 ## Masa
 Mezclar 100 grs. De manteca, 1 taza de azúcar, 2 tazas de harina leudante y formar un granulado.
@@ -35,4 +49,8 @@ Duraznos, cerezas, bananas, ciruelas, damascos, ananá, etc.
 En el caso de ciruelas, lleva 750 grs. de ciruelas cortadas por la mitad y descarozadas.
 
 Las bananas y el ananá deben ser previamente caramelizados.
+
+
+## Variantes
+
 

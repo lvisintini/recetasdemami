@@ -2,12 +2,26 @@
 title: Guacamole 2
 subtitle: {subtitle}
 slug: guacamole-2
-uuid: 9d0679ef-3915-4064-b399-26f6fd869947
-credits: {credits}
+uuid: e4c63237-1506-4ffd-9b00-03db90fd73a7
 ---
 {nav}
 
 # Guacamole 2
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Mezclar:
 
 - 1 Palta
@@ -17,4 +31,8 @@ Mezclar:
 - Jugo de limón
 - Aceite de oliva
 - Sal
+
+
+## Variantes
+
 

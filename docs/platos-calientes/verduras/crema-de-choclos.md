@@ -2,12 +2,26 @@
 title: Crema de Choclos
 subtitle: {subtitle}
 slug: crema-de-choclos
-uuid: a5a4f321-75c1-455c-8403-975496792296
-credits: {credits}
+uuid: 5df54daa-2eb8-4ec6-971a-0833c631242f
 ---
 {nav}
 
 # Crema de Choclos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Hervir 6 choclos y desgranarlos (o 1 lata de crema de choclos)
 
 Freír 2 cebollas y 1 pimiento en una cucharada de manteca
@@ -23,4 +37,8 @@ Cocinar hasta que tome consistencia.
 Puede incorporarse 1 cucharada de harina si es necesario o pasarla por la licuadora.
 
 Por último agregarle queso rallado.
+
+
+## Variantes
+
 

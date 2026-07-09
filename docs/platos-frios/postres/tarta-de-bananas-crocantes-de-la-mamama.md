@@ -2,12 +2,26 @@
 title: Tarta de bananas crocantes de la Mamama
 subtitle: {subtitle}
 slug: tarta-de-bananas-crocantes-de-la-mamama
-uuid: d002c712-14b4-435d-b6b5-8e07b308a05d
-credits: {credits}
+uuid: 248e22d3-9c59-4920-bac6-e19e834c4b3b
 ---
 {nav}
 
 # Tarta de bananas crocantes de la Mamama
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 1. Hacer una masa para tartas dulces y cubrir un molde (ver masas).
 1. Pinchar la masa para que mantenga la forma y cocinar a horno moderado por 20 o 25 minutos.
@@ -16,4 +30,8 @@ credits: {credits}
 1. Poner en la sartén manteca, azúcar y caramelizar las rodajas de banana (se necesitarán 2 o 3 bananas). Colocarlas sobre la crema.
 1. Hacer un croup con 100 gr de harina, 50 gr de nueces en polvo, 100 gr de azúcar y aproximadamente 50 gr de manteca. Trabajarlo con los dedos hasta lograr la consistencia de arena. Volcarlo sobre las bananas.
 1. Llevar al horno por 25 minutos a 180°C.
+
+
+## Variantes
+
 

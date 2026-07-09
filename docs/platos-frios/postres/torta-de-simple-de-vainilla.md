@@ -2,12 +2,26 @@
 title: Torta de simple de vainilla
 subtitle: {subtitle}
 slug: torta-de-simple-de-vainilla
-uuid: 095aaad9-30c8-422b-bdc8-4841448c8b08
-credits: {credits}
+uuid: e41fce17-26e6-43b4-821f-e6d5bc81b4e4
 ---
 {nav}
 
 # Torta de simple de vainilla
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Se ablanda 100 gr de manteca y se agrega 1 ¼ taza de azúcar.
 
 Se agregan 3 huevos de a uno batiendo bien y ½ cucharadita de esencia de vainilla.
@@ -21,5 +35,9 @@ Se vierte en un molde previamente enmantecado y enharinado.
 Se lleva a horno a 176°C por 1 hora.
 
 Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
+
+
+
+## Variantes
 
 

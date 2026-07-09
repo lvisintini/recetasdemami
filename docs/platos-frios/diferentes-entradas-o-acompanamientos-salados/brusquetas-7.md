@@ -2,12 +2,26 @@
 title: Brusquetas 7
 subtitle: {subtitle}
 slug: brusquetas-7
-uuid: 480fe0a5-af22-49bf-ad11-6f0699a69d2c
-credits: {credits}
+uuid: d6458d4b-66fe-4fc1-a664-e309357ba60f
 ---
 {nav}
 
 # Brusquetas 7
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Brusquetas mediterraneas
 
 Sobre tostadas calientes colocar la siguiente preparación:
@@ -21,4 +35,8 @@ Sobre tostadas calientes colocar la siguiente preparación:
 - pimienta.
 
 Decorar con perejil.
+
+
+## Variantes
+
 

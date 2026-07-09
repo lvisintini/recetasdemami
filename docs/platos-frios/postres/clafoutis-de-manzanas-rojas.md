@@ -2,12 +2,26 @@
 title: Clafoutis de manzanas rojas
 subtitle: {subtitle}
 slug: clafoutis-de-manzanas-rojas
-uuid: 0f81336f-1050-4bea-b276-ebfc0e6d89d5
-credits: {credits}
+uuid: e2a17474-ad5e-47e9-92c5-02c2d7a20c32
 ---
 {nav}
 
 # Clafoutis de manzanas rojas
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Poner 5 manzanas rojas grandes dentro de un molde (bajo y de 20 cm de diámetro) enmantecado.
 
 
@@ -26,4 +40,8 @@ Cubrir con una masa ligera hecha batiendo:
 Durante la cocción, el batido se va al fondo y emergen las frutas.
 
 Espolvorear con abundante azúcar impalpable y servir.
+
+
+## Variantes
+
 

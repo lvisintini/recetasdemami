@@ -2,12 +2,26 @@
 title: Salsa de hongos
 subtitle: {subtitle}
 slug: salsa-de-hongos
-uuid: a2abd803-e30e-458d-abc9-a6491687b09a
-credits: {credits}
+uuid: 8873b5ac-ca29-4cc1-adf0-d1142c258db1
 ---
 {nav}
 
 # Salsa de hongos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Dorar en manteca ½ cebolla rallada.
 
 Agregar 25 gr de hongos secos remojados durante 7 horas en ½ taza de agua (o champignones picados).
@@ -19,4 +33,8 @@ Se puede agregar una cucharada de mostaza.
 Cocinar.
 
 Para espesar, si es necesario, agregar una cucharada de maizena.
+
+
+## Variantes
+
 

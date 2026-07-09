@@ -2,12 +2,26 @@
 title: Torta hungara de los 120 golpes o de los bollitos
 subtitle: {subtitle}
 slug: torta-hungara-de-los-120-golpes-o-de-los-bollitos
-uuid: 5ad37aea-3ed7-462c-bcca-77bc26c07bdb
-credits: {credits}
+uuid: 5eb1813f-32eb-45ad-9b36-95737a7ba99f
 ---
 {nav}
 
 # Torta hungara, de los 120 golpes, o de los bollitos
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 ## Esponja
 Disolver 50 gr de levadura prensada en 1 taza de leche tibia, junto con 1 cucharadita de azúcar y 2 cucharadas de harina. Batir bien.
@@ -45,4 +59,8 @@ Cocinar en horno moderado (tirando a calentito) hasta que la superficie esté do
 Los últimos 3 minutos apoyarla en el piso del horno para que se acaramele de abajo.
 
 Retirar del horno y dejar reposar 10 minutos antes de desmoldar.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Waffles
 subtitle: {subtitle}
 slug: waffles
-uuid: 565d0cd7-7dd0-400b-a17a-7bc0960bd2fa
-credits: {credits}
+uuid: 3e9df0e2-4480-4a72-8129-6b348596be0f
 ---
 {nav}
 
 # Waffles
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - ½ taza harina común
 - ½ taza harina leudante
@@ -24,4 +38,8 @@ credits: {credits}
 - 2 Huevos 2
 - 100 grs. Manteca
 - 1 ½ taza Leche
+
+
+## Variantes
+
 

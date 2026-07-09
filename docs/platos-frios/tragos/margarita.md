@@ -2,12 +2,26 @@
 title: Margarita
 subtitle: {subtitle}
 slug: margarita
-uuid: 5921a52d-71c8-48f5-8fe6-6a18c21b1ec2
-credits: {credits}
+uuid: c08236e3-da2f-4a05-be2f-053796127919
 ---
 {nav}
 
 # Margarita
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 1 ½ oz tequila
 - ½ oz triple sec
@@ -15,4 +29,8 @@ credits: {credits}
 - hielo picado
 
 Humedecer el borde de la copa con jugo de limón y sal.
+
+
+## Variantes
+
 

@@ -2,12 +2,26 @@
 title: Spekulatius
 subtitle: {subtitle}
 slug: spekulatius
-uuid: 0e11f7eb-0ae8-46fa-9a52-e599303431dd
-credits: {credits}
+uuid: 26355df3-6590-465c-ab88-29b37372eb30
 ---
 {nav}
 
 # Spekulatius
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 - 355 gr harina
 - 175 gr manteca
@@ -44,4 +58,8 @@ Llevar a la heladera por una hora (para que se ponga dura) y cortar las formas.
 Pasar a la bandeja de horno (cubierto con papel manteca) utilizando espátula.
 
 Llevar al horno a 180°C por 10 minutos. Dejar entibiar antes de retirarlas.
+
+
+## Variantes
+
 

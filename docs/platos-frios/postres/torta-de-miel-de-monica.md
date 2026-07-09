@@ -2,12 +2,26 @@
 title: Torta de miel de Mónica
 subtitle: {subtitle}
 slug: torta-de-miel-de-monica
-uuid: 35c282f6-a4de-4c84-b0c5-9c0c9fb0274c
-credits: {credits}
+uuid: 14270d4c-4db0-47db-8c02-2720a22b0f27
 ---
 {nav}
 
 # Torta de miel de Mónica
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Batir 2 yemas con 1 taza de azúcar, agregarle ¾ taza de aceite y una cucharadita de bicarbonato.
 
 Mezclar bien.
@@ -21,4 +35,8 @@ Por último añadir las 2 claras batidas a punto nieve.
 Llevar a horno moderado por 45 minutos.
 
 Ojo, usar una tartera más grande que de 27 cm de diámetro, de lo contrario puede quedar cruda en el centro o quemarse.
+
+
+## Variantes
+
 

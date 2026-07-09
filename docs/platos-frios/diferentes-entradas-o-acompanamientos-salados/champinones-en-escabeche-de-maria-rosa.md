@@ -2,12 +2,26 @@
 title: Champiñones en escabeche de Maria Rosa
 subtitle: {subtitle}
 slug: champinones-en-escabeche-de-maria-rosa
-uuid: 5c70e0b6-1703-4731-a9ad-67b38ab603ee
-credits: {credits}
+uuid: db98d5d4-e1ae-4aa0-85d0-96b1b1860bfb
 ---
 {nav}
 
 # Champiñones en escabeche de Maria Rosa
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 Ingredientes
 
 - 250 gramos de hongos portobello
@@ -38,4 +52,8 @@ Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien.
 Cocinar 4 minutos en el microondas, mezclar y volver a cocinar otros 4 minutos.
 
 Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser suficiente para esa cantidad de hongos.
+
+
+## Variantes
+
 

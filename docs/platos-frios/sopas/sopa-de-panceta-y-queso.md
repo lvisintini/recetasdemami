@@ -2,12 +2,26 @@
 title: Sopa de panceta y queso
 subtitle: {subtitle}
 slug: sopa-de-panceta-y-queso
-uuid: 5cafab08-7368-4b01-9790-f3ad94ce964b
-credits: {credits}
+uuid: 678bcfb5-eb6e-4f57-8294-9911669b8553
 ---
 {nav}
 
 # Sopa de panceta y queso
+
+- **Crédito(s):**
+- **Tiempo de Preparación Estimado:**
+- **Tiempo de Cocción Estimado:**
+- **Raciones:**
+- **Dificultad**
+
+## Ingredientes
+
+- 
+- 
+- 
+
+## Preparación
+
 
 Para 10 personas
 
@@ -24,4 +38,8 @@ Agregar 5 papas grandes trozadas, cocinar por 30 minutos más.
 Salpimentar.
 
 Servir hirviendo, en 10 bowls y en cada uno agregar un trozo de queso reblochon (250g en total).
+
+
+## Variantes
+
 
