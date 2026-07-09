@@ -2,7 +2,7 @@
 title: Kâsse kuche de Sofi
 subtitle: {subtitle}
 slug: kasse-kuche-de-sofi
-uuid: 828c058e-a9ab-4f00-af0b-1f975cf2c985
+uuid: 56306ff1-7d71-47bd-b090-31586072312d
 ---
 {nav}
 

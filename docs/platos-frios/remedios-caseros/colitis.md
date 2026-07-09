@@ -2,7 +2,7 @@
 title: Colitis
 subtitle: {subtitle}
 slug: colitis
-uuid: 7682fe18-2195-41c6-bde3-dc0cf0d929c6
+uuid: cd399f31-8d98-43c0-810e-b8e3bb69f9ad
 ---
 {nav}
 

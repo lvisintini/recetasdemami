@@ -2,7 +2,7 @@
 title: Flammkuchen
 subtitle: {subtitle}
 slug: flammkuchen
-uuid: bf78f3c8-fe68-4e50-bdc4-8daf23717df0
+uuid: 3649ae32-8097-470a-bab5-e941d832a732
 ---
 {nav}
 

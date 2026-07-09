@@ -2,7 +2,7 @@
 title: Cortaduras
 subtitle: {subtitle}
 slug: cortaduras
-uuid: 987d2400-21d9-4cbd-9ef6-c8a88e1cdd05
+uuid: 55cc0fe6-3bef-4082-a972-79bf79a5fe61
 ---
 {nav}
 

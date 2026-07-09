@@ -2,7 +2,7 @@
 title: Paleta de pintor 2
 subtitle: {subtitle}
 slug: paleta-de-pintor-2
-uuid: 3b385213-1d90-4605-b416-e2ce9e4b2b11
+uuid: 8e912e16-33c7-441e-962c-ddbff9de112d
 ---
 {nav}
 

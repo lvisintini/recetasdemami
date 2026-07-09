@@ -2,7 +2,7 @@
 title: Tarta de bananas crocantes de la Mamama
 subtitle: {subtitle}
 slug: tarta-de-bananas-crocantes-de-la-mamama
-uuid: 248e22d3-9c59-4920-bac6-e19e834c4b3b
+uuid: 4320c385-3dce-43ea-85de-478e0487cdee
 ---
 {nav}
 

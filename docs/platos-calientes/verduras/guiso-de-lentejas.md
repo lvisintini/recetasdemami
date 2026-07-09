@@ -2,7 +2,7 @@
 title: Guiso de lentejas
 subtitle: {subtitle}
 slug: guiso-de-lentejas
-uuid: 054cb5eb-240b-445e-a699-21799ebf79ea
+uuid: 8923003d-d413-4e5a-af05-c367a7b345d3
 ---
 {nav}
 

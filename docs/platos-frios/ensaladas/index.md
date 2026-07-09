@@ -2,7 +2,7 @@
 title: Ensaladas
 subtitle: {subtitle}
 slug: ensaladas
-uuid: a1b3d10a-3150-4566-9808-79674a4a8f4d
+uuid: 551d6e51-bfcf-4d60-b4b1-03c9329b70ec
 ---
 {nav}
 

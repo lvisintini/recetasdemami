@@ -2,7 +2,7 @@
 title: Mayonesa a baño maría
 subtitle: {subtitle}
 slug: mayonesa-a-bano-maria
-uuid: 5b214a11-8b21-4df5-9c6d-f9db2ed11aac
+uuid: ae6a1d88-3eca-44ed-bd8f-b6fd5fc1077c
 ---
 {nav}
 

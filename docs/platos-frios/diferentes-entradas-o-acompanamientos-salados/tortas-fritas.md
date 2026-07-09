@@ -2,7 +2,7 @@
 title: Tortas fritas
 subtitle: {subtitle}
 slug: tortas-fritas
-uuid: f3ee46ac-f06d-4103-a6aa-674d3ef186b9
+uuid: bc4b7e68-f878-4594-97e6-61fc87ec6570
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Sopa de panceta y queso
 subtitle: {subtitle}
 slug: sopa-de-panceta-y-queso
-uuid: 678bcfb5-eb6e-4f57-8294-9911669b8553
+uuid: 9610c7fa-a093-4b2c-b984-482652ce645a
 ---
 {nav}
 

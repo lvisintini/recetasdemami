@@ -2,7 +2,7 @@
 title: Clafoutis de manzanas rojas
 subtitle: {subtitle}
 slug: clafoutis-de-manzanas-rojas
-uuid: e2a17474-ad5e-47e9-92c5-02c2d7a20c32
+uuid: f0787098-65a7-4b06-87d6-fd5c05639c1a
 ---
 {nav}
 

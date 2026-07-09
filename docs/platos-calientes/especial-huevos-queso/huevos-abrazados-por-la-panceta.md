@@ -2,7 +2,7 @@
 title: Huevos abrazados por la panceta
 subtitle: {subtitle}
 slug: huevos-abrazados-por-la-panceta
-uuid: 1eba8579-9376-41e1-8af0-e82b7fd5d010
+uuid: 9bf19cc2-3d22-4646-8611-e4deb5efb3a2
 ---
 {nav}
 

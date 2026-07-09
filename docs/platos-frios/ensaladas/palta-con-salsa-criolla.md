@@ -2,7 +2,7 @@
 title: Palta con salsa criolla
 subtitle: {subtitle}
 slug: palta-con-salsa-criolla
-uuid: b9d5095b-9423-4886-bda4-3dc247404476
+uuid: 615ba329-827e-4c35-adc9-11e8bbfd324c
 ---
 {nav}
 

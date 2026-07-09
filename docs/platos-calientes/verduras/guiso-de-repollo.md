@@ -2,7 +2,7 @@
 title: Guiso de repollo
 subtitle: {subtitle}
 slug: guiso-de-repollo
-uuid: aa8501a4-f754-4163-b0bd-59421567558b
+uuid: efffc9c7-5b97-4a31-b5aa-0fe8ad5696ae
 ---
 {nav}
 

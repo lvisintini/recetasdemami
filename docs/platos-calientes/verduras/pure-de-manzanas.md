@@ -2,7 +2,7 @@
 title: Pure de manzanas
 subtitle: {subtitle}
 slug: pure-de-manzanas
-uuid: e895c9d6-d097-4546-a2a6-15327437fdff
+uuid: 363525dc-e975-4eb2-b832-6c4f1fa07281
 ---
 {nav}
 

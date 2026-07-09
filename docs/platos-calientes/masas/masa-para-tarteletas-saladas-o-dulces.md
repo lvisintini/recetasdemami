@@ -2,7 +2,7 @@
 title: Masa para tarteletas saladas o dulces
 subtitle: {subtitle}
 slug: masa-para-tarteletas-saladas-o-dulces
-uuid: 63d2bd77-c9b9-42ec-9d87-3166305583b8
+uuid: bf8831ef-f906-47d4-8e77-aae9606fb8c9
 ---
 {nav}
 

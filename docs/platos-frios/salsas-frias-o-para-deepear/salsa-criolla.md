@@ -2,7 +2,7 @@
 title: Salsa criolla
 subtitle: {subtitle}
 slug: salsa-criolla
-uuid: f22f2335-c108-475c-b9d5-a69b1359a7de
+uuid: 6a05cea8-6976-4def-9ee1-b1726714bb6d
 ---
 {nav}
 

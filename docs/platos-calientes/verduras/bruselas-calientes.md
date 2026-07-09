@@ -2,7 +2,7 @@
 title: Bruselas calientes
 subtitle: {subtitle}
 slug: bruselas-calientes
-uuid: 3ed44a89-1692-4be2-b822-1640b69a6017
+uuid: 0b1d07b7-92a3-4a09-b40c-d1ddabcf6f68
 ---
 {nav}
 

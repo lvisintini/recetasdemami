@@ -2,7 +2,7 @@
 title: Ensalada de chauchas
 subtitle: {subtitle}
 slug: ensalada-de-chauchas
-uuid: ff56f19e-2bef-46ed-b872-f63e2749f31b
+uuid: 4943747c-9cb0-4799-afcc-9e570b2d77a5
 ---
 {nav}
 

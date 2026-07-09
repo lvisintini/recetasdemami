@@ -2,7 +2,7 @@
 title: Spâtzle
 subtitle: {subtitle}
 slug: spatzle
-uuid: 8b16493b-c82c-43e3-b1cc-4ce61de7c5f7
+uuid: e4e38147-2010-46a7-a12d-5957c7bcfcb6
 ---
 {nav}
 

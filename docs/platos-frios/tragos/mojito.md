@@ -2,7 +2,7 @@
 title: Mojito
 subtitle: {subtitle}
 slug: mojito
-uuid: 829342ba-e603-4928-a22f-e8eeac0af0fa
+uuid: 53821548-529c-4eda-8fb9-6def9e450075
 ---
 {nav}
 

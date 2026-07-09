@@ -2,7 +2,7 @@
 title: Clafoutis de cereza
 subtitle: {subtitle}
 slug: clafoutis-de-cereza
-uuid: eb99fa65-d61b-4210-9d6c-d5c79d06ab70
+uuid: 00022063-c83b-46f3-9a28-82740ee766b1
 ---
 {nav}
 

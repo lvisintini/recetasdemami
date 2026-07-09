@@ -2,7 +2,7 @@
 title: Daikiri frutilla
 subtitle: {subtitle}
 slug: daikiri-frutilla
-uuid: 07a8e6f2-bba3-4cde-af01-ac7a0d8ac51a
+uuid: 4ef9a890-8d1c-4307-9dd3-8051e64d4570
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Budín de banana y nuez  Vir desde corralejo
 subtitle: {subtitle}
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
-uuid: 82b22162-37c6-494c-be40-78ca525b3243
+uuid: 203365f5-484a-4ef4-81b9-20435a9b636a
 ---
 {nav}
 

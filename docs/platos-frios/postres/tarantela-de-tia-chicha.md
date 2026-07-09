@@ -2,7 +2,7 @@
 title: Tarantela de Tía Chicha
 subtitle: {subtitle}
 slug: tarantela-de-tia-chicha
-uuid: ccd044e6-2fb0-4aef-a25f-4c00b9069294
+uuid: a577eb97-9d88-43c1-8931-74f8c520313e
 ---
 {nav}
 

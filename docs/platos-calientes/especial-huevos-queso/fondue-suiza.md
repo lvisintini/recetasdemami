@@ -2,7 +2,7 @@
 title: Fondue suiza
 subtitle: {subtitle}
 slug: fondue-suiza
-uuid: 5ae2da44-e43a-49ac-ab79-17f9305d8d7e
+uuid: 3c7564e9-12ab-4c9f-892b-c76e7fab40fb
 ---
 {nav}
 

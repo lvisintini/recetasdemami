@@ -2,7 +2,7 @@
 title: Garbanzos
 subtitle: {subtitle}
 slug: garbanzos
-uuid: e1be172e-a45a-4af8-b550-5503cb637d87
+uuid: 9c16d48c-e4fb-4438-a3d0-a24056b1c182
 ---
 {nav}
 

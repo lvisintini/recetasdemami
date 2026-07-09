@@ -2,7 +2,7 @@
 title: Pollo en escabeche
 subtitle: {subtitle}
 slug: pollo-en-escabeche
-uuid: ca182bf0-1d91-4ee2-bfe6-b4acf7ed6dbf
+uuid: 44668aee-9996-4d06-9745-66016dcef207
 ---
 {nav}
 

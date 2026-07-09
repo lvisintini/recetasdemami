@@ -2,7 +2,7 @@
 title: Brat kartoffeln de Maria Rosa
 subtitle: {subtitle}
 slug: brat-kartoffeln-de-maria-rosa
-uuid: 233063c0-ef3d-4fdf-975f-7f14d892a367
+uuid: 0e776d1d-7237-4cb8-ae8a-6b77666e0830
 ---
 {nav}
 

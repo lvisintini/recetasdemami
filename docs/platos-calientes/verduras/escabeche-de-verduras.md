@@ -2,7 +2,7 @@
 title: Escabeche de verduras
 subtitle: {subtitle}
 slug: escabeche-de-verduras
-uuid: 313be799-e5f7-449c-ad28-c084545fd315
+uuid: 71f6bd5c-dae8-4886-a1c8-261a8f441f60
 ---
 {nav}
 

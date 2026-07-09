@@ -2,7 +2,7 @@
 title: Estofado de carne y verduras
 subtitle: {subtitle}
 slug: estofado-de-carne-y-verduras
-uuid: 91507779-61c4-4b79-a687-74489f9e7702
+uuid: 51ee56c9-1965-4d5c-a18e-157b606f5c09
 ---
 {nav}
 

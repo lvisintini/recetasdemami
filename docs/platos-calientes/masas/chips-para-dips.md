@@ -2,7 +2,7 @@
 title: Chips para dips
 subtitle: {subtitle}
 slug: chips-para-dips
-uuid: 8f8d3868-3ee0-4ddf-af77-1f8998fe738c
+uuid: ce811d6b-5468-49b2-932a-0e9692eec381
 ---
 {nav}
 

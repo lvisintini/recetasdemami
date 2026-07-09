@@ -2,7 +2,7 @@
 title: Wok de verduras
 subtitle: {subtitle}
 slug: wok-de-verduras
-uuid: e5e07ebc-7c99-4c8e-a9a8-7919a3467965
+uuid: a3bc6749-6818-4293-a559-0e2ad7bf3f5e
 ---
 {nav}
 

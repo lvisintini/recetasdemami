@@ -2,7 +2,7 @@
 title: Crisp de manzana
 subtitle: {subtitle}
 slug: crisp-de-manzana
-uuid: 6907a806-bd43-41dc-9df6-25a016cbbc9f
+uuid: cc49ca22-222b-4f3f-a60a-1176d331ac0f
 ---
 {nav}
 

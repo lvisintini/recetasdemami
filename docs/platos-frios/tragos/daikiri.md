@@ -2,7 +2,7 @@
 title: Daikiri
 subtitle: {subtitle}
 slug: daikiri
-uuid: e03bb87a-8753-4153-891a-54508f1ad5a3
+uuid: 9f74e842-de32-4732-a52f-83ede5c6e4dd
 ---
 {nav}
 

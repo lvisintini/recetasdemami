@@ -2,7 +2,7 @@
 title: Tortilla de papas a la española
 subtitle: {subtitle}
 slug: tortilla-de-papas-a-la-espanola
-uuid: 52f1eadb-0e26-4b57-a99d-06bae3339834
+uuid: a3ab717a-4c87-4a7a-8b38-43575b0c3895
 ---
 {nav}
 

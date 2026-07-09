@@ -2,7 +2,7 @@
 title: Lentejas
 subtitle: {subtitle}
 slug: lentejas
-uuid: 98c25dd8-447b-4684-a9e0-53f8f85d094a
+uuid: da633c9f-7c9d-4112-972f-93265604b345
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Champiñones en escabeche de Maria Rosa
 subtitle: {subtitle}
 slug: champinones-en-escabeche-de-maria-rosa
-uuid: db98d5d4-e1ae-4aa0-85d0-96b1b1860bfb
+uuid: 7387fcbf-2fd0-4fc9-a29b-d49f8729ee0f
 ---
 {nav}
 

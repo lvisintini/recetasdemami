@@ -2,7 +2,7 @@
 title: Old fashion
 subtitle: {subtitle}
 slug: old-fashion
-uuid: 4a6dfcb3-d370-4e08-bd4a-07a73454ef8f
+uuid: 4a01e889-3e11-44eb-afc0-c5c0f3b6e52b
 ---
 {nav}
 

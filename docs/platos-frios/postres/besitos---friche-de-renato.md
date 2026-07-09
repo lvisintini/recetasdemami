@@ -2,7 +2,7 @@
 title: Besitos - friche de Renato
 subtitle: {subtitle}
 slug: besitos---friche-de-renato
-uuid: 854509dc-cd73-43ef-b195-be9b80e6c1a6
+uuid: 339c27af-e37e-4ce7-a880-0904150cb75d
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Bagna cauda
 subtitle: {subtitle}
 slug: bagna-cauda
-uuid: 842570f5-732c-49e3-a14b-bec8d7264e19
+uuid: 82bbea9b-9d60-45aa-998f-1caa40daa7d7
 ---
 {nav}
 

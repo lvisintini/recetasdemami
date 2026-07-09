@@ -2,7 +2,7 @@
 title: Minestrone
 subtitle: {subtitle}
 slug: minestrone
-uuid: dd61c6e3-88cb-4a4f-9fe2-fd355c5e9358
+uuid: c346378d-f816-4584-b65e-6c8198ab7118
 ---
 {nav}
 

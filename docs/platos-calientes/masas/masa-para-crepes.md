@@ -2,7 +2,7 @@
 title: Masa para crepes
 subtitle: {subtitle}
 slug: masa-para-crepes
-uuid: d8c095dc-7b0a-4164-96d9-bb0af5aaa203
+uuid: a9c82ace-c1ff-4da3-a52e-405565819f11
 ---
 {nav}
 

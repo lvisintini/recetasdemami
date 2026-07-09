@@ -2,7 +2,7 @@
 title: Escalopes al vino Marsala
 subtitle: {subtitle}
 slug: escalopes-al-vino-marsala
-uuid: fee4b812-56a7-4877-bd65-54e70a998fb8
+uuid: 53dfc3a2-da83-43b5-bbf9-0cdb44af8d61
 ---
 {nav}
 

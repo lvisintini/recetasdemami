@@ -2,7 +2,7 @@
 title: Bifes rellenos a la plancha
 subtitle: {subtitle}
 slug: bifes-rellenos-a-la-plancha
-uuid: 8fcaa30c-2fc2-4ae0-8c0d-7eeb045db94f
+uuid: 7dbddb3a-18c0-4a2e-a9be-128d7a26f747
 ---
 {nav}
 

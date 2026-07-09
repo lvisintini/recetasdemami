@@ -2,7 +2,7 @@
 title: Tostadas francesas o ropa vieja
 subtitle: {subtitle}
 slug: tostadas-francesas-o-ropa-vieja
-uuid: 27a5b41e-3e30-45ba-a00b-51bbf9f08cc2
+uuid: ddb391b9-a7d5-4582-814c-16d3247374ba
 ---
 {nav}
 

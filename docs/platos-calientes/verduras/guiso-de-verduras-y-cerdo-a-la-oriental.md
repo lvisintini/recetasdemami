@@ -2,7 +2,7 @@
 title: Guiso de verduras y cerdo a la oriental
 subtitle: {subtitle}
 slug: guiso-de-verduras-y-cerdo-a-la-oriental
-uuid: aeac30d6-2e50-494e-a6d1-dd5fca3ec6e3
+uuid: eb777257-7755-4e68-8dd2-c32781e2ad8a
 ---
 {nav}
 

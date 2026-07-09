@@ -2,7 +2,7 @@
 title: Frijoles
 subtitle: {subtitle}
 slug: frijoles
-uuid: 7d0192da-88e7-4ca9-9b10-0625ba7927aa
+uuid: 758ed67f-7528-4cd5-a9c1-68bc037ac865
 ---
 {nav}
 

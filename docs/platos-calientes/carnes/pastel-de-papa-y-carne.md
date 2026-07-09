@@ -2,7 +2,7 @@
 title: Pastel de papa y carne
 subtitle: {subtitle}
 slug: pastel-de-papa-y-carne
-uuid: f04bbadc-8eae-4c34-ba19-824ed9ce7a90
+uuid: 97261ecf-6905-44a6-bff3-ed55d74fed49
 ---
 {nav}
 

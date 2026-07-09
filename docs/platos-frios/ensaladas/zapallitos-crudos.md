@@ -2,7 +2,7 @@
 title: Zapallitos crudos
 subtitle: {subtitle}
 slug: zapallitos-crudos
-uuid: 05b13239-cc97-4a90-a539-5ee903ecb43c
+uuid: 3be77441-83b6-4fd0-8904-dcf500e5ab8a
 ---
 {nav}
 

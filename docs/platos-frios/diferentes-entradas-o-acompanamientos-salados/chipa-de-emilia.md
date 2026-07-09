@@ -2,7 +2,7 @@
 title: Chipá de Emilia
 subtitle: {subtitle}
 slug: chipa-de-emilia
-uuid: fd871899-156d-4f5a-a056-dada1f2167d1
+uuid: 670863dd-e1e5-4941-b54e-261c30573d3e
 ---
 {nav}
 

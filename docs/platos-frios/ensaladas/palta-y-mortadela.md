@@ -2,7 +2,7 @@
 title: Palta y mortadela
 subtitle: {subtitle}
 slug: palta-y-mortadela
-uuid: 4c4a15a3-1d1f-4198-b809-a2887f919ed8
+uuid: 74e888ee-edd1-4259-93b9-9d74933353ba
 ---
 {nav}
 

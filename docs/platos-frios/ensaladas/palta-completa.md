@@ -2,7 +2,7 @@
 title: Palta completa
 subtitle: {subtitle}
 slug: palta-completa
-uuid: cd24c849-abe3-495a-9227-9d5796a13df4
+uuid: 5be7154a-c051-4349-9b44-93377bde0a3f
 ---
 {nav}
 

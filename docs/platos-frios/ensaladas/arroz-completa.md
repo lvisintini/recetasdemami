@@ -2,7 +2,7 @@
 title: Arroz completa
 subtitle: {subtitle}
 slug: arroz-completa
-uuid: 90b5c307-677f-4dc7-9aa2-4d479f70a391
+uuid: 76033b1e-6d75-4822-9afc-978c088a529d
 ---
 {nav}
 

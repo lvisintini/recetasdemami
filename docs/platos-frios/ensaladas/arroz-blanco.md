@@ -2,7 +2,7 @@
 title: Arroz blanco
 subtitle: {subtitle}
 slug: arroz-blanco
-uuid: ca455acc-eddc-4524-8fee-637cafd19fd0
+uuid: 43a5a3aa-ccf2-4ba4-bfce-87ba98ff59d4
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Salmón con hierbas al vino blanco
 subtitle: {subtitle}
 slug: salmon-con-hierbas-al-vino-blanco
-uuid: 9958905a-7703-4508-b6fb-16d67d863bef
+uuid: 96966c47-85f5-4968-a2ef-4040bedfc76a
 ---
 {nav}
 

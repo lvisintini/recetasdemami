@@ -2,7 +2,7 @@
 title: Sopa crema de calabaza
 subtitle: {subtitle}
 slug: sopa-crema-de-calabaza
-uuid: 6bad2315-88c3-4f1b-86e4-27665833e3a1
+uuid: 0915d7cd-e187-48bf-aeed-280fa05bb21c
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Quiche lorraine de luigi
 subtitle: {subtitle}
 slug: quiche-lorraine-de-luigi
-uuid: 15cf8e9b-9e3e-410e-8c90-503ddf51348a
+uuid: 4cbfc41c-6517-477a-8cfa-0a57630a32af
 ---
 {nav}
 

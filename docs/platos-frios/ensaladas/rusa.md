@@ -2,7 +2,7 @@
 title: Rusa
 subtitle: {subtitle}
 slug: rusa
-uuid: 4f91f35b-41b1-47ab-af4b-e67cf6ac1712
+uuid: 30aeceb9-b733-4c40-9987-9a49220e2693
 ---
 {nav}
 

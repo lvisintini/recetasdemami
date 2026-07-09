@@ -2,7 +2,7 @@
 title: Daikiri de frutilla 6 and 6
 subtitle: {subtitle}
 slug: daikiri-de-frutilla-6-and-6
-uuid: 49f1580a-369e-4754-a98c-e06961bbeb49
+uuid: 46266895-7ef1-4c05-b40a-c8400274f880
 ---
 {nav}
 

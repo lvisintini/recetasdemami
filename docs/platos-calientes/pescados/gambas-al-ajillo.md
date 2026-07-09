@@ -2,7 +2,7 @@
 title: Gambas al ajillo
 subtitle: {subtitle}
 slug: gambas-al-ajillo
-uuid: 89a3e4c3-ed8b-4b6d-b65a-fcfe674b2975
+uuid: 60a569e3-cac3-41f0-a265-dcf67cea0f03
 ---
 {nav}
 

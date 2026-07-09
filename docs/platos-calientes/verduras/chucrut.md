@@ -2,7 +2,7 @@
 title: Chucrut
 subtitle: {subtitle}
 slug: chucrut
-uuid: 45c03751-1828-4969-a19c-92e9d8695d88
+uuid: 189e0afc-f81c-4b59-a59f-9cb5b8c0874c
 ---
 {nav}
 

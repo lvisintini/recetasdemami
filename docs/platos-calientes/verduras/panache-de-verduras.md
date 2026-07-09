@@ -2,7 +2,7 @@
 title: Panaché de verduras
 subtitle: {subtitle}
 slug: panache-de-verduras
-uuid: a340c0b5-3211-467a-8fcc-ad406a24ee1a
+uuid: 51bda3f5-1a08-4cef-be61-544f1a02c438
 ---
 {nav}
 

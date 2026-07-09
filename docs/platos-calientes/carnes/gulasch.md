@@ -2,7 +2,7 @@
 title: Gulasch
 subtitle: {subtitle}
 slug: gulasch
-uuid: dffecd0e-74cf-446e-b82e-377796c954d9
+uuid: cb359181-7fe7-4dcc-98d8-0597e6638484
 ---
 {nav}
 

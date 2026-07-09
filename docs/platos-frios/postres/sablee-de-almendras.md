@@ -2,7 +2,7 @@
 title: Sablée de almendras
 subtitle: {subtitle}
 slug: sablee-de-almendras
-uuid: f7cc34af-98ad-4eb8-b051-292f12c81e30
+uuid: 56faa30a-f28a-4246-bacf-cf3e1e945d4d
 ---
 {nav}
 

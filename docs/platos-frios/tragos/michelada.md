@@ -2,7 +2,7 @@
 title: Michelada
 subtitle: {subtitle}
 slug: michelada
-uuid: 24fff295-a354-4af2-b9b8-39e5f867bbd1
+uuid: d2faecf0-b834-4328-b4d7-88cb406237b5
 ---
 {nav}
 

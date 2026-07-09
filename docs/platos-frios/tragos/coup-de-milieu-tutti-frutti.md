@@ -2,7 +2,7 @@
 title: Coup de Milieu Tutti Frutti
 subtitle: {subtitle}
 slug: coup-de-milieu-tutti-frutti
-uuid: 776f3d3f-9f03-4cc8-ac42-aff965072bf0
+uuid: 82cbfb4e-e178-488f-9d34-0f5064c7d9e1
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Crepes al champignon
 subtitle: {subtitle}
 slug: crepes-al-champignon
-uuid: cd6c726d-34ee-418b-ba61-ab186fcfb144
+uuid: a0f07043-6425-4ffb-9bd7-ab48da86f1d8
 ---
 {nav}
 

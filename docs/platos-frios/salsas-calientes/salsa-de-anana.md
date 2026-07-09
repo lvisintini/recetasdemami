@@ -2,7 +2,7 @@
 title: Salsa de Ananá
 subtitle: {subtitle}
 slug: salsa-de-anana
-uuid: faec258a-1122-4aab-bf26-f98ae01f0cb1
+uuid: 15af54be-ce9b-467a-aaf7-d3231bd3bf7a
 ---
 {nav}
 

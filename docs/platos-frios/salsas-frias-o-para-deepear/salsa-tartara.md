@@ -2,7 +2,7 @@
 title: Salsa tartara
 subtitle: {subtitle}
 slug: salsa-tartara
-uuid: 888b06ad-041b-4cee-aea0-9a30a9edd9ba
+uuid: e922c95c-f9a2-40df-9124-596b50967f4a
 ---
 {nav}
 

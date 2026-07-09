@@ -2,7 +2,7 @@
 title: Waldorf
 subtitle: {subtitle}
 slug: waldorf
-uuid: 2d15ecc6-d625-47c4-a2ea-06409cc7a048
+uuid: e1d61ed6-a5b3-4c4b-a407-0b6021754685
 ---
 {nav}
 

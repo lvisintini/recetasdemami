@@ -2,7 +2,7 @@
 title: Caipirinha
 subtitle: {subtitle}
 slug: caipirinha
-uuid: cbeabc0e-1a6d-452c-b8a4-e22ce6bf2550
+uuid: 3f89ba8f-4ec7-472b-9790-41a62ff66b6a
 ---
 {nav}
 

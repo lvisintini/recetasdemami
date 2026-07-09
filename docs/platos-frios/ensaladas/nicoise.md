@@ -2,7 +2,7 @@
 title: Nicoise
 subtitle: {subtitle}
 slug: nicoise
-uuid: eea08bf0-0aa2-478f-b5c1-56f973bae66f
+uuid: c403796a-f08d-4b54-a2a4-b53390f40e20
 ---
 {nav}
 

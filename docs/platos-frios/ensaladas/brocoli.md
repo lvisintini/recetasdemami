@@ -2,7 +2,7 @@
 title: Brócoli
 subtitle: {subtitle}
 slug: brocoli
-uuid: 282725f3-7cdb-4db1-9d18-476b96b77fcd
+uuid: 9670bf0a-1755-44ad-bee7-3cc64d954e5d
 ---
 {nav}
 

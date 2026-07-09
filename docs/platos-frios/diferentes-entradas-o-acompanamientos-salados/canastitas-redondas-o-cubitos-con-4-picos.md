@@ -2,7 +2,7 @@
 title: Canastitas redondas o cubitos con 4 picos
 subtitle: {subtitle}
 slug: canastitas-redondas-o-cubitos-con-4-picos
-uuid: fdf9f9b7-049e-402d-b5aa-bd5401819d92
+uuid: 3f2f1f99-7cad-46f0-aee0-dc14e7c7e5d8
 ---
 {nav}
 

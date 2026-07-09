@@ -2,7 +2,7 @@
 title: Wok con carne
 subtitle: {subtitle}
 slug: wok-con-carne
-uuid: 60a86657-b6f8-4234-b111-934b639813c7
+uuid: 4169f7f9-eaa5-4381-8861-437d30b3bfcc
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Crema de Ajo
 subtitle: {subtitle}
 slug: crema-de-ajo
-uuid: b0d6cf07-8692-45e9-8e7f-04facde76360
+uuid: fb2c7352-2b85-4f53-b97f-f12256f3bcc6
 ---
 {nav}
 

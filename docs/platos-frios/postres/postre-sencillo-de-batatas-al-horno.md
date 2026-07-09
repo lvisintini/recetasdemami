@@ -2,7 +2,7 @@
 title: Postre sencillo de batatas al horno
 subtitle: {subtitle}
 slug: postre-sencillo-de-batatas-al-horno
-uuid: 87a6b4e3-8dbc-459c-998b-8e724da8f85f
+uuid: 5f35833d-0001-4c32-b3eb-cca2c2575ee7
 ---
 {nav}
 

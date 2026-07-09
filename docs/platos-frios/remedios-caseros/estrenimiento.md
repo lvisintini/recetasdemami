@@ -2,7 +2,7 @@
 title: Estreñimiento
 subtitle: {subtitle}
 slug: estrenimiento
-uuid: 75775cd7-7110-46a4-ac8e-a85f90e33014
+uuid: 3d4d48f5-356c-4c54-8367-6a1079168afa
 ---
 {nav}
 

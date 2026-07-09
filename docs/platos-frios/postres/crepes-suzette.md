@@ -2,7 +2,7 @@
 title: Crepes suzette
 subtitle: {subtitle}
 slug: crepes-suzette
-uuid: 6ee53743-c024-4400-b40e-ddd3a25cd042
+uuid: 977db59b-6bf6-4710-96b6-8ab6216097ae
 ---
 {nav}
 

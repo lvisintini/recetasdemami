@@ -2,7 +2,7 @@
 title: Bondiola de cerdo a la cerveza
 subtitle: {subtitle}
 slug: bondiola-de-cerdo-a-la-cerveza
-uuid: 7ae9265e-35ee-4972-b5e9-4be0301899c5
+uuid: 483a0341-92c6-44b4-a6e6-84a772b2ece4
 ---
 {nav}
 

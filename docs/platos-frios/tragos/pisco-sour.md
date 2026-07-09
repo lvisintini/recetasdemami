@@ -2,7 +2,7 @@
 title: Pisco sour
 subtitle: {subtitle}
 slug: pisco-sour
-uuid: 81c205f0-8f61-498a-ae1a-3d97870b4a1c
+uuid: d96c02bc-0bd3-40c3-8e9f-187bf6c6fd97
 ---
 {nav}
 

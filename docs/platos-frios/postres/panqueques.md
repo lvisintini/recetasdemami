@@ -2,7 +2,7 @@
 title: Panqueques
 subtitle: {subtitle}
 slug: panqueques
-uuid: 148e2360-448d-4777-8972-f00e5effafda
+uuid: 8ebcdce2-2f5c-4f7a-8642-3e8820fcb9c7
 ---
 {nav}
 

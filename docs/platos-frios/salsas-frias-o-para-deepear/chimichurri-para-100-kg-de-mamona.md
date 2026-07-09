@@ -2,7 +2,7 @@
 title: Chimichurri para 100 kg de Mamona
 subtitle: {subtitle}
 slug: chimichurri-para-100-kg-de-mamona
-uuid: 694f482c-3c11-4bb2-ab9c-d9175075d9bc
+uuid: 5026dee6-40c8-4315-92df-a1a6a945127f
 ---
 {nav}
 

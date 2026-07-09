@@ -2,7 +2,7 @@
 title: Cazuela de salchichas
 subtitle: {subtitle}
 slug: cazuela-de-salchichas
-uuid: 6812cd84-ed80-4ef9-8dbd-eb645b636897
+uuid: a7944298-48b9-4f87-9a8a-d4463889179f
 ---
 {nav}
 

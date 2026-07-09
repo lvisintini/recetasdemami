@@ -2,7 +2,7 @@
 title: Arroz a la oriental
 subtitle: {subtitle}
 slug: arroz-a-la-oriental
-uuid: 061333e4-ee53-4e00-9e92-8a43d6c2e8bb
+uuid: d77f1c48-4a98-4506-88d3-d621d3815561
 ---
 {nav}
 

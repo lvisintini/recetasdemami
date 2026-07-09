@@ -2,7 +2,7 @@
 title: Rucula 2
 subtitle: {subtitle}
 slug: rucula-2
-uuid: 025f72b2-61f5-4d47-8114-994059950ecc
+uuid: e8279e7d-7a7c-4fc0-9d7d-21cab1b6d442
 ---
 {nav}
 

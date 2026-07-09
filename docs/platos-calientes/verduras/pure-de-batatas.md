@@ -2,7 +2,7 @@
 title: Pure de batatas
 subtitle: {subtitle}
 slug: pure-de-batatas
-uuid: a82de1bd-ace4-43d6-af31-80136f27907a
+uuid: 2d1e3809-f91b-4769-9fac-a9291f0d601f
 ---
 {nav}
 

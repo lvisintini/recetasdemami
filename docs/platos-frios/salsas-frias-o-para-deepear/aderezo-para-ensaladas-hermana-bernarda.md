@@ -2,7 +2,7 @@
 title: Aderezo para ensaladas hermana Bernarda
 subtitle: {subtitle}
 slug: aderezo-para-ensaladas-hermana-bernarda
-uuid: 3b97e0b2-9821-40dd-971a-fdcf65b59e81
+uuid: f4277001-4c63-4df1-a733-4912dac221b1
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Pollo con champiñones
 subtitle: {subtitle}
 slug: pollo-con-champinones
-uuid: 54a9487c-02ec-4a25-b827-5eef8948c50f
+uuid: 1b06c538-e43c-45df-a9d6-c8de8f7dbb04
 ---
 {nav}
 

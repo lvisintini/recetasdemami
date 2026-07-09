@@ -2,7 +2,7 @@
 title: Caramelizar bananas u otras frutas
 subtitle: {subtitle}
 slug: caramelizar-bananas-u-otras-frutas
-uuid: 61202d39-4d77-445e-bc68-eca2d9effd2a
+uuid: 735ca65d-79c1-4f0a-9b68-178c8295cfd2
 ---
 {nav}
 

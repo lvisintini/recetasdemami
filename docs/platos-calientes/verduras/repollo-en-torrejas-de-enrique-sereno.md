@@ -2,7 +2,7 @@
 title: Repollo en torrejas de Enrique Sereno
 subtitle: {subtitle}
 slug: repollo-en-torrejas-de-enrique-sereno
-uuid: 5cdfaba2-8d95-4a84-ab9b-0aa49c4b861f
+uuid: c2629fa7-c0f5-4afb-8808-42013d619383
 ---
 {nav}
 

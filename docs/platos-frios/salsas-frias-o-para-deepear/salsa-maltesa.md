@@ -2,7 +2,7 @@
 title: Salsa Maltesa
 subtitle: {subtitle}
 slug: salsa-maltesa
-uuid: e084c68f-49d7-48ad-a73e-1d72e5e8d635
+uuid: d4b8a6ce-ac76-45c2-a99d-b7607a17a24d
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Pastel de calabaza al curry
 subtitle: {subtitle}
 slug: pastel-de-calabaza-al-curry
-uuid: a5934ffa-6e45-456c-b723-7e6dbf8d2e7f
+uuid: 256d4f1a-dd02-46c1-bdd8-f22b488e562e
 ---
 {nav}
 

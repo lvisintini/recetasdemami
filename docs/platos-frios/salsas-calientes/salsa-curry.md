@@ -2,7 +2,7 @@
 title: Salsa curry
 subtitle: {subtitle}
 slug: salsa-curry
-uuid: 92160630-9a4b-4f71-8a9f-1ceb57949315
+uuid: 0252751e-ef5f-45ee-b9b1-e602b1f1bcda
 ---
 {nav}
 

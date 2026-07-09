@@ -2,7 +2,7 @@
 title: Masa quebrada
 subtitle: {subtitle}
 slug: masa-quebrada
-uuid: ba131268-5aff-411f-9541-9efeaa976955
+uuid: 5bca77c7-6a96-4f6e-a1df-5ede86fa4862
 ---
 {nav}
 

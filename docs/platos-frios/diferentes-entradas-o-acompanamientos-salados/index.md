@@ -2,7 +2,7 @@
 title: Diferentes entradas o acompañamientos salados
 subtitle: {subtitle}
 slug: diferentes-entradas-o-acompanamientos-salados
-uuid: 12c1b601-bfb2-4351-8651-0a592e22d329
+uuid: 0a279d9d-2c87-4446-ac63-6aac68471a67
 ---
 {nav}
 

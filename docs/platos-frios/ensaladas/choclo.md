@@ -2,7 +2,7 @@
 title: Choclo
 subtitle: {subtitle}
 slug: choclo
-uuid: d19acb7a-c27a-40bf-9650-0536f464496a
+uuid: a4c18c73-f917-4c15-b441-21e7619853dd
 ---
 {nav}
 

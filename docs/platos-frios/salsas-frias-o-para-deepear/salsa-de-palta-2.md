@@ -2,7 +2,7 @@
 title: Salsa de Palta 2
 subtitle: {subtitle}
 slug: salsa-de-palta-2
-uuid: 24e64632-4bc1-4a98-b185-5620658e7385
+uuid: 46bb4dfa-b874-46b5-92da-d4a5f9daa474
 ---
 {nav}
 

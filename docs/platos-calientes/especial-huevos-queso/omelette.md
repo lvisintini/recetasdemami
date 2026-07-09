@@ -2,7 +2,7 @@
 title: Omelette
 subtitle: {subtitle}
 slug: omelette
-uuid: 67b630aa-6238-4d1f-8ef9-3feca0400e89
+uuid: 57ad91c4-f072-4c00-ae74-284f0fd5f669
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Cachetes de abadejo a la sartén
 subtitle: {subtitle}
 slug: cachetes-de-abadejo-a-la-sarten
-uuid: de835dcf-96d2-4e7e-b317-c0b123189db7
+uuid: 8fb4bdd4-0d4d-4bf1-ab11-d7817ea04cff
 ---
 {nav}
 

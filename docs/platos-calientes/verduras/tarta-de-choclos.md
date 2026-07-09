@@ -2,7 +2,7 @@
 title: Tarta de choclos
 subtitle: {subtitle}
 slug: tarta-de-choclos
-uuid: d41e5b67-34e4-471f-8e7d-c26cd8e4f5dc
+uuid: ef72c75a-8e38-438c-a9b4-69f0aa811b02
 ---
 {nav}
 

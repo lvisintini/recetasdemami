@@ -2,7 +2,7 @@
 title: Buñuelos de papa y queso
 subtitle: {subtitle}
 slug: bunuelos-de-papa-y-queso
-uuid: 0b788e8f-4cb8-414e-849f-a5031e7ba285
+uuid: 4e3af362-5013-4cbf-8468-d2620dcb5c63
 ---
 {nav}
 

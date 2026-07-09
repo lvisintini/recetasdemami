@@ -2,7 +2,7 @@
 title: Arroz al curry
 subtitle: {subtitle}
 slug: arroz-al-curry
-uuid: 2818501f-913c-472a-83c4-3042efc73a1e
+uuid: 57ab2ba8-f772-4001-bf47-bf3d96679ba0
 ---
 {nav}
 

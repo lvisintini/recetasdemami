@@ -2,7 +2,7 @@
 title: Coliflor o brocoli a la sarten
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-a-la-sarten
-uuid: c9b33b75-4348-4f3a-b99b-61efdecd8016
+uuid: e7bee309-df97-435b-917c-b1cac4738192
 ---
 {nav}
 

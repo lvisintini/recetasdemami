@@ -2,7 +2,7 @@
 title: Pescado al curry de alcira en la sartén
 subtitle: {subtitle}
 slug: pescado-al-curry-de-alcira-en-la-sarten
-uuid: cd799846-5078-403a-af0d-8580d31555a1
+uuid: 2f1a0278-75c9-4488-b106-836cb0d1cb31
 ---
 {nav}
 

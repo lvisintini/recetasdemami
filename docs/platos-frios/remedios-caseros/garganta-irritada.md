@@ -2,7 +2,7 @@
 title: Garganta irritada
 subtitle: {subtitle}
 slug: garganta-irritada
-uuid: 9682869e-9053-4f0b-8a82-c4750c376d9a
+uuid: 1ae6f210-3170-428f-8318-98352becca55
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Mouse de chocolate de Marie Claude
 subtitle: {subtitle}
 slug: mouse-de-chocolate-de-marie-claude
-uuid: 3400ce36-2323-4f49-b5f7-09ad0591888e
+uuid: ec823485-6ac5-4ae5-ad49-e2987543f516
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Resfriados
 subtitle: {subtitle}
 slug: resfriados
-uuid: ee6ed12e-3f27-4c52-b30a-23c1ea39d7f9
+uuid: 472a0c14-c02a-4217-b9e5-f5011c2f9cd8
 ---
 {nav}
 

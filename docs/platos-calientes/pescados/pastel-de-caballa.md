@@ -2,7 +2,7 @@
 title: Pastel de caballa
 subtitle: {subtitle}
 slug: pastel-de-caballa
-uuid: 3a52ae39-6650-465e-bd17-99e304213333
+uuid: fa9cbfaa-5dfb-4ad1-b9a9-e631b64dd27a
 ---
 {nav}
 

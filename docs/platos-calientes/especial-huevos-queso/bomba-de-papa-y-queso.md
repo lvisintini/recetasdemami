@@ -2,7 +2,7 @@
 title: Bomba de papa y queso
 subtitle: {subtitle}
 slug: bomba-de-papa-y-queso
-uuid: 883b2ac3-8017-4033-bb62-407545985542
+uuid: 22977b07-332c-4ed8-8f54-5f465c76a6f1
 ---
 {nav}
 

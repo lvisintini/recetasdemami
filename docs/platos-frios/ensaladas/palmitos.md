@@ -2,7 +2,7 @@
 title: Palmitos
 subtitle: {subtitle}
 slug: palmitos
-uuid: d8f30580-5daf-425d-8422-4109642c8cfb
+uuid: e3466c6d-ac79-46d5-b810-f98f6d607e12
 ---
 {nav}
 

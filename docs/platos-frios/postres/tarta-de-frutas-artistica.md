@@ -2,7 +2,7 @@
 title: Tarta de frutas artística
 subtitle: {subtitle}
 slug: tarta-de-frutas-artistica
-uuid: d582b9ca-cb77-4ac8-9941-feedb4a1ec32
+uuid: ebc0e57a-1369-4ec4-8923-881ea90508af
 ---
 {nav}
 

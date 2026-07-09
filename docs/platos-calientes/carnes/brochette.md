@@ -2,7 +2,7 @@
 title: Brochette
 subtitle: {subtitle}
 slug: brochette
-uuid: a9569bdb-c337-4551-a96e-06d29e8f0597
+uuid: 589cd03c-e0ca-45cc-bb0d-012a64c700c4
 ---
 {nav}
 

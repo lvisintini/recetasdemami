@@ -2,7 +2,7 @@
 title: Bloody Mary
 subtitle: {subtitle}
 slug: bloody-mary
-uuid: 1fed3312-4c82-4413-9cbe-f52b0a64580e
+uuid: 28a4f40f-9020-4189-89f7-22cb5f878e52
 ---
 {nav}
 

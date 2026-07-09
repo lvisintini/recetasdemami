@@ -2,7 +2,7 @@
 title: Torta de simple de vainilla
 subtitle: {subtitle}
 slug: torta-de-simple-de-vainilla
-uuid: e41fce17-26e6-43b4-821f-e6d5bc81b4e4
+uuid: 3c085918-5c81-4b4f-9805-3d89ff094799
 ---
 {nav}
 

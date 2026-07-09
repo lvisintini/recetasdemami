@@ -2,7 +2,7 @@
 title: Guacamole 2
 subtitle: {subtitle}
 slug: guacamole-2
-uuid: e4c63237-1506-4ffd-9b00-03db90fd73a7
+uuid: 6ff561f8-a377-4a32-a36d-e7bdf42a3ab4
 ---
 {nav}
 

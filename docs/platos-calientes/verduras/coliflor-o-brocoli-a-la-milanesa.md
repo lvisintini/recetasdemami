@@ -2,7 +2,7 @@
 title: Coliflor o brocoli a la milanesa
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-a-la-milanesa
-uuid: e3d5a5fc-7ba6-4137-af30-c2abfad9f321
+uuid: 8f47fec5-dab5-44e4-ad9e-8c32bf8b2635
 ---
 {nav}
 

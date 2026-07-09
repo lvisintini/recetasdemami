@@ -2,7 +2,7 @@
 title: Coliflor o brócoli suprema
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-suprema
-uuid: 038f63eb-043e-435f-86c1-6ac17b4f5a82
+uuid: 0eecc3ed-7c7f-4e7e-a759-e006defa846b
 ---
 {nav}
 

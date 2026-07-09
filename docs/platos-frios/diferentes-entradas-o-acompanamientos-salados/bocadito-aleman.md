@@ -2,7 +2,7 @@
 title: Bocadito aleman
 subtitle: {subtitle}
 slug: bocadito-aleman
-uuid: 93e2efd7-fcab-416f-a7fe-930ba628d568
+uuid: 127553b9-e389-4a10-b774-fb484985b285
 ---
 {nav}
 

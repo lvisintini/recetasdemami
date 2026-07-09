@@ -2,7 +2,7 @@
 title: Cielo y tierra del repollo dorado
 subtitle: {subtitle}
 slug: cielo-y-tierra-del-repollo-dorado
-uuid: 037601ae-9955-43bb-a50f-4bc4ae2f0c44
+uuid: 99abbf2b-5d01-40b2-a7e1-ba0c834ab2dd
 ---
 {nav}
 

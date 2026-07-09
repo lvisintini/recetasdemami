@@ -2,7 +2,7 @@
 title: Salsa de pimientos  2
 subtitle: {subtitle}
 slug: salsa-de-pimientos--2
-uuid: 0d39d654-4782-4462-a695-087c3a85ee00
+uuid: f1af89eb-6184-4b9e-94a7-b4658e5d50e0
 ---
 {nav}
 

@@ -2,7 +2,7 @@
 title: Croquetas de arroz
 subtitle: {subtitle}
 slug: croquetas-de-arroz
-uuid: 499f8382-c5c5-4aa1-a7fd-64752301e36c
+uuid: 1c33a732-7643-40ac-bd7d-4982b1c89ab5
 ---
 {nav}
 

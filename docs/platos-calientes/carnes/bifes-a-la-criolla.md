@@ -2,7 +2,7 @@
 title: Bifes a la criolla
 subtitle: {subtitle}
 slug: bifes-a-la-criolla
-uuid: b3a419e2-9f29-4df5-97f5-ec68d06a7f55
+uuid: 1edab183-32dc-409d-9829-5b6dd517ed09
 ---
 {nav}
 

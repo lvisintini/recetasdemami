@@ -2,7 +2,7 @@
 title: Pollo al curry
 subtitle: {subtitle}
 slug: pollo-al-curry
-uuid: 10123e69-3fcd-4332-bd14-65546e554207
+uuid: 9c50c0b9-c600-4714-80be-cd43f8466af8
 ---
 {nav}
 

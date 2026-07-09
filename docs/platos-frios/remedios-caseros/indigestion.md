@@ -2,7 +2,7 @@
 title: Indigestión
 subtitle: {subtitle}
 slug: indigestion
-uuid: 4b5995d7-b36c-44ff-a279-3cf3711d7ff1
+uuid: 75301de5-86db-4f26-aa93-09d059f4f55d
 ---
 {nav}
 

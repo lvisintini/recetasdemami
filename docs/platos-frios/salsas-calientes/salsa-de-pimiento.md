@@ -2,7 +2,7 @@
 title: Salsa de pimiento
 subtitle: {subtitle}
 slug: salsa-de-pimiento
-uuid: 5e4d6d65-a5b4-4470-87f2-f94e2fed4e5b
+uuid: 304b9b97-48f2-4d76-b39a-d9613eda92a8
 ---
 {nav}
 

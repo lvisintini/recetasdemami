@@ -2,7 +2,7 @@
 title: Galletitas con chispitas de chocolate
 subtitle: {subtitle}
 slug: galletitas-con-chispitas-de-chocolate
-uuid: cd812dba-928f-469b-83f1-3065e47ff4a3
+uuid: e4f16fe6-d86a-4f2e-85b5-259467e1f414
 ---
 {nav}
 

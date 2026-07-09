@@ -2,7 +2,7 @@
 title: Quinoa
 subtitle: {subtitle}
 slug: quinoa
-uuid: fe415ab8-d4f8-4dff-8602-65a996494cac
+uuid: b6345322-c53d-4cfd-85e1-6fee9dde75c6
 ---
 {nav}
 

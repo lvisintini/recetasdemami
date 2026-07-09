@@ -2,7 +2,7 @@
 title: Chorizo de chocolate
 subtitle: {subtitle}
 slug: chorizo-de-chocolate
-uuid: 31325621-b920-459f-81d7-0aa6087eb4bc
+uuid: 2cc31fe4-f03e-4fc3-be00-26e4ed08590c
 ---
 {nav}
 

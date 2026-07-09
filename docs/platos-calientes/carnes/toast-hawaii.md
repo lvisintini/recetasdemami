@@ -2,7 +2,7 @@
 title: Toast Hawaii
 subtitle: {subtitle}
 slug: toast-hawaii
-uuid: ce8d636a-a5cc-4652-98fb-514e947b775f
+uuid: be9a12e8-9daf-493f-b026-605209b7a54d
 ---
 {nav}
 
