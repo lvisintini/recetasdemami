@@ -2,7 +2,7 @@
 title: Colitis
 subtitle: {subtitle}
 slug: colitis
-uuid: cd399f31-8d98-43c0-810e-b8e3bb69f9ad
+uuid: 0257629e-23d4-423f-bf2d-87b1e2254f98
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: cd399f31-8d98-43c0-810e-b8e3bb69f9ad
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

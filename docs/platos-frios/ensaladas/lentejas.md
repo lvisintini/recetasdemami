@@ -2,7 +2,7 @@
 title: Lentejas
 subtitle: {subtitle}
 slug: lentejas
-uuid: da633c9f-7c9d-4112-972f-93265604b345
+uuid: 6c8a9ff8-b1bb-4964-ac26-bece51ddf917
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: da633c9f-7c9d-4112-972f-93265604b345
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

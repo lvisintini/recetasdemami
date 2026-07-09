@@ -2,7 +2,7 @@
 title: Salsa de Palta 2
 subtitle: {subtitle}
 slug: salsa-de-palta-2
-uuid: 46bb4dfa-b874-46b5-92da-d4a5f9daa474
+uuid: 47bad26c-6515-44bc-95c2-959ac030c70d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 46bb4dfa-b874-46b5-92da-d4a5f9daa474
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

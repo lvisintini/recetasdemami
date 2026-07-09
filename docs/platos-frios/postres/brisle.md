@@ -2,7 +2,7 @@
 title: Brisle
 subtitle: {subtitle}
 slug: brisle
-uuid: 582fa112-5919-4cd2-b8eb-ea824b4503b9
+uuid: 2618d970-e9c1-453a-aa39-b7898586c912
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 582fa112-5919-4cd2-b8eb-ea824b4503b9
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

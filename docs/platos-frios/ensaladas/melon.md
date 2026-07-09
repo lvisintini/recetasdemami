@@ -2,7 +2,7 @@
 title: Melon
 subtitle: {subtitle}
 slug: melon
-uuid: f8e012e7-4a2b-42e0-a487-d1407f2ec4a8
+uuid: 52b79466-1734-4a5a-81cb-7348b7385e15
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f8e012e7-4a2b-42e0-a487-d1407f2ec4a8
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

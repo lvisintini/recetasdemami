@@ -2,7 +2,7 @@
 title: Sablée de almendras
 subtitle: {subtitle}
 slug: sablee-de-almendras
-uuid: 56faa30a-f28a-4246-bacf-cf3e1e945d4d
+uuid: fbd5b7a5-5d05-4742-aac4-daaab16d1b51
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 56faa30a-f28a-4246-bacf-cf3e1e945d4d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

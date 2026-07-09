@@ -2,7 +2,7 @@
 title: Bocadito aleman
 subtitle: {subtitle}
 slug: bocadito-aleman
-uuid: 127553b9-e389-4a10-b774-fb484985b285
+uuid: b574017d-5e35-40f2-a2c0-714ab2c9b696
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 127553b9-e389-4a10-b774-fb484985b285
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

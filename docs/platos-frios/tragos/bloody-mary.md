@@ -2,7 +2,7 @@
 title: Bloody Mary
 subtitle: {subtitle}
 slug: bloody-mary
-uuid: 28a4f40f-9020-4189-89f7-22cb5f878e52
+uuid: 9db62d25-ca50-4129-a1c7-4701e489ceea
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 28a4f40f-9020-4189-89f7-22cb5f878e52
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

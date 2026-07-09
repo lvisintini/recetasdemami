@@ -2,7 +2,7 @@
 title: Espinaca y cherry
 subtitle: {subtitle}
 slug: espinaca-y-cherry
-uuid: 8fee2d7f-7904-4752-bbe7-da321e155c5b
+uuid: 09a1faf2-ce00-4357-b01e-6893cec7901d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8fee2d7f-7904-4752-bbe7-da321e155c5b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

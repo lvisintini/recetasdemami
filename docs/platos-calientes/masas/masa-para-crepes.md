@@ -2,7 +2,7 @@
 title: Masa para crepes
 subtitle: {subtitle}
 slug: masa-para-crepes
-uuid: a9c82ace-c1ff-4da3-a52e-405565819f11
+uuid: a0c2d445-237d-4e43-902a-981026c78c63
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a9c82ace-c1ff-4da3-a52e-405565819f11
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

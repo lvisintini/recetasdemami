@@ -2,7 +2,7 @@
 title: Flan de Dulce de Leche de la abuela Aurelia
 subtitle: {subtitle}
 slug: flan-de-dulce-de-leche-de-la-abuela-aurelia
-uuid: 07946e62-b030-4ec4-b2db-840ade3dacb0
+uuid: 78b17670-89d3-43ac-81cc-0fdec9d8d264
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 07946e62-b030-4ec4-b2db-840ade3dacb0
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

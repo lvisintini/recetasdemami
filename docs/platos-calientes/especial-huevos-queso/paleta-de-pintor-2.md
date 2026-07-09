@@ -2,7 +2,7 @@
 title: Paleta de pintor 2
 subtitle: {subtitle}
 slug: paleta-de-pintor-2
-uuid: 8e912e16-33c7-441e-962c-ddbff9de112d
+uuid: 4804e87c-f989-402a-a07d-b2075a208feb
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8e912e16-33c7-441e-962c-ddbff9de112d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

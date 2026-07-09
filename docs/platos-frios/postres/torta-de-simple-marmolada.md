@@ -2,7 +2,7 @@
 title: Torta de simple marmolada
 subtitle: {subtitle}
 slug: torta-de-simple-marmolada
-uuid: 8cfbc8c2-199d-4049-b269-df81bc139ca4
+uuid: 56d107b1-3ba4-4f6d-b43a-35d622663871
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8cfbc8c2-199d-4049-b269-df81bc139ca4
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

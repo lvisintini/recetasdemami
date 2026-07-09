@@ -2,7 +2,7 @@
 title: Bacardi lima limón
 subtitle: {subtitle}
 slug: bacardi-lima-limon
-uuid: e8ad5c16-5951-4ff7-9751-fda31610c43e
+uuid: 56ec1103-2d17-41d2-926f-64be7b496cda
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e8ad5c16-5951-4ff7-9751-fda31610c43e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

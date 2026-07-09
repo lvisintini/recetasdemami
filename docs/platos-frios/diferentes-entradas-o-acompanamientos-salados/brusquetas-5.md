@@ -2,7 +2,7 @@
 title: Brusquetas 5
 subtitle: {subtitle}
 slug: brusquetas-5
-uuid: bd39341c-0dbc-481d-a754-b8f54949d4ef
+uuid: 0f7a6fae-60e1-4074-a37b-24db7a57e5c5
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bd39341c-0dbc-481d-a754-b8f54949d4ef
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

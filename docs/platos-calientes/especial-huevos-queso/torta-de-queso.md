@@ -2,7 +2,7 @@
 title: Torta de queso
 subtitle: {subtitle}
 slug: torta-de-queso
-uuid: 7bf0fc69-9ed3-4239-8678-786ba8dd6060
+uuid: 5d52cd5d-0523-40f6-8573-5f351ec47ad2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 7bf0fc69-9ed3-4239-8678-786ba8dd6060
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

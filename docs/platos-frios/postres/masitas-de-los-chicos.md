@@ -2,7 +2,7 @@
 title: Masitas de los chicos
 subtitle: {subtitle}
 slug: masitas-de-los-chicos
-uuid: f00a7dd8-2450-4b8f-bb90-bf0dd44c1cc5
+uuid: 910ad95f-11d9-420d-97f0-6de65ff8d42a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f00a7dd8-2450-4b8f-bb90-bf0dd44c1cc5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

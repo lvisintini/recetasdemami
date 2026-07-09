@@ -2,7 +2,7 @@
 title: Choclo
 subtitle: {subtitle}
 slug: choclo
-uuid: a4c18c73-f917-4c15-b441-21e7619853dd
+uuid: e8299c7b-9d02-44de-bad2-c09f7e791ede
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a4c18c73-f917-4c15-b441-21e7619853dd
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Relleno para tarta
 subtitle: {subtitle}
 slug: relleno-para-tarta
-uuid: d42926d2-85ac-4c2c-90fe-ab9c9436a932
+uuid: 43f4f7bc-e3c4-4ba0-98ae-9b9ba887c428
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d42926d2-85ac-4c2c-90fe-ab9c9436a932
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

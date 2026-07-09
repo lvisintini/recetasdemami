@@ -2,7 +2,7 @@
 title: Quinoa
 subtitle: {subtitle}
 slug: quinoa
-uuid: b6345322-c53d-4cfd-85e1-6fee9dde75c6
+uuid: a5f392ae-da2c-4da9-920f-b4bdd23fa91a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: b6345322-c53d-4cfd-85e1-6fee9dde75c6
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

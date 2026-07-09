@@ -2,7 +2,7 @@
 title: Natilla
 subtitle: {subtitle}
 slug: natilla
-uuid: b6bff6d3-10f5-470c-a6af-b3d9e11c4912
+uuid: 9e81a8b7-6d04-4d53-9296-ab2dc7bb6847
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: b6bff6d3-10f5-470c-a6af-b3d9e11c4912
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

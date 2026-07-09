@@ -2,7 +2,7 @@
 title: Bocaditos de queso
 subtitle: {subtitle}
 slug: bocaditos-de-queso
-uuid: 051c3403-032a-465c-8eb6-f10a098c30a9
+uuid: 03a7b50a-47ce-4913-80a9-4ab630e63db5
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 051c3403-032a-465c-8eb6-f10a098c30a9
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

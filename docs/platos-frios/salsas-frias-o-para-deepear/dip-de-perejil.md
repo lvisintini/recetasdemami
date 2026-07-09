@@ -2,7 +2,7 @@
 title: Dip de Perejil
 subtitle: {subtitle}
 slug: dip-de-perejil
-uuid: 232e82ba-02f7-4263-9d8e-b1b5d4eac64d
+uuid: a970ef82-1e0b-4954-9b50-32b5572c9612
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 232e82ba-02f7-4263-9d8e-b1b5d4eac64d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

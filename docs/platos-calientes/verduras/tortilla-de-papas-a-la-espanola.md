@@ -2,7 +2,7 @@
 title: Tortilla de papas a la española
 subtitle: {subtitle}
 slug: tortilla-de-papas-a-la-espanola
-uuid: a3ab717a-4c87-4a7a-8b38-43575b0c3895
+uuid: 99bcd3c3-abfe-479e-81fa-88e76eaaf058
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a3ab717a-4c87-4a7a-8b38-43575b0c3895
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

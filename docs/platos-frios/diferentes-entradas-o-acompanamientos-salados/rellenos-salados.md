@@ -2,7 +2,7 @@
 title: Rellenos Salados
 subtitle: {subtitle}
 slug: rellenos-salados
-uuid: cfb9c6da-cc7c-4f01-82c4-25c33b6e386e
+uuid: cbdf5df5-48ef-42cd-b433-b73b37092cdf
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: cfb9c6da-cc7c-4f01-82c4-25c33b6e386e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Gambas al ajillo
 subtitle: {subtitle}
 slug: gambas-al-ajillo
-uuid: 60a569e3-cac3-41f0-a265-dcf67cea0f03
+uuid: 5f47607a-5c67-4989-b307-6d61d22488d9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 60a569e3-cac3-41f0-a265-dcf67cea0f03
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

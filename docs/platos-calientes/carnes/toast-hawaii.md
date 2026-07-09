@@ -2,7 +2,7 @@
 title: Toast Hawaii
 subtitle: {subtitle}
 slug: toast-hawaii
-uuid: be9a12e8-9daf-493f-b026-605209b7a54d
+uuid: 5695d3a1-b8f0-4d32-87c6-688c70b19a5b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: be9a12e8-9daf-493f-b026-605209b7a54d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

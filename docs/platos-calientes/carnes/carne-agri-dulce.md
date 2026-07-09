@@ -2,7 +2,7 @@
 title: Carne agri-dulce
 subtitle: {subtitle}
 slug: carne-agri-dulce
-uuid: 2225bad5-62a3-4efa-8999-2f4a645f8552
+uuid: 596080d6-a897-4983-85fc-c45e99f49c19
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2225bad5-62a3-4efa-8999-2f4a645f8552
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

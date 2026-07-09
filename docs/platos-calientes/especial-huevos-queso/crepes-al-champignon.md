@@ -2,7 +2,7 @@
 title: Crepes al champignon
 subtitle: {subtitle}
 slug: crepes-al-champignon
-uuid: a0f07043-6425-4ffb-9bd7-ab48da86f1d8
+uuid: ffc46982-8296-44f2-bd02-c11f116d4074
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a0f07043-6425-4ffb-9bd7-ab48da86f1d8
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

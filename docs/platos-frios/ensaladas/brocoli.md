@@ -2,7 +2,7 @@
 title: Brócoli
 subtitle: {subtitle}
 slug: brocoli
-uuid: 9670bf0a-1755-44ad-bee7-3cc64d954e5d
+uuid: 32c12de3-7f13-46f9-9532-92e1164b987e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9670bf0a-1755-44ad-bee7-3cc64d954e5d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

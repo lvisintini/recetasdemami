@@ -2,7 +2,7 @@
 title: Arroz al curry
 subtitle: {subtitle}
 slug: arroz-al-curry
-uuid: 57ab2ba8-f772-4001-bf47-bf3d96679ba0
+uuid: 4b55942c-d112-4195-b6c8-49bb9a449f6f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 57ab2ba8-f772-4001-bf47-bf3d96679ba0
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

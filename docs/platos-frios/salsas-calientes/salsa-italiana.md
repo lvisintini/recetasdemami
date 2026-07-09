@@ -2,7 +2,7 @@
 title: Salsa italiana
 subtitle: {subtitle}
 slug: salsa-italiana
-uuid: 6062409b-32e7-4aed-b2e9-5ed299478898
+uuid: f5db429e-c84b-4df6-bd5a-79bc69c94647
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6062409b-32e7-4aed-b2e9-5ed299478898
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

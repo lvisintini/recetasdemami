@@ -2,7 +2,7 @@
 title: Torta peruana de Tía Nilda
 subtitle: {subtitle}
 slug: torta-peruana-de-tia-nilda
-uuid: 44bef2c5-9a1a-494f-8b25-1c535ecb5a9e
+uuid: 8916d464-3427-4cd4-87ef-19f4303d4c2f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 44bef2c5-9a1a-494f-8b25-1c535ecb5a9e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

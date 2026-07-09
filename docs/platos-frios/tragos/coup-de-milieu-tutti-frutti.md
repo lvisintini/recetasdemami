@@ -2,7 +2,7 @@
 title: Coup de Milieu Tutti Frutti
 subtitle: {subtitle}
 slug: coup-de-milieu-tutti-frutti
-uuid: 82cbfb4e-e178-488f-9d34-0f5064c7d9e1
+uuid: 7ccfff21-f3b7-430e-a0d8-ee9ccca20870
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 82cbfb4e-e178-488f-9d34-0f5064c7d9e1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

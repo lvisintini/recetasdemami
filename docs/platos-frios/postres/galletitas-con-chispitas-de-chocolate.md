@@ -2,7 +2,7 @@
 title: Galletitas con chispitas de chocolate
 subtitle: {subtitle}
 slug: galletitas-con-chispitas-de-chocolate
-uuid: e4f16fe6-d86a-4f2e-85b5-259467e1f414
+uuid: 59e2eae4-d730-4f8f-a0cb-b68abd68c9a9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e4f16fe6-d86a-4f2e-85b5-259467e1f414
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

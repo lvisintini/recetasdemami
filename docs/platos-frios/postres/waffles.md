@@ -2,7 +2,7 @@
 title: Waffles
 subtitle: {subtitle}
 slug: waffles
-uuid: 585f7f76-49e0-4c4b-80d4-9ab8c033f011
+uuid: a46c9e27-282d-421c-87d4-84e0ba7e9415
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 585f7f76-49e0-4c4b-80d4-9ab8c033f011
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

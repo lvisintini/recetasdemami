@@ -2,7 +2,7 @@
 title: Naranja 3
 subtitle: {subtitle}
 slug: naranja-3
-uuid: c088e801-7084-49d0-8aab-51e56254d505
+uuid: 27297f99-7740-4714-b6a1-cb37a87db92e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: c088e801-7084-49d0-8aab-51e56254d505
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Palta con salsa criolla
 subtitle: {subtitle}
 slug: palta-con-salsa-criolla
-uuid: 615ba329-827e-4c35-adc9-11e8bbfd324c
+uuid: f7489422-8682-4ea9-affe-3aea51daf024
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 615ba329-827e-4c35-adc9-11e8bbfd324c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

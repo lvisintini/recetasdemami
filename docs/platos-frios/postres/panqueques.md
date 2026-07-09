@@ -2,7 +2,7 @@
 title: Panqueques
 subtitle: {subtitle}
 slug: panqueques
-uuid: 8ebcdce2-2f5c-4f7a-8642-3e8820fcb9c7
+uuid: ba34bfea-4c7c-440b-87ef-53fb4baed55f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8ebcdce2-2f5c-4f7a-8642-3e8820fcb9c7
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

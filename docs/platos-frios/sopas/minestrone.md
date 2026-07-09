@@ -2,7 +2,7 @@
 title: Minestrone
 subtitle: {subtitle}
 slug: minestrone
-uuid: c346378d-f816-4584-b65e-6c8198ab7118
+uuid: 33c4ab2b-af6c-4135-965c-b20f863898c2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: c346378d-f816-4584-b65e-6c8198ab7118
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

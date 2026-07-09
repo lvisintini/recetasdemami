@@ -2,7 +2,7 @@
 title: Brusquetas 3
 subtitle: {subtitle}
 slug: brusquetas-3
-uuid: 4699f9c6-5690-47e9-9bf7-55fac4741015
+uuid: 7052fc64-f490-4b7c-bc3a-dbb861c17849
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4699f9c6-5690-47e9-9bf7-55fac4741015
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

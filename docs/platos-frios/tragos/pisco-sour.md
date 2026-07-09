@@ -2,7 +2,7 @@
 title: Pisco sour
 subtitle: {subtitle}
 slug: pisco-sour
-uuid: d96c02bc-0bd3-40c3-8e9f-187bf6c6fd97
+uuid: e6c0d8b5-f617-4e5e-997a-82f2028d2a86
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d96c02bc-0bd3-40c3-8e9f-187bf6c6fd97
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

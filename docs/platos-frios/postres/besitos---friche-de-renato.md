@@ -2,7 +2,7 @@
 title: Besitos - friche de Renato
 subtitle: {subtitle}
 slug: besitos---friche-de-renato
-uuid: 339c27af-e37e-4ce7-a880-0904150cb75d
+uuid: ed6a4aad-7930-4d3d-9345-8a87d6f146db
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 339c27af-e37e-4ce7-a880-0904150cb75d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Supremes a la Kiev
 subtitle: {subtitle}
 slug: supremes-a-la-kiev
-uuid: 30c2877e-0183-4493-be9e-58f2bcb85c1e
+uuid: bbed0e35-a585-4848-91c3-59fb0d3e9120
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 30c2877e-0183-4493-be9e-58f2bcb85c1e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Bondiola de cerdo a la cerveza
 subtitle: {subtitle}
 slug: bondiola-de-cerdo-a-la-cerveza
-uuid: 483a0341-92c6-44b4-a6e6-84a772b2ece4
+uuid: e96ae802-53b8-4f64-bda8-8bb0ff7db8dc
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 483a0341-92c6-44b4-a6e6-84a772b2ece4
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

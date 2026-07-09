@@ -2,7 +2,7 @@
 title: Panqueques americanos
 subtitle: {subtitle}
 slug: panqueques-americanos
-uuid: bb8ec7a5-b26b-43c2-afd8-f8b4cd1af091
+uuid: c351fa48-b104-468d-b6ec-42e8d72c7808
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bb8ec7a5-b26b-43c2-afd8-f8b4cd1af091
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Salsa del Español
 subtitle: {subtitle}
 slug: salsa-del-espanol
-uuid: 0d225027-3024-4e8e-a79d-73a5504d6fe5
+uuid: 01b42c4a-d6a7-4161-9d55-1f1b719e8d83
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0d225027-3024-4e8e-a79d-73a5504d6fe5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

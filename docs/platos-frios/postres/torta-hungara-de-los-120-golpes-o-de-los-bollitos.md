@@ -2,7 +2,7 @@
 title: Torta hungara de los 120 golpes o de los bollitos
 subtitle: {subtitle}
 slug: torta-hungara-de-los-120-golpes-o-de-los-bollitos
-uuid: 35d0b847-bb25-4ede-9f30-449f4f03e59e
+uuid: 17caa51f-5234-44e0-bb25-824362cbf71a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 35d0b847-bb25-4ede-9f30-449f4f03e59e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

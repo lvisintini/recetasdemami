@@ -2,7 +2,7 @@
 title: Turron de quaker
 subtitle: {subtitle}
 slug: turron-de-quaker
-uuid: 36f2bfdb-bd84-4766-9b4a-11cb7df9abc9
+uuid: 643f3b0b-5c21-4146-9857-aaf678cc9a63
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 36f2bfdb-bd84-4766-9b4a-11cb7df9abc9
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

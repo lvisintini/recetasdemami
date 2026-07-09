@@ -2,7 +2,7 @@
 title: Arroz con leche
 subtitle: {subtitle}
 slug: arroz-con-leche
-uuid: 0648eaba-a67c-4fd5-ba0b-3f28533b2c24
+uuid: 5b6753d9-2ade-4d2b-a91a-8de67d4d129a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0648eaba-a67c-4fd5-ba0b-3f28533b2c24
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

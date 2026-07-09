@@ -2,7 +2,7 @@
 title: Souffle de pollo
 subtitle: {subtitle}
 slug: souffle-de-pollo
-uuid: 5f20858a-a175-4b55-ba15-c62cdcde7dd3
+uuid: 8a6a3300-77fe-47ec-845a-f479314d1ad8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 5f20858a-a175-4b55-ba15-c62cdcde7dd3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Rucula 2
 subtitle: {subtitle}
 slug: rucula-2
-uuid: e8279e7d-7a7c-4fc0-9d7d-21cab1b6d442
+uuid: 9d67c02b-b89a-482c-a229-4e73a06a6d1e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e8279e7d-7a7c-4fc0-9d7d-21cab1b6d442
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

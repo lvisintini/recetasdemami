@@ -2,7 +2,7 @@
 title: Mayonesa a baño maría
 subtitle: {subtitle}
 slug: mayonesa-a-bano-maria
-uuid: ae6a1d88-3eca-44ed-bd8f-b6fd5fc1077c
+uuid: 14bfcfce-f332-4a0c-bf58-9a1371f1cb6e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ae6a1d88-3eca-44ed-bd8f-b6fd5fc1077c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

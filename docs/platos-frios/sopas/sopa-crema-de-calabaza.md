@@ -2,7 +2,7 @@
 title: Sopa crema de calabaza
 subtitle: {subtitle}
 slug: sopa-crema-de-calabaza
-uuid: 0915d7cd-e187-48bf-aeed-280fa05bb21c
+uuid: ad24ef43-4b7c-423e-b758-45d198833185
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0915d7cd-e187-48bf-aeed-280fa05bb21c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

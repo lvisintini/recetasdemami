@@ -2,7 +2,7 @@
 title: Tragos
 subtitle: {subtitle}
 slug: tragos
-uuid: bd0d4afb-428b-4d0d-909c-8df32b4e6c9f
+uuid: 4ebf54c7-ff7f-4bc2-8c48-d16625d3ea70
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bd0d4afb-428b-4d0d-909c-8df32b4e6c9f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

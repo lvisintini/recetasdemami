@@ -2,7 +2,7 @@
 title: Aderezo de Albahaca
 subtitle: {subtitle}
 slug: aderezo-de-albahaca
-uuid: 6bfbb258-0e01-4b1a-b042-11d3151700de
+uuid: 7df1eb5b-e899-4c3b-ab83-991187b68025
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6bfbb258-0e01-4b1a-b042-11d3151700de
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

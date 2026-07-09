@@ -2,7 +2,7 @@
 title: Tarta de coco y dulce de leche
 subtitle: {subtitle}
 slug: tarta-de-coco-y-dulce-de-leche
-uuid: 2ad119b3-4846-440c-b13f-63cb1cb4cfef
+uuid: 2db727d1-3efb-4194-a9f6-e6f3da47c2d4
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2ad119b3-4846-440c-b13f-63cb1cb4cfef
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

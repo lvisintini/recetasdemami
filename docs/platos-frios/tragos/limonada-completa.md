@@ -2,7 +2,7 @@
 title: Limonada completa
 subtitle: {subtitle}
 slug: limonada-completa
-uuid: 6a834306-3c26-4b06-9ee5-ff5ecf8fb049
+uuid: a439a630-48a3-4482-a35c-ae9e5b736b75
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6a834306-3c26-4b06-9ee5-ff5ecf8fb049
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Diferentes entradas o acompañamientos salados
 subtitle: {subtitle}
 slug: diferentes-entradas-o-acompanamientos-salados
-uuid: 0a279d9d-2c87-4446-ac63-6aac68471a67
+uuid: 64aad0ff-ca25-4b2e-aac3-eb2ad046a82e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0a279d9d-2c87-4446-ac63-6aac68471a67
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

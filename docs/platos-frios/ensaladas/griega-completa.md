@@ -2,7 +2,7 @@
 title: Griega completa
 subtitle: {subtitle}
 slug: griega-completa
-uuid: d4d7d28b-3965-4cd1-a2cb-d55dfda006d3
+uuid: 03f47672-4dbb-43d9-9ac8-fea9a45c4f25
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d4d7d28b-3965-4cd1-a2cb-d55dfda006d3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

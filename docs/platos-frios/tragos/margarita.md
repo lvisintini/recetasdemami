@@ -2,7 +2,7 @@
 title: Margarita
 subtitle: {subtitle}
 slug: margarita
-uuid: 9000c1c7-944f-4f9c-a432-9e68598804bb
+uuid: 59d501e6-1a8d-4a92-a84d-6762c0cc7693
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9000c1c7-944f-4f9c-a432-9e68598804bb
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

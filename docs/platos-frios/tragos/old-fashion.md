@@ -2,7 +2,7 @@
 title: Old fashion
 subtitle: {subtitle}
 slug: old-fashion
-uuid: 4a01e889-3e11-44eb-afc0-c5c0f3b6e52b
+uuid: 677b9fe1-f00d-4a2f-8019-212c139ff9a1
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4a01e889-3e11-44eb-afc0-c5c0f3b6e52b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

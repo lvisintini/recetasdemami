@@ -2,7 +2,7 @@
 title: Dip de Albahaca
 subtitle: {subtitle}
 slug: dip-de-albahaca
-uuid: fdc76c55-9740-4c95-a9d1-eacea78975d5
+uuid: 6da662cd-550a-4320-9539-de886a1e06f8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: fdc76c55-9740-4c95-a9d1-eacea78975d5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

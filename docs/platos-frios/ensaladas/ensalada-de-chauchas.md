@@ -2,7 +2,7 @@
 title: Ensalada de chauchas
 subtitle: {subtitle}
 slug: ensalada-de-chauchas
-uuid: 4943747c-9cb0-4799-afcc-9e570b2d77a5
+uuid: b14ea855-d31b-46d4-a8e9-2be8434025d4
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4943747c-9cb0-4799-afcc-9e570b2d77a5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

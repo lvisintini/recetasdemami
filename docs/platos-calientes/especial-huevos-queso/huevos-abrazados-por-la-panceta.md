@@ -2,7 +2,7 @@
 title: Huevos abrazados por la panceta
 subtitle: {subtitle}
 slug: huevos-abrazados-por-la-panceta
-uuid: 9bf19cc2-3d22-4646-8611-e4deb5efb3a2
+uuid: b44a5824-eba8-4b2a-a495-f082553ff8b0
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9bf19cc2-3d22-4646-8611-e4deb5efb3a2
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

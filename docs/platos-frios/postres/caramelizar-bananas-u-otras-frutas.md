@@ -2,7 +2,7 @@
 title: Caramelizar bananas u otras frutas
 subtitle: {subtitle}
 slug: caramelizar-bananas-u-otras-frutas
-uuid: 735ca65d-79c1-4f0a-9b68-178c8295cfd2
+uuid: 244bda9c-5fc9-4622-b93d-563eb0ae055b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 735ca65d-79c1-4f0a-9b68-178c8295cfd2
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

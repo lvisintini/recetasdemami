@@ -2,7 +2,7 @@
 title: Verde
 subtitle: {subtitle}
 slug: verde
-uuid: 64a48d83-bc19-4495-80be-958336ae88e1
+uuid: 96e08c1c-100d-4460-92ab-f5999c155bb2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 64a48d83-bc19-4495-80be-958336ae88e1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

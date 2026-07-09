@@ -2,7 +2,7 @@
 title: Estreñimiento
 subtitle: {subtitle}
 slug: estrenimiento
-uuid: 3d4d48f5-356c-4c54-8367-6a1079168afa
+uuid: 8de51e9c-6304-401f-8aab-afeb3fa9348a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 3d4d48f5-356c-4c54-8367-6a1079168afa
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

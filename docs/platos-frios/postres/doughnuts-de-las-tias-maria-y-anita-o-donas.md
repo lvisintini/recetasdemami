@@ -2,7 +2,7 @@
 title: Doughnuts de las tías maría y anita o donas
 subtitle: {subtitle}
 slug: doughnuts-de-las-tias-maria-y-anita-o-donas
-uuid: 9f305285-215f-4e0b-9ac8-e53d42b69fdc
+uuid: f1b9a9e7-aa51-4672-b589-822f9f1c71db
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9f305285-215f-4e0b-9ac8-e53d42b69fdc
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

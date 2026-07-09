@@ -2,7 +2,7 @@
 title: Souffle de choclos Mamama
 subtitle: {subtitle}
 slug: souffle-de-choclos-mamama
-uuid: 1063ad83-2102-4bdc-81d8-62f072b25a08
+uuid: 26bcf60c-8f81-4e8f-acbe-3236087e4910
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 1063ad83-2102-4bdc-81d8-62f072b25a08
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Torta de chocolate de Lili Morey
 subtitle: {subtitle}
 slug: torta-de-chocolate-de-lili-morey
-uuid: 8670dba4-d6ad-4b8b-8ff3-9a3720d5e82c
+uuid: c9892f70-740a-44ca-9270-18cb7c2f6de9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8670dba4-d6ad-4b8b-8ff3-9a3720d5e82c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

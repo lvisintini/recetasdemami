@@ -2,7 +2,7 @@
 title: Rellenos dulces para crepes
 subtitle: {subtitle}
 slug: rellenos-dulces-para-crepes
-uuid: a5c6aee0-aecb-43ef-9d30-cf2f0b1dc23f
+uuid: bc718384-e015-4405-bce5-5796c6558eb9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a5c6aee0-aecb-43ef-9d30-cf2f0b1dc23f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

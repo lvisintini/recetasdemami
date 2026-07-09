@@ -2,7 +2,7 @@
 title: Coliflor y naranjas
 subtitle: {subtitle}
 slug: coliflor-y-naranjas
-uuid: 4ef148a0-4b11-4494-bb74-c669df066d2a
+uuid: 1de338c5-1162-4dd3-9494-492cc7f7144e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4ef148a0-4b11-4494-bb74-c669df066d2a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Grumos de harina o streusel
 subtitle: {subtitle}
 slug: grumos-de-harina-o-streusel
-uuid: dec7ca56-cb26-4a32-9e79-0b5e9d875abe
+uuid: ab9ab064-8918-412f-bcfe-ae91efe2998d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: dec7ca56-cb26-4a32-9e79-0b5e9d875abe
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

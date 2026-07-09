@@ -2,7 +2,7 @@
 title: Tarta de frutas artística
 subtitle: {subtitle}
 slug: tarta-de-frutas-artistica
-uuid: ebc0e57a-1369-4ec4-8923-881ea90508af
+uuid: 842b8a5c-3e22-4d5e-a531-ebdfc8de556d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ebc0e57a-1369-4ec4-8923-881ea90508af
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

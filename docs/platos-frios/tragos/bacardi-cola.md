@@ -2,7 +2,7 @@
 title: Bacardi cola
 subtitle: {subtitle}
 slug: bacardi-cola
-uuid: 8e3ba146-98f8-492c-8e54-9ed474ee7b63
+uuid: 33f6c6a1-3915-4d1b-b1a3-8d6fb914de03
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8e3ba146-98f8-492c-8e54-9ed474ee7b63
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Buñuelos de papa y queso
 subtitle: {subtitle}
 slug: bunuelos-de-papa-y-queso
-uuid: 4e3af362-5013-4cbf-8468-d2620dcb5c63
+uuid: c3704d95-39b4-4d89-925f-62a76b9ce3e1
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4e3af362-5013-4cbf-8468-d2620dcb5c63
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

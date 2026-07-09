@@ -2,7 +2,7 @@
 title: Brócoli con papas al horno micro
 subtitle: {subtitle}
 slug: brocoli-con-papas-al-horno-micro
-uuid: 2606a57f-75f3-42d4-853f-54dd6c1c56de
+uuid: dadb3076-0c92-48ca-b3b7-af74a6e25e2f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2606a57f-75f3-42d4-853f-54dd6c1c56de
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

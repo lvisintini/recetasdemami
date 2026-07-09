@@ -2,7 +2,7 @@
 title: Naranja 1
 subtitle: {subtitle}
 slug: naranja-1
-uuid: e003b624-de39-4c01-ad48-c7d6c63558fd
+uuid: 260746d6-a602-4173-9173-b9491145c5e0
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e003b624-de39-4c01-ad48-c7d6c63558fd
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

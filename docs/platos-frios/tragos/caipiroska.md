@@ -2,7 +2,7 @@
 title: Caipiroska
 subtitle: {subtitle}
 slug: caipiroska
-uuid: 54c0fbdb-6cb3-49f5-b4ce-f8ba20fe9c56
+uuid: 1f3c705e-dcb6-49a9-89f6-e74972a79383
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 54c0fbdb-6cb3-49f5-b4ce-f8ba20fe9c56
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

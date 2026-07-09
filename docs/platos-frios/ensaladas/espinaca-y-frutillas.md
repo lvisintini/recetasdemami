@@ -2,7 +2,7 @@
 title: Espinaca y frutillas
 subtitle: {subtitle}
 slug: espinaca-y-frutillas
-uuid: bcddbb96-aefe-48cf-80f4-5503fd7dcf3f
+uuid: edc95ce0-dce3-4677-8fac-fe798076c71f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bcddbb96-aefe-48cf-80f4-5503fd7dcf3f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

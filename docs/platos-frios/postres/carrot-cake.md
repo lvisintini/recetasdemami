@@ -2,7 +2,7 @@
 title: Carrot cake
 subtitle: {subtitle}
 slug: carrot-cake
-uuid: 1a215f4e-73ae-4f62-aa30-d68e4ec1b961
+uuid: 00ef94fb-59a7-4245-a9ab-c2e15c39ea45
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 1a215f4e-73ae-4f62-aa30-d68e4ec1b961
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

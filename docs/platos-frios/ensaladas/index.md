@@ -2,7 +2,7 @@
 title: Ensaladas
 subtitle: {subtitle}
 slug: ensaladas
-uuid: 551d6e51-bfcf-4d60-b4b1-03c9329b70ec
+uuid: caaad86d-e21c-46f2-bf1c-f74a85b7c828
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 551d6e51-bfcf-4d60-b4b1-03c9329b70ec
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

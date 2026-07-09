@@ -2,7 +2,7 @@
 title: Salsa de Queso Crema
 subtitle: {subtitle}
 slug: salsa-de-queso-crema
-uuid: 2763e2e6-6967-42d6-889b-1d95272cd5ec
+uuid: 1c262e23-4722-4979-9bf1-9321c154ce84
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2763e2e6-6967-42d6-889b-1d95272cd5ec
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

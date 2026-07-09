@@ -2,7 +2,7 @@
 title: Crisp de manzana
 subtitle: {subtitle}
 slug: crisp-de-manzana
-uuid: cc49ca22-222b-4f3f-a60a-1176d331ac0f
+uuid: fb1ff2e7-c3c2-410f-a126-71d566622bd7
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: cc49ca22-222b-4f3f-a60a-1176d331ac0f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

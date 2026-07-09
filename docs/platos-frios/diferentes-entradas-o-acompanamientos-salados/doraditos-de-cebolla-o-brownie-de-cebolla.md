@@ -2,7 +2,7 @@
 title: Doraditos de cebolla o Brownie de cebolla
 subtitle: {subtitle}
 slug: doraditos-de-cebolla-o-brownie-de-cebolla
-uuid: 08651316-7da4-4c85-be15-7e8c62bbdc66
+uuid: db8a2491-2e02-4988-8de0-afcdf44c934e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 08651316-7da4-4c85-be15-7e8c62bbdc66
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

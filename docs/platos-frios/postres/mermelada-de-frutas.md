@@ -2,7 +2,7 @@
 title: Mermelada de frutas
 subtitle: {subtitle}
 slug: mermelada-de-frutas
-uuid: fadf82b1-c731-47d8-a3fb-8a2970e8b2b3
+uuid: 37ac1c0a-91d4-4eda-b975-a34a3d3014e2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: fadf82b1-c731-47d8-a3fb-8a2970e8b2b3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

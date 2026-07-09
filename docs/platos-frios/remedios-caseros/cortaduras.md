@@ -2,7 +2,7 @@
 title: Cortaduras
 subtitle: {subtitle}
 slug: cortaduras
-uuid: 55cc0fe6-3bef-4082-a972-79bf79a5fe61
+uuid: eb17d87b-d636-4f3b-9d28-23a184da5861
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 55cc0fe6-3bef-4082-a972-79bf79a5fe61
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

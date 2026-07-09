@@ -2,7 +2,7 @@
 title: Cuba libre
 subtitle: {subtitle}
 slug: cuba-libre
-uuid: dc326619-1ec5-4b42-a7bb-cabb5ec93b79
+uuid: 57eb4f7a-4fbc-45a1-9c66-8c283e057b42
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: dc326619-1ec5-4b42-a7bb-cabb5ec93b79
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Alfajores de maizena
 subtitle: {subtitle}
 slug: alfajores-de-maizena
-uuid: 5c05c1c7-b722-4d2b-a790-4fe7a318cb33
+uuid: 3c9cd348-c79c-49e7-9798-d9acfb3f17fe
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 5c05c1c7-b722-4d2b-a790-4fe7a318cb33
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

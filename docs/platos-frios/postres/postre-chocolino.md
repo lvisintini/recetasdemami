@@ -2,7 +2,7 @@
 title: Postre Chocolino
 subtitle: {subtitle}
 slug: postre-chocolino
-uuid: 2d0672e6-269a-44b9-af55-373445de29d8
+uuid: f5d2577c-e82b-4644-90a3-30bc290898c3
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2d0672e6-269a-44b9-af55-373445de29d8
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

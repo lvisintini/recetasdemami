@@ -2,7 +2,7 @@
 title: Sorpresa agridulce ananá y lomito
 subtitle: {subtitle}
 slug: sorpresa-agridulce-anana-y-lomito
-uuid: e384f28c-9ecf-4fe6-bde9-7820cf39a345
+uuid: 23cb4b4b-3a06-4edc-9d46-213c411d4c6d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e384f28c-9ecf-4fe6-bde9-7820cf39a345
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

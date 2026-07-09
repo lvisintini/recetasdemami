@@ -2,7 +2,7 @@
 title: Galletitas de Bicarbonato de Amoniaco
 subtitle: {subtitle}
 slug: galletitas-de-bicarbonato-de-amoniaco
-uuid: fd945439-312d-49d5-85ee-335a47912df2
+uuid: 5490d936-156e-423a-9157-668bdeded545
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: fd945439-312d-49d5-85ee-335a47912df2
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

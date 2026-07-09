@@ -2,7 +2,7 @@
 title: Brócoli zanahoria pollo
 subtitle: {subtitle}
 slug: brocoli-zanahoria-pollo
-uuid: 225dd659-cb4d-4908-9220-068b5bc328c3
+uuid: c9a2691c-8931-4d73-a46c-aaf09f54a2f2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 225dd659-cb4d-4908-9220-068b5bc328c3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Croquetas de arroz
 subtitle: {subtitle}
 slug: croquetas-de-arroz
-uuid: 1c33a732-7643-40ac-bd7d-4982b1c89ab5
+uuid: 3d3d6410-34f2-413a-b8b8-b2416390198d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 1c33a732-7643-40ac-bd7d-4982b1c89ab5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

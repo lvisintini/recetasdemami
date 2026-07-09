@@ -2,7 +2,7 @@
 title: Alioli 1
 subtitle: {subtitle}
 slug: alioli-1
-uuid: d656551f-9a22-432d-baf8-fdb313bcacec
+uuid: 7edaf160-86d8-41ed-9caf-9f3bc9bfb13a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d656551f-9a22-432d-baf8-fdb313bcacec
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

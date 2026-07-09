@@ -2,7 +2,7 @@
 title: Arroz completa
 subtitle: {subtitle}
 slug: arroz-completa
-uuid: 76033b1e-6d75-4822-9afc-978c088a529d
+uuid: 9d3c517f-29f8-4607-847e-d3c7ed0db3c9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 76033b1e-6d75-4822-9afc-978c088a529d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

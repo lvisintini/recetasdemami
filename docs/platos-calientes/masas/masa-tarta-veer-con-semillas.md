@@ -2,7 +2,7 @@
 title: Masa tarta Veer Con semillas
 subtitle: {subtitle}
 slug: masa-tarta-veer-con-semillas
-uuid: f696cfc0-c0ef-4525-bf12-33f25441fda5
+uuid: 57399bb8-20e2-489d-8ec9-02b7fbf7121a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f696cfc0-c0ef-4525-bf12-33f25441fda5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

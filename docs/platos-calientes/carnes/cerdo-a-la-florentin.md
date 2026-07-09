@@ -2,7 +2,7 @@
 title: Cerdo a la florentin
 subtitle: {subtitle}
 slug: cerdo-a-la-florentin
-uuid: 9fdfc3d9-be9c-46e0-b7f7-f4364ee8fa76
+uuid: b1a1a18f-ac25-4d62-b632-75d4af981d7a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9fdfc3d9-be9c-46e0-b7f7-f4364ee8fa76
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

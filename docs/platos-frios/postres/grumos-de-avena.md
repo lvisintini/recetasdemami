@@ -2,7 +2,7 @@
 title: Grumos de avena
 subtitle: {subtitle}
 slug: grumos-de-avena
-uuid: f348abef-e9af-4a08-8b10-f19ff4bf4aff
+uuid: 63584715-b4cc-4453-900c-2def4d4e511a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f348abef-e9af-4a08-8b10-f19ff4bf4aff
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Repollo Roman
 subtitle: {subtitle}
 slug: repollo-roman
-uuid: 98166c1a-e94a-47f9-919f-8c3bf6404cfa
+uuid: bffb9262-f9eb-4cea-ae71-6afd7989a092
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 98166c1a-e94a-47f9-919f-8c3bf6404cfa
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

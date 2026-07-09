@@ -2,7 +2,7 @@
 title: Zanahorias a la Vichy
 subtitle: {subtitle}
 slug: zanahorias-a-la-vichy
-uuid: 2b22e2f1-a405-4d72-9737-9ccf8be657ed
+uuid: 3b181cfc-602d-424b-86dc-899aa2f7b31a
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2b22e2f1-a405-4d72-9737-9ccf8be657ed
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

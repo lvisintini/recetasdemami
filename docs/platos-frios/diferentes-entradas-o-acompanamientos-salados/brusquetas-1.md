@@ -2,7 +2,7 @@
 title: Brusquetas 1
 subtitle: {subtitle}
 slug: brusquetas-1
-uuid: 7ee94c9d-aa3c-4a75-8231-af14a3943c26
+uuid: f5f8e27c-1a09-46b5-aed9-a4ee7d80937b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 7ee94c9d-aa3c-4a75-8231-af14a3943c26
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

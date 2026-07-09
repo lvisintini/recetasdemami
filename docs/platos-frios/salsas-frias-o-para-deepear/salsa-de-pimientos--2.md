@@ -2,7 +2,7 @@
 title: Salsa de pimientos  2
 subtitle: {subtitle}
 slug: salsa-de-pimientos--2
-uuid: f1af89eb-6184-4b9e-94a7-b4658e5d50e0
+uuid: ec366c09-c33b-479f-a366-9ecd03fece4f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f1af89eb-6184-4b9e-94a7-b4658e5d50e0
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

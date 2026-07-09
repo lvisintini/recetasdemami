@@ -2,7 +2,7 @@
 title: Flout
 subtitle: {subtitle}
 slug: flout
-uuid: eff8f868-b5eb-4308-9a94-9886421fdf9e
+uuid: d8bd2535-dca1-47a0-a722-692f895bc7c5
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: eff8f868-b5eb-4308-9a94-9886421fdf9e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

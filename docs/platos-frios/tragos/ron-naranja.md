@@ -2,7 +2,7 @@
 title: Ron-naranja
 subtitle: {subtitle}
 slug: ron-naranja
-uuid: 73c26a1d-b2eb-4ed4-8a37-9e39cf0e9293
+uuid: ce0393eb-455f-455a-a427-86658a8623bb
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 73c26a1d-b2eb-4ed4-8a37-9e39cf0e9293
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

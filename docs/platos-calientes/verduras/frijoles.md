@@ -2,7 +2,7 @@
 title: Frijoles
 subtitle: {subtitle}
 slug: frijoles
-uuid: 758ed67f-7528-4cd5-a9c1-68bc037ac865
+uuid: 394e2047-ccc4-41c5-8750-f6279ed8ad3b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 758ed67f-7528-4cd5-a9c1-68bc037ac865
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

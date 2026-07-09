@@ -2,7 +2,7 @@
 title: Indigestión
 subtitle: {subtitle}
 slug: indigestion
-uuid: 75301de5-86db-4f26-aa93-09d059f4f55d
+uuid: d92be80d-fee0-42c1-99a1-03383ccaf878
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 75301de5-86db-4f26-aa93-09d059f4f55d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

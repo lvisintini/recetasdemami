@@ -2,7 +2,7 @@
 title: Bomba de papa y queso
 subtitle: {subtitle}
 slug: bomba-de-papa-y-queso
-uuid: 22977b07-332c-4ed8-8f54-5f465c76a6f1
+uuid: 82d011ad-100a-4890-ba5b-2954f4470e84
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 22977b07-332c-4ed8-8f54-5f465c76a6f1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

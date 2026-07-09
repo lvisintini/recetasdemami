@@ -2,7 +2,7 @@
 title: Remolacha al estilo Vir
 subtitle: {subtitle}
 slug: remolacha-al-estilo-vir
-uuid: 73e43efb-55e2-4965-854b-85fc29198737
+uuid: f191f265-c5df-431e-a1c4-1daa4d7e6cac
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 73e43efb-55e2-4965-854b-85fc29198737
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

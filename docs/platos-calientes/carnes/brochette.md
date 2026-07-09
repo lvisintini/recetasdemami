@@ -2,7 +2,7 @@
 title: Brochette
 subtitle: {subtitle}
 slug: brochette
-uuid: 589cd03c-e0ca-45cc-bb0d-012a64c700c4
+uuid: 0a5fa59a-3d96-458c-969e-6eea72cb8689
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 589cd03c-e0ca-45cc-bb0d-012a64c700c4
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

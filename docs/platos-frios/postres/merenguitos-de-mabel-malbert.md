@@ -2,7 +2,7 @@
 title: Merenguitos de Mabel Malbert
 subtitle: {subtitle}
 slug: merenguitos-de-mabel-malbert
-uuid: 99d347a6-aff5-4be1-88e1-f1e9f9d52b11
+uuid: 0c40cf5d-7a00-47f5-9300-93f62eefb4e1
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 99d347a6-aff5-4be1-88e1-f1e9f9d52b11
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

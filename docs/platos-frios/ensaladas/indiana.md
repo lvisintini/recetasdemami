@@ -2,7 +2,7 @@
 title: Indiana
 subtitle: {subtitle}
 slug: indiana
-uuid: 512504a0-bdd3-4c57-8fb8-22c34925e1c2
+uuid: ab054ec8-4182-4048-9755-efdbec5e2a27
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 512504a0-bdd3-4c57-8fb8-22c34925e1c2
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

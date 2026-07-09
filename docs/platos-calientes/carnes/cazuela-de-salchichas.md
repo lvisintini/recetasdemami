@@ -2,7 +2,7 @@
 title: Cazuela de salchichas
 subtitle: {subtitle}
 slug: cazuela-de-salchichas
-uuid: a7944298-48b9-4f87-9a8a-d4463889179f
+uuid: 42518762-e807-4bc8-aa11-c757f98d4f66
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a7944298-48b9-4f87-9a8a-d4463889179f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Matambre relleno
 subtitle: {subtitle}
 slug: matambre-relleno
-uuid: 9dcda932-1f09-4a7a-84b9-6fed4ff4a30a
+uuid: d6e82021-ceb9-4070-9d06-413e67bd97e4
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9dcda932-1f09-4a7a-84b9-6fed4ff4a30a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Aderezo de Soja
 subtitle: {subtitle}
 slug: aderezo-de-soja
-uuid: 86b067ed-a8c6-42ab-828f-ece66e18296d
+uuid: abe58406-125f-49e8-84b9-7a2059482745
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 86b067ed-a8c6-42ab-828f-ece66e18296d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

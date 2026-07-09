@@ -2,7 +2,7 @@
 title: Pizzas rellenas
 subtitle: {subtitle}
 slug: pizzas-rellenas
-uuid: bfdb43d4-bdbc-42ab-9d5e-874517521bbc
+uuid: 4d7e252e-6f35-4bcc-a000-3e9b8ed5a094
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bfdb43d4-bdbc-42ab-9d5e-874517521bbc
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

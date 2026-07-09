@@ -2,7 +2,7 @@
 title: Martini seco
 subtitle: {subtitle}
 slug: martini-seco
-uuid: 2d34dab2-ceec-4550-88f0-65960c72751b
+uuid: eba6377e-7e2e-4278-87e3-70f79b512777
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2d34dab2-ceec-4550-88f0-65960c72751b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

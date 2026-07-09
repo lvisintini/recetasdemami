@@ -2,7 +2,7 @@
 title: Salsa Brava
 subtitle: {subtitle}
 slug: salsa-brava
-uuid: effbd230-b666-4c59-882e-30d85c444aca
+uuid: a67a07de-af4c-4704-95e5-4a775e9a4730
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: effbd230-b666-4c59-882e-30d85c444aca
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

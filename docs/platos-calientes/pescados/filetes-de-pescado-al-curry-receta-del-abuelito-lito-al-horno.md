@@ -2,7 +2,7 @@
 title: Filetes de pescado al curry receta del abuelito lito al horno
 subtitle: {subtitle}
 slug: filetes-de-pescado-al-curry-receta-del-abuelito-lito-al-horno
-uuid: 3d1caa80-f488-4f3e-96f3-1260a7fba928
+uuid: 5587725d-721a-4624-b5cb-2725c12b4f1f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 3d1caa80-f488-4f3e-96f3-1260a7fba928
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

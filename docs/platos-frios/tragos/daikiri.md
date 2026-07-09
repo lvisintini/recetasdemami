@@ -2,7 +2,7 @@
 title: Daikiri
 subtitle: {subtitle}
 slug: daikiri
-uuid: 9f74e842-de32-4732-a52f-83ede5c6e4dd
+uuid: 16390685-ee6d-47c6-bfd4-6a02db22e1fe
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9f74e842-de32-4732-a52f-83ede5c6e4dd
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

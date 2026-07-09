@@ -2,7 +2,7 @@
 title: Torta de zanahorias
 subtitle: {subtitle}
 slug: torta-de-zanahorias
-uuid: e7cb91fa-8f13-43f3-9813-99a4243d92bd
+uuid: 74528ec1-42c8-4bf0-8d77-c83260e299de
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e7cb91fa-8f13-43f3-9813-99a4243d92bd
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

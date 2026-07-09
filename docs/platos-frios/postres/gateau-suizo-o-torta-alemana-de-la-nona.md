@@ -2,7 +2,7 @@
 title: Gateau suizo o torta alemana de la nona
 subtitle: {subtitle}
 slug: gateau-suizo-o-torta-alemana-de-la-nona
-uuid: d59a8071-f33e-4199-ae54-70d9dae016b5
+uuid: 570bb873-08bf-40c4-aa38-ee1a391b16fb
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d59a8071-f33e-4199-ae54-70d9dae016b5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

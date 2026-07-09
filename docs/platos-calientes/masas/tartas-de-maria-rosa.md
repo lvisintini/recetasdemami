@@ -2,7 +2,7 @@
 title: Tartas de maria rosa
 subtitle: {subtitle}
 slug: tartas-de-maria-rosa
-uuid: 8ae844cf-7473-427f-a4e8-618e35f9d17e
+uuid: 4cbc73e9-8542-4493-bdfe-2f3824c2c041
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8ae844cf-7473-427f-a4e8-618e35f9d17e
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

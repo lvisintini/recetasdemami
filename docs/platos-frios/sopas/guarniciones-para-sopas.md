@@ -2,7 +2,7 @@
 title: Guarniciones para sopas
 subtitle: {subtitle}
 slug: guarniciones-para-sopas
-uuid: 0ea40c9c-8b26-4190-a43a-aded317ef2c5
+uuid: f738a79d-5ad3-49ec-b8c4-d8222c41fa59
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0ea40c9c-8b26-4190-a43a-aded317ef2c5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

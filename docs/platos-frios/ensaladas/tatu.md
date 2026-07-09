@@ -2,7 +2,7 @@
 title: Tatu
 subtitle: {subtitle}
 slug: tatu
-uuid: e8e69cc1-fed5-48de-a4ed-b5958ff86c50
+uuid: 3779a1a2-19fe-476b-9299-b2eac7733b92
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e8e69cc1-fed5-48de-a4ed-b5958ff86c50
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

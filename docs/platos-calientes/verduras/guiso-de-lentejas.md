@@ -2,7 +2,7 @@
 title: Guiso de lentejas
 subtitle: {subtitle}
 slug: guiso-de-lentejas
-uuid: 8923003d-d413-4e5a-af05-c367a7b345d3
+uuid: d633f218-12c8-4a4f-8098-0ede85623bac
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8923003d-d413-4e5a-af05-c367a7b345d3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

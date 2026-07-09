@@ -2,7 +2,7 @@
 title: Salsa Maltesa
 subtitle: {subtitle}
 slug: salsa-maltesa
-uuid: d4b8a6ce-ac76-45c2-a99d-b7607a17a24d
+uuid: c6be4ad2-a404-44b5-bf70-6c57fb46ad10
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d4b8a6ce-ac76-45c2-a99d-b7607a17a24d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

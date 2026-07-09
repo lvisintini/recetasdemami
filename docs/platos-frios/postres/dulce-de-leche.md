@@ -2,7 +2,7 @@
 title: Dulce de leche
 subtitle: {subtitle}
 slug: dulce-de-leche
-uuid: ad5d56b4-03c1-4922-98eb-fcadad837920
+uuid: 84865d27-df98-422e-bd50-9206dc722614
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ad5d56b4-03c1-4922-98eb-fcadad837920
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

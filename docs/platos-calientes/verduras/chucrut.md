@@ -2,7 +2,7 @@
 title: Chucrut
 subtitle: {subtitle}
 slug: chucrut
-uuid: 189e0afc-f81c-4b59-a59f-9cb5b8c0874c
+uuid: 469cd6c7-4f70-48db-bb29-8f8058320eec
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 189e0afc-f81c-4b59-a59f-9cb5b8c0874c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

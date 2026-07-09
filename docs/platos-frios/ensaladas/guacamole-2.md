@@ -2,7 +2,7 @@
 title: Guacamole 2
 subtitle: {subtitle}
 slug: guacamole-2
-uuid: 6ff561f8-a377-4a32-a36d-e7bdf42a3ab4
+uuid: 9caf081e-8db7-49bb-96e1-602382e72c94
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6ff561f8-a377-4a32-a36d-e7bdf42a3ab4
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

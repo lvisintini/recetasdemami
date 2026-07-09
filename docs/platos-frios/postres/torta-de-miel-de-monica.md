@@ -2,7 +2,7 @@
 title: Torta de miel de Mónica
 subtitle: {subtitle}
 slug: torta-de-miel-de-monica
-uuid: c8476e2b-ee63-4f53-80ee-a89a62792e28
+uuid: 32207725-b126-497e-8175-412cec3633fb
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: c8476e2b-ee63-4f53-80ee-a89a62792e28
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Brócoli con anchoa
 subtitle: {subtitle}
 slug: brocoli-con-anchoa
-uuid: 6ab3fc03-c2b9-4176-a27b-0b962f9c631b
+uuid: 3c2ef743-a818-419b-8903-d7dfeb4f95c7
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6ab3fc03-c2b9-4176-a27b-0b962f9c631b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

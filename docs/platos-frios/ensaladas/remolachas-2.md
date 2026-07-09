@@ -2,7 +2,7 @@
 title: Remolachas 2
 subtitle: {subtitle}
 slug: remolachas-2
-uuid: 256b447b-e4c8-4912-b963-4fe2ea1873fc
+uuid: 8d130a5c-8fe0-484b-b63f-09f1df144b5b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 256b447b-e4c8-4912-b963-4fe2ea1873fc
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

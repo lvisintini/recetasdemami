@@ -2,7 +2,7 @@
 title: Pescado a la crema de Emilia
 subtitle: {subtitle}
 slug: pescado-a-la-crema-de-emilia
-uuid: 425f3f1c-4826-429c-9c9e-cee4965b574b
+uuid: 166a3783-ea62-4aec-92f0-000330733279
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 425f3f1c-4826-429c-9c9e-cee4965b574b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

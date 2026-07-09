@@ -2,7 +2,7 @@
 title: Salsas frias o para deepear
 subtitle: {subtitle}
 slug: salsas-frias-o-para-deepear
-uuid: d1124f59-2b5e-4ccf-8e9b-b3500468347d
+uuid: 3ac88fdf-8bac-4208-97fc-c0c62a309fa9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d1124f59-2b5e-4ccf-8e9b-b3500468347d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

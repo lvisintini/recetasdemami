@@ -2,7 +2,7 @@
 title: Salsa 356 para peceto
 subtitle: {subtitle}
 slug: salsa-356-para-peceto
-uuid: d49dbcdf-cff2-4653-9bf7-929dda83ddac
+uuid: 5967a377-31c8-4e6d-a8e7-05e465b6861b
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d49dbcdf-cff2-4653-9bf7-929dda83ddac
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

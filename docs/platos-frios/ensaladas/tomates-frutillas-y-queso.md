@@ -2,7 +2,7 @@
 title: Tomates frutillas y queso
 subtitle: {subtitle}
 slug: tomates-frutillas-y-queso
-uuid: 072eec67-ef37-496f-9a87-c06c2a2d1215
+uuid: c91bd069-57ce-42e5-a666-68a754817ad3
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 072eec67-ef37-496f-9a87-c06c2a2d1215
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

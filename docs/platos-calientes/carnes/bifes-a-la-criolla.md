@@ -2,7 +2,7 @@
 title: Bifes a la criolla
 subtitle: {subtitle}
 slug: bifes-a-la-criolla
-uuid: 1edab183-32dc-409d-9829-5b6dd517ed09
+uuid: 77d992d4-f1e7-4745-aabb-774d12ba8d80
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 1edab183-32dc-409d-9829-5b6dd517ed09
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

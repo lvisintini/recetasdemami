@@ -2,7 +2,7 @@
 title: Arroz con mejillones
 subtitle: {subtitle}
 slug: arroz-con-mejillones
-uuid: 87050392-5eb1-46c9-a6ac-eeb89f84f923
+uuid: 992cb9eb-c770-40d1-a9cd-d4586de1b9cc
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 87050392-5eb1-46c9-a6ac-eeb89f84f923
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

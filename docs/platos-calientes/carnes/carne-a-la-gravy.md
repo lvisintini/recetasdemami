@@ -2,7 +2,7 @@
 title: Carne a la gravy
 subtitle: {subtitle}
 slug: carne-a-la-gravy
-uuid: 812b6b70-6286-4612-89bb-0f52c65505fa
+uuid: bfaa8b39-8683-41b1-8403-14205c326888
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 812b6b70-6286-4612-89bb-0f52c65505fa
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

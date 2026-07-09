@@ -2,7 +2,7 @@
 title: Salsa de aceitunas de 356
 subtitle: {subtitle}
 slug: salsa-de-aceitunas-de-356
-uuid: 50d23f48-7433-44b9-b149-e80cb13a9e78
+uuid: c94f1767-783a-4c18-8e73-574c4323ec68
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 50d23f48-7433-44b9-b149-e80cb13a9e78
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

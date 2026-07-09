@@ -2,7 +2,7 @@
 title: Marquise al vino blanco
 subtitle: {subtitle}
 slug: marquise-al-vino-blanco
-uuid: 8e8163b7-5c9e-403d-b7d5-18a7d8dd2aac
+uuid: d69461be-0d0c-450a-a55c-43eeee95c52e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8e8163b7-5c9e-403d-b7d5-18a7d8dd2aac
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

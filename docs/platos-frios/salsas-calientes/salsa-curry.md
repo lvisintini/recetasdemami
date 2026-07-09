@@ -2,7 +2,7 @@
 title: Salsa curry
 subtitle: {subtitle}
 slug: salsa-curry
-uuid: 0252751e-ef5f-45ee-b9b1-e602b1f1bcda
+uuid: cb299c47-4f75-47c1-99ea-b6b865a0530f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0252751e-ef5f-45ee-b9b1-e602b1f1bcda
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Arroz blanco
 subtitle: {subtitle}
 slug: arroz-blanco
-uuid: 43a5a3aa-ccf2-4ba4-bfce-87ba98ff59d4
+uuid: c70b001c-7204-43c9-9bde-9f1a3e0121b3
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 43a5a3aa-ccf2-4ba4-bfce-87ba98ff59d4
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

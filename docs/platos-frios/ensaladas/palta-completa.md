@@ -2,7 +2,7 @@
 title: Palta completa
 subtitle: {subtitle}
 slug: palta-completa
-uuid: 5be7154a-c051-4349-9b44-93377bde0a3f
+uuid: 858b87e6-7b5e-4fe3-8b01-abc44b1e3534
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 5be7154a-c051-4349-9b44-93377bde0a3f
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

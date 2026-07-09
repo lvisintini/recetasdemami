@@ -2,7 +2,7 @@
 title: Crimbury
 subtitle: {subtitle}
 slug: crimbury
-uuid: b65308b2-229c-46e6-a240-ca4a6dff9740
+uuid: f6e2cb68-f786-4e7e-8401-2ecae6e2f65c
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: b65308b2-229c-46e6-a240-ca4a6dff9740
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

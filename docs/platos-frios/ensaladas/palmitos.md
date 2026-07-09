@@ -2,7 +2,7 @@
 title: Palmitos
 subtitle: {subtitle}
 slug: palmitos
-uuid: e3466c6d-ac79-46d5-b810-f98f6d607e12
+uuid: d2f22e25-5245-43ea-8c51-f29028cce5d5
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e3466c6d-ac79-46d5-b810-f98f6d607e12
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

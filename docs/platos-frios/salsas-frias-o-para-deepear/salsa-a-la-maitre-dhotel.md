@@ -2,7 +2,7 @@
 title: Salsa a la maitre d´hotel
 subtitle: {subtitle}
 slug: salsa-a-la-maitre-dhotel
-uuid: c0789ecc-69d1-4069-b33b-e2210a0500e3
+uuid: ebeac7f7-061d-4d39-a988-fd3e5272f382
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: c0789ecc-69d1-4069-b33b-e2210a0500e3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

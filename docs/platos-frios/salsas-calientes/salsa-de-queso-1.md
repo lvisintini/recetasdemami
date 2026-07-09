@@ -2,7 +2,7 @@
 title: Salsa de queso 1
 subtitle: {subtitle}
 slug: salsa-de-queso-1
-uuid: 9a82edf8-7ec3-413d-b5f6-08b62ff6d2d3
+uuid: ef96d102-7a8e-442c-916f-9a9f321dddb8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9a82edf8-7ec3-413d-b5f6-08b62ff6d2d3
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

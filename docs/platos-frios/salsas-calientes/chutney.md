@@ -2,7 +2,7 @@
 title: Chutney
 subtitle: {subtitle}
 slug: chutney
-uuid: f364af07-0be5-490a-b18d-7c416c4cfcdd
+uuid: 303c4e08-2610-4ac9-99f3-9311c4dcf6f2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f364af07-0be5-490a-b18d-7c416c4cfcdd
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

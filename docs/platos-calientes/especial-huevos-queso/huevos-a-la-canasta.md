@@ -2,7 +2,7 @@
 title: Huevos a la canasta
 subtitle: {subtitle}
 slug: huevos-a-la-canasta
-uuid: a5b7c185-c82e-4d3b-90ea-28f3a7eb23fe
+uuid: fe6ac7a4-b34d-442d-9927-98e517b01706
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a5b7c185-c82e-4d3b-90ea-28f3a7eb23fe
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

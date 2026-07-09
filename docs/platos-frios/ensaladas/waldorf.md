@@ -2,7 +2,7 @@
 title: Waldorf
 subtitle: {subtitle}
 slug: waldorf
-uuid: e1d61ed6-a5b3-4c4b-a407-0b6021754685
+uuid: 09400889-860a-4681-898e-ceb9130ca8e4
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e1d61ed6-a5b3-4c4b-a407-0b6021754685
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

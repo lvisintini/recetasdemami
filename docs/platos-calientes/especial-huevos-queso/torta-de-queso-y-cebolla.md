@@ -2,7 +2,7 @@
 title: Torta de queso y cebolla
 subtitle: {subtitle}
 slug: torta-de-queso-y-cebolla
-uuid: 9606b7f7-aae2-4f19-80b9-09c9d6c9fae1
+uuid: 588256b8-6516-4bf8-b53f-53263b7d24df
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 9606b7f7-aae2-4f19-80b9-09c9d6c9fae1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

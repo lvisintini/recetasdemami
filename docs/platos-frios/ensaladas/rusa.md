@@ -2,7 +2,7 @@
 title: Rusa
 subtitle: {subtitle}
 slug: rusa
-uuid: 30aeceb9-b733-4c40-9987-9a49220e2693
+uuid: 778f25f1-ea3b-4d63-be02-680c44aae6ac
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 30aeceb9-b733-4c40-9987-9a49220e2693
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

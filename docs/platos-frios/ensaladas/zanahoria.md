@@ -2,7 +2,7 @@
 title: Zanahoria
 subtitle: {subtitle}
 slug: zanahoria
-uuid: 05823310-97ed-4095-a85c-26de8416c0a1
+uuid: 39f33411-ae39-4890-83c0-c6c699af41a9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 05823310-97ed-4095-a85c-26de8416c0a1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

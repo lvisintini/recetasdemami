@@ -2,7 +2,7 @@
 title: Cebollas caramelizadas
 subtitle: {subtitle}
 slug: cebollas-caramelizadas
-uuid: 755638e7-7d71-4676-9d5e-f31426e62144
+uuid: 658baee9-3f32-4530-b905-0dce9375f835
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 755638e7-7d71-4676-9d5e-f31426e62144
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

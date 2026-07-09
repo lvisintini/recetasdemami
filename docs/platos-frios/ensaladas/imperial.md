@@ -2,7 +2,7 @@
 title: Imperial
 subtitle: {subtitle}
 slug: imperial
-uuid: 6aefa594-659a-4ded-af86-d83bf26a02a0
+uuid: df48c309-829f-4f63-adac-c2f320056f68
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 6aefa594-659a-4ded-af86-d83bf26a02a0
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Quiche lorraine de luigi
 subtitle: {subtitle}
 slug: quiche-lorraine-de-luigi
-uuid: 4cbfc41c-6517-477a-8cfa-0a57630a32af
+uuid: 1ffa9bfd-4a3a-465b-967e-27fba2564896
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 4cbfc41c-6517-477a-8cfa-0a57630a32af
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

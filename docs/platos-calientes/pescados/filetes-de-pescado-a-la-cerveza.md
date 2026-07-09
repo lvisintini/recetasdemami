@@ -2,7 +2,7 @@
 title: Filetes de pescado a la cerveza
 subtitle: {subtitle}
 slug: filetes-de-pescado-a-la-cerveza
-uuid: 62c463ea-ede4-4a73-941a-8fa32b88c209
+uuid: 6d504687-c16e-4de3-bea9-ae2d2e8761d0
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 62c463ea-ede4-4a73-941a-8fa32b88c209
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

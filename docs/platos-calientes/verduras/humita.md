@@ -2,7 +2,7 @@
 title: Humita
 subtitle: {subtitle}
 slug: humita
-uuid: e72df803-5495-49df-89e0-1a04855b2707
+uuid: 5dfe9759-9e83-4e1e-9217-cd7588d8c40c
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e72df803-5495-49df-89e0-1a04855b2707
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

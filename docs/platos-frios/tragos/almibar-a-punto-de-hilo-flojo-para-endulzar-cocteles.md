@@ -2,7 +2,7 @@
 title: Almíbar a punto de hilo flojo para endulzar cócteles
 subtitle: {subtitle}
 slug: almibar-a-punto-de-hilo-flojo-para-endulzar-cocteles
-uuid: b3c94556-90cd-4d1d-b157-20298e6626db
+uuid: 80ef6f1f-e28e-4de2-b596-62c7afc2e742
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: b3c94556-90cd-4d1d-b157-20298e6626db
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Canastitas redondas o cubitos con 4 picos
 subtitle: {subtitle}
 slug: canastitas-redondas-o-cubitos-con-4-picos
-uuid: 3f2f1f99-7cad-46f0-aee0-dc14e7c7e5d8
+uuid: 9d7eec45-8b9d-4458-9aef-022cb4577734
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 3f2f1f99-7cad-46f0-aee0-dc14e7c7e5d8
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

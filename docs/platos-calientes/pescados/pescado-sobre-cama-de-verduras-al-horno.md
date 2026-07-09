@@ -2,7 +2,7 @@
 title: Pescado sobre cama de verduras al horno
 subtitle: {subtitle}
 slug: pescado-sobre-cama-de-verduras-al-horno
-uuid: bd0741a4-83ed-41ff-89fe-6c3a701c31b1
+uuid: 814d29ac-e570-485c-bb68-f4aa5ce86504
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bd0741a4-83ed-41ff-89fe-6c3a701c31b1
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

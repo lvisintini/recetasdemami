@@ -2,7 +2,7 @@
 title: Arroz con pollo a la Multichef
 subtitle: {subtitle}
 slug: arroz-con-pollo-a-la-multichef
-uuid: 3ad8e6de-6448-480e-b392-d3b7563439fa
+uuid: a4099b1f-6bc4-4d5e-b4af-7fd2a895d9cf
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 3ad8e6de-6448-480e-b392-d3b7563439fa
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

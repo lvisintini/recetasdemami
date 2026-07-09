@@ -2,7 +2,7 @@
 title: Flan de peras y chocolate
 subtitle: {subtitle}
 slug: flan-de-peras-y-chocolate
-uuid: a8ccdcc4-f749-4926-b90d-f265f920aa67
+uuid: 3d433437-6882-4a86-9b53-db335a514fe9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a8ccdcc4-f749-4926-b90d-f265f920aa67
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

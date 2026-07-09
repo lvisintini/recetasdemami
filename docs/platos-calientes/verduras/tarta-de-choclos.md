@@ -2,7 +2,7 @@
 title: Tarta de choclos
 subtitle: {subtitle}
 slug: tarta-de-choclos
-uuid: ef72c75a-8e38-438c-a9b4-69f0aa811b02
+uuid: 48030f08-6a9f-4f0b-9c6c-c16fc41227fe
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ef72c75a-8e38-438c-a9b4-69f0aa811b02
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

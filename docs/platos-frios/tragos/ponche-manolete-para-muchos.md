@@ -2,7 +2,7 @@
 title: Ponche Manolete para muchos
 subtitle: {subtitle}
 slug: ponche-manolete-para-muchos
-uuid: 2d93c70b-28b0-4ea5-b25d-909903aa8749
+uuid: 3771eb2d-743e-4a65-ab41-36b52a5593e2
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2d93c70b-28b0-4ea5-b25d-909903aa8749
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

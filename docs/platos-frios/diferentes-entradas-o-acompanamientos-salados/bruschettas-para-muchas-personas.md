@@ -2,7 +2,7 @@
 title: Bruschettas para muchas personas
 subtitle: {subtitle}
 slug: bruschettas-para-muchas-personas
-uuid: 34044385-79cf-4c43-8f58-7ceaebd46a79
+uuid: 5882aa74-3d23-4759-b80a-0c30329c61ea
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 34044385-79cf-4c43-8f58-7ceaebd46a79
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

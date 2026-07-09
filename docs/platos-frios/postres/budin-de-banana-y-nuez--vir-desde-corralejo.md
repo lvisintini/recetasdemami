@@ -2,7 +2,7 @@
 title: Budín de banana y nuez  Vir desde corralejo
 subtitle: {subtitle}
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
-uuid: 203365f5-484a-4ef4-81b9-20435a9b636a
+uuid: 6cbf6a7b-9ea3-4923-a8e2-4062e304a0cd
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 203365f5-484a-4ef4-81b9-20435a9b636a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

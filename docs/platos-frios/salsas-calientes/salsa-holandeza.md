@@ -2,7 +2,7 @@
 title: Salsa holandeza
 subtitle: {subtitle}
 slug: salsa-holandeza
-uuid: 0281ef30-55f8-41d6-8027-838f2612e999
+uuid: 75472dda-5193-43b0-9812-799321c5d302
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0281ef30-55f8-41d6-8027-838f2612e999
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

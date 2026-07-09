@@ -2,7 +2,7 @@
 title: Masa medio hojaldre blancaflor
 subtitle: {subtitle}
 slug: masa-medio-hojaldre-blancaflor
-uuid: 2caa999b-3215-4f62-b9fe-7718b35c3d8b
+uuid: 6dae33b0-7811-4402-b718-cdc38a01a4b6
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 2caa999b-3215-4f62-b9fe-7718b35c3d8b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

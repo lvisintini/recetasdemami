@@ -2,7 +2,7 @@
 title: Coliflor o brocoli a la sarten
 subtitle: {subtitle}
 slug: coliflor-o-brocoli-a-la-sarten
-uuid: e7bee309-df97-435b-917c-b1cac4738192
+uuid: 36f28128-8825-4ec0-9bd0-ab7219559b66
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: e7bee309-df97-435b-917c-b1cac4738192
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

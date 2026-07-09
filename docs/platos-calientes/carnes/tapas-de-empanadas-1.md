@@ -2,7 +2,7 @@
 title: Tapas de empanadas 1
 subtitle: {subtitle}
 slug: tapas-de-empanadas-1
-uuid: cddf633c-7ed4-4311-bc28-2aa9c6ca9d2b
+uuid: a9dbae6a-a1e1-43e9-a660-71d66bd6d3da
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: cddf633c-7ed4-4311-bc28-2aa9c6ca9d2b
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

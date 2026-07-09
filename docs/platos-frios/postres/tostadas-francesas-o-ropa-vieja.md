@@ -2,7 +2,7 @@
 title: Tostadas francesas o ropa vieja
 subtitle: {subtitle}
 slug: tostadas-francesas-o-ropa-vieja
-uuid: ddb391b9-a7d5-4582-814c-16d3247374ba
+uuid: 0913cdd0-e20e-409f-b329-13269c15cc0f
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ddb391b9-a7d5-4582-814c-16d3247374ba
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Torta de coco
 subtitle: {subtitle}
 slug: torta-de-coco
-uuid: de165c78-c130-4f7b-96a9-b119f3ad4528
+uuid: 7ec09239-ed41-45d1-88d6-c688319a71f7
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: de165c78-c130-4f7b-96a9-b119f3ad4528
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

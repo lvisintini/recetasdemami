@@ -2,7 +2,7 @@
 title: Guiso de verduras y cerdo a la oriental
 subtitle: {subtitle}
 slug: guiso-de-verduras-y-cerdo-a-la-oriental
-uuid: eb777257-7755-4e68-8dd2-c32781e2ad8a
+uuid: 10a75c94-2dd9-49b6-998e-34af04cd5a75
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: eb777257-7755-4e68-8dd2-c32781e2ad8a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

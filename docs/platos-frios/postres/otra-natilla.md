@@ -2,7 +2,7 @@
 title: Otra natilla
 subtitle: {subtitle}
 slug: otra-natilla
-uuid: f3776da0-b472-4dec-9c29-4644f03ea7d5
+uuid: e77b1b08-756f-4c71-af05-d98637f25428
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f3776da0-b472-4dec-9c29-4644f03ea7d5
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

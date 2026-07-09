@@ -2,7 +2,7 @@
 title: Hueso perdido
 subtitle: {subtitle}
 slug: hueso-perdido
-uuid: 5ea5fda0-3d98-4cfc-b579-e4fe7508830a
+uuid: e9c5f13a-9dbb-429c-a95d-50fa00260593
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 5ea5fda0-3d98-4cfc-b579-e4fe7508830a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

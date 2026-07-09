@@ -2,7 +2,7 @@
 title: Torta de naranjas o mandarinas Maria Eugenia
 subtitle: {subtitle}
 slug: torta-de-naranjas-o-mandarinas-maria-eugenia
-uuid: 576e9ce9-fa63-4ecc-a878-8b2f427df94d
+uuid: 1c2748fd-89ef-4e61-bd59-00c6e051baca
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 576e9ce9-fa63-4ecc-a878-8b2f427df94d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

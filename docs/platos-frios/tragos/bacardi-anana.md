@@ -2,7 +2,7 @@
 title: Bacardi ananá
 subtitle: {subtitle}
 slug: bacardi-anana
-uuid: ae96a3fe-0333-4635-bd35-769cda7d628d
+uuid: 4ee14521-a4a0-4d8b-8a12-29918e4904c8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: ae96a3fe-0333-4635-bd35-769cda7d628d
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

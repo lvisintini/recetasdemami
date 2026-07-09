@@ -2,7 +2,7 @@
 title: Brócoli con pasta
 subtitle: {subtitle}
 slug: brocoli-con-pasta
-uuid: 8e58e662-8257-441f-ba3c-2500ed5db550
+uuid: 9a94442e-3ed7-4be3-95ac-c7e48d227af5
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 8e58e662-8257-441f-ba3c-2500ed5db550
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

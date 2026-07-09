@@ -2,7 +2,7 @@
 title: Batata
 subtitle: {subtitle}
 slug: batata
-uuid: f682c848-0eff-40c7-9805-5155102dae68
+uuid: 2a82a2c3-ef77-4c72-af26-0bb0a2debbb9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f682c848-0eff-40c7-9805-5155102dae68
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

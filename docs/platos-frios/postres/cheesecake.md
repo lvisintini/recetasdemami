@@ -2,7 +2,7 @@
 title: Cheesecake
 subtitle: {subtitle}
 slug: cheesecake
-uuid: dc9f35dc-9c0e-4579-aee6-c307cd4d4d12
+uuid: d83618bb-5062-4ea1-8453-32db3a03d1be
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: dc9f35dc-9c0e-4579-aee6-c307cd4d4d12
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

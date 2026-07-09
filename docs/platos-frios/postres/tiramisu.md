@@ -2,7 +2,7 @@
 title: Tiramisu
 subtitle: {subtitle}
 slug: tiramisu
-uuid: a8242bbd-f822-431c-bab3-d8b866d45f00
+uuid: 4835c4e1-28e4-4d08-9b89-8a3e2c2cc1e7
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: a8242bbd-f822-431c-bab3-d8b866d45f00
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

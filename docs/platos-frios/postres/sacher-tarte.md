@@ -2,7 +2,7 @@
 title: Sacher tarte
 subtitle: {subtitle}
 slug: sacher-tarte
-uuid: 640060fa-451d-4d75-adb7-15922095d40a
+uuid: aaf0bc46-2c41-483f-a50f-d56bcfe36ec9
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 640060fa-451d-4d75-adb7-15922095d40a
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

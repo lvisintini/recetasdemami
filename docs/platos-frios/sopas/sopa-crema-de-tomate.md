@@ -2,7 +2,7 @@
 title: Sopa crema de tomate
 subtitle: {subtitle}
 slug: sopa-crema-de-tomate
-uuid: 40964dd3-3908-414d-8140-e3c22908a885
+uuid: 1c1f0993-5090-498c-b36a-cb583437a6e7
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 40964dd3-3908-414d-8140-e3c22908a885
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

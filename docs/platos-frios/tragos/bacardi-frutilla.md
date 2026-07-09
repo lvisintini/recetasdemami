@@ -2,7 +2,7 @@
 title: Bacardi frutilla
 subtitle: {subtitle}
 slug: bacardi-frutilla
-uuid: 57b523f9-ca73-46c0-b15c-26a059dc1e91
+uuid: cf71733d-b294-40bb-89f9-2f0d3e655e85
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 57b523f9-ca73-46c0-b15c-26a059dc1e91
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

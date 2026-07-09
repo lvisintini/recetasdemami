@@ -2,7 +2,7 @@
 title: Pure de manzanas
 subtitle: {subtitle}
 slug: pure-de-manzanas
-uuid: 363525dc-e975-4eb2-b832-6c4f1fa07281
+uuid: 67316766-9075-4359-bf09-018beb18eeca
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 363525dc-e975-4eb2-b832-6c4f1fa07281
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

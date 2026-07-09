@@ -2,7 +2,7 @@
 title: Pollo
 subtitle: {subtitle}
 slug: pollo
-uuid: f0af59ee-adb7-4cfa-abb6-74b11088d918
+uuid: 9da3fd25-d7f9-460c-8f11-53592ef51dd8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: f0af59ee-adb7-4cfa-abb6-74b11088d918
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

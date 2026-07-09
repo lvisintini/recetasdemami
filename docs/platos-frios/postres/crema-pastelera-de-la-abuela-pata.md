@@ -2,7 +2,7 @@
 title: Crema pastelera de la abuela Pata
 subtitle: {subtitle}
 slug: crema-pastelera-de-la-abuela-pata
-uuid: 49b372d2-2e16-4488-af41-dd201eed5eda
+uuid: 9c2bc3e9-6de0-4ad6-8372-72dfbdbc0a3e
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 49b372d2-2e16-4488-af41-dd201eed5eda
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

@@ -2,7 +2,7 @@
 title: Arroz a la oriental
 subtitle: {subtitle}
 slug: arroz-a-la-oriental
-uuid: d77f1c48-4a98-4506-88d3-d621d3815561
+uuid: 3a41a9a8-e610-49ee-8530-c5e4ba0f23a4
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d77f1c48-4a98-4506-88d3-d621d3815561
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

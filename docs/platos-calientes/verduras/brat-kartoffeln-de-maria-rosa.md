@@ -2,7 +2,7 @@
 title: Brat kartoffeln de Maria Rosa
 subtitle: {subtitle}
 slug: brat-kartoffeln-de-maria-rosa
-uuid: 0e776d1d-7237-4cb8-ae8a-6b77666e0830
+uuid: 6de4c475-6a45-4c23-90f4-65cf84a9feb8
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: 0e776d1d-7237-4cb8-ae8a-6b77666e0830
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

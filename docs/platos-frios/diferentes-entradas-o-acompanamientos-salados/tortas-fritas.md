@@ -2,7 +2,7 @@
 title: Tortas fritas
 subtitle: {subtitle}
 slug: tortas-fritas
-uuid: bc4b7e68-f878-4594-97e6-61fc87ec6570
+uuid: b49ea16d-f05b-426d-bd26-8258a05990e0
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: bc4b7e68-f878-4594-97e6-61fc87ec6570
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 

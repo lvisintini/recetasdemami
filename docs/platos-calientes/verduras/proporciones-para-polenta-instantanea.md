@@ -2,7 +2,7 @@
 title: Proporciones para polenta instantánea
 subtitle: {subtitle}
 slug: proporciones-para-polenta-instantanea
-uuid: d1e01dd0-40e2-40e7-81f1-dfb7cd80f11c
+uuid: be8ccc80-adb1-4356-af6a-bf6ffa029a8d
 ---
 {nav}
 
@@ -12,7 +12,7 @@ uuid: d1e01dd0-40e2-40e7-81f1-dfb7cd80f11c
 - **Tiempo de Preparación Estimado:**
 - **Tiempo de Cocción Estimado:**
 - **Raciones:**
-- **Dificultad**
+- **Dificultad:**
 
 ## Ingredientes
 
