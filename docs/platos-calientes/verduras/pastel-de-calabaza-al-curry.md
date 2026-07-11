@@ -1,7 +1,8 @@
 ---
 slug: pastel-de-calabaza-al-curry
-uuid: 670fe684-832f-493b-a882-fb8cd004419f
+uuid: b935d5a4-8796-4d73-93a2-770e0991d97a
 ---
+
 {nav}
 
 ## Pastel de calabaza al curry (muy rico)
@@ -46,3 +47,5 @@ Puede decorarse con hojas de albahaca fresca.
 
 ### Variantes
 
+
+<TODO>

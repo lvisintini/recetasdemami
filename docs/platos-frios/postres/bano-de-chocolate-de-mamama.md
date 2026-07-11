@@ -1,7 +1,8 @@
 ---
 slug: bano-de-chocolate-de-mamama
-uuid: e7ec8152-b143-4ce7-b78a-96bb44a86a31
+uuid: d3816b50-e685-4db2-9553-453a5c8d34ca
 ---
+
 {nav}
 
 ## Baño de chocolate de mamama
@@ -31,3 +32,5 @@ Mezclar, darle un hervor y bañar la torta.
 
 ### Variantes
 
+
+<TODO>

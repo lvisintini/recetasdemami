@@ -1,7 +1,8 @@
 ---
 slug: mollejas-y-hongos
-uuid: 7e1cf548-ad14-4e05-854a-f4b3c7558d87
+uuid: d7a77141-f5a8-49a9-92cb-1276459d46fb
 ---
+
 {nav}
 
 ## Mollejas y hongos
@@ -33,3 +34,5 @@ Mollejas y hongos doraditos a la parrilla con rúcula, aceite oliva, vinagre y s
 
 ### Variantes
 
+
+<TODO>

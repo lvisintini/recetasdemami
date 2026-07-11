@@ -1,7 +1,8 @@
 ---
 slug: brocoli-con-pasta
-uuid: fda8d28a-cf7a-4323-8c80-2b2c42f761f4
+uuid: 606d9136-7a15-4feb-93cf-f871d164ba77
 ---
+
 {nav}
 
 ## Brócoli con pasta
@@ -28,3 +29,5 @@ Puede agregarse atún.
 
 ### Variantes
 
+
+<TODO>

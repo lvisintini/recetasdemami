@@ -1,7 +1,8 @@
 ---
 slug: masa-tarta-veer-con-semillas
-uuid: af194d4a-b765-4d07-b6fc-f8e062ba4250
+uuid: 2b15a9b3-75fd-48d0-9f7b-92733e58d3aa
 ---
+
 {nav}
 
 ## Masa tarta Veer. Con semillas
@@ -28,3 +29,5 @@ Mezclar harina, sal y semillas, agregar el aceite, unir lo que resta con la lech
 
 ### Variantes
 
+
+<TODO>

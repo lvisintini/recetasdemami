@@ -1,11 +1,9 @@
 ---
 slug: huevos-y-quesos
-uuid: 37733fa9-d986-439b-ba18-cb7a3cff6135
+uuid: 22d5163f-3f6c-4a71-b922-ee6b494c4871
 ---
 {nav}
 
 ## Huevos y quesos
-
-
 
 {toc}

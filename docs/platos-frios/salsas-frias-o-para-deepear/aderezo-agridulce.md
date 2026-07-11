@@ -1,7 +1,8 @@
 ---
 slug: aderezo-agridulce
-uuid: 3ffb4735-cb59-4305-bab7-d0a66db2d836
+uuid: 75857dd7-7295-47a4-ab5b-b26628806739
 ---
+
 {nav}
 
 ## Aderezo Agridulce
@@ -34,3 +35,5 @@ Para la ensalada de papas hervidas.
 
 ### Variantes
 
+
+<TODO>

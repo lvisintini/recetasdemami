@@ -1,7 +1,8 @@
 ---
 slug: masitas-de-los-chicos
-uuid: 5eba4772-36b3-425b-aecb-a35c2cd9c339
+uuid: 22cbbb40-5dfb-450d-9b12-0678f45c8c5d
 ---
+
 {nav}
 
 ## Masitas de los chicos
@@ -61,3 +62,5 @@ Salen 83 masitas de 5 cm de diametro.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: imperial
-uuid: 76a5253c-5215-4f82-a2f2-5c0e8aaa4bae
+uuid: e2ae1099-85e8-4a6a-bb51-c084ac05b295
 ---
+
 {nav}
 
 ## Imperial
@@ -26,3 +27,5 @@ Cubos de queso, apio, cubos de manzana verde, pimiento rojo y verde, cebolla, cu
 
 ### Variantes
 
+
+<TODO>

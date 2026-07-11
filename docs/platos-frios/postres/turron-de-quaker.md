@@ -1,7 +1,8 @@
 ---
 slug: turron-de-quaker
-uuid: 414d318a-40da-43ab-90eb-2f95e5ca9651
+uuid: f20d1966-1ac1-43f9-81b4-d28b0e725984
 ---
+
 {nav}
 
 ## Turron de quaker
@@ -35,3 +36,5 @@ Poner en una fuente, una capa de la crema y una capa de galletitas criollitas
 
 ### Variantes
 
+
+<TODO>

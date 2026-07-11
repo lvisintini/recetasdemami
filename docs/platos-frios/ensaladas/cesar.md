@@ -1,7 +1,8 @@
 ---
 slug: cesar
-uuid: d918335f-a231-428a-affe-3f7175514f12
+uuid: 722642a5-f2e1-471f-947b-2aeaa947c31a
 ---
+
 {nav}
 
 ## Cesar
@@ -30,3 +31,5 @@ La salsa tendría que ser César, o puede ser mayonesa con anchoa picada.
 
 ### Variantes
 
+
+<TODO>

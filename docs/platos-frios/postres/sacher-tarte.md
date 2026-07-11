@@ -1,7 +1,8 @@
 ---
 slug: sacher-tarte
-uuid: 8762c8e3-dcce-45ff-9fd5-24405ec8aa85
+uuid: 520dc2f8-590f-4778-bbbb-eb00b6e66bc0
 ---
+
 {nav}
 
 ## Sacher tarte (torta de chocolate)
@@ -42,3 +43,5 @@ Bañar con el Baño de chocolate de Mamama
 
 ### Variantes
 
+
+<TODO>

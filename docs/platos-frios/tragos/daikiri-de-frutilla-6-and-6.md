@@ -1,7 +1,8 @@
 ---
 slug: daikiri-de-frutilla-6-and-6
-uuid: b7b51f17-92f1-4b3c-a6e2-fd987ffbab5d
+uuid: 82b948a4-ebd8-49db-b66a-b651fa2a8872
 ---
+
 {nav}
 
 ## Daikiri de frutilla 6 and 6
@@ -30,3 +31,5 @@ uuid: b7b51f17-92f1-4b3c-a6e2-fd987ffbab5d
 
 ### Variantes
 
+
+<TODO>

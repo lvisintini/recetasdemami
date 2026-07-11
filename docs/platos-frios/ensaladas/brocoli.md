@@ -1,7 +1,8 @@
 ---
 slug: brocoli
-uuid: 4431f561-6e88-4506-9016-9615321402fa
+uuid: 5882cce0-1d13-43f7-8e7b-a344e9b6c404
 ---
+
 {nav}
 
 ## Brócoli
@@ -26,3 +27,5 @@ Brócoli, apio, choclo, jugo de limón, aceite de oliva, sal, pimienta. Compleme
 
 ### Variantes
 
+
+<TODO>

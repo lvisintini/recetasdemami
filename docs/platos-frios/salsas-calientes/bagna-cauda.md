@@ -1,7 +1,8 @@
 ---
 slug: bagna-cauda
-uuid: b10caddd-0d37-449e-8f27-eed3286dc72c
+uuid: f5f58b95-3e94-4844-aeb9-6ee9eb198c13
 ---
+
 {nav}
 
 ## Bagna cauda
@@ -42,3 +43,5 @@ Dicen que la original, lleva aceite de oliva en vez de crema.
 
 ### Variantes
 
+
+<TODO>

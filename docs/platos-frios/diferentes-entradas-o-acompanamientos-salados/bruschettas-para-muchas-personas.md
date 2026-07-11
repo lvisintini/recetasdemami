@@ -1,7 +1,8 @@
 ---
 slug: bruschettas-para-muchas-personas
-uuid: 04a0a804-3808-4c29-a126-77b60459eba5
+uuid: 331bcfba-afe1-4e93-bdbf-5a319e4f4f9d
 ---
+
 {nav}
 
 ## Bruschettas para muchas personas.
@@ -34,3 +35,5 @@ Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
 ### Variantes
 
+
+<TODO>

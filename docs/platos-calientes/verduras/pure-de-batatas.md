@@ -1,7 +1,8 @@
 ---
 slug: pure-de-batatas
-uuid: ee296a9e-04fe-4022-9427-658abe263216
+uuid: d0503052-735a-40be-91e5-e9498b07adc4
 ---
+
 {nav}
 
 ## Pure de batatas
@@ -26,3 +27,5 @@ Hacer un puré con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azúcar y 1
 
 ### Variantes
 
+
+<TODO>

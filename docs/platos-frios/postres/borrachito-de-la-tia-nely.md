@@ -1,7 +1,8 @@
 ---
 slug: borrachito-de-la-tia-nely
-uuid: 7bcd15b0-0921-4e63-b26e-22689dfb65e9
+uuid: 6acde6d0-6f55-465d-85db-119c00fd9fc9
 ---
+
 {nav}
 
 ## Borrachito de la Tía Nely
@@ -29,3 +30,5 @@ Ir alternando, una capa de vainillas, una capa de la mezcla, una capa de vainill
 
 ### Variantes
 
+
+<TODO>

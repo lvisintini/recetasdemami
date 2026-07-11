@@ -1,7 +1,8 @@
 ---
 slug: sopa-crema-de-calabaza
-uuid: 6090df3c-1c0a-4afa-90e5-3712c8e1db5c
+uuid: e0b3b65f-d592-4c75-872d-b729568f0d02
 ---
+
 {nav}
 
 ## Sopa crema de calabaza
@@ -41,3 +42,5 @@ Servir decorado con perejil picado y semillas de calabaza tostadas.
 
 ### Variantes
 
+
+<TODO>

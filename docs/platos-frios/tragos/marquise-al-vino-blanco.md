@@ -1,7 +1,8 @@
 ---
 slug: marquise-al-vino-blanco
-uuid: 1239b948-8772-4fa7-974b-12ea46204ee0
+uuid: 6896c397-be35-44ff-80dd-8fc5fbb995ca
 ---
+
 {nav}
 
 ## Marquise al vino blanco
@@ -32,3 +33,5 @@ Poner en la heladera y servirlo con soda fría.
 
 ### Variantes
 
+
+<TODO>

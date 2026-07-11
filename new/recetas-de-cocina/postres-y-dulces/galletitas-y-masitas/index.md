@@ -1,11 +1,9 @@
 ---
 slug: galletitas-y-masitas
-uuid: bb9a9b25-ea2e-4930-9ca3-57c0f5b7dceb
+uuid: 9d37f655-cafd-4b70-8bbc-1d2b6cbc599e
 ---
 {nav}
 
 ## Galletitas y masitas
-
-
 
 {toc}

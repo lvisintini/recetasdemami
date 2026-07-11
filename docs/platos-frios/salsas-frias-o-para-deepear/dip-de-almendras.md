@@ -1,7 +1,8 @@
 ---
 slug: dip-de-almendras
-uuid: 3cb4972c-767e-412f-b14d-bf9f4e35ee33
+uuid: 7de9e5b8-f199-494c-8def-f4c0969a20a6
 ---
+
 {nav}
 
 ## Dip de almendras
@@ -31,3 +32,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: torta-haragana-de-manzanas
-uuid: 615b1e3b-c5e0-4777-ab4a-694e3ba129ea
+uuid: 0353a465-8770-45c9-9e8f-0f17beea14cd
 ---
+
 {nav}
 
 ## Torta haragana de manzanas
@@ -49,3 +50,5 @@ Debe cocinarse lentamente.
 
 ### Variantes
 
+
+<TODO>

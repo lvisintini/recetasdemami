@@ -1,7 +1,8 @@
 ---
 slug: guiso-de-lentejas
-uuid: 43da9cf6-2dee-41f6-9b54-acde21842383
+uuid: 1438b254-b3fd-4db8-945b-a33b7ad8d88c
 ---
+
 {nav}
 
 ## Guiso de lentejas
@@ -32,3 +33,5 @@ Si se cocina en olla a presión, el caldo debe cubrir las lentejas y se cocina p
 
 ### Variantes
 
+
+<TODO>

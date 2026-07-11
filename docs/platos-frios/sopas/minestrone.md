@@ -1,7 +1,8 @@
 ---
 slug: minestrone
-uuid: 216e4963-bbe6-4695-b313-81dbe44f2372
+uuid: ca1d7e55-4cc6-4e0d-8f81-bf6ddfcec950
 ---
+
 {nav}
 
 ## Minestrone
@@ -48,3 +49,5 @@ Por último colocar aceite de oliva, crutones y queso rallado.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: omelette
-uuid: cbe1c93d-b02c-40d8-82d7-55f155324171
+uuid: 7e8714cf-d734-43af-a3bf-409885026be9
 ---
+
 {nav}
 
 ## Omelette
@@ -31,3 +32,5 @@ A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimient
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: cielo-y-tierra-del-repollo-dorado
-uuid: 219fdf1c-56c9-465d-be3a-4e7ac6d40449
+uuid: 65f48587-362b-4713-a840-7f5b727dd007
 ---
+
 {nav}
 
 ## Cielo y tierra, del “repollo dorado”
@@ -26,3 +27,5 @@ Puré de papa, cebolla caramelizada, morcilla y puré de manzana. como no tenía
 
 ### Variantes
 
+
+<TODO>

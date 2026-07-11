@@ -1,7 +1,8 @@
 ---
 slug: chucrut
-uuid: bf642e14-51e2-48d5-a19b-6ead0cef2054
+uuid: 48a8c62b-cb55-4a2a-a07b-caf16b8522c6
 ---
+
 {nav}
 
 ## Chucrut
@@ -28,3 +29,5 @@ Completar con salchichas alemanas y papas hervidas, también puede ser con carne
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: panqueques-americanos
-uuid: 95065a59-fe4e-4574-81af-618bd3ca01ed
+uuid: 21277178-108d-49cf-bc6f-e76ab50071ca
 ---
+
 {nav}
 
 ## Panqueques americanos (gruesos)
@@ -33,3 +34,5 @@ uuid: 95065a59-fe4e-4574-81af-618bd3ca01ed
 
 ### Variantes
 
+
+<TODO>

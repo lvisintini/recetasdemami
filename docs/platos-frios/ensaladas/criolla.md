@@ -1,7 +1,8 @@
 ---
 slug: criolla
-uuid: cc2e5d83-33f2-4062-bbcc-568e1f9f93b9
+uuid: 9cf6dcc0-a47f-429f-a994-80e2b035dfbb
 ---
+
 {nav}
 
 ## Criolla
@@ -26,3 +27,5 @@ Tomates, pimientos, cebollas, ajo, perejil, sal, aceite, vinagre.
 
 ### Variantes
 
+
+<TODO>

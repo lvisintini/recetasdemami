@@ -1,7 +1,8 @@
 ---
 slug: bifes-a-la-criolla
-uuid: b6b64b83-b9e9-4524-b3ca-bff5c4273cc6
+uuid: c80130b8-aac0-497b-97ea-aaa3f8354511
 ---
+
 {nav}
 
 ## Bifes a la criolla
@@ -36,3 +37,5 @@ Tengo entendido que se puede cocinar también en el horno durante
 
 ### Variantes
 
+
+<TODO>

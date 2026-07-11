@@ -1,7 +1,8 @@
 ---
 slug: filetes-de-pescado-al-curry-receta-del-abuelito-lito-al-horno
-uuid: 7d83d8a7-28de-492d-878d-da418bbf65bb
+uuid: da57c9c7-b382-4c0c-86a6-7a45fc3348c9
 ---
+
 {nav}
 
 ## Filetes de pescado al curry receta del abuelito lito al horno
@@ -26,3 +27,5 @@ Sazonar los filetes de pescado con sal, pimienta, colocarlos en una asadera enma
 
 ### Variantes
 
+
+<TODO>

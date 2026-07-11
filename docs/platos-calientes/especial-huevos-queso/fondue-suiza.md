@@ -1,7 +1,8 @@
 ---
 slug: fondue-suiza
-uuid: ee0ed4cf-5f60-482d-8faf-5472a4b37445
+uuid: 66c5c6f4-b5d2-4c90-bbcc-be755076e144
 ---
+
 {nav}
 
 ## Fondue suiza
@@ -28,3 +29,5 @@ Frotar el interior de un recipiente de barro con un diente de ajo, cortar los qu
 
 ### Variantes
 
+
+<TODO>

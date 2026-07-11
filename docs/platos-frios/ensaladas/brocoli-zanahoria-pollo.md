@@ -1,7 +1,8 @@
 ---
 slug: brocoli-zanahoria-pollo
-uuid: b86c50ab-164f-439c-be60-71d96387f283
+uuid: 982a368e-1c8a-4026-b622-216a30955333
 ---
+
 {nav}
 
 ## Brócoli, zanahoria, pollo.
@@ -29,3 +30,5 @@ Aderezar con 1 cucharada de aceite de oliva, pizca de sal y 3 cucharadas de sals
 
 ### Variantes
 
+
+<TODO>

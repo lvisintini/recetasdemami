@@ -1,7 +1,8 @@
 ---
 slug: pollo-al-puerro
-uuid: 4407e2db-5258-40cc-9420-3c16b599b5c6
+uuid: e6de19f1-04b7-4857-9e61-a841a3a793b5
 ---
+
 {nav}
 
 ## Pollo al puerro
@@ -27,3 +28,5 @@ Puede agregarse ½ vaso de vino blanco.
 
 ### Variantes
 
+
+<TODO>

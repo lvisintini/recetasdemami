@@ -1,7 +1,8 @@
 ---
 slug: tarteletas-saladas
-uuid: 5394b05d-245a-4f69-bce6-7e79cc681e44
+uuid: 5164e1fd-06a0-4948-835c-0d64073340d5
 ---
+
 {nav}
 
 ## Tarteletas saladas
@@ -39,3 +40,5 @@ Usar cualquiera de los rellenos salados
 
 ### Variantes
 
+
+<TODO>

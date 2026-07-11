@@ -1,7 +1,8 @@
 ---
 slug: bacardi-cola
-uuid: fad8f7a8-ba68-4000-b953-18269d523da5
+uuid: 07f4a5f7-d936-4c40-a151-646227470ea4
 ---
+
 {nav}
 
 ## Bacardi cola
@@ -31,3 +32,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

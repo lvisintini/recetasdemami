@@ -1,7 +1,8 @@
 ---
 slug: bondiola-de-cerdo-a-la-cerveza
-uuid: cac2ad73-94c0-4516-8f4b-73c23a61080f
+uuid: a338b71d-ae76-4a26-8ff1-23ac897e26f1
 ---
+
 {nav}
 
 ## Bondiola de cerdo a la cerveza
@@ -30,3 +31,5 @@ Esta es la receta de casancrem, por lo que también lleva 150 gr de casancrem qu
 
 ### Variantes
 
+
+<TODO>

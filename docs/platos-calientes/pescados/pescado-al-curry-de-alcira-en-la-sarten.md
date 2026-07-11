@@ -1,7 +1,8 @@
 ---
 slug: pescado-al-curry-de-alcira-en-la-sarten
-uuid: 6dca8ddf-459e-42b5-b294-0fa59102e50b
+uuid: a06e4f27-8319-4bda-a433-3846fccf16e9
 ---
+
 {nav}
 
 ## Pescado al curry de alcira en la sartén
@@ -26,3 +27,5 @@ Freír cebolla hasta que esté transparente, esparcir el curry y cuando ha sido 
 
 ### Variantes
 
+
+<TODO>

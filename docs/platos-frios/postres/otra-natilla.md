@@ -1,7 +1,8 @@
 ---
 slug: otra-natilla
-uuid: 3e6d945e-ef5a-4630-adff-494d41a2e68c
+uuid: e9aa6d61-f75b-477e-b634-b55d10ae3891
 ---
+
 {nav}
 
 ## Otra natilla
@@ -32,3 +33,5 @@ Cocinar, no debe hervir.
 
 ### Variantes
 
+
+<TODO>

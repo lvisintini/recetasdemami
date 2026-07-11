@@ -1,7 +1,8 @@
 ---
 slug: coliflor-o-brocoli-a-la-sarten
-uuid: 0615223d-fffd-45c5-9fe7-6625166c007d
+uuid: ea75a02c-1cfb-4982-85af-be84ad6bb725
 ---
+
 {nav}
 
 ## Coliflor o brocoli a la sarten
@@ -28,3 +29,5 @@ Esparcir sobre ellos la salsa al ajo u otra.
 
 ### Variantes
 
+
+<TODO>

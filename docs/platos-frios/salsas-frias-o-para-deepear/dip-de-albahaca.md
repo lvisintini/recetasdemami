@@ -1,7 +1,8 @@
 ---
 slug: dip-de-albahaca
-uuid: 91182d82-7bf8-4227-aa59-5f0c71988ae9
+uuid: cb6ac4d7-7ffa-45b5-a89a-736bd9afbb97
 ---
+
 {nav}
 
 ## Dip de Albahaca
@@ -26,3 +27,5 @@ Mezclar mayonesa y albahaca picada
 
 ### Variantes
 
+
+<TODO>

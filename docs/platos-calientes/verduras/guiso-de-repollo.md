@@ -1,7 +1,8 @@
 ---
 slug: guiso-de-repollo
-uuid: a4eb9225-7aaf-49a7-a6e2-6ecaf1eaf84f
+uuid: 28e61203-6897-4644-8e7c-bf233fdab14d
 ---
+
 {nav}
 
 ## Guiso de repollo
@@ -26,3 +27,5 @@ Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con c
 
 ### Variantes
 
+
+<TODO>

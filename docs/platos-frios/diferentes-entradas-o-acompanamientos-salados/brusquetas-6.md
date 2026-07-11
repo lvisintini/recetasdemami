@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-6
-uuid: ee9f86a5-02c3-428b-8bc5-bff5b1637f24
+uuid: f40f9e40-1021-40a1-a791-03b0beb0c45f
 ---
+
 {nav}
 
 ## Brusquetas 6
@@ -34,3 +35,5 @@ Gratinar por 5 minutos en horno fuerte.
 
 ### Variantes
 
+
+<TODO>

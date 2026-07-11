@@ -1,7 +1,8 @@
 ---
 slug: zanahorias-caramelizadas
-uuid: 333284c2-126e-41d5-a002-7eb8485af479
+uuid: 97711a33-1b09-41d3-9e7b-44eab6f5b162
 ---
+
 {nav}
 
 ## Zanahorias caramelizadas
@@ -30,3 +31,5 @@ Retirar y colocarles el perejil picado.
 
 ### Variantes
 
+
+<TODO>

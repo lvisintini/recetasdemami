@@ -1,7 +1,8 @@
 ---
 slug: masa-para-tartas-dulces
-uuid: de91bd93-9457-4c2a-bab4-93d3e733e9b0
+uuid: 5d2fe1a9-0dd5-4827-a35f-e78420ff266b
 ---
+
 {nav}
 
 ## Masa para tartas dulces
@@ -28,3 +29,5 @@ Para la tarta de frutillas, una vez frío, se cubre con crema chantilly y se col
 
 ### Variantes
 
+
+<TODO>

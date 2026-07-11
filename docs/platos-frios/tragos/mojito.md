@@ -1,7 +1,8 @@
 ---
 slug: mojito
-uuid: 1ed69702-68da-4046-8ac9-9b2c04e26712
+uuid: 34c500e5-fffb-41e5-8e77-3b5e9685d141
 ---
+
 {nav}
 
 ## Mojito
@@ -39,3 +40,5 @@ Decorar con hojitas de menta.
 
 ### Variantes
 
+
+<TODO>

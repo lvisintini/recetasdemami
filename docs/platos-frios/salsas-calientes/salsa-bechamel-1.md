@@ -1,7 +1,8 @@
 ---
 slug: salsa-bechamel-1
-uuid: 3fbeda77-9950-4233-877b-5f2185f278f7
+uuid: d2ebe12f-6526-44aa-b8b0-6605f905c85e
 ---
+
 {nav}
 
 ## Salsa Bechamel 1
@@ -46,3 +47,5 @@ Por último, condimentar con sal, pimienta y nuez moscada.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: cachetes-de-abadejo-a-la-sarten
-uuid: c8a32b27-c575-4b19-8ec7-33e5c225d898
+uuid: ccd2c9d8-c6f5-4ce5-a587-809e4c1eb43a
 ---
+
 {nav}
 
 ## Cachetes de abadejo a la sartén
@@ -28,3 +29,5 @@ Colocar sobre pan lactal tostado.
 
 ### Variantes
 
+
+<TODO>

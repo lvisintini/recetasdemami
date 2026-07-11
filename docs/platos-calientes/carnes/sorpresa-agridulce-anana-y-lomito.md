@@ -1,7 +1,8 @@
 ---
 slug: sorpresa-agridulce-anana-y-lomito
-uuid: 258bbc33-e01e-489a-9c62-94a2340f8697
+uuid: 9bc24a40-81ca-4492-ae65-eb1da5e769f4
 ---
+
 {nav}
 
 ## Sorpresa agridulce ananá y lomito
@@ -30,3 +31,5 @@ Se colocan las rodajas de lomito intercaladas con las de ananá y se termina el 
 
 ### Variantes
 
+
+<TODO>

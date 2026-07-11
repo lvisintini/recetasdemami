@@ -1,7 +1,8 @@
 ---
 slug: arroz-blanco
-uuid: 6dea3ac0-b032-4e87-9558-be43d66ee8bf
+uuid: 90c29651-61eb-411c-aad8-5c9b47ec22e3
 ---
+
 {nav}
 
 ## Arroz blanco
@@ -26,3 +27,5 @@ Arroz blanco, pickles, pollo, aceitunas, mayonesa, toque de mostaza, gotas salsa
 
 ### Variantes
 
+
+<TODO>

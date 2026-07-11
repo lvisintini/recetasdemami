@@ -1,7 +1,8 @@
 ---
 slug: quinoa
-uuid: 07839f08-9ca8-4912-bac2-f5bc1ead5791
+uuid: 2fbf5bd2-1cf7-4f4d-ad79-24dca135e6a2
 ---
+
 {nav}
 
 ## Quinoa
@@ -30,3 +31,5 @@ Cocinarla en agua por 15 minutos aproximadamente: duplica su volumen y libera su
 
 ### Variantes
 
+
+<TODO>

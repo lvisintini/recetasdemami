@@ -1,7 +1,8 @@
 ---
 slug: caprece
-uuid: bfb419b8-50d0-4df8-8e8a-5a6bc939802d
+uuid: c49e8eef-78e2-4727-8920-ebb6af5a1021
 ---
+
 {nav}
 
 ## Caprece
@@ -26,3 +27,5 @@ tomate, aceitunas negras, daditos de queso, albahaca, aceite de oliva, vinagre y
 
 ### Variantes
 
+
+<TODO>

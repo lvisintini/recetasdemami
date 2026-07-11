@@ -1,7 +1,8 @@
 ---
 slug: repollo-roman
-uuid: 0d9d654e-34bd-4be5-9a72-53a3ddddcef0
+uuid: dbd3e5de-e051-480e-93b4-bf7c72fa3271
 ---
+
 {nav}
 
 ## Repollo Roman (bisabuelo)
@@ -26,3 +27,5 @@ Freir 1 cebolla, 100 de panceta, 1 zanahoria, 1 apio, 1 diente de ajo, todo en j
 
 ### Variantes
 
+
+<TODO>

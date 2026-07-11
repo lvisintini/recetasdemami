@@ -1,7 +1,8 @@
 ---
 slug: papines
-uuid: 038ea49f-5b98-4afc-927f-0dc406135897
+uuid: b4485466-0df9-4785-b275-27be8020055c
 ---
+
 {nav}
 
 ## Papines
@@ -28,3 +29,5 @@ Hervidos: ponerlos en agua hirviendo de 5 a 7 minutos. saltearlos en la sartén 
 
 ### Variantes
 
+
+<TODO>

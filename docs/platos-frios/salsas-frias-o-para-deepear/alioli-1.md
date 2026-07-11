@@ -1,7 +1,8 @@
 ---
 slug: alioli-1
-uuid: 0169a0ea-3585-4aa8-a309-4e34c44020a7
+uuid: 9c48d01c-eab7-46eb-824d-6cabf6efc728
 ---
+
 {nav}
 
 ## Alioli 1
@@ -32,3 +33,5 @@ Licuar:
 
 ### Variantes
 
+
+<TODO>

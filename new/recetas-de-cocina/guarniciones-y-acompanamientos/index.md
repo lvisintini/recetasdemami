@@ -1,11 +1,9 @@
 ---
 slug: guarniciones-y-acompanamientos
-uuid: 354f45f4-ff50-4748-a5e0-804c4a72ff3c
+uuid: a8e507a7-9e20-4510-8b09-9560fbefe85e
 ---
 {nav}
 
 ## Guarniciones y Acompañamientos
-
-
 
 {toc}

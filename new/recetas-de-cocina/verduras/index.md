@@ -1,11 +1,9 @@
 ---
 slug: verduras
-uuid: 910d2e91-0fe3-48af-93fb-e27d36d61c27
+uuid: d3ef4de8-2fa0-4f68-a266-55c1bf77c259
 ---
 {nav}
 
 ## Verduras
-
-
 
 {toc}

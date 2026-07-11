@@ -1,7 +1,8 @@
 ---
 slug: tarta-de-atun-de-aurelia
-uuid: e1dffaad-8e21-4d24-8a96-7d8a0323a1c4
+uuid: dc4f25ed-2e1d-4e47-b390-367f54d379f2
 ---
+
 {nav}
 
 ## Tarta de atun de Aurelia
@@ -30,3 +31,5 @@ Rellenar la pascualina y llevar al horno.
 
 ### Variantes
 
+
+<TODO>

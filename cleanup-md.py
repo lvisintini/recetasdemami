@@ -13,6 +13,7 @@ template = """---
 slug: {slug}
 uuid: {uuid}
 ---
+
 {nav}
 
 ## {dirty_title}
@@ -36,6 +37,8 @@ uuid: {uuid}
 
 ### Variantes
 
+
+<TODO>
 """
 content = []
 path = []

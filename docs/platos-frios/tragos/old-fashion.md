@@ -1,7 +1,8 @@
 ---
 slug: old-fashion
-uuid: f8e96d01-136d-4550-9f93-797266a8c747
+uuid: 4764ca13-0c3a-4638-9059-44f5691d3b6b
 ---
+
 {nav}
 
 ## Old fashion
@@ -31,3 +32,5 @@ Mezclar hasta empañar el vaso y decorar con 1 rodaja de limón.
 
 ### Variantes
 
+
+<TODO>

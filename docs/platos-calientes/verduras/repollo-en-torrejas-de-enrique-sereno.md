@@ -1,7 +1,8 @@
 ---
 slug: repollo-en-torrejas-de-enrique-sereno
-uuid: 3e5370fa-e33b-49f0-8281-4ba58c05ba95
+uuid: 1596a0a3-c610-4017-be25-80606fd435a5
 ---
+
 {nav}
 
 ## Repollo en torrejas de Enrique Sereno
@@ -30,3 +31,5 @@ Escurrir el repollo y agregarle la cebolla, 2 huevos, sal, pimienta, ½ taza de 
 
 ### Variantes
 
+
+<TODO>

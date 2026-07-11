@@ -1,7 +1,8 @@
 ---
 slug: gulasch
-uuid: 3b72f8d8-cd55-47a1-a7d2-2ac6b825df6e
+uuid: 7dbfdf48-cf3c-4f68-8c5a-2ace23c47956
 ---
+
 {nav}
 
 ## Gulasch
@@ -32,3 +33,5 @@ Acompañar con papas o arroz hervido.
 
 ### Variantes
 
+
+<TODO>

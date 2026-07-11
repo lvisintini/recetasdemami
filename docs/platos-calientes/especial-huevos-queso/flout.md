@@ -1,7 +1,8 @@
 ---
 slug: flout
-uuid: 4ff116e1-0e23-4577-b9ea-eab3ad0c4ae8
+uuid: 3149dee8-14cd-49af-85ba-a826f5ff2d4b
 ---
+
 {nav}
 
 ## Flout
@@ -28,3 +29,5 @@ Cuando tiene cierta consistencia se fríe en manteca.
 
 ### Variantes
 
+
+<TODO>

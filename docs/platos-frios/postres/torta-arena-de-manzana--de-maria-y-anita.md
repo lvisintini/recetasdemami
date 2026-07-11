@@ -1,7 +1,8 @@
 ---
 slug: torta-arena-de-manzana--de-maria-y-anita
-uuid: 607946f9-66c5-4000-a37a-8e7da7003386
+uuid: 26ffc286-58d9-434c-a5d8-e204bd1d19aa
 ---
+
 {nav}
 
 ## Torta arena de manzana (y otras frutas) de Maria y Anita
@@ -40,3 +41,5 @@ Se puede usar manzanas cortadas finitas y azucaradas, ciruelas, damascos, ananá
 
 ### Variantes
 
+
+<TODO>

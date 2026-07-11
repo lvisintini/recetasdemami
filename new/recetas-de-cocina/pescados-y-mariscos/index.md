@@ -1,11 +1,9 @@
 ---
 slug: pescados-y-mariscos
-uuid: 002dc1b8-f5d4-418c-85df-ee2788561015
+uuid: 421798b1-f2a9-4122-904a-3460d3b14ed9
 ---
 {nav}
 
 ## Pescados y mariscos
-
-
 
 {toc}

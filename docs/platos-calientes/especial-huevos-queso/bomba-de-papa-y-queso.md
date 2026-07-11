@@ -1,7 +1,8 @@
 ---
 slug: bomba-de-papa-y-queso
-uuid: 59099b38-9c66-4ff4-9607-ea1af6863293
+uuid: dd1b5c27-53e2-4ab6-90cd-78c6530140ca
 ---
+
 {nav}
 
 ## Bomba de papa y queso
@@ -32,3 +33,5 @@ Servir caliente.
 
 ### Variantes
 
+
+<TODO>

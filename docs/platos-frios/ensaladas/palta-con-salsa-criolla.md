@@ -1,7 +1,8 @@
 ---
 slug: palta-con-salsa-criolla
-uuid: 1368ce96-8e74-43d6-b889-ace7541d1057
+uuid: 06559ed1-3620-4d1e-bb3f-22f0229c59d1
 ---
+
 {nav}
 
 ## Palta con salsa criolla
@@ -28,3 +29,5 @@ Se puede completar con apio, lechuga, espinaca y rúcula (cama).
 
 ### Variantes
 
+
+<TODO>

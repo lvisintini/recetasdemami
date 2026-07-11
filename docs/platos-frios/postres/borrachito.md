@@ -1,7 +1,8 @@
 ---
 slug: borrachito
-uuid: 4ae4d9bf-4ab6-4f6e-aa42-61247bf6ccee
+uuid: 350f7d80-3e6f-45d4-85d5-2ee7386a102a
 ---
+
 {nav}
 
 ## Borrachito
@@ -40,3 +41,5 @@ También se pueden invertir los postres y terminar con el de chocolate, decorand
 
 ### Variantes
 
+
+<TODO>

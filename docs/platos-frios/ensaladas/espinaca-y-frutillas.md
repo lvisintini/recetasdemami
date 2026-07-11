@@ -1,7 +1,8 @@
 ---
 slug: espinaca-y-frutillas
-uuid: c03bbaa2-cb4e-42eb-9417-9815a2560edd
+uuid: dfa4195c-59b4-4586-a1b8-708055d6a893
 ---
+
 {nav}
 
 ## Espinaca y frutillas
@@ -26,3 +27,5 @@ Espinacas, frutillas, azúcar, aceite de oliva, aceto, sal y pimienta.
 
 ### Variantes
 
+
+<TODO>

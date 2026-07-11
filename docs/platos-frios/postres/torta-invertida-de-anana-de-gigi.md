@@ -1,7 +1,8 @@
 ---
 slug: torta-invertida-de-anana-de-gigi
-uuid: 184b9847-aed7-4cc0-9c1c-a940295ed164
+uuid: a03aeb65-77b5-4437-a10f-fb84c8d37c72
 ---
+
 {nav}
 
 ## Torta invertida de ananá de Gigi
@@ -40,3 +41,5 @@ Decorar con chantilly cream o merengue.
 
 ### Variantes
 
+
+<TODO>

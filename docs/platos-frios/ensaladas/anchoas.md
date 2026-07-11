@@ -1,7 +1,8 @@
 ---
 slug: anchoas
-uuid: 181581e1-e89f-4e46-9506-68589d6b6776
+uuid: 08983466-695b-442c-b0ec-9c0d1d4ce9c7
 ---
+
 {nav}
 
 ## Anchoas
@@ -26,3 +27,5 @@ anchoas, papas hervidas, chauchas hervidas, aceitunas negras, huevo duro, aceite
 
 ### Variantes
 
+
+<TODO>

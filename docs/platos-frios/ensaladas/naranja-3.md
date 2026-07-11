@@ -1,7 +1,8 @@
 ---
 slug: naranja-3
-uuid: 67c07b1e-631a-4bc0-a9c2-7c83f80f98de
+uuid: 5903c26e-7bce-4490-b41f-3f6d4e63323b
 ---
+
 {nav}
 
 ## Naranja 3
@@ -26,3 +27,5 @@ Aceitunas, lechuga, queso crema, salsa inglesa, ketchup, sal, pimienta y perejil
 
 ### Variantes
 
+
+<TODO>

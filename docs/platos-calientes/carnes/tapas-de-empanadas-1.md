@@ -1,7 +1,8 @@
 ---
 slug: tapas-de-empanadas-1
-uuid: d5d46957-abc7-4be9-b095-b7c62f0c6e63
+uuid: 5f65bcd6-b960-4885-99a0-6a0e50cda7d7
 ---
+
 {nav}
 
 ## Tapas de empanadas 1
@@ -32,3 +33,5 @@ Espolvorear con harina entre tapa y tapa o poner un film. se puede dejar 48 hora
 
 ### Variantes
 
+
+<TODO>

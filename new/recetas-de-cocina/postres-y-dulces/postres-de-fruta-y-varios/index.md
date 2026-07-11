@@ -1,11 +1,9 @@
 ---
 slug: postres-de-fruta-y-varios
-uuid: 3ed0ea33-94fe-441c-b525-b19d94defbe4
+uuid: 6f43bc93-fdf1-4748-bb34-5a2f0f8779c4
 ---
 {nav}
 
 ## Postres de fruta y varios
-
-
 
 {toc}

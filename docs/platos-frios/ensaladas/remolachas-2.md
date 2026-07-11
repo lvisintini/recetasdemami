@@ -1,7 +1,8 @@
 ---
 slug: remolachas-2
-uuid: d055ea39-3816-48e5-9139-cde2ff7758a6
+uuid: 758e60ec-f9f3-48cb-951f-83e298f5a95c
 ---
+
 {nav}
 
 ## Remolachas 2
@@ -26,3 +27,5 @@ Remolachas, champiñones, perejil, almendras, ralladura gruesa de limón, aceite
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: chimichurri-para-100-kg-de-mamona
-uuid: 3e7a2c6f-bb10-4099-a159-cec57ba575d8
+uuid: b102cfd4-115f-49dc-a85c-2f7a4aac3746
 ---
+
 {nav}
 
 ## Chimichurri para 100 kg de Mamona
@@ -39,3 +40,5 @@ Por último agregarle la salsa y cocinar hasta que esté tierna
 
 ### Variantes
 
+
+<TODO>

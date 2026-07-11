@@ -1,7 +1,8 @@
 ---
 slug: clafoutis-de-frutos-rojos
-uuid: e6c43856-6a79-4622-9fc1-9736545010ea
+uuid: b49e8332-fb9b-48a9-ad33-5488fc37586b
 ---
+
 {nav}
 
 ## Clafoutis de frutos rojos
@@ -40,3 +41,5 @@ Espolvorear con abundante azúcar impalpable y servir.
 
 ### Variantes
 
+
+<TODO>

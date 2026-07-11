@@ -1,7 +1,8 @@
 ---
 slug: grumos-de-avena
-uuid: b0bfcf3d-ff51-45be-8fb5-2e66f1d7be7a
+uuid: 8b57b0cc-7347-4a13-ad8e-bcee31d00d5c
 ---
+
 {nav}
 
 ## Grumos de avena
@@ -26,3 +27,5 @@ Formar con los dedos grumos utilizando 1 taza de azúcar, 1 taza de avena tradic
 
 ### Variantes
 
+
+<TODO>

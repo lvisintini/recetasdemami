@@ -1,7 +1,8 @@
 ---
 slug: huevos-benedictinos
-uuid: 3680d0db-0264-46cc-932b-bec62991b9e7
+uuid: 37a7576a-fb04-45c4-bcfc-68bfd8c2ac76
 ---
+
 {nav}
 
 ## Huevos benedictinos
@@ -26,3 +27,5 @@ Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verde
 
 ### Variantes
 
+
+<TODO>

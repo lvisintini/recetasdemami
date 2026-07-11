@@ -1,7 +1,8 @@
 ---
 slug: arroz-a-la-oriental
-uuid: f9c6f005-4179-42f3-82ff-c747e8d95bc8
+uuid: b9a983f8-e086-41df-aa38-4ab8f86c915c
 ---
+
 {nav}
 
 ## Arroz a la oriental
@@ -26,3 +27,5 @@ Hervir el arroz 10 minutos y pasarlo por agua fría, en la sartén con aceite fr
 
 ### Variantes
 
+
+<TODO>

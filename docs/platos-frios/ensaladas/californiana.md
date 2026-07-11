@@ -1,7 +1,8 @@
 ---
 slug: californiana
-uuid: 58a86160-36fd-462d-a0d9-e4fe92a77ea4
+uuid: 618556b6-ca64-44c8-8e07-f89ca9dee9dd
 ---
+
 {nav}
 
 ## Californiana
@@ -29,3 +30,5 @@ los hongos salteados con ajo.
 
 ### Variantes
 
+
+<TODO>

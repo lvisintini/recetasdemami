@@ -1,7 +1,8 @@
 ---
 slug: besitos---friche-de-renato
-uuid: a0e2e3f6-165e-4c68-a36a-189e240fe9da
+uuid: 57606136-1cc1-4e38-8cc1-c6ca58af0443
 ---
+
 {nav}
 
 ## Besitos - friche de Renato
@@ -35,3 +36,5 @@ Freír con grasa de cerdo
 
 ### Variantes
 
+
+<TODO>

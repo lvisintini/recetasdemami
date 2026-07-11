@@ -1,7 +1,8 @@
 ---
 slug: coliflor-o-brocoli-suprema
-uuid: 628b329e-1849-4f8b-aad9-463d6b6c8b18
+uuid: dd16ace3-eceb-439f-bda4-6e79bc83f73e
 ---
+
 {nav}
 
 ## Coliflor o brócoli suprema
@@ -26,3 +27,5 @@ Hervir la coliflor entera. Batir 3 cucharadas de manteca, agregarle 3 cucharadas
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: espinaca-vir
-uuid: 2a7961c8-2352-44b5-b2a5-156c5085c49f
+uuid: d2d5d845-5d6a-49bb-af74-798da4940d0d
 ---
+
 {nav}
 
 ## Espinaca Vir
@@ -26,3 +27,5 @@ Espinaca, atun, zanahoria, tomate, huevo, crutones.
 
 ### Variantes
 
+
+<TODO>

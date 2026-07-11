@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-4
-uuid: 90fc0b76-399a-477e-8023-5a604c65af7b
+uuid: 7fa85250-b19f-4208-9b10-5872c29b86bd
 ---
+
 {nav}
 
 ## Brusquetas 4
@@ -26,3 +27,5 @@ Sobre la tostada colocar espinaca al ajo y queso mantecoso, llevar al horno hast
 
 ### Variantes
 
+
+<TODO>

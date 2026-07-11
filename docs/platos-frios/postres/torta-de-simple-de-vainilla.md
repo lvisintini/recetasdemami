@@ -1,7 +1,8 @@
 ---
 slug: torta-de-simple-de-vainilla
-uuid: 33483015-94ed-4bda-8541-ab739be6f90b
+uuid: 1a8fce6d-5529-4a4d-8dec-babe8dc5ca42
 ---
+
 {nav}
 
 ## Torta de simple de vainilla
@@ -39,3 +40,5 @@ Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: torta-de-chocolate-de-lili-morey
-uuid: 707f4f4a-49d1-4800-99b1-d3e895752c5a
+uuid: d1eab0b3-9c38-45b1-8f47-60be65c08cd0
 ---
+
 {nav}
 
 ## Torta de chocolate de Lili Morey
@@ -38,3 +39,5 @@ Y al horno.
 
 ### Variantes
 
+
+<TODO>

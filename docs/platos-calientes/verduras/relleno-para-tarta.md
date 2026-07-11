@@ -1,7 +1,8 @@
 ---
 slug: relleno-para-tarta
-uuid: 5f91a07b-eb62-4636-8a5b-47c07ab65fb2
+uuid: 3b44a6d9-9182-4763-a4c7-2b7577d0f74a
 ---
+
 {nav}
 
 ## Relleno para tarta
@@ -26,3 +27,5 @@ Hacer un sofrito en aceite con: 3 zanahorias ralladas, 1 lata de choclo, 2 puerr
 
 ### Variantes
 
+
+<TODO>

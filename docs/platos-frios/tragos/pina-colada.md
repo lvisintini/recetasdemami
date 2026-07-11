@@ -1,7 +1,8 @@
 ---
 slug: pina-colada
-uuid: d64322a8-2992-42b6-bc7f-6bfbfd84a80b
+uuid: fc4012ba-3bd2-4221-8ce8-f4a15319bf18
 ---
+
 {nav}
 
 ## Piña colada
@@ -32,3 +33,5 @@ Licuar hasta que esté espumoso:
 
 ### Variantes
 
+
+<TODO>

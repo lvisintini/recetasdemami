@@ -1,7 +1,8 @@
 ---
 slug: bocaditos-de-queso
-uuid: 9202f554-f5f6-4d6a-a69d-27d77e32b0e0
+uuid: 916251b8-2038-4031-a114-d55ae6a8b573
 ---
+
 {nav}
 
 ## Bocaditos de queso
@@ -44,3 +45,5 @@ Servir frio o caliente.
 
 ### Variantes
 
+
+<TODO>

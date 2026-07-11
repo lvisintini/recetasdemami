@@ -1,7 +1,8 @@
 ---
 slug: alioli-2
-uuid: c42d368f-dc77-42f3-bb87-d1f459832650
+uuid: 5c789163-25c5-42aa-8978-14b522f40a6e
 ---
+
 {nav}
 
 ## Alioli 2
@@ -28,3 +29,5 @@ Poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos par
 
 ### Variantes
 
+
+<TODO>

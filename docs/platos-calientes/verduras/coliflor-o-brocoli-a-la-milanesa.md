@@ -1,7 +1,8 @@
 ---
 slug: coliflor-o-brocoli-a-la-milanesa
-uuid: 45a7a0f1-f35c-4269-b7dd-4bb41b8ab10d
+uuid: cb52636f-b114-40c4-9f4b-6955cd4a63c7
 ---
+
 {nav}
 
 ## Coliflor o brocoli a la milanesa
@@ -28,3 +29,5 @@ Pasarlos por huevo batido condimentado con sal y ají molido, o ajo con perejil 
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: panache-de-verduras
-uuid: 6fbf8aff-1b3e-435c-919e-04edecb414fb
+uuid: a94c1182-1f2d-40a3-a2ce-7f0465fec610
 ---
+
 {nav}
 
 ## Panaché de verduras
@@ -32,3 +33,5 @@ Llevar al horno hasta que se gratine todo.
 
 ### Variantes
 
+
+<TODO>

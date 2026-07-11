@@ -1,7 +1,8 @@
 ---
 slug: crema-de-choclos
-uuid: 5cae1939-7cdd-4b70-acea-a2815167c7f6
+uuid: 25923353-43fb-4301-a324-ed8b8b869825
 ---
+
 {nav}
 
 ## Crema de Choclos
@@ -40,3 +41,5 @@ Por último agregarle queso rallado.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: palta-y-mortadela
-uuid: aa9bb2d3-35ad-4878-92ba-487a5013c2d0
+uuid: 92e7bda1-eff3-469a-ad49-f718fb3a6fb6
 ---
+
 {nav}
 
 ## Palta y mortadela
@@ -26,3 +27,5 @@ Mortadela en cubos, tomates cherry, rucula, cebolla, palta, crustones, aceite de
 
 ### Variantes
 
+
+<TODO>

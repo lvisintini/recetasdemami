@@ -1,7 +1,8 @@
 ---
 slug: panqueques
-uuid: 41144df0-00ae-435a-8163-8cf4f6c16a8e
+uuid: 560c4fec-27d0-4e9d-b13a-2de025135267
 ---
+
 {nav}
 
 ## Panqueques (finitos)
@@ -29,3 +30,5 @@ uuid: 41144df0-00ae-435a-8163-8cf4f6c16a8e
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: martini-seco
-uuid: e86af6c0-c8bf-4560-ab2c-a6b8840800fc
+uuid: 6f57335e-6502-4f61-8b85-03965a640374
 ---
+
 {nav}
 
 ## Martini seco
@@ -32,3 +33,5 @@ En una copa de 90 cc:
 
 ### Variantes
 
+
+<TODO>

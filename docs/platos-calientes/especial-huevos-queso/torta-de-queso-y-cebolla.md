@@ -1,7 +1,8 @@
 ---
 slug: torta-de-queso-y-cebolla
-uuid: 1c7c16b7-cb87-4149-8b74-357b0c456bb8
+uuid: 17ea75ef-cd47-4083-9bba-d8daccbe6006
 ---
+
 {nav}
 
 ## Torta de queso y cebolla (muy buena)
@@ -32,3 +33,5 @@ Se baten 3 huevos con sal y pimienta, 1 taza de queso rallado y ½ taza de crema
 
 ### Variantes
 
+
+<TODO>

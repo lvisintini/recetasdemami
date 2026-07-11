@@ -1,7 +1,8 @@
 ---
 slug: torre-de-panqueques-o-piononos
-uuid: de3360e5-0d8d-40ad-8241-a5433b3ec056
+uuid: e0c3e37d-71ad-4738-a67c-1489fbd1d39d
 ---
+
 {nav}
 
 ## Torre de panqueques o piononos
@@ -30,3 +31,5 @@ Usar cualquiera de los rellenos salados
 
 ### Variantes
 
+
+<TODO>

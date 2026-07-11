@@ -1,7 +1,8 @@
 ---
 slug: salsa-brava
-uuid: 143f595a-0bde-42ab-8ff5-32d0019fd503
+uuid: 8ef90a77-516d-46a6-8bd7-65cfd764cb26
 ---
+
 {nav}
 
 ## Salsa Brava
@@ -38,3 +39,5 @@ Cocinar reduciendo a la mitad.
 
 ### Variantes
 
+
+<TODO>

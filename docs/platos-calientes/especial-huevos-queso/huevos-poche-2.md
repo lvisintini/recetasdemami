@@ -1,7 +1,8 @@
 ---
 slug: huevos-poche-2
-uuid: 705c3009-5350-4d8f-a1d7-f414c9c6c431
+uuid: a4014579-92d2-4eaa-9dcc-335adfd53b1d
 ---
+
 {nav}
 
 ## Huevos poche 2
@@ -26,3 +27,5 @@ Poner sobre la sartén tibia un papel manteca enmantecado y el huevo arriba, coc
 
 ### Variantes
 
+
+<TODO>

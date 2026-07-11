@@ -1,7 +1,8 @@
 ---
 slug: pastel-de-caballa
-uuid: 053e39d3-2938-40ac-b776-2f0b2ed97d8d
+uuid: 8c1f74dc-39ad-4445-a93a-04d7bc093888
 ---
+
 {nav}
 
 ## Pastel de caballa
@@ -28,3 +29,5 @@ Para la masa: como la de la torta de queso y cebolla u otra. siempre precocinar 
 
 ### Variantes
 
+
+<TODO>

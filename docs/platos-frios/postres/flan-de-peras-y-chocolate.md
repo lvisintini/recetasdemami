@@ -1,7 +1,8 @@
 ---
 slug: flan-de-peras-y-chocolate
-uuid: 16ecf33d-18f0-46f3-9601-bcf3ba7b6bf2
+uuid: ca480a83-6edc-49ee-a965-2f88b2c425b9
 ---
+
 {nav}
 
 ## Flan de peras y chocolate
@@ -45,3 +46,5 @@ Una vez frías pasarlas por azúcar impalpable o bañarlas con chocolate.
 
 ### Variantes
 
+
+<TODO>

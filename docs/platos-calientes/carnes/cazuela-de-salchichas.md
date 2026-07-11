@@ -1,7 +1,8 @@
 ---
 slug: cazuela-de-salchichas
-uuid: 8bbd0b03-1cf4-45b8-ad3e-62ac23efc849
+uuid: 10b5d3e4-3132-43ed-b127-c8daa8af0a33
 ---
+
 {nav}
 
 ## Cazuela de salchichas
@@ -28,3 +29,5 @@ Sal, pimienta, orégano, perejil, o la aromática que prefiera. puede agregar tr
 
 ### Variantes
 
+
+<TODO>

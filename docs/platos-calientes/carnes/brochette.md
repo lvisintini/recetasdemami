@@ -1,7 +1,8 @@
 ---
 slug: brochette
-uuid: 8511ccce-58ca-4984-b1c1-1b9fb12b1bfb
+uuid: a9780b8a-a845-4728-8a88-6f23c3bf40f3
 ---
+
 {nav}
 
 ## Brochette
@@ -34,3 +35,5 @@ También pueden hacerse agridulce agregando: manzanas, ciruelas, etc y rociarlos
 
 ### Variantes
 
+
+<TODO>

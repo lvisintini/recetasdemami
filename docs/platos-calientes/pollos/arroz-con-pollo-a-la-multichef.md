@@ -1,7 +1,8 @@
 ---
 slug: arroz-con-pollo-a-la-multichef
-uuid: 20337313-50f6-4916-9eeb-758c5bb324b9
+uuid: 0fd096f7-156b-4c48-b743-a7c4678a4202
 ---
+
 {nav}
 
 ## Arroz con pollo a la Multichef (o sin multichef)
@@ -36,3 +37,5 @@ Acordarse de colocar papel de aluminio, para que sea más fácil la limpieza.
 
 ### Variantes
 
+
+<TODO>

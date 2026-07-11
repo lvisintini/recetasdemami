@@ -1,7 +1,8 @@
 ---
 slug: pollo-con-champinones
-uuid: 2eedd7cd-2f0f-44e8-8b45-4d3290f2b102
+uuid: ef0e1fa1-5bfa-44cd-91cb-911a708fbca9
 ---
+
 {nav}
 
 ## Pollo con champiñones
@@ -26,3 +27,5 @@ Condimentar con sal, pimienta, ajo picado, y orégano las presas de pollo. dorar
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: arroz-con-leche
-uuid: 55d4f471-08d0-4677-95ec-c4c0705ca86a
+uuid: e64a95a3-4f04-4eab-b4d7-0c8653d46135
 ---
+
 {nav}
 
 ## Arroz con leche
@@ -32,3 +33,5 @@ Cocinar a fuego suave hasta que el arroz esté tierno.
 
 ### Variantes
 
+
+<TODO>

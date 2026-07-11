@@ -1,7 +1,8 @@
 ---
 slug: guacamole-2
-uuid: 2060e077-a1e8-4d8b-b259-68632cbef49c
+uuid: 0f4b9973-c2be-42d4-b05e-cab9de8bc536
 ---
+
 {nav}
 
 ## Guacamole 2
@@ -34,3 +35,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

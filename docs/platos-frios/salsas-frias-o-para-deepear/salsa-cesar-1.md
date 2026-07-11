@@ -1,7 +1,8 @@
 ---
 slug: salsa-cesar-1
-uuid: 77030150-f7be-4402-bc82-8a19a5006f88
+uuid: d0c1c0b8-f20d-4e23-bc97-b7516d092e7a
 ---
+
 {nav}
 
 ## Salsa Cesar 1
@@ -32,3 +33,5 @@ Luego sumarle 2 cucharadas de queso parmesano y una pizca pimienta
 
 ### Variantes
 
+
+<TODO>

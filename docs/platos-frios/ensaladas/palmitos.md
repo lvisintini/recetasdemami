@@ -1,7 +1,8 @@
 ---
 slug: palmitos
-uuid: f8db7d1a-c643-43be-ae09-12727b2752cd
+uuid: 1c1b1bf6-efda-4ce2-8909-a1c3a47efd24
 ---
+
 {nav}
 
 ## Palmitos
@@ -26,3 +27,5 @@ palmitos, ananá, manzana, almendras, queso, apio, jugo de limón, aceite, sal.
 
 ### Variantes
 
+
+<TODO>

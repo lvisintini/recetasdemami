@@ -1,7 +1,8 @@
 ---
 slug: chips-para-dips
-uuid: 4d777785-ea5e-4b24-9ca9-ce02ac69b521
+uuid: ffc89889-ac91-42c0-bef8-e7f2f318e211
 ---
+
 {nav}
 
 ## Chips para dips
@@ -26,3 +27,5 @@ Usar los crepes, cortarlos en 32 triángulos. ponerlos en molde sobre papel mant
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: torta-invertida-de-manzanas
-uuid: baf04416-761e-4c10-b9a9-920094aa7f0b
+uuid: 4391f975-5ba3-41a8-82fe-ab13ee93bf00
 ---
+
 {nav}
 
 ## Torta invertida de manzanas
@@ -40,3 +41,5 @@ Agregar canela y ralladura de limón
 
 ### Variantes
 
+
+<TODO>

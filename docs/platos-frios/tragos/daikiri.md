@@ -1,7 +1,8 @@
 ---
 slug: daikiri
-uuid: e3f32c27-4ec2-4acc-8057-3c27490ea2fc
+uuid: 7e2a59ab-2b5c-4149-9239-398a750fcd78
 ---
+
 {nav}
 
 ## Daikiri
@@ -32,3 +33,5 @@ Escarchar el vaso con jugo de limón y azúcar.
 
 ### Variantes
 
+
+<TODO>

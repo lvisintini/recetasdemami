@@ -1,7 +1,8 @@
 ---
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
-uuid: 3d4f689e-df91-4af9-a2de-c48f3373d2e7
+uuid: 79d99787-0046-4397-a096-5b7645b52756
 ---
+
 {nav}
 
 ## Budín de banana y nuez (y chocolate). Vir desde corralejo.
@@ -47,3 +48,5 @@ Bañar con un glaseado de jugo de limón y azúcar impalpable.
 
 ### Variantes
 
+
+<TODO>

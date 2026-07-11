@@ -1,7 +1,8 @@
 ---
 slug: pollo-a-la-florentina
-uuid: ea0cb6f6-1110-40e6-9c97-c51c9bf5e410
+uuid: 3fc776b8-4e43-41ee-b94f-6b92490526e3
 ---
+
 {nav}
 
 ## Pollo a la florentina
@@ -34,3 +35,5 @@ Terminar de cocinar.
 
 ### Variantes
 
+
+<TODO>

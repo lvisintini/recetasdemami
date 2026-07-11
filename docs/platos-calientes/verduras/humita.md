@@ -1,7 +1,8 @@
 ---
 slug: humita
-uuid: d569c74d-c9ae-442d-bd67-401019df20f0
+uuid: a93816fe-69e6-4490-9c42-8713da6ab53f
 ---
+
 {nav}
 
 ## Humita
@@ -34,3 +35,5 @@ Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla.
 
 ### Variantes
 
+
+<TODO>

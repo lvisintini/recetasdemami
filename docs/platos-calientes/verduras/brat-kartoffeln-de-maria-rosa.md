@@ -1,7 +1,8 @@
 ---
 slug: brat-kartoffeln-de-maria-rosa
-uuid: 3440c2d2-0af5-4899-95aa-17110c8f488b
+uuid: 30e3fe41-228b-43a8-98f4-8d14d05deec0
 ---
+
 {nav}
 
 ## Brat kartoffeln de Maria Rosa
@@ -26,3 +27,5 @@ Hervir 500 gr de papas con cáscara, unos 15 a 20 minutos, sin que se ablanden t
 
 ### Variantes
 
+
+<TODO>

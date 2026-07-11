@@ -1,7 +1,8 @@
 ---
 slug: caipirinha
-uuid: 3f7b12d8-88bb-4f89-9e30-fa1e328fc207
+uuid: 26b02f36-bd00-4507-870d-b87c0ace4da6
 ---
+
 {nav}
 
 ## Caipirinha
@@ -31,3 +32,5 @@ uuid: 3f7b12d8-88bb-4f89-9e30-fa1e328fc207
 
 ### Variantes
 
+
+<TODO>

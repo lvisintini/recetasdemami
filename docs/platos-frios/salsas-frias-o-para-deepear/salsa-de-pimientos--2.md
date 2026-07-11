@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-pimientos--2
-uuid: a2fc20fd-163a-40c7-a71c-ecd2f42deb6c
+uuid: 6a5ab727-f688-4c2d-b9ab-fdc973b96dc1
 ---
+
 {nav}
 
 ## Salsa de pimientos  2
@@ -33,3 +34,5 @@ Incorporar 2 cucharadas de crema de leche y finalmente agregar 6 pepinillos muy 
 
 ### Variantes
 
+
+<TODO>

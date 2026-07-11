@@ -1,7 +1,8 @@
 ---
 slug: tortilla-de-papas-a-la-espanola
-uuid: 2f941062-9cf9-469c-b3ea-d632a4b7a4b3
+uuid: 97355543-b1ec-4210-b622-f576ffd19566
 ---
+
 {nav}
 
 ## Tortilla de papas a la española
@@ -28,3 +29,5 @@ Retirar y colocar todo en un bol, junto con arvejas, queso rallado, sal, pimient
 
 ### Variantes
 
+
+<TODO>

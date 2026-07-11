@@ -1,7 +1,8 @@
 ---
 slug: salmon-con-hierbas-al-vino-blanco
-uuid: 551af4ff-6c4a-4518-b013-f496205a937d
+uuid: eb33bf53-eff3-4183-bd87-0697ff72f16a
 ---
+
 {nav}
 
 ## Salmón con hierbas al vino blanco
@@ -38,3 +39,5 @@ uuid: 551af4ff-6c4a-4518-b013-f496205a937d
 
 ### Variantes
 
+
+<TODO>

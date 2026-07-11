@@ -1,7 +1,8 @@
 ---
 slug: galletitas-de-bicarbonato-de-amoniaco
-uuid: fc70cc81-af46-4dcc-8686-c6bcac7c1a95
+uuid: 5f6a9e78-ac22-4633-9f3b-c9443a8a44d6
 ---
+
 {nav}
 
 ## Galletitas de Bicarbonato de Amoniaco (CO3NH4)
@@ -39,3 +40,5 @@ Dejar enfriar bien antes de sacarlas.
 
 ### Variantes
 
+
+<TODO>

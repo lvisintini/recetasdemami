@@ -1,7 +1,8 @@
 ---
 slug: aderezo-de-soja
-uuid: 0b190574-8284-44e4-a3d5-f36ec365604d
+uuid: dec8bd22-b005-4411-8c67-d524c4c7f6f8
 ---
+
 {nav}
 
 ## Aderezo de Soja
@@ -28,3 +29,5 @@ Salsa de soja, aceite de oliva y jugo de limón.
 
 ### Variantes
 
+
+<TODO>

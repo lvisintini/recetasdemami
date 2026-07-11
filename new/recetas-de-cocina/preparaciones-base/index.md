@@ -1,11 +1,9 @@
 ---
 slug: preparaciones-base
-uuid: f9d90330-c60c-44e7-bc11-93b09fd314c0
+uuid: f23789db-165c-4447-8556-70e9bc1c4bfc
 ---
 {nav}
 
 ## Preparaciones base
-
-
 
 {toc}

@@ -1,7 +1,8 @@
 ---
 slug: arroz-con-mejillones
-uuid: 0bac60c4-e618-43c7-9a76-2bc74a8eb30d
+uuid: 7907f7d8-d487-438f-8077-94387240a16c
 ---
+
 {nav}
 
 ## Arroz con mejillones (berberechos, u otro bicho de mar)
@@ -26,3 +27,5 @@ Freir 1 cebolla picada en manteca, agregar 1 taza de arroz y sellarlo. Agregar 3
 
 ### Variantes
 
+
+<TODO>

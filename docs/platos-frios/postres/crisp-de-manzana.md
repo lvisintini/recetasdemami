@@ -1,7 +1,8 @@
 ---
 slug: crisp-de-manzana
-uuid: 578e8b87-f06d-49b7-8cbd-a67c65c632dd
+uuid: 218d1c16-d044-4870-ad38-b7541ba7c17d
 ---
+
 {nav}
 
 ## Crisp de manzana (crujiente de manzanas)
@@ -30,3 +31,5 @@ Llevar a horno hasta que la avena se dore.
 
 ### Variantes
 
+
+<TODO>

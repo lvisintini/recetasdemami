@@ -1,7 +1,8 @@
 ---
 slug: huevos-a-la-canasta
-uuid: 1d1badc4-1b43-42c7-bed8-fdd14567565c
+uuid: ff7faa33-9a4a-44c9-a8da-1b7021ab5ff8
 ---
+
 {nav}
 
 ## Huevos a la canasta
@@ -32,3 +33,5 @@ Poner el huevo sobre el hueco que deja la semilla de la palta, condimentar y coc
 
 ### Variantes
 
+
+<TODO>

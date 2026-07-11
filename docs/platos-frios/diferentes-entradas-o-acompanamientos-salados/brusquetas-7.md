@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-7
-uuid: 43fe3b91-55ec-4e60-a1c1-2518b1d70719
+uuid: ac37b6b3-7875-4f3e-9776-86fc71143fa3
 ---
+
 {nav}
 
 ## Brusquetas 7
@@ -38,3 +39,5 @@ Decorar con perejil.
 
 ### Variantes
 
+
+<TODO>

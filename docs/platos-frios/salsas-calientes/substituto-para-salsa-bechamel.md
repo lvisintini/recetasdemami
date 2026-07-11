@@ -1,7 +1,8 @@
 ---
 slug: substituto-para-salsa-bechamel
-uuid: a57a1d76-5e23-4048-889e-1bef0f2f6b26
+uuid: 69cebf8a-ef6a-4c6c-8151-7fa79884c8d2
 ---
+
 {nav}
 
 ## Substituto para salsa bechamel
@@ -26,3 +27,5 @@ En determinadas comidas se puede reemplazar la salsa blanca con maicena (3 cucha
 
 ### Variantes
 
+
+<TODO>

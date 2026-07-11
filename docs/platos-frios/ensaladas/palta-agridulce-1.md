@@ -1,7 +1,8 @@
 ---
 slug: palta-agridulce-1
-uuid: 3c1e3f03-b996-4c16-a5d8-731b0ecc45c4
+uuid: 2f2a67aa-0563-46f8-b4a7-c5868140f6e8
 ---
+
 {nav}
 
 ## Palta agridulce 1
@@ -29,3 +30,5 @@ Salsa de soja, aceite de oliva y jugo de limón.
 
 ### Variantes
 
+
+<TODO>

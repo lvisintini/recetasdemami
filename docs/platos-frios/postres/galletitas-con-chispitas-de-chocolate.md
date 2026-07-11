@@ -1,7 +1,8 @@
 ---
 slug: galletitas-con-chispitas-de-chocolate
-uuid: cb5d3f10-07d3-48db-a785-457637474e22
+uuid: 84c2caa3-7b93-44da-b67b-ade6a7f86d19
 ---
+
 {nav}
 
 ## Galletitas con chispitas de chocolate
@@ -43,3 +44,5 @@ Dejar enfriar en el horno.
 
 ### Variantes
 
+
+<TODO>

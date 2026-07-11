@@ -1,11 +1,9 @@
 ---
 slug: carnes
-uuid: b351a5a7-3ed1-4127-94c1-1057f2f2bf3b
+uuid: 5deb929c-b757-4eba-974a-0b13cf531cf9
 ---
 {nav}
 
 ## Carnes
-
-
 
 {toc}

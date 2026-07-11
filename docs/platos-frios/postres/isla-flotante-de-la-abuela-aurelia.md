@@ -1,7 +1,8 @@
 ---
 slug: isla-flotante-de-la-abuela-aurelia
-uuid: 3b541ec5-d986-4679-8080-b83cea2ee0af
+uuid: 1af4f1da-9c33-41b0-917d-71d6b34db2ac
 ---
+
 {nav}
 
 ## Isla flotante de la Abuela Aurelia
@@ -53,3 +54,5 @@ Batir, cocinar a baño maría hasta espesar. Que no hierva.
 
 ### Variantes
 
+
+<TODO>

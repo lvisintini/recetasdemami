@@ -1,7 +1,8 @@
 ---
 slug: aceitunas-en-la-picada
-uuid: 379f9bc4-16a1-40ba-a0a8-e6ff344adb4f
+uuid: a805857e-08d2-425e-aa6b-84d8d6fa1af3
 ---
+
 {nav}
 
 ## Aceitunas en la picada
@@ -26,3 +27,5 @@ Poner las aceitunas en aceite, jugo de naranja, pimienta y orégano.
 
 ### Variantes
 
+
+<TODO>

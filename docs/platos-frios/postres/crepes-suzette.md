@@ -1,7 +1,8 @@
 ---
 slug: crepes-suzette
-uuid: 76e46ac5-82a7-41c3-8348-27fd3aa13044
+uuid: 3e6ecdcf-edad-4883-ab9e-c8b4fbc55d6b
 ---
+
 {nav}
 
 ## Crepes suzette
@@ -44,3 +45,5 @@ Se puede reemplazar el Cointreau con: ¼ taza de triple sec y ¼ taza de brandy 
 
 ### Variantes
 
+
+<TODO>

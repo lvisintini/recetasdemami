@@ -1,7 +1,8 @@
 ---
 slug: salsa-curry
-uuid: 192efc28-1b91-46f9-ac99-e1d747211288
+uuid: 09b59412-8a36-42b3-8554-03e1a6685555
 ---
+
 {nav}
 
 ## Salsa curry
@@ -34,3 +35,5 @@ Retirar y agregar 100 grs de crema de leche.
 
 ### Variantes
 
+
+<TODO>

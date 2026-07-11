@@ -1,7 +1,8 @@
 ---
 slug: doraditos-de-cebolla-o-brownie-de-cebolla
-uuid: 9d6b5a6c-cc3e-4ad7-adff-8b7246bafad7
+uuid: 8d0da23e-1868-4220-8cbf-dc8ee9d09395
 ---
+
 {nav}
 
 ## Doraditos de cebolla o Brownie de cebolla
@@ -52,3 +53,5 @@ Puede acompañar la humita, o completar una picada.
 
 ### Variantes
 
+
+<TODO>

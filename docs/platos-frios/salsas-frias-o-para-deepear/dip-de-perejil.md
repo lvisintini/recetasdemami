@@ -1,7 +1,8 @@
 ---
 slug: dip-de-perejil
-uuid: a71da28e-c084-421e-8ced-283ee25dbeb3
+uuid: 88794c5a-7b19-49ea-b8d0-7571b687c4c7
 ---
+
 {nav}
 
 ## Dip de Perejil
@@ -26,3 +27,5 @@ Mezclar perejil, ajo y mayonesa
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: griega-completa
-uuid: 727d3aac-0d12-4cbc-ae1d-05e45d813dbb
+uuid: 865bf0a6-7f33-44d9-898a-dc3fa15bc443
 ---
+
 {nav}
 
 ## Griega completa
@@ -26,3 +27,5 @@ a la anterior agregar pimiento verde, pepino, jugo de limón y albahaca. Frotar 
 
 ### Variantes
 
+
+<TODO>

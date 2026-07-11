@@ -1,7 +1,8 @@
 ---
 slug: tarta-de-choclos
-uuid: f218ae31-6586-42d8-bec4-d12eac2585ec
+uuid: f3fe5177-8af5-455a-92ad-6e9fc75ed400
 ---
+
 {nav}
 
 ## Tarta de choclos
@@ -28,3 +29,5 @@ Freír en aceite 1 cebolla picada, agregarle 1 lata de tomates picados y 1 lata 
 
 ### Variantes
 
+
+<TODO>

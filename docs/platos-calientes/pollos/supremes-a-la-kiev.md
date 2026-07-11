@@ -1,7 +1,8 @@
 ---
 slug: supremes-a-la-kiev
-uuid: 6fed3dd1-7987-417d-bbd4-d337fbcce3ad
+uuid: 8d818ba2-2572-4cfa-b5a1-f90d3b53aac8
 ---
+
 {nav}
 
 ## Supremes a la Kiev
@@ -26,3 +27,5 @@ Sazonar las supremas de pollo con sal y pimienta, untarlas con la salsa a la Ma√
 
 ### Variantes
 
+
+<TODO>

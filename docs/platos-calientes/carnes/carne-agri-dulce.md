@@ -1,7 +1,8 @@
 ---
 slug: carne-agri-dulce
-uuid: c8988cc8-f66b-490d-bed6-e5aa8a7bd7a3
+uuid: 0819aa24-938b-49c8-91f7-97500160f55f
 ---
+
 {nav}
 
 ## Carne agri-dulce (receta de gigi)
@@ -30,3 +31,5 @@ Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo 
 
 ### Variantes
 
+
+<TODO>

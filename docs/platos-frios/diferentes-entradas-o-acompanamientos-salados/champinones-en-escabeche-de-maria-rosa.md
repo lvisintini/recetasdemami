@@ -1,7 +1,8 @@
 ---
 slug: champinones-en-escabeche-de-maria-rosa
-uuid: 94896b99-db2e-4969-861b-98ae31a76487
+uuid: a42129b3-af94-4567-a9be-7592518b3d32
 ---
+
 {nav}
 
 ## Champiñones en escabeche de Maria Rosa
@@ -55,3 +56,5 @@ Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser su
 
 ### Variantes
 
+
+<TODO>

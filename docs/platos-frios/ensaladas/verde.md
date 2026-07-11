@@ -1,7 +1,8 @@
 ---
 slug: verde
-uuid: 9a61540a-44cb-47cc-af11-fd424ab0022c
+uuid: b37c241e-d2d9-48d0-826f-791eb5f0ec90
 ---
+
 {nav}
 
 ## Verde
@@ -26,3 +27,5 @@ queso de cabra, rúcula, lechuga, radicheta, tomates secos, aceitunas negras, cr
 
 ### Variantes
 
+
+<TODO>

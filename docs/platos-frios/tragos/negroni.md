@@ -1,7 +1,8 @@
 ---
 slug: negroni
-uuid: 05c3a341-f3a2-47d5-aad4-8e0d3f735dc0
+uuid: 9cf935f1-801b-45f1-8a70-af49b404ffe5
 ---
+
 {nav}
 
 ## Negroni
@@ -31,3 +32,5 @@ uuid: 05c3a341-f3a2-47d5-aad4-8e0d3f735dc0
 
 ### Variantes
 
+
+<TODO>

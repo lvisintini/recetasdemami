@@ -1,7 +1,8 @@
 ---
 slug: escabeche-de-verduras
-uuid: 5218243f-74bc-4547-8499-54a0c9360386
+uuid: 72854872-0403-42bb-bc26-c54617e1f17e
 ---
+
 {nav}
 
 ## Escabeche de verduras
@@ -42,3 +43,5 @@ Cocinar hasta que las zanahorias estén tiernas.
 
 ### Variantes
 
+
+<TODO>

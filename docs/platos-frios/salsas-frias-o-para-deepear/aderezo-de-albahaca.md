@@ -1,7 +1,8 @@
 ---
 slug: aderezo-de-albahaca
-uuid: 7abb23f1-7acb-47ee-affb-9ee3326e5d21
+uuid: 20aa9b14-4625-4e91-8c75-7322fe3287fb
 ---
+
 {nav}
 
 ## Aderezo de Albahaca
@@ -33,3 +34,5 @@ Licuar:
 
 ### Variantes
 
+
+<TODO>

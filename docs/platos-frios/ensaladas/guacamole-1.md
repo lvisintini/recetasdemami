@@ -1,7 +1,8 @@
 ---
 slug: guacamole-1
-uuid: 5f27d88e-9e1c-4146-8078-94d47f5bc07d
+uuid: a2e21520-1f37-4d2b-8cb2-b5de02287ca6
 ---
+
 {nav}
 
 ## Guacamole 1
@@ -26,3 +27,5 @@ uuid: 5f27d88e-9e1c-4146-8078-94d47f5bc07d
 
 ### Variantes
 
+
+<TODO>

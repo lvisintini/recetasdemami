@@ -1,7 +1,8 @@
 ---
 slug: tostadas-francesas-o-ropa-vieja
-uuid: 567cdb19-3485-4863-b439-e8289d4163e3
+uuid: 7616a45a-d497-49ef-b299-c65d1da038b3
 ---
+
 {nav}
 
 ## Tostadas francesas o ropa vieja
@@ -28,3 +29,5 @@ Servirlos con miel, kero, chocolate, caramelo líquido o dulce.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: sopa-crema-de-tomate
-uuid: a3f2dfb3-2c0d-4f3b-a756-09725e2dd1e8
+uuid: 2bb79753-4885-4a1e-a4aa-1ebb9f0ed8fb
 ---
+
 {nav}
 
 ## Sopa crema de tomate
@@ -49,3 +50,5 @@ Agregar queso crema y, por último, unos crutones y perejil picado.
 
 ### Variantes
 
+
+<TODO>

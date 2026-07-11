@@ -1,7 +1,8 @@
 ---
 slug: gambas-al-ajillo
-uuid: 63aeeb7c-2aac-4de0-84f3-62c1c7f264e5
+uuid: acfad0e0-4600-4b13-91ac-0120a08cf927
 ---
+
 {nav}
 
 ## Gambas al ajillo
@@ -28,3 +29,5 @@ Freír los ajos a fuego medio y retirarlos antes de dorarse y apagar el fuego. p
 
 ### Variantes
 
+
+<TODO>

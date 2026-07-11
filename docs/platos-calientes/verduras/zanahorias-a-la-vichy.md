@@ -1,7 +1,8 @@
 ---
 slug: zanahorias-a-la-vichy
-uuid: c2cae8d3-3775-475c-9299-c7469ba5d1fb
+uuid: 6893f2e4-0cb7-4547-81f1-1aabc5ce2536
 ---
+
 {nav}
 
 ## Zanahorias a la Vichy
@@ -34,3 +35,5 @@ Es para acompañar carnes o servirla con puré de papas.
 
 ### Variantes
 
+
+<TODO>

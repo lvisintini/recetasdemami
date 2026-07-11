@@ -1,11 +1,9 @@
 ---
 slug: aderezos
-uuid: 5b51eea7-461a-4eed-bec0-7bd7704f23a3
+uuid: d9258095-fcd8-4b89-9268-4a3f23fa3179
 ---
 {nav}
 
 ## Aderezos
-
-
 
 {toc}

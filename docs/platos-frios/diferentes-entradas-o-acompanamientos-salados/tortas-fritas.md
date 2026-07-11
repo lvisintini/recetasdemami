@@ -1,7 +1,8 @@
 ---
 slug: tortas-fritas
-uuid: 3a416c0c-273a-4522-ade6-15e467ecf7ef
+uuid: 386d78b2-bab4-4b84-b7fb-9625307464f8
 ---
+
 {nav}
 
 ## Tortas fritas
@@ -45,3 +46,5 @@ Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
 
 ### Variantes
 
+
+<TODO>

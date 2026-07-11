@@ -1,7 +1,8 @@
 ---
 slug: cerdo-a-la-florentin
-uuid: a0874518-bfe8-4348-85fe-8fb886a6872d
+uuid: d721c6c4-6341-4c32-8414-55e574fb3a71
 ---
+
 {nav}
 
 ## Cerdo a la florentin (agridulce)
@@ -32,3 +33,5 @@ Una vez cocido, también se puede cortar e intercalar rodajas de ananá, dándol
 
 ### Variantes
 
+
+<TODO>

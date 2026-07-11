@@ -1,7 +1,8 @@
 ---
 slug: huevos-abrazados-por-la-panceta
-uuid: 48fe6089-a7a8-42ba-81bd-4c08a4882bf7
+uuid: 7ef3e5df-ac01-4264-ba42-0f027c6eacfd
 ---
+
 {nav}
 
 ## Huevos abrazados por la panceta
@@ -28,3 +29,5 @@ Ideal para hacer para varias personas (6)
 
 ### Variantes
 
+
+<TODO>

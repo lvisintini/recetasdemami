@@ -1,7 +1,8 @@
 ---
 slug: grog-de-miel
-uuid: f1e1eefd-7e3b-4fa1-9d85-2c7c8bd77383
+uuid: db01b9fa-84cd-4827-a53f-0689cdcb15f1
 ---
+
 {nav}
 
 ## Grog de miel
@@ -33,3 +34,5 @@ En un vaso poner:
 
 ### Variantes
 
+
+<TODO>

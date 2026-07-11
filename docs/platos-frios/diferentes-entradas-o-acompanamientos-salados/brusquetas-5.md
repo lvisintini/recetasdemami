@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-5
-uuid: b8551b96-b824-4725-8a74-f4f4e8bb224a
+uuid: ecc8c826-edd6-45ac-860a-92895d23c38f
 ---
+
 {nav}
 
 ## Brusquetas 5
@@ -32,3 +33,5 @@ Se cubren las rebanadas de pan con una capa de ½ cm de espesor y se tuestan al 
 
 ### Variantes
 
+
+<TODO>

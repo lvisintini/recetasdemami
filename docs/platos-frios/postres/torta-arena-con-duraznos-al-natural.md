@@ -1,7 +1,8 @@
 ---
 slug: torta-arena-con-duraznos-al-natural
-uuid: 1f539701-72c2-4cd9-afb5-c4661b78eab7
+uuid: 2c323d35-1cef-422f-be36-7a4cf9d44d7b
 ---
+
 {nav}
 
 ## Torta arena con duraznos al natural
@@ -34,3 +35,5 @@ Puede decorarse con crema chantilly y finos gajos de durazno formando círculos 
 
 ### Variantes
 
+
+<TODO>

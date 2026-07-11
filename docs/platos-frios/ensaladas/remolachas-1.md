@@ -1,7 +1,8 @@
 ---
 slug: remolachas-1
-uuid: 388d266c-d0d3-4a47-9f64-364d625b9b8a
+uuid: b3d89de8-ea4a-4feb-84e6-85587fe95d50
 ---
+
 {nav}
 
 ## Remolachas 1
@@ -26,3 +27,5 @@ Remolachas, manzanas, queso, aceite, jugo de limón, sal.
 
 ### Variantes
 
+
+<TODO>

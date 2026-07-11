@@ -1,7 +1,8 @@
 ---
 slug: graten-de-calabaza-y-choclo
-uuid: 2d4e485f-9dfb-4ba3-9843-51c4a20d6a6c
+uuid: df2a86b1-d7ae-41f5-8ad2-0b9d5bb90b2c
 ---
+
 {nav}
 
 ## Graten de calabaza y choclo
@@ -28,3 +29,5 @@ Se pueden variar las verduras.
 
 ### Variantes
 
+
+<TODO>

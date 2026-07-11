@@ -1,11 +1,9 @@
 ---
 slug: masas
-uuid: 62d9405c-85d9-4eb9-add3-b6098aa1ce5a
+uuid: 00583416-ed42-4f56-8821-d8d706d646cb
 ---
 {nav}
 
 ## Masas
-
-
 
 {toc}

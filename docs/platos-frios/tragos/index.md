@@ -1,7 +1,8 @@
 ---
 slug: tragos
-uuid: 4e375395-54c4-4c8b-9f86-c9f41566fa15
+uuid: 32f0fbb3-844c-4d35-9470-9fa1621633e6
 ---
+
 {nav}
 
 ## Tragos
@@ -29,3 +30,5 @@ Poner las copas en la heladera antes de servir el trago.
 
 ### Variantes
 
+
+<TODO>

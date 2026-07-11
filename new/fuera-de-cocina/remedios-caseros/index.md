@@ -1,11 +1,9 @@
 ---
 slug: remedios-caseros
-uuid: 8227d7a4-4f73-418a-9ba5-49749e7e1147
+uuid: 90f7a34a-1fe7-4938-bcf2-ae750b212916
 ---
 {nav}
 
 ## Remedios caseros
-
-
 
 {toc}

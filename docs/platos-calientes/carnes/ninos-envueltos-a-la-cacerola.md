@@ -1,7 +1,8 @@
 ---
 slug: ninos-envueltos-a-la-cacerola
-uuid: dc5a5ae7-2f28-4859-918e-48b519303bc9
+uuid: fb409296-d029-49e3-a73f-9ee44f1e5d18
 ---
+
 {nav}
 
 ## Niños envueltos a la cacerola
@@ -34,3 +35,5 @@ Bañarlos con la salsa y salpicar con perejil picado.
 
 ### Variantes
 
+
+<TODO>

@@ -1,11 +1,9 @@
 ---
 slug: tortas-y-bizcochuelos
-uuid: 590756f5-348b-4473-adb4-2203b7a68b63
+uuid: 8a40a5fc-aaec-4e3e-bed8-8277f524575f
 ---
 {nav}
 
 ## Tortas y bizcochuelos
-
-
 
 {toc}

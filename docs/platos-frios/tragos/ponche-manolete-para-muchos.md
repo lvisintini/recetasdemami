@@ -1,7 +1,8 @@
 ---
 slug: ponche-manolete-para-muchos
-uuid: dc5caa2e-6b58-4899-8b60-2b133b48c146
+uuid: f8acc778-21d1-4478-ab32-f4dae2b2ab98
 ---
+
 {nav}
 
 ## Ponche Manolete para muchos
@@ -35,3 +36,5 @@ Cuando esté bien helado agregar 1 litro de champán y servir con trocitos de fr
 
 ### Variantes
 
+
+<TODO>

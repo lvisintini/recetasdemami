@@ -1,7 +1,8 @@
 ---
 slug: clafoutis-de-cereza
-uuid: 80160a17-4ae4-49fa-a045-bd5d423ce8b0
+uuid: 92c8d5e0-06cc-46ad-b048-1276cc3410d2
 ---
+
 {nav}
 
 ## Clafoutis de cereza
@@ -38,3 +39,5 @@ Espolvorear con abundante azúcar impalpable y servir.
 
 ### Variantes
 
+
+<TODO>

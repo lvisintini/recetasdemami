@@ -1,7 +1,8 @@
 ---
 slug: matambre-relleno
-uuid: d7982b23-0e60-462e-bfca-b00d630833dc
+uuid: c59e9966-d546-4f5a-94d8-508c5a3ead57
 ---
+
 {nav}
 
 ## Matambre relleno (2 kg)
@@ -31,3 +32,5 @@ Cerrar el matambre enroscándolo sobre el relleno, coserlo o atarlo para que tom
 
 ### Variantes
 
+
+<TODO>

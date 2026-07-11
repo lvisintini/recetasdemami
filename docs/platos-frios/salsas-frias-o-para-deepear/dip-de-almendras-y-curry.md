@@ -1,7 +1,8 @@
 ---
 slug: dip-de-almendras-y-curry
-uuid: dd4d5a99-d572-4b14-a8b4-dc8a56e7417b
+uuid: 14ad5ebc-3a19-4c6b-8af8-e0b1e7878e1b
 ---
+
 {nav}
 
 ## Dip de Almendras y Curry
@@ -31,3 +32,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

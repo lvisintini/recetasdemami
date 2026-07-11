@@ -1,7 +1,8 @@
 ---
 slug: estrenimiento
-uuid: 7eb8a120-e639-4918-a9ac-e4bbb5aa226d
+uuid: 41404a83-10c3-4cf2-b0b7-03f9e927f456
 ---
+
 {nav}
 
 ## Estreñimiento
@@ -39,3 +40,5 @@ Otros laxantes naturales:
 
 ### Variantes
 
+
+<TODO>

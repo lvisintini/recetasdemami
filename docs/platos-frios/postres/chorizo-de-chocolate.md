@@ -1,7 +1,8 @@
 ---
 slug: chorizo-de-chocolate
-uuid: 7d7e9e68-fa0e-4805-a3ff-f2f89a29e62d
+uuid: d593d87e-e5f7-4c1d-bc4f-79dd7e4b4e08
 ---
+
 {nav}
 
 ## Chorizo de chocolate
@@ -36,3 +37,5 @@ En mi opinion, pondria mas masitas mana.
 
 ### Variantes
 
+
+<TODO>

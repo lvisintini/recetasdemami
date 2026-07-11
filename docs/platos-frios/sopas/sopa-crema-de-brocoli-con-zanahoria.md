@@ -1,7 +1,8 @@
 ---
 slug: sopa-crema-de-brocoli-con-zanahoria
-uuid: 9d5f165c-db7c-4701-a58b-070395d4453f
+uuid: f6c37c23-c720-42b4-a845-0758c1c790de
 ---
+
 {nav}
 
 ## Sopa crema de brocoli con zanahoria
@@ -37,3 +38,5 @@ Decorar con arbolitos de brócoli, queso rallado y crutones al ajo.
 
 ### Variantes
 
+
+<TODO>

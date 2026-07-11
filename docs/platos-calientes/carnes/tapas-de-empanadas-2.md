@@ -1,7 +1,8 @@
 ---
 slug: tapas-de-empanadas-2
-uuid: 9ffdc493-a74b-484f-b95b-36b892ae1497
+uuid: 46dbdd6d-90f1-424b-8644-b15cb94af188
 ---
+
 {nav}
 
 ## Tapas de empanadas 2
@@ -39,3 +40,5 @@ Se fríen en grasa de cerdo y se sirven calientes.
 
 ### Variantes
 
+
+<TODO>

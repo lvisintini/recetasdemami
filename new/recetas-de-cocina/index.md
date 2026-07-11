@@ -1,11 +1,9 @@
 ---
 slug: recetas-de-cocina
-uuid: 590efe32-adef-4294-88e9-94e1c6d38af9
+uuid: c3e8ce38-04d1-4395-a28a-64b0258658b0
 ---
 {nav}
 
 ## Recetas de cocina
-
-
 
 {toc}

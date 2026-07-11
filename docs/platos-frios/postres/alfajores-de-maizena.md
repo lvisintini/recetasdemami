@@ -1,7 +1,8 @@
 ---
 slug: alfajores-de-maizena
-uuid: 955748dc-f4d2-4fbe-b041-d8e8312e30d7
+uuid: 6e337292-30bf-4b22-8fba-0f34380e78a7
 ---
+
 {nav}
 
 ## Alfajores de maizena
@@ -38,3 +39,5 @@ Una vez fríos se unen de a dos con dulce de leche, poniéndoles un poco del dul
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: toast-hawaii
-uuid: 8df838df-a096-44f5-8a64-32ef9f5d4220
+uuid: a4012561-0763-4b89-a8c9-30b6ee096451
 ---
+
 {nav}
 
 ## Toast Hawaii
@@ -26,3 +27,5 @@ Pan lactal, extender sobre el pan mostaza, jamón cocido, rodaja de ananá, espo
 
 ### Variantes
 
+
+<TODO>

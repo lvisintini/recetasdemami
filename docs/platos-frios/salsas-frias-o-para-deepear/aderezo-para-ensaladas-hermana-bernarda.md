@@ -1,7 +1,8 @@
 ---
 slug: aderezo-para-ensaladas-hermana-bernarda
-uuid: ecf522b4-1ee7-4e85-8037-9419a9651a9b
+uuid: 6f6489bc-10e7-43f2-9392-1e3a25ab78eb
 ---
+
 {nav}
 
 ## Aderezo para ensaladas hermana Bernarda
@@ -31,3 +32,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: arroz-al-curry
-uuid: bed00fba-1bb1-481b-bea1-11eb52164b01
+uuid: 2a27f2b5-9857-4a86-b851-c0e3043c6ecf
 ---
+
 {nav}
 
 ## Arroz al curry
@@ -34,3 +35,5 @@ Se puede espolvorear con perejil picado.
 
 ### Variantes
 
+
+<TODO>

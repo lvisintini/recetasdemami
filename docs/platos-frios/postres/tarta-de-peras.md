@@ -1,7 +1,8 @@
 ---
 slug: tarta-de-peras
-uuid: cfa826fb-b236-423a-9e88-ac4d127d841e
+uuid: 5647864b-4188-4c1a-afb8-b365dad7105c
 ---
+
 {nav}
 
 ## Tarta de peras (y otras frutas)
@@ -52,3 +53,5 @@ Las bananas y el ananá deben ser previamente caramelizados.
 
 ### Variantes
 
+
+<TODO>

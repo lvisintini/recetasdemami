@@ -1,7 +1,8 @@
 ---
 slug: spatzle
-uuid: 9eb9d889-c335-42db-af15-a0e0e6a716f3
+uuid: 1351d6d1-9630-4c4f-a010-3ab908da2a80
 ---
+
 {nav}
 
 ## Spâtzle (4 personas)
@@ -30,3 +31,5 @@ Ir cortando la masa que va cayendo en el agua hirviendo y cocinandose.
 
 ### Variantes
 
+
+<TODO>

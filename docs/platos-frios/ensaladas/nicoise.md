@@ -1,7 +1,8 @@
 ---
 slug: nicoise
-uuid: 57bfb3bb-088d-4865-9dc1-40d415ae3f00
+uuid: db6ecfef-24d0-433e-a0d6-788fc9fc6a14
 ---
+
 {nav}
 
 ## Nicoise
@@ -26,3 +27,5 @@ chauchas hervidas, huevo duro, cibulette, aceitunas verdes, perejil, rayadura gr
 
 ### Variantes
 
+
+<TODO>

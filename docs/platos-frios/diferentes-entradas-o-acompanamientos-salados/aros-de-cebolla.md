@@ -1,7 +1,8 @@
 ---
 slug: aros-de-cebolla
-uuid: d035ff0e-ce6e-4454-93c5-3afc1608f1ab
+uuid: cb3830ab-1e91-470e-87be-e956b2d24982
 ---
+
 {nav}
 
 ## Aros de cebolla
@@ -42,3 +43,5 @@ Dorarlas de ambos lados y retirarlos con espumadera, colocándolos sobre papel d
 
 ### Variantes
 
+
+<TODO>

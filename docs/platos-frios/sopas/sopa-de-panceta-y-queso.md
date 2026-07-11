@@ -1,7 +1,8 @@
 ---
 slug: sopa-de-panceta-y-queso
-uuid: c2849c67-a762-45b4-b236-474dcd49778d
+uuid: 0f14386b-df7d-4a55-bed4-8e5d8b1019d1
 ---
+
 {nav}
 
 ## Sopa de panceta y queso
@@ -41,3 +42,5 @@ Servir hirviendo, en 10 bowls y en cada uno agregar un trozo de queso reblochon 
 
 ### Variantes
 
+
+<TODO>

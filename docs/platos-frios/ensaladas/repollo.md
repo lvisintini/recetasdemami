@@ -1,7 +1,8 @@
 ---
 slug: repollo
-uuid: 0e6d6c40-f2fe-40dd-8686-8e675aabe7a0
+uuid: 67681786-ee22-4aa9-8803-292fe2b74e01
 ---
+
 {nav}
 
 ## Repollo
@@ -31,3 +32,5 @@ agregar a la anterior palmitos, huevo duro y pizca mostaza.
 
 ### Variantes
 
+
+<TODO>

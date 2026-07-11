@@ -1,7 +1,8 @@
 ---
 slug: brocoli-con-papas-al-horno-micro
-uuid: 6f7ec554-74bc-42d2-a681-3d1bacc2ea5a
+uuid: bb5fc667-4105-4255-b694-0d6eb8a829db
 ---
+
 {nav}
 
 ## Brócoli con papas al horno micro
@@ -28,3 +29,5 @@ Salsa al ajo: frito 3 dientes de ajo en láminas, añadir sal, pimienta, piment�
 
 ### Variantes
 
+
+<TODO>

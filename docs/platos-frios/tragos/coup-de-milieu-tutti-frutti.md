@@ -1,7 +1,8 @@
 ---
 slug: coup-de-milieu-tutti-frutti
-uuid: 3bddb359-8611-4c57-8120-a085347a5619
+uuid: dcc45c3c-87c3-476b-aa76-46bd035c5407
 ---
+
 {nav}
 
 ## Coup de Milieu, Tutti Frutti
@@ -32,3 +33,5 @@ Si es necesario volver a enfriar y completar con sidra helada.
 
 ### Variantes
 
+
+<TODO>

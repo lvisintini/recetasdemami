@@ -1,7 +1,8 @@
 ---
 slug: rusa
-uuid: 293bea44-3a83-43ca-9ab7-680cfc6e6825
+uuid: 947f3e54-c258-42d2-9157-aaaa42aa4471
 ---
+
 {nav}
 
 ## Rusa
@@ -26,3 +27,5 @@ Papas, zanahorias, chauchas, arvejas, pepinitos en vinagre, huevo duro, jamón, 
 
 ### Variantes
 
+
+<TODO>

@@ -1,11 +1,9 @@
 ---
 slug: salsas-frias
-uuid: 4c2bfedd-9228-4b49-b31b-f8606e83f500
+uuid: 11b3a105-84c6-474d-ad12-35af636a59e1
 ---
 {nav}
 
 ## Salsas Frías
-
-
 
 {toc}

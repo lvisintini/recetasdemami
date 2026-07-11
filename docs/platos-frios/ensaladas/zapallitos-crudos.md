@@ -1,7 +1,8 @@
 ---
 slug: zapallitos-crudos
-uuid: e7e25fe4-6142-4c69-8140-51aaed985000
+uuid: 9bd026ad-a949-4e19-bdbc-230c211ea49b
 ---
+
 {nav}
 
 ## Zapallitos crudos
@@ -26,3 +27,5 @@ Zapallitos rallados grueso, tomates cherry cortados al medio, aceitunas negras d
 
 ### Variantes
 
+
+<TODO>

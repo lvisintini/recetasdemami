@@ -1,7 +1,8 @@
 ---
 slug: gateau-suizo-o-torta-alemana-de-la-nona
-uuid: 5476210a-5bf6-413d-b1b6-f731aaee5620
+uuid: 6b6132ed-672d-4ca0-b537-d2ecfb1b458b
 ---
+
 {nav}
 
 ## Gateau suizo o torta alemana de la nona
@@ -44,3 +45,5 @@ Sobre la masa se puede colocar rodajas de 3 manzanas y cubrirlas con más crema 
 
 ### Variantes
 
+
+<TODO>

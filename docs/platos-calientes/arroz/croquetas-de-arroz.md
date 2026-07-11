@@ -1,7 +1,8 @@
 ---
 slug: croquetas-de-arroz
-uuid: dbb9d11e-20c4-4252-9084-7b1956bd3d20
+uuid: 7fe3caf6-19b0-419f-ba2f-358f4b9a1245
 ---
+
 {nav}
 
 ## Croquetas de arroz
@@ -32,3 +33,5 @@ Servir caliente.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: tarteletas-dulces
-uuid: b14298a7-d47f-40eb-9e2c-5245034e59e6
+uuid: b5c51254-ad1d-4fcb-b693-cb35a73c52da
 ---
+
 {nav}
 
 ## Tarteletas dulces
@@ -37,3 +38,5 @@ Pinchar el fondo y los costados para que mantenga la forma y llevar a horno a 18
 
 ### Variantes
 
+
+<TODO>

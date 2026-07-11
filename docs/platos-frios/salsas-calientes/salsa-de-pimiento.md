@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-pimiento
-uuid: 72a9ff6f-3895-49a9-be12-d10ae30f8064
+uuid: 5d197013-d2a2-47d7-8167-73889385f18e
 ---
+
 {nav}
 
 ## Salsa de pimiento
@@ -33,3 +34,5 @@ Cocinar a fuego suave.
 
 ### Variantes
 
+
+<TODO>

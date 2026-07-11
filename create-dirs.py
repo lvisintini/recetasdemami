@@ -17,8 +17,6 @@ uuid: {uuid}
 
 ## {dirty_title}
 
-{content}
-
 {toc}
 """
 content = []
@@ -66,7 +64,7 @@ for x in m:
     else:
         content.append(x if not x.startswith('#') else x[len(path)-1:])
 
-directory = './docs/new/' + '/'.join(path)
+directory = './new/' + '/'.join(path)
 if len(path) < 4:
     if not os.path.exists(directory):
          os.makedirs(directory)

@@ -1,7 +1,8 @@
 ---
 slug: michelada
-uuid: 1bde3474-1373-48a0-9aef-02a68675d95c
+uuid: bbf428bc-4c2f-4211-8e8e-f3d3ab3b7b31
 ---
+
 {nav}
 
 ## Michelada
@@ -29,3 +30,5 @@ uuid: 1bde3474-1373-48a0-9aef-02a68675d95c
 
 ### Variantes
 
+
+<TODO>

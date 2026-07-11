@@ -1,7 +1,8 @@
 ---
 slug: calabaza-asada-con-miel-y-queso
-uuid: c1f422e3-d45c-4a8a-bf3b-0dca67fe9d40
+uuid: bc917ef2-17c3-4fa7-a905-d9399a46408e
 ---
+
 {nav}
 
 ## Calabaza asada con miel y queso.
@@ -32,3 +33,5 @@ Puede servirse sobre tostadas, o como acompañamiento de diferentes carnes.
 
 ### Variantes
 
+
+<TODO>

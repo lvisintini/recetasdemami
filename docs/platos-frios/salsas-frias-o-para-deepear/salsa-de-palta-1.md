@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-palta-1
-uuid: 7be103ac-6825-4487-81ed-1956dcc03e14
+uuid: 266c5028-f4b2-4b95-8f39-f3613151ccb1
 ---
+
 {nav}
 
 ## Salsa de Palta 1
@@ -34,3 +35,5 @@ Licuar:
 
 ### Variantes
 
+
+<TODO>

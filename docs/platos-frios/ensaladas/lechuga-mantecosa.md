@@ -1,7 +1,8 @@
 ---
 slug: lechuga-mantecosa
-uuid: b7b20916-66af-4b74-8df0-855dd62c291f
+uuid: bc7fcfa1-4927-45ba-9227-ca38df116913
 ---
+
 {nav}
 
 ## Lechuga mantecosa
@@ -28,3 +29,5 @@ Aceite, vinagre y sal o salsa César.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: florentinos
-uuid: 44172748-f2ab-488a-a48b-9b59d743ac52
+uuid: 3e8e19da-5c78-422b-af85-81a43dc2300b
 ---
+
 {nav}
 
 ## Florentinos
@@ -51,3 +52,5 @@ Llevarlos a la heladera hasta que se solidifique el chocolate.
 
 ### Variantes
 
+
+<TODO>

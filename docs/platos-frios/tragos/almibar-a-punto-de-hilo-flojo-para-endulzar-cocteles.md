@@ -1,7 +1,8 @@
 ---
 slug: almibar-a-punto-de-hilo-flojo-para-endulzar-cocteles
-uuid: abe93ec2-5200-41c6-a87e-f538ba7efd91
+uuid: 0ead998c-ff03-4e3b-b359-227b516e440d
 ---
+
 {nav}
 
 ## Almíbar a punto de hilo flojo para endulzar cócteles
@@ -28,3 +29,5 @@ Mezclar con cuchara de madera y hervir hasta que levantando la cuchara se forme 
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: pisco-sour
-uuid: fe9055ab-bdff-41d2-9cc4-3d4aa8ddfd0d
+uuid: 8d3ba514-0cb8-405c-ac38-1f7301792284
 ---
+
 {nav}
 
 ## Pisco sour
@@ -34,3 +35,5 @@ Batir:
 
 ### Variantes
 
+
+<TODO>

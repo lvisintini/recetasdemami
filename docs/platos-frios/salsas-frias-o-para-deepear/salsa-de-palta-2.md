@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-palta-2
-uuid: 114faafe-93ff-4706-b26c-d5df45fe513c
+uuid: bcbab16a-ef4e-4ce3-a020-23abeb71fcc1
 ---
+
 {nav}
 
 ## Salsa de Palta 2
@@ -34,3 +35,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

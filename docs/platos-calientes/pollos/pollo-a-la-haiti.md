@@ -1,7 +1,8 @@
 ---
 slug: pollo-a-la-haiti
-uuid: edefebb1-6a6c-4719-a638-7e6fd2bf5f08
+uuid: 3f8abc2f-91c8-47e6-bbf4-072189d2a92c
 ---
+
 {nav}
 
 ## Pollo a la Haiti.
@@ -34,3 +35,5 @@ Retirar y disponer junto a las rodajas de anan√°. salsear con el fondo de cocci√
 
 ### Variantes
 
+
+<TODO>

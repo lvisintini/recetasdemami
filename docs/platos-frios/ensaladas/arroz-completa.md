@@ -1,7 +1,8 @@
 ---
 slug: arroz-completa
-uuid: 3d5be6d9-3c5f-4f09-b8ac-cc32c40c9adb
+uuid: 95c3c418-48d0-465e-81f3-af8f2116d2eb
 ---
+
 {nav}
 
 ## Arroz completa
@@ -26,3 +27,5 @@ uuid: 3d5be6d9-3c5f-4f09-b8ac-cc32c40c9adb
 
 ### Variantes
 
+
+<TODO>

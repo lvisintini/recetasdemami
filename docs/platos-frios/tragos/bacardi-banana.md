@@ -1,7 +1,8 @@
 ---
 slug: bacardi-banana
-uuid: 328698ed-91ce-4e7c-988d-da7df5c67751
+uuid: b5787bd5-806c-4956-b0f3-378fbf210d40
 ---
+
 {nav}
 
 ## Bacardi banana
@@ -32,3 +33,5 @@ Licuar:
 
 ### Variantes
 
+
+<TODO>

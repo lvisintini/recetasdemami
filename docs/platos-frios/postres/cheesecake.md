@@ -1,7 +1,8 @@
 ---
 slug: cheesecake
-uuid: c74319c3-e1cf-457d-9bf3-c20be7ca4dca
+uuid: 5610e7fa-c6ad-42b4-ae24-8adc6a0fc45a
 ---
+
 {nav}
 
 ## Cheesecake
@@ -30,3 +31,5 @@ Se puede suprimir la gelatina y reemplazarla por 4 claras batidas a punto de nie
 
 ### Variantes
 
+
+<TODO>

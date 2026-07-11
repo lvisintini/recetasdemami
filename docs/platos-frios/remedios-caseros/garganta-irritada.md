@@ -1,7 +1,8 @@
 ---
 slug: garganta-irritada
-uuid: 2bf719db-a8b4-4039-9722-f1b4e6c37878
+uuid: 9d96f710-5eb0-47fb-a94c-d5f60d07556e
 ---
+
 {nav}
 
 ## Garganta irritada
@@ -35,3 +36,5 @@ Emplear con precaución.
 
 ### Variantes
 
+
+<TODO>

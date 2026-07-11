@@ -1,7 +1,8 @@
 ---
 slug: batata
-uuid: 8edaa389-8ce3-4e27-b0ea-b46370873522
+uuid: 90d4e533-d4d8-4691-a138-4dccafd7d08f
 ---
+
 {nav}
 
 ## Batata
@@ -26,3 +27,5 @@ Batata cocida en cubitos, pimiento morrón rojo picado grueso, cebollita de verd
 
 ### Variantes
 
+
+<TODO>

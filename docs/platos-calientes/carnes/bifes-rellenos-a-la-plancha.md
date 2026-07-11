@@ -1,7 +1,8 @@
 ---
 slug: bifes-rellenos-a-la-plancha
-uuid: 4d7b2491-89dc-466c-bd91-10010e8a83cd
+uuid: 269633fb-5638-4a4e-a142-86ae6b40f824
 ---
+
 {nav}
 
 ## Bifes rellenos a la plancha
@@ -40,3 +41,5 @@ Pueden también bañarse con diferentes salsa, como la salsa maître d'hôtel.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: hueso-perdido
-uuid: 83b447ec-984e-4b53-976d-b6dd07ae7fea
+uuid: 3d626d82-fa9c-4909-8285-303f2dc2718f
 ---
+
 {nav}
 
 ## Hueso perdido
@@ -26,3 +27,5 @@ naranja, cebolla (previamente pasada por agua caliente) o ciboulette, zanahoria,
 
 ### Variantes
 
+
+<TODO>

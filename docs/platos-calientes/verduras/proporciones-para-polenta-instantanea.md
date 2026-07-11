@@ -1,7 +1,8 @@
 ---
 slug: proporciones-para-polenta-instantanea
-uuid: 24845318-0798-480c-a59c-8caf683d2a32
+uuid: fe598e2b-52b5-4655-8c6b-a069c49b4dc5
 ---
+
 {nav}
 
 ## Proporciones para polenta instantánea
@@ -26,3 +27,5 @@ uuid: 24845318-0798-480c-a59c-8caf683d2a32
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-anana
-uuid: e83d9a75-3cac-4b76-8419-095e0f94fa8f
+uuid: 63e5f20a-6a94-4c0c-b88a-580636e63946
 ---
+
 {nav}
 
 ## Salsa de Ananá
@@ -30,3 +31,5 @@ Espesar con 1 cucharada de maizena y terminar con 100 gr de crema de leche.
 
 ### Variantes
 
+
+<TODO>

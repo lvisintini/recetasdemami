@@ -1,7 +1,8 @@
 ---
 slug: noquis-caseros
-uuid: 4262510a-24bb-4d05-ad89-fee37c464519
+uuid: 7e8d47c5-0965-4b14-a254-adeb381072ee
 ---
+
 {nav}
 
 ## Ñoquis caseros
@@ -28,3 +29,5 @@ Si hace falta para obtener una masa trabajable agregar manteca. hacer los choric
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: paleta-de-pintor-1
-uuid: 283d793f-c4ab-4e05-9e45-d0dc0e958a56
+uuid: 9ebab2d8-dd03-4ed3-8d4a-3e1d3d84edd5
 ---
+
 {nav}
 
 ## Paleta de pintor 1
@@ -30,3 +31,5 @@ Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil 
 
 ### Variantes
 
+
+<TODO>

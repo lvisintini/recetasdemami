@@ -1,7 +1,8 @@
 ---
 slug: bloody-mary
-uuid: 7867c675-d64a-4558-b316-04fc20429af0
+uuid: 8e770820-f62a-4919-8023-8c35db864eed
 ---
+
 {nav}
 
 ## Bloody Mary
@@ -34,3 +35,5 @@ En un vaso alto:
 
 ### Variantes
 
+
+<TODO>

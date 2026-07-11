@@ -1,7 +1,8 @@
 ---
 slug: wok-con-carne
-uuid: c9adf33b-381a-4d78-9f83-997925441c68
+uuid: a44c6ecf-af16-4bee-9b3c-fd31d0b4e4b7
 ---
+
 {nav}
 
 ## Wok con carne
@@ -26,3 +27,5 @@ Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) 
 
 ### Variantes
 
+
+<TODO>

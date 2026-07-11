@@ -1,7 +1,8 @@
 ---
 slug: caipiroska
-uuid: 03933ef6-0778-4bc2-b624-643448442b23
+uuid: a7c1918b-e9e9-4aa5-b6d1-0a8654aa2d74
 ---
+
 {nav}
 
 ## Caipiroska
@@ -31,3 +32,5 @@ uuid: 03933ef6-0778-4bc2-b624-643448442b23
 
 ### Variantes
 
+
+<TODO>

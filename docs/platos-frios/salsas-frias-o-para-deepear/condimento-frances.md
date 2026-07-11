@@ -1,7 +1,8 @@
 ---
 slug: condimento-frances
-uuid: 8d27ceb8-ab56-4143-9514-eec1d43e8f5c
+uuid: 2b00e44a-f59a-4b94-a4e3-7ea0254e30b2
 ---
+
 {nav}
 
 ## Condimento Frances
@@ -35,3 +36,5 @@ Mezclar:
 
 ### Variantes
 
+
+<TODO>

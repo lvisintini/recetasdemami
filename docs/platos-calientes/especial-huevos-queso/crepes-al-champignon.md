@@ -1,7 +1,8 @@
 ---
 slug: crepes-al-champignon
-uuid: ac04461a-346d-44d4-b9a0-1e93e7ef05d6
+uuid: 022ac5ab-d149-48fb-be9f-2cd66ee41edc
 ---
+
 {nav}
 
 ## Crepes al champignon
@@ -28,3 +29,5 @@ Una vez licuado, agregar 1 taza de champignones en rodajas. hacer los panqueques
 
 ### Variantes
 
+
+<TODO>

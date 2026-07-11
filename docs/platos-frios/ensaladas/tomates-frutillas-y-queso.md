@@ -1,7 +1,8 @@
 ---
 slug: tomates-frutillas-y-queso
-uuid: d3d1dd8a-32c4-438e-b569-731c75b985e0
+uuid: 3b3a35f8-fc41-4968-b8d7-f3e96405fbc3
 ---
+
 {nav}
 
 ## Tomates, frutillas y queso (para 10 personas)
@@ -31,3 +32,5 @@ Por último agregar unas 40 hojas de albahaca.
 
 ### Variantes
 
+
+<TODO>

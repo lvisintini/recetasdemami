@@ -1,7 +1,8 @@
 ---
 slug: indigestion
-uuid: d7b63eb5-485b-43f7-82db-c1a04272f3d5
+uuid: c1eeab3a-a245-4919-b31b-8ac6faa15dcd
 ---
+
 {nav}
 
 ## Indigestión
@@ -30,3 +31,5 @@ Las infusiones de hinojo favorecen la digestión, previenen los cólicos y estim
 
 ### Variantes
 
+
+<TODO>

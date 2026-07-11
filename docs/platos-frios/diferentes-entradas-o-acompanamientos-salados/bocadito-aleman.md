@@ -1,7 +1,8 @@
 ---
 slug: bocadito-aleman
-uuid: 80c4508b-eaa7-4396-ae4e-4b4db5b01a15
+uuid: 2b2df8c0-7601-4506-a8d5-fa8267a74786
 ---
+
 {nav}
 
 ## Bocadito aleman
@@ -26,3 +27,5 @@ Sobre biscochos “Rex” (también llamados "Ritz") colocar una rodajita de leb
 
 ### Variantes
 
+
+<TODO>

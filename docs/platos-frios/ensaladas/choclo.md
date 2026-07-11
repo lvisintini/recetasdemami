@@ -1,7 +1,8 @@
 ---
 slug: choclo
-uuid: 79e0fda7-d46e-4ea5-8400-280b351d01eb
+uuid: 2448c35a-3a93-4b97-be24-88096e3fa354
 ---
+
 {nav}
 
 ## Choclo
@@ -26,3 +27,5 @@ Choclo grano entero, nueces, apio, tomates, ciboulette, mayonesa, jugo limón, p
 
 ### Variantes
 
+
+<TODO>

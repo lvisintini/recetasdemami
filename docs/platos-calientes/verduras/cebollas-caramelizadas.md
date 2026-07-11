@@ -1,7 +1,8 @@
 ---
 slug: cebollas-caramelizadas
-uuid: 7b1b2598-b370-4d90-9e03-dbd030da1b5c
+uuid: ac490e3a-a9b3-4685-94f4-e875861e4238
 ---
+
 {nav}
 
 ## Cebollas caramelizadas
@@ -28,3 +29,5 @@ A fuego moderado, revolver frecuentemente durante 5 minutos o hasta que la cebol
 
 ### Variantes
 
+
+<TODO>

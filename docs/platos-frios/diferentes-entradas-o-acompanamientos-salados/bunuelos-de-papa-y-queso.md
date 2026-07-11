@@ -1,7 +1,8 @@
 ---
 slug: bunuelos-de-papa-y-queso
-uuid: 3b294fe3-8028-404a-81b3-1580e591a5f1
+uuid: 5b824e00-1351-4aa5-80a8-c4238ff0fcef
 ---
+
 {nav}
 
 ## Buñuelos de papa y queso
@@ -36,3 +37,5 @@ Servir caliente.
 
 ### Variantes
 
+
+<TODO>

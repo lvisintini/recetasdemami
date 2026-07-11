@@ -1,7 +1,8 @@
 ---
 slug: biscochuelo
-uuid: 45b575a6-cb95-47b9-b92c-fc1e68901334
+uuid: fadcba39-b242-473f-a7fd-bb5352f48908
 ---
+
 {nav}
 
 ## Biscochuelo
@@ -34,3 +35,5 @@ Dejarlo en el horno apagado hasta que se enfríe, de lo contrario puede aplastar
 
 ### Variantes
 
+
+<TODO>

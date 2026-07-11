@@ -1,7 +1,8 @@
 ---
 slug: sablee-de-almendras
-uuid: e121a48b-b3da-4b4c-98c9-3f13f8d77a72
+uuid: 519ee07a-2542-4c12-a685-8ad4f0ca02d7
 ---
+
 {nav}
 
 ## Sablée de almendras
@@ -51,3 +52,5 @@ Decorar con hojas de menta.
 
 ### Variantes
 
+
+<TODO>

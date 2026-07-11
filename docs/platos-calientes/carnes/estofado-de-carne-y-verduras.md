@@ -1,7 +1,8 @@
 ---
 slug: estofado-de-carne-y-verduras
-uuid: af10acab-cba4-44a5-85e4-523c4dd0cd91
+uuid: 65375f17-87ca-40c2-9c5f-7eb1e3b1da34
 ---
+
 {nav}
 
 ## Estofado de carne y verduras
@@ -28,3 +29,5 @@ Cuando a la papa le falte poco para que esté cocida incluir las arvejas, no agr
 
 ### Variantes
 
+
+<TODO>

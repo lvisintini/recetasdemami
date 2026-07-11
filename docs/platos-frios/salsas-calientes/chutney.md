@@ -1,7 +1,8 @@
 ---
 slug: chutney
-uuid: 5cb85226-e1eb-427f-9cbf-5465abea2aad
+uuid: 31ce3264-2933-47df-a683-32ff0279ea37
 ---
+
 {nav}
 
 ## Chutney
@@ -43,3 +44,5 @@ Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la c
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: zanahoria
-uuid: 40a9ad1b-3642-4f74-8919-3279443b31aa
+uuid: 21998ebb-85c6-4a18-a50e-f44bd73138c5
 ---
+
 {nav}
 
 ## Zanahoria
@@ -26,3 +27,5 @@ Zanahoria, apio, manzana, palmitos, queso crema, mayonesa, limón, sal y pimient
 
 ### Variantes
 
+
+<TODO>

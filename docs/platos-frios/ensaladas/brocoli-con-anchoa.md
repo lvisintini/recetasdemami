@@ -1,7 +1,8 @@
 ---
 slug: brocoli-con-anchoa
-uuid: ed3cb7d1-c255-4f34-ae39-c7b57f2d6630
+uuid: 45d0517a-b99b-49da-bca6-11ed29ccc111
 ---
+
 {nav}
 
 ## Brócoli con anchoa
@@ -26,3 +27,5 @@ uuid: ed3cb7d1-c255-4f34-ae39-c7b57f2d6630
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: pollo-al-curry
-uuid: cd83e71a-82e5-41c2-ace8-797930dd195d
+uuid: 647a29a2-a53c-4ff1-849b-5b57589adc7e
 ---
+
 {nav}
 
 ## Pollo al curry
@@ -26,3 +27,5 @@ uuid: cd83e71a-82e5-41c2-ace8-797930dd195d
 
 ### Variantes
 
+
+<TODO>

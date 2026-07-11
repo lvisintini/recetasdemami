@@ -1,7 +1,8 @@
 ---
 slug: salsa-vitel-tone
-uuid: 0f596332-ea98-40bc-91a2-95e6b8e289da
+uuid: 6930cd02-fe97-4783-8e27-0e12b0af8601
 ---
+
 {nav}
 
 ## Salsa Vitel Toné
@@ -34,3 +35,5 @@ Licuar:
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: torta-de-queso
-uuid: d4b984af-4d7e-408c-9a14-e7516470743d
+uuid: 92be8037-44bb-4e84-84ca-beba0eed0f01
 ---
+
 {nav}
 
 ## Torta de queso
@@ -28,3 +29,5 @@ Mezclar todos los ingredientes hasta obtener una preparación bien homogénea. C
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: colitis
-uuid: c40e2215-2408-4020-b491-63c4eb2f78d9
+uuid: edf4efe6-45f3-4986-b404-20b3d5f72e26
 ---
+
 {nav}
 
 ## Colitis
@@ -26,3 +27,5 @@ Comer manzana, te negro, queso, arroz y membrillo.
 
 ### Variantes
 
+
+<TODO>

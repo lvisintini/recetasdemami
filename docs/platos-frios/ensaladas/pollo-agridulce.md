@@ -1,7 +1,8 @@
 ---
 slug: pollo-agridulce
-uuid: d4cbd554-224e-49ae-833f-c2ec16948f22
+uuid: 3ec2d3a2-bdac-42a1-a4ea-f84be1ccd5b2
 ---
+
 {nav}
 
 ## Pollo agridulce
@@ -40,3 +41,5 @@ Unir al pollo y salpicar con perejil picado. Heladera.
 
 ### Variantes
 
+
+<TODO>

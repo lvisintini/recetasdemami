@@ -1,7 +1,8 @@
 ---
 slug: manchas-dificiles-de-sacar
-uuid: 0f5e58a4-90bd-45e3-9f1d-1403ea0519e2
+uuid: 3a9fd0c2-e8c3-4372-8982-bed60b8f818a
 ---
+
 {nav}
 
 ## Manchas difíciles de sacar
@@ -116,3 +117,5 @@ Frotar con esponja humedecida con producto no inflamable para limpiar en seco.
 
 ### Variantes
 
+
+<TODO>

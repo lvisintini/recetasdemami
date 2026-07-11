@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-1
-uuid: 543a6dc5-b98d-4606-b3f3-a015670ae29a
+uuid: 6a5c93b3-b4c2-4e89-8002-19bd2713eb5f
 ---
+
 {nav}
 
 ## Brusquetas 1
@@ -26,3 +27,5 @@ Hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de toma
 
 ### Variantes
 
+
+<TODO>

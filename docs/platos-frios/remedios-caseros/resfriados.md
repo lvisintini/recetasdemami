@@ -1,7 +1,8 @@
 ---
 slug: resfriados
-uuid: 47082209-9c76-43b6-829d-825b29f38127
+uuid: 2aaacd4d-e702-4472-b88f-3411896353db
 ---
+
 {nav}
 
 ## Resfriados
@@ -40,3 +41,5 @@ El ajo ayuda a combatir infecciones virales y bacterianas de las vías respirato
 
 ### Variantes
 
+
+<TODO>

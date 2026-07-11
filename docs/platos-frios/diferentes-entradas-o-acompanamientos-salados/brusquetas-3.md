@@ -1,7 +1,8 @@
 ---
 slug: brusquetas-3
-uuid: d8b78a7b-1de3-48a0-a511-c9dd1199cf96
+uuid: f492b82e-eadd-498f-ac40-05ad13ca08f2
 ---
+
 {nav}
 
 ## Brusquetas 3
@@ -26,3 +27,5 @@ sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: pollo
-uuid: 1aff2ef1-622c-4b67-8f32-2e444effa3b1
+uuid: 259a9328-7493-429b-84f5-768419b8bba5
 ---
+
 {nav}
 
 ## Pollo
@@ -29,3 +30,5 @@ Pollo, queso mantecoso, ajo, lechuga mantecosa, jamón cocido, tomates, huevo du
 
 ### Variantes
 
+
+<TODO>

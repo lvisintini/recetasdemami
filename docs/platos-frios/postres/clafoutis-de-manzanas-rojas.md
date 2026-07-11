@@ -1,7 +1,8 @@
 ---
 slug: clafoutis-de-manzanas-rojas
-uuid: 3ef1c042-ba54-44e8-9d24-6d6de02823c1
+uuid: 0d42c510-6f6e-495f-842e-234cedf43ab0
 ---
+
 {nav}
 
 ## Clafoutis de manzanas rojas
@@ -43,3 +44,5 @@ Espolvorear con abundante azúcar impalpable y servir.
 
 ### Variantes
 
+
+<TODO>

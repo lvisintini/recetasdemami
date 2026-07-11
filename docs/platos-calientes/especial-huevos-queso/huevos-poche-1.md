@@ -1,7 +1,8 @@
 ---
 slug: huevos-poche-1
-uuid: 99d6e129-85eb-4420-ac2a-1204c57b4a01
+uuid: 30609cbf-406b-413c-a0f2-ba667b316c1a
 ---
+
 {nav}
 
 ## Huevos poche 1
@@ -28,3 +29,5 @@ También se puede colocar el huevo condimentado en una bolsita de nylon cerrada 
 
 ### Variantes
 
+
+<TODO>

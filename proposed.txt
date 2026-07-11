@@ -10,23 +10,22 @@
 ## Aperitivos y Picoteo (solo ítems sin ingrediente dominante: tablas, papas fritas, canapés variados, brochetas mixtas)
 ## Guarniciones y Acompañamientos
 ## Salsas y Dips
-	### Salsas Frías
-	### Dips
-	### Salsas Calientes
+### Salsas Frías
+### Dips
+### Salsas Calientes
 ## Postres y Dulces
-	### Tortas y bizcochuelos
-	### Tartas dulces
-	### Cremas, flanes, mousses y natillas
-	### Galletitas y masitas
-	### Postres de fruta y varios
-	### Crepes y panqueques
+### Tortas y bizcochuelos
+### Tartas dulces
+### Cremas, flanes, mousses y natillas
+### Galletitas y masitas
+### Postres de fruta y varios
+### Crepes y panqueques
 ## Tragos y bebidas
 ## Preparaciones base
-	### Masas
-	### Salsas
-	### Aderezos
-	### Cremas
-
+### Masas
+### Salsas
+### Aderezos
+### Cremas
 # Fuera de cocina
 ## Remedios caseros
 ## Manchas y trucos de limpieza

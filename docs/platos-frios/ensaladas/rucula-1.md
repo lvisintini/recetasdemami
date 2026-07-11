@@ -1,7 +1,8 @@
 ---
 slug: rucula-1
-uuid: 2680bf75-9439-43a4-b9e2-bd4bf3b0eb63
+uuid: 94a7bac5-d204-47bf-a9eb-f1997459ed9a
 ---
+
 {nav}
 
 ## Rucula 1
@@ -26,3 +27,5 @@ Rúcula, cebolla, choclo, tomate, pimiento verde, atún, queso fresco, aceite sa
 
 ### Variantes
 
+
+<TODO>

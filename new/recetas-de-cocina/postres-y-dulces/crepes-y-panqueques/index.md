@@ -1,11 +1,9 @@
 ---
 slug: crepes-y-panqueques
-uuid: 75ac2aac-798e-4ab8-af41-cc875c5dfc99
+uuid: 77e60bf3-9a9b-44cc-9ba0-d24a16bb19af
 ---
 {nav}
 
 ## Crepes y panqueques
-
-
 
 {toc}

@@ -1,7 +1,8 @@
 ---
 slug: masa-quebrada
-uuid: 0ff2dcdc-39f5-41d9-8057-0ca5acba2592
+uuid: 33b1af8d-1273-4935-96bf-f3b4c320e91b
 ---
+
 {nav}
 
 ## Masa quebrada
@@ -30,3 +31,5 @@ Para molde grande: 500 gr harina, 250 gr manteca fría, ½ cucharadita sal, 1 hu
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: torta-de-ricota
-uuid: a07df779-2440-4d85-96a0-c5297ca64b4c
+uuid: 1ab5c99d-9770-4bac-8dd5-a72922453a7e
 ---
+
 {nav}
 
 ## Torta de ricota
@@ -43,3 +44,5 @@ Servir con pasas de uva maceradas en oporto.
 
 ### Variantes
 
+
+<TODO>

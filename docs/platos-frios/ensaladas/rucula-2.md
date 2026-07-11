@@ -1,7 +1,8 @@
 ---
 slug: rucula-2
-uuid: 45f9c741-b661-4d0f-a4a8-b549d98f9f9e
+uuid: 66fe59bf-374b-41fa-a00e-4225f1ff590f
 ---
+
 {nav}
 
 ## Rucula 2
@@ -26,3 +27,5 @@ Rucula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, p
 
 ### Variantes
 
+
+<TODO>

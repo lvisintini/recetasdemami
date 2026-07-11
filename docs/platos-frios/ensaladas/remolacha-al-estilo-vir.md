@@ -1,7 +1,8 @@
 ---
 slug: remolacha-al-estilo-vir
-uuid: e64b8398-5454-403f-aa61-10816a25280d
+uuid: a0b22934-14cf-4d72-afeb-cfcacd5ad43f
 ---
+
 {nav}
 
 ## Remolacha al estilo Vir
@@ -26,3 +27,5 @@ Remolacha, huevo duro, zanahoria rallada y salsa golf.
 
 ### Variantes
 
+
+<TODO>

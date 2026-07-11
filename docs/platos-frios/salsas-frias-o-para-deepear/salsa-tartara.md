@@ -1,7 +1,8 @@
 ---
 slug: salsa-tartara
-uuid: ff3b9283-1f5f-42e0-9bea-adb9900bf742
+uuid: 47e1dfab-2738-48ef-a0e3-9b27057a3240
 ---
+
 {nav}
 
 ## Salsa tartara
@@ -31,3 +32,5 @@ uuid: ff3b9283-1f5f-42e0-9bea-adb9900bf742
 
 ### Variantes
 
+
+<TODO>

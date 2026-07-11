@@ -1,7 +1,8 @@
 ---
 slug: guarniciones-para-sopas
-uuid: a5a6f656-b2c5-4259-b099-4ed613d8d1b9
+uuid: a2fd2fbd-b787-4c70-bb0a-30274a2be0a1
 ---
+
 {nav}
 
 ## Guarniciones para sopas
@@ -32,3 +33,5 @@ Para agregar a cualquier sopa al momento de ser servidas
 
 ### Variantes
 
+
+<TODO>

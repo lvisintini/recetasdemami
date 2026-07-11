@@ -1,7 +1,8 @@
 ---
 slug: pastel-de-papa-y-carne
-uuid: d15e42a5-0e96-4928-9c30-8712f7198a88
+uuid: 4b44b9df-5fc4-45a7-a0af-d68f97ab6287
 ---
+
 {nav}
 
 ## Pastel de papa y carne
@@ -28,3 +29,5 @@ En una fuente colocar la preparación, y sobre esta, un puré hecho con 4 papas 
 
 ### Variantes
 
+
+<TODO>

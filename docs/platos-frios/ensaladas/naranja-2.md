@@ -1,7 +1,8 @@
 ---
 slug: naranja-2
-uuid: a79be217-e49d-4c63-b2e6-0f719c7ac5ee
+uuid: 1cad96f8-f749-420f-8978-4fc721f32b4c
 ---
+
 {nav}
 
 ## Naranja 2
@@ -26,3 +27,5 @@ Tomates, naranja, aceitunas negras, queso fresco, aceite oliva, vinagre de vino,
 
 ### Variantes
 
+
+<TODO>

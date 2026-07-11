@@ -1,7 +1,8 @@
 ---
 slug: palta-agridulce-2
-uuid: 169a6657-3ed7-4d10-8540-949b0f9e3c78
+uuid: f428b1d5-f291-42c4-add3-4d68afb00f3d
 ---
+
 {nav}
 
 ## Palta agridulce 2
@@ -26,3 +27,5 @@ Palta, lechuga, huevo, manzana roja, pepinos, aderezada con albahaca, jugo de li
 
 ### Variantes
 
+
+<TODO>

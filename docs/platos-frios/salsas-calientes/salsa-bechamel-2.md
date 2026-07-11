@@ -1,7 +1,8 @@
 ---
 slug: salsa-bechamel-2
-uuid: ae98cdfa-c8f7-4c43-b3c5-c3b02f010b6e
+uuid: 691d23a7-ded3-4029-b23c-18267db06be7
 ---
+
 {nav}
 
 ## Salsa Bechamel 2
@@ -30,3 +31,5 @@ La diferencia entre salsa blanca y bechamel es que la primera se hace con leche.
 
 ### Variantes
 
+
+<TODO>

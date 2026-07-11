@@ -1,7 +1,8 @@
 ---
 slug: coliflor-y-naranjas
-uuid: 675646c7-77d0-4b0d-9c32-69aaccce7b45
+uuid: 535179df-4db2-428e-ad96-e3c4243dcccc
 ---
+
 {nav}
 
 ## Coliflor y naranjas
@@ -30,3 +31,5 @@ Servir tibio.
 
 ### Variantes
 
+
+<TODO>

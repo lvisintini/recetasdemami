@@ -1,7 +1,8 @@
 ---
 slug: torta-de-simple-marmolada
-uuid: 091463e8-181d-43cb-a66b-ba1e4d9745f4
+uuid: ed4805f9-6d54-46c3-89a3-3b9e438d00d0
 ---
+
 {nav}
 
 ## Torta de simple marmolada
@@ -41,3 +42,5 @@ Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
 
 ### Variantes
 
+
+<TODO>

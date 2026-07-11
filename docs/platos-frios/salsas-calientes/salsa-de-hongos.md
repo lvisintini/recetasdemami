@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-hongos
-uuid: 01b915ae-312e-43e3-a52f-e7452035a623
+uuid: 0c9d0b81-fec5-437c-893f-25875bfd784a
 ---
+
 {nav}
 
 ## Salsa de hongos
@@ -36,3 +37,5 @@ Para espesar, si es necesario, agregar una cucharada de maizena.
 
 ### Variantes
 
+
+<TODO>

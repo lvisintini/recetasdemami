@@ -1,7 +1,8 @@
 ---
 slug: waldorf
-uuid: 82bda3b7-3f10-44b9-898c-1c2823b5e3f1
+uuid: 94e947f3-7c69-41ad-b127-2ce7a0a4204c
 ---
+
 {nav}
 
 ## Waldorf
@@ -26,3 +27,5 @@ Apio, manzana, nueces, aceite, limón, mayonesa.
 
 ### Variantes
 
+
+<TODO>

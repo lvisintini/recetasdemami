@@ -1,7 +1,8 @@
 ---
 slug: anzac-masitas-australianas
-uuid: 55e3927c-8b12-4ac2-a0b5-38867241ed0f
+uuid: 35e520ab-244e-4454-a72f-c422b16500bd
 ---
+
 {nav}
 
 ## Anzac, masitas australianas
@@ -49,3 +50,5 @@ Dejar entibiar (al principio están muy blandas y se pueden quebrar, utilizar es
 
 ### Variantes
 
+
+<TODO>

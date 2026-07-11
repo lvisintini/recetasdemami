@@ -1,7 +1,8 @@
 ---
 slug: caramelizar-bananas-u-otras-frutas
-uuid: 0ce3df08-f0c1-419d-b53b-c75a74524601
+uuid: 6150bfb2-138c-40d8-8115-d90926998d8a
 ---
+
 {nav}
 
 ## Caramelizar bananas u otras frutas
@@ -37,3 +38,5 @@ Antes de agregar las bananas, incluir el jugo de ½ limón y el jugo de ½ naran
 
 ### Variantes
 
+
+<TODO>

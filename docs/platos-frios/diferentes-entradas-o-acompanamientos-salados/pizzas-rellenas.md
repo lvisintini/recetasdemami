@@ -1,7 +1,8 @@
 ---
 slug: pizzas-rellenas
-uuid: e6d26a4c-3e00-40e9-a470-f42701510148
+uuid: 22e8ebca-57d2-47a7-a453-476c27f00f65
 ---
+
 {nav}
 
 ## Pizzas rellenas
@@ -33,3 +34,5 @@ Hornear a 190°C por 15 minutos, y proceder como con cualquier tipo de pizza, ll
 
 ### Variantes
 
+
+<TODO>

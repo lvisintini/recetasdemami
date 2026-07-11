@@ -1,7 +1,8 @@
 ---
 slug: masa-para-tarteletas-saladas-o-dulces
-uuid: 0e0a3919-30a4-423f-a903-511b451da2ae
+uuid: ac672616-b7c4-43fa-be4a-ada8bcb0cd30
 ---
+
 {nav}
 
 ## Masa para tarteletas saladas o dulces
@@ -30,3 +31,5 @@ Para las dulces, se suprime la sal y la pimienta y se agregan 3 cucharadas de az
 
 ### Variantes
 
+
+<TODO>

@@ -1,7 +1,8 @@
 ---
 slug: bocaditos-de-quinoa
-uuid: 3a1f9b8a-53d6-40e3-93f3-6369f5c50f20
+uuid: 9ca6e81b-62de-4309-9c43-ee31ed0d1eab
 ---
+
 {nav}
 
 ## Bocaditos de quinoa
@@ -39,3 +40,5 @@ Salen 24 bocaditos.
 
 ### Variantes
 
+
+<TODO>

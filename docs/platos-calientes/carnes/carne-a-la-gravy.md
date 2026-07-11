@@ -1,7 +1,8 @@
 ---
 slug: carne-a-la-gravy
-uuid: 497b7192-e4fd-48cb-b8b0-ad05d9b0ecbc
+uuid: b25fed23-2c94-4a96-a5c0-8d9c915479bf
 ---
+
 {nav}
 
 ## Carne a la gravy.
@@ -28,3 +29,5 @@ Podría agregarse: apio en rodajas finas, 1 pimiento morrón cortado chiquito, c
 
 ### Variantes
 
+
+<TODO>

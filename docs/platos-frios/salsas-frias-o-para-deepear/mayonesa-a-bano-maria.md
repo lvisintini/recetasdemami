@@ -1,7 +1,8 @@
 ---
 slug: mayonesa-a-bano-maria
-uuid: 0f5c80f1-1912-4937-8b0f-2455fd1ea76e
+uuid: ef2cb252-2dab-4627-94d4-15b31d7ddbd6
 ---
+
 {nav}
 
 ## Mayonesa a baño maría
@@ -37,3 +38,5 @@ Llevar a la heladera.
 
 ### Variantes
 
+
+<TODO>

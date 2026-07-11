@@ -1,7 +1,8 @@
 ---
 slug: lentejas
-uuid: 8bc753d3-19f7-4c67-94f6-81995501a623
+uuid: d2049c85-ada9-4aca-8825-79a258e8ad03
 ---
+
 {nav}
 
 ## Lentejas
@@ -27,3 +28,5 @@ Lentejas, zanahorias ralladas, pimiento asado en tiritas, queso rallado, mayones
 
 ### Variantes
 
+
+<TODO>

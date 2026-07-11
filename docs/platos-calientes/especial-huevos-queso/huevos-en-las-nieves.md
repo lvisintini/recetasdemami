@@ -1,7 +1,8 @@
 ---
 slug: huevos-en-las-nieves
-uuid: 9ac272d6-890a-4a00-9cc9-c208e200770f
+uuid: 135f5d86-c4a1-4915-9f3c-3fb2a2acc85d
 ---
+
 {nav}
 
 ## Huevos en las nieves
@@ -26,3 +27,5 @@ Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en
 
 ### Variantes
 
+
+<TODO>

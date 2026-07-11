@@ -1,7 +1,8 @@
 ---
 slug: croquetas-de-espinaca
-uuid: 78ffe41a-960e-4c2e-af26-56070de9ad65
+uuid: 84c94f7a-9c7e-45d3-996d-502884eaffe8
 ---
+
 {nav}
 
 ## Croquetas de espinaca
@@ -28,3 +29,5 @@ Lavar, picar y escurrir bien la espinaca. batir las yemas con la harina, aflojar
 
 ### Variantes
 
+
+<TODO>

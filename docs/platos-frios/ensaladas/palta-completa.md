@@ -1,7 +1,8 @@
 ---
 slug: palta-completa
-uuid: 97300c0a-d8b5-47a3-baad-ef6a0d6de898
+uuid: b0643630-2491-4feb-b7b2-ce0cd46e9f6f
 ---
+
 {nav}
 
 ## Palta completa
@@ -26,3 +27,5 @@ Palta, pera, queso cremoso, crema de leche, jugo de limón, almendras, salsa de 
 
 ### Variantes
 
+
+<TODO>

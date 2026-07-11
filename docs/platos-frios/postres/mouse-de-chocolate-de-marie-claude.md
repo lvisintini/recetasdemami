@@ -1,7 +1,8 @@
 ---
 slug: mouse-de-chocolate-de-marie-claude
-uuid: c18e301a-30ea-4507-a326-96f19985152b
+uuid: b97413cd-0556-4b9d-a162-e454dda5f142
 ---
+
 {nav}
 
 ## Mouse de chocolate de Marie Claude
@@ -32,3 +33,5 @@ Unir los tres batidos con movimientos suaves y llevar a la heladera por 4 horas.
 
 ### Variantes
 
+
+<TODO>

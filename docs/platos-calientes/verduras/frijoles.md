@@ -1,7 +1,8 @@
 ---
 slug: frijoles
-uuid: 9579fc73-d532-4f60-8e21-d70b35a85125
+uuid: b7abc8b5-1d6e-48ea-a681-0865616b22e3
 ---
+
 {nav}
 
 ## Frijoles
@@ -36,3 +37,5 @@ Puede agregarse ½ kg de carne de cerdo en cubitos, previamente sellados.
 
 ### Variantes
 
+
+<TODO>

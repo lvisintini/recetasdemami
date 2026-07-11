@@ -1,7 +1,8 @@
 ---
 slug: bruselas-calientes
-uuid: 15cbff6f-ca7d-45b9-bc43-540ab6e033d9
+uuid: d6a93ee1-1fdc-4193-b469-40c5611f38e2
 ---
+
 {nav}
 
 ## Bruselas calientes
@@ -27,3 +28,5 @@ También queda bien con salsa holandesa.
 
 ### Variantes
 
+
+<TODO>

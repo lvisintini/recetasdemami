@@ -1,7 +1,8 @@
 ---
 slug: tarantela-de-tia-chicha
-uuid: ef388cc4-5927-48cd-8044-6dd6d7d28136
+uuid: 70e63f23-416f-4da6-8612-b2d71d9fefbe
 ---
+
 {nav}
 
 ## Tarantela de Tía Chicha
@@ -28,3 +29,5 @@ Llevar al horno para que fragüe.
 
 ### Variantes
 
+
+<TODO>

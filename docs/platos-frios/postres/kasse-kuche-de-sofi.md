@@ -1,7 +1,8 @@
 ---
 slug: kasse-kuche-de-sofi
-uuid: cec4c7de-82b2-4773-b722-6df2f492eb36
+uuid: 24fe01a4-efcd-4c8d-bfc7-ba9f086972a1
 ---
+
 {nav}
 
 ## Kâsse kuche de Sofi
@@ -44,3 +45,5 @@ Horno mínimo por 45 minutos.
 
 ### Variantes
 
+
+<TODO>

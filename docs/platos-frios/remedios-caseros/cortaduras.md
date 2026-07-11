@@ -1,7 +1,8 @@
 ---
 slug: cortaduras
-uuid: d16843cb-4ed5-4e73-8ae4-cc012da5412e
+uuid: ee471cb0-ff6e-4b7c-9374-ff5e24b5a468
 ---
+
 {nav}
 
 ## Cortaduras
@@ -28,3 +29,5 @@ Luego de aplicar la miel, cubrirla con gasa.
 
 ### Variantes
 
+
+<TODO>

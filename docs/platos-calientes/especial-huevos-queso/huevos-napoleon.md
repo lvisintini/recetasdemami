@@ -1,7 +1,8 @@
 ---
 slug: huevos-napoleon
-uuid: b7e4ff5f-0132-484b-a0f2-40444480f13a
+uuid: 4fc2d219-fff8-493e-abe2-fa373dd489da
 ---
+
 {nav}
 
 ## Huevos napoleon
@@ -30,3 +31,5 @@ Llevar al horno a 180°C por 10 a 12 minutos.
 
 ### Variantes
 
+
+<TODO>

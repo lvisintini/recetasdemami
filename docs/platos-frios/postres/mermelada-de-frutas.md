@@ -1,7 +1,8 @@
 ---
 slug: mermelada-de-frutas
-uuid: 880ddde7-0c85-4aa9-96e9-27231c85a688
+uuid: 0e31dabf-7909-481d-bf53-ef05132aee33
 ---
+
 {nav}
 
 ## Mermelada de frutas
@@ -40,3 +41,5 @@ Si tiene color, consistencia y la fruta está blanda pero tiene pedazos grandes,
 
 ### Variantes
 
+
+<TODO>

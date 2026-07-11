@@ -1,7 +1,8 @@
 ---
 slug: salsa-356-para-peceto
-uuid: e2d5045e-55a0-4799-9050-97183a78dfe8
+uuid: 8fa4bd9d-e529-40c3-89b2-56f82b5e0ddb
 ---
+
 {nav}
 
 ## Salsa 356 para peceto
@@ -27,3 +28,5 @@ Freír cebolla, pimiento morrón y zanahoria con caldo de carne.
 
 ### Variantes
 
+
+<TODO>

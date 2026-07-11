@@ -1,7 +1,8 @@
 ---
 slug: tarta-de-frutas-artistica
-uuid: a4e9bd3b-9d71-455f-b0a1-0633723cbbf6
+uuid: e0428b70-abe3-4dc9-84a0-92103332824a
 ---
+
 {nav}
 
 ## Tarta de frutas artística
@@ -33,3 +34,5 @@ Cubrir con gelatina a punto de cuajar, de naranja u otra fruta y llevar a la hel
 
 ### Variantes
 
+
+<TODO>

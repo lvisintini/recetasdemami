@@ -1,7 +1,8 @@
 ---
 slug: pollo-en-escabeche
-uuid: 96858932-f5aa-4ada-9626-551e865b2f69
+uuid: 5e6b479e-95f2-4171-ad71-2f4d23ff6485
 ---
+
 {nav}
 
 ## Pollo en escabeche
@@ -31,3 +32,5 @@ Hervir hasta que las zanahorias estén tiernas.
 
 ### Variantes
 
+
+<TODO>

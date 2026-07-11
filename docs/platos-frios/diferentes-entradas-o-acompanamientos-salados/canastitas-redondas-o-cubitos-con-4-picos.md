@@ -1,7 +1,8 @@
 ---
 slug: canastitas-redondas-o-cubitos-con-4-picos
-uuid: f29f22fd-648c-4998-b52d-8a7b14775ea1
+uuid: 73edf497-7a45-495b-ab80-1519a8eab698
 ---
+
 {nav}
 
 ## Canastitas redondas o cubitos con 4 picos
@@ -37,3 +38,5 @@ Cocinar en horno a 190°C por 15 a 20 minutos.
 
 ### Variantes
 
+
+<TODO>

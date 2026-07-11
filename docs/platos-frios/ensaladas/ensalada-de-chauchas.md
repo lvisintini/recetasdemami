@@ -1,7 +1,8 @@
 ---
 slug: ensalada-de-chauchas
-uuid: e013ad47-55dd-4b87-a87f-7226d8eff7cc
+uuid: e453df7b-8aaa-48cb-a9f0-f511a9a7f3e7
 ---
+
 {nav}
 
 ## Ensalada de chauchas
@@ -32,3 +33,5 @@ Condimentar con 4 cucharadas de aceite de oliva, 2 ½ cucharadas de vinagre de v
 
 ### Variantes
 
+
+<TODO>

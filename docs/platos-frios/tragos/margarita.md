@@ -1,7 +1,8 @@
 ---
 slug: margarita
-uuid: 9e33eea5-46fe-4acb-92dd-53dcbcb7cf45
+uuid: bff3da6a-5b29-4749-a167-9f028477c975
 ---
+
 {nav}
 
 ## Margarita
@@ -32,3 +33,5 @@ Humedecer el borde de la copa con jugo de limón y sal.
 
 ### Variantes
 
+
+<TODO>

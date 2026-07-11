@@ -1,11 +1,9 @@
 ---
 slug: tragos-y-bebidas
-uuid: f4f3f15f-1534-46d4-b574-58545acdad98
+uuid: 202a9e12-ac9a-4717-b01d-3d6b39c1334d
 ---
 {nav}
 
 ## Tragos y bebidas
-
-
 
 {toc}

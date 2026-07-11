@@ -1,7 +1,8 @@
 ---
 slug: wok-de-verduras
-uuid: 807566fb-fcb0-4014-92ec-cdcf62c044a2
+uuid: 372873a0-3f6e-47c3-b07d-ea689a23d6d9
 ---
+
 {nav}
 
 ## Wok de verduras
@@ -26,3 +27,5 @@ En el elemento wok o en una sartén bien caliente incorporar aceite de oliva, aj
 
 ### Variantes
 
+
+<TODO>

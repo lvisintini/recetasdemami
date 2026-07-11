@@ -1,7 +1,8 @@
 ---
 slug: tatu
-uuid: 96bf6dfd-783a-4b4d-aeb3-43b7fe2b89a3
+uuid: e039b31b-0ebb-4b89-8af6-d20d641cbc11
 ---
+
 {nav}
 
 ## Tatu
@@ -26,3 +27,5 @@ Lechuga, pollo picado, ananá en dados, apio, manzana ácida en dados, zanahoria
 
 ### Variantes
 
+
+<TODO>

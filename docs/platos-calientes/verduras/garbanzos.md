@@ -1,7 +1,8 @@
 ---
 slug: garbanzos
-uuid: c1abfbf2-54f4-4011-a32f-1c5720f5d182
+uuid: 03483dbb-6fc9-40bb-ba27-37404bd7e54b
 ---
+
 {nav}
 
 ## Garbanzos
@@ -36,3 +37,5 @@ Yo pondría 2 latas de tomates al natural y 3 tazas de caldo o vino.
 
 ### Variantes
 
+
+<TODO>

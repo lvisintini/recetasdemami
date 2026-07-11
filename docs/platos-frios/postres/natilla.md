@@ -1,7 +1,8 @@
 ---
 slug: natilla
-uuid: 3a7a16a6-1cf7-4f5e-8674-8cf7806fded7
+uuid: 17250dbc-402c-4c30-aeae-28adf7872b80
 ---
+
 {nav}
 
 ## Natilla
@@ -26,3 +27,5 @@ Igual a la crema catalana pero con 2 yemas más y sin maicena.
 
 ### Variantes
 
+
+<TODO>

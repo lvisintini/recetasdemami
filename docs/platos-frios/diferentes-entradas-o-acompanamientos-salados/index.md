@@ -1,7 +1,8 @@
 ---
 slug: diferentes-entradas-o-acompanamientos-salados
-uuid: 5e9e76d4-036d-4ba9-9fb6-9049c3298f5b
+uuid: abc6dd19-cc61-4eb6-9736-7423d075b3c1
 ---
+
 {nav}
 
 ## Diferentes entradas o acompañamientos salados
@@ -33,3 +34,5 @@ Por ejemplo:
 
 ### Variantes
 
+
+<TODO>

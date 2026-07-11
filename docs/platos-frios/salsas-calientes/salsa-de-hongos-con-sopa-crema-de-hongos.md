@@ -1,7 +1,8 @@
 ---
 slug: salsa-de-hongos-con-sopa-crema-de-hongos
-uuid: 712f0fc5-3bb8-4227-ab02-426c979bef6c
+uuid: 2161befc-bee6-4fa7-abf1-c189a6b808d2
 ---
+
 {nav}
 
 ## Salsa de hongos con sopa crema de hongos
@@ -32,3 +33,5 @@ Mezclar y cocinar hasta la consistencia adecuada.
 
 ### Variantes
 
+
+<TODO>

@@ -1,11 +1,9 @@
 ---
 slug: salsas-y-dips
-uuid: d0e530ad-fa38-48c3-bbc5-419f0a04e948
+uuid: 389b4afc-13e2-4b76-990b-18ee0bdbc1fb
 ---
 {nav}
 
 ## Salsas y Dips
-
-
 
 {toc}
