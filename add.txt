@@ -1,2 +1,11 @@
 Colcannon
 Corn chouder
+ensalada Tricolor
+
+
+
+./docs/platos-frios/ensaladas/index.md ['', 'Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.', '']
+./docs/platos-frios/salsas-frias-o-para-deepear/index.md ['', 'Otras recetas, como algunas sopas, pueden presentarse como salsas o dips', '', 'Por Ejemplo:', '', '- Crema de Choclos', '- Guacamole', '']
+./docs/platos-frios/diferentes-entradas-o-acompanamientos-salados/index.md ['', 'Algunas otras recetas se pueden presentar como acompañamientos o tapas.', '', 'Por ejemplo:', '', '- Flammkuchen', '- Buñuelos de papa y queso', '- Escabeche de verduras', '']
+./docs/platos-frios/tragos/index.md ['', 'Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla como decoración.', '', 'Poner las copas en la heladera antes de servir el trago.', '']
+
