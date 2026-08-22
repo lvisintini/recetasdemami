@@ -1,0 +1,55 @@
+---
+slug: sopa-crema-de-tomate
+uuid: b35bb48f-d03f-4b22-af03-572b50df4a9b
+page_title: Sopa crema de tomate
+---
+
+[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/index/) > [Sopas y cremas]({{ site.baseurl }}/index/index/) > Sopa crema de tomate
+
+## Sopa crema de tomate
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+{summary}
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Freir 1 cebolla picada en manteca.
+
+Agregar 1 pimiento, 1 diente ajo y 1 puerro, todo finamente picado.
+
+Añadir 1 litro de caldo y 750 gr de tomate triturado.
+
+Cocinar a fuego moderado.
+
+Condimentar con:
+
+- Pimenton dulce
+- menta
+- albahaca
+- nuez moscada
+- tomate seco hidratado en aceite de oliva
+- laurel
+- 1 cucharadita de sal
+- ½ cucharadita de azúcar.
+
+Incorporar 1 papa hervida pisada o 60 gr de harina
+
+Cocinar de 20 minutos a ½ hora.
+
+Agregar queso crema y, por último, unos crutones y perejil picado.
+
+
+### Variantes
+
+
+<TODO>
