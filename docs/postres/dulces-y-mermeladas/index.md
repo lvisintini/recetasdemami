@@ -7,7 +7,7 @@ page_title: Dulces y mermeladas
 
 ## Dulces y mermeladas
 
-- [Dulce de leche]({{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche/)
-- [Mermelada de frutas]({{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas/)
+- [Dulce de leche]({{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche)
+- [Mermelada de frutas]({{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas)
 
 <TODO>

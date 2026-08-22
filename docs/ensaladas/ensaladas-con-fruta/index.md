@@ -7,14 +7,14 @@ page_title: Ensaladas con fruta
 
 ## Ensaladas con fruta
 
-- [Coliflor y naranjas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/coliflor-y-naranjas/)
-- [Espinaca y frutillas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/espinaca-y-frutillas/)
-- [Melon]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/melon/)
-- [Naranja 1]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-1/)
-- [Naranja 2]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-2/)
-- [Naranja 3]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-3/)
-- [Palmitos]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/palmitos/)
-- [Tatu]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tatu/)
-- [Tomates, frutillas y queso (para 10 personas)]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tomates-frutillas-y-queso/)
+- [Coliflor y naranjas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/coliflor-y-naranjas)
+- [Espinaca y frutillas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/espinaca-y-frutillas)
+- [Melon]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/melon)
+- [Naranja 1]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-1)
+- [Naranja 2]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-2)
+- [Naranja 3]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-3)
+- [Palmitos]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/palmitos)
+- [Tatu]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tatu)
+- [Tomates, frutillas y queso (para 10 personas)]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tomates-frutillas-y-queso)
 
 <TODO>

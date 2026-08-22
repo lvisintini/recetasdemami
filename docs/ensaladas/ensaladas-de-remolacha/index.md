@@ -7,8 +7,8 @@ page_title: Ensaladas de remolacha
 
 ## Ensaladas de remolacha
 
-- [Remolacha al estilo Vir]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolacha-al-estilo-vir/)
-- [Remolachas 1]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-1/)
-- [Remolachas 2]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-2/)
+- [Remolacha al estilo Vir]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolacha-al-estilo-vir)
+- [Remolachas 1]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-1)
+- [Remolachas 2]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-2)
 
 <TODO>

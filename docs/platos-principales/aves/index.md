@@ -7,13 +7,13 @@ page_title: Aves
 
 ## Aves
 
-- [Arroz con pollo a la Multichef (o sin multichef)]({{ site.baseurl }}/platos-principales/aves/arroz-con-pollo-a-la-multichef/)
-- [Pollo a la florentina]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-florentina/)
-- [Pollo a la Haiti.]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-haiti/)
-- [Pollo al puerro]({{ site.baseurl }}/platos-principales/aves/pollo-al-puerro/)
-- [Pollo con champiñones]({{ site.baseurl }}/platos-principales/aves/pollo-con-champinones/)
-- [Pollo en escabeche]({{ site.baseurl }}/platos-principales/aves/pollo-en-escabeche/)
-- [Souffle de pollo]({{ site.baseurl }}/platos-principales/aves/souffle-de-pollo/)
-- [Supremes a la Kiev]({{ site.baseurl }}/platos-principales/aves/supremes-a-la-kiev/)
+- [Arroz con pollo a la Multichef (o sin multichef)]({{ site.baseurl }}/platos-principales/aves/arroz-con-pollo-a-la-multichef)
+- [Pollo a la florentina]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-florentina)
+- [Pollo a la Haiti.]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-haiti)
+- [Pollo al puerro]({{ site.baseurl }}/platos-principales/aves/pollo-al-puerro)
+- [Pollo con champiñones]({{ site.baseurl }}/platos-principales/aves/pollo-con-champinones)
+- [Pollo en escabeche]({{ site.baseurl }}/platos-principales/aves/pollo-en-escabeche)
+- [Souffle de pollo]({{ site.baseurl }}/platos-principales/aves/souffle-de-pollo)
+- [Supremes a la Kiev]({{ site.baseurl }}/platos-principales/aves/supremes-a-la-kiev)
 
 <TODO>

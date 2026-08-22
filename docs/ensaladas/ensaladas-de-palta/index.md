@@ -7,10 +7,10 @@ page_title: Ensaladas de palta
 
 ## Ensaladas de palta
 
-- [Palta agridulce 1]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-1/)
-- [Palta agridulce 2]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-2/)
-- [Palta completa]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-completa/)
-- [Palta con salsa criolla]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-con-salsa-criolla/)
-- [Palta y mortadela]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-y-mortadela/)
+- [Palta agridulce 1]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-1)
+- [Palta agridulce 2]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-2)
+- [Palta completa]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-completa)
+- [Palta con salsa criolla]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-con-salsa-criolla)
+- [Palta y mortadela]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-y-mortadela)
 
 <TODO>
