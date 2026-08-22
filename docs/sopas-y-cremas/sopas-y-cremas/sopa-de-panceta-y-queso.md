@@ -4,7 +4,7 @@ uuid: b32bbb0b-edae-4251-9fcb-84b4aaad34cb
 page_title: Sopa de panceta y queso
 ---
 
-[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/index/) > [Sopas y cremas]({{ site.baseurl }}/index/index/) > Sopa de panceta y queso
+[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa de panceta y queso
 
 ## Sopa de panceta y queso
 

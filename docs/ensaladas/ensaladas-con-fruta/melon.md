@@ -4,7 +4,7 @@ uuid: 8deba576-8eb7-4db7-8240-582cecc2121b
 page_title: Melon
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con fruta]({{ site.baseurl }}/index/index/) > Melon
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Melon
 
 ## Melon
 

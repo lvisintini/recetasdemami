@@ -4,7 +4,7 @@ uuid: 7e9751fe-cb51-476b-a49f-b5c3cc983bb3
 page_title: Masa quebrada
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/index/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/index/index/) > Masa quebrada
+[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa quebrada
 
 ## Masa quebrada
 

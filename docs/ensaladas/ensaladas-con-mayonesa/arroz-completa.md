@@ -4,7 +4,7 @@ uuid: 32364efa-55ec-44f1-b3a8-ceb309cfbc9e
 page_title: Arroz completa
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con mayonesa]({{ site.baseurl }}/index/index/) > Arroz completa
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Arroz completa
 
 ## Arroz completa
 

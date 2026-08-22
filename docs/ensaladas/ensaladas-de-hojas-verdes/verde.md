@@ -4,7 +4,7 @@ uuid: 1cd411b0-d73b-4fb0-a3fe-c2d3e4dffb0a
 page_title: Verde
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/index/index/) > Verde
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Verde
 
 ## Verde
 

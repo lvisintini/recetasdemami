@@ -4,7 +4,7 @@ uuid: cebd58e0-a78f-4a8a-857b-e0486b2ae182
 page_title: Dip de Albahaca
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Dip de Albahaca
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de Albahaca
 
 ## Dip de Albahaca
 

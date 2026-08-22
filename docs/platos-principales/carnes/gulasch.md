@@ -4,7 +4,7 @@ uuid: 8bb7e45b-4879-43f1-bfab-89aa17cc7f32
 page_title: Gulasch
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Gulasch
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Gulasch
 
 ## Gulasch
 

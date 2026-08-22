@@ -4,7 +4,7 @@ uuid: 4ec91a12-68e5-4625-b5e4-13a28f94ba10
 page_title: Griega completa
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas clásicas]({{ site.baseurl }}/index/index/) > Griega completa
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Griega completa
 
 ## Griega completa
 

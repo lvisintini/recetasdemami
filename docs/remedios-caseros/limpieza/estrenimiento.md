@@ -4,7 +4,7 @@ uuid: 35c2fc89-17b1-4b38-bc1a-415ebe9cadd1
 page_title: Estreñimiento
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Estreñimiento
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Estreñimiento
 
 ## Estreñimiento
 

@@ -4,7 +4,7 @@ uuid: 50d24fce-a150-4aed-8527-353730a4647f
 page_title: Coliflor o brócoli suprema
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Coliflor o brócoli suprema
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Coliflor o brócoli suprema
 
 ## Coliflor o brócoli suprema
 

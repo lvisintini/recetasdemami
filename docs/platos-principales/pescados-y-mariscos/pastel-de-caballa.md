@@ -4,7 +4,7 @@ uuid: a981c973-0388-4227-bfd9-53205da687e6
 page_title: Pastel de caballa
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Pastel de caballa
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Pastel de caballa
 
 ## Pastel de caballa
 

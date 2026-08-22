@@ -4,7 +4,7 @@ uuid: 5a386238-d2e3-4e76-84e3-96f73af0240a
 page_title: Grasosas o pegajosas
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Grasosas o pegajosas
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Grasosas o pegajosas
 
 ## Grasosas o pegajosas
 

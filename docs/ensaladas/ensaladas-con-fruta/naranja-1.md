@@ -4,7 +4,7 @@ uuid: b5501b7b-f2d9-48a6-97f3-9c41d41a30a2
 page_title: Naranja 1
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con fruta]({{ site.baseurl }}/index/index/) > Naranja 1
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Naranja 1
 
 ## Naranja 1
 

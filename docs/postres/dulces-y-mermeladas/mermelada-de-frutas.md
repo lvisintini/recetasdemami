@@ -4,7 +4,7 @@ uuid: 717551c7-28e9-4016-98fb-1eea1e9d7e12
 page_title: Mermelada de frutas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Dulces y mermeladas]({{ site.baseurl }}/index/index/) > Mermelada de frutas
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Dulces y mermeladas]({{ site.baseurl }}/postres/dulces-y-mermeladas/) > Mermelada de frutas
 
 ## Mermelada de frutas
 

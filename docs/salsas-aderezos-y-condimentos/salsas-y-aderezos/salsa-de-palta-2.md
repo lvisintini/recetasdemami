@@ -4,7 +4,7 @@ uuid: 2939eba0-56a6-422f-94af-da11ef123e6c
 page_title: Salsa de Palta 2
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa de Palta 2
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de Palta 2
 
 ## Salsa de Palta 2
 

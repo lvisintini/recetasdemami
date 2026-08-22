@@ -4,7 +4,7 @@ uuid: 66c4eac1-f99c-4885-88e9-cebae78cb6a7
 page_title: Carrot cake
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Carrot cake
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Carrot cake
 
 ## Carrot cake
 

@@ -4,7 +4,7 @@ uuid: 29ceb325-e7b2-4c93-8aa8-efe7e2c2b72a
 page_title: Crepes al champignon
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/index/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/index/index/) > Crepes al champignon
+[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Crepes al champignon
 
 ## Crepes al champignon
 

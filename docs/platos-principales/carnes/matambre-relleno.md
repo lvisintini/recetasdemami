@@ -4,7 +4,7 @@ uuid: 94f74033-b7ba-47db-9f37-c6ba92bd0e93
 page_title: Matambre relleno (2 kg)
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Matambre relleno (2 kg)
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Matambre relleno (2 kg)
 
 ## Matambre relleno (2 kg)
 

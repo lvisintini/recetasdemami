@@ -4,7 +4,7 @@ uuid: 581c17a7-070d-4fc2-9dd1-e2363c61a33b
 page_title: Dip de atun
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Dip de atun
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de atun
 
 ## Dip de atun
 

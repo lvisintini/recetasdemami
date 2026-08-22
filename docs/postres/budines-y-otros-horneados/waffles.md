@@ -4,7 +4,7 @@ uuid: 6e9ffdad-a201-454c-84a8-240c476c1dbc
 page_title: Waffles
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Budines y otros horneados]({{ site.baseurl }}/index/index/) > Waffles
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) > Waffles
 
 ## Waffles
 

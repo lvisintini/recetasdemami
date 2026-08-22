@@ -4,7 +4,7 @@ uuid: f401ce22-9a8c-4171-bf5c-d99a5d08da81
 page_title: Resfriados
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Resfriados
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Resfriados
 
 ## Resfriados
 

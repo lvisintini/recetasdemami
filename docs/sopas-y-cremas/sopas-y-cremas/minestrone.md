@@ -4,7 +4,7 @@ uuid: d4b1e916-aece-404f-b57f-d3af130551ab
 page_title: Minestrone
 ---
 
-[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/index/) > [Sopas y cremas]({{ site.baseurl }}/index/index/) > Minestrone
+[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Minestrone
 
 ## Minestrone
 

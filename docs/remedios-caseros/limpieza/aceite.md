@@ -4,7 +4,7 @@ uuid: e1929671-9bbb-4bab-9083-cc994f05fa69
 page_title: Aceite
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Aceite
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Aceite
 
 ## Aceite
 

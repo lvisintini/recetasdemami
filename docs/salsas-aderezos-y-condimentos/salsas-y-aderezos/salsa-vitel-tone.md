@@ -4,7 +4,7 @@ uuid: 53515cff-78f7-4a38-bd36-3f1fb4121419
 page_title: Salsa Vitel Toné
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa Vitel Toné
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa Vitel Toné
 
 ## Salsa Vitel Toné
 

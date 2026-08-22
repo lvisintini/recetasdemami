@@ -4,7 +4,7 @@ uuid: e9d2f71b-639f-4750-bfdc-61ad6cc4c815
 page_title: Frutas o jugos de fruta
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Frutas o jugos de fruta
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Frutas o jugos de fruta
 
 ## Frutas o jugos de fruta
 

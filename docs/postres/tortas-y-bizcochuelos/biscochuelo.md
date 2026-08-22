@@ -4,7 +4,7 @@ uuid: 36762624-66d5-4ec7-b6b6-1418de949b4a
 page_title: Biscochuelo
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Biscochuelo
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Biscochuelo
 
 ## Biscochuelo
 

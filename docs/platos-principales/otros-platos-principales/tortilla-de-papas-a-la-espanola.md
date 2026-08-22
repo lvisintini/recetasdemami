@@ -4,7 +4,7 @@ uuid: 530f588d-b378-46ea-9024-c381a712369c
 page_title: Tortilla de papas a la española
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Otros platos principales]({{ site.baseurl }}/index/index/) > Tortilla de papas a la española
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) > Tortilla de papas a la española
 
 ## Tortilla de papas a la española
 

@@ -4,7 +4,7 @@ uuid: be22e580-1d32-4e71-8d7a-a072f922ff9c
 page_title: Torta de simple de vainilla
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de simple de vainilla
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de simple de vainilla
 
 ## Torta de simple de vainilla
 

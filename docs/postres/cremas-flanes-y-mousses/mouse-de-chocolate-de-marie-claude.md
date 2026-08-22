@@ -4,7 +4,7 @@ uuid: 1632f9b8-c776-4f56-9345-278569d95cce
 page_title: Mouse de chocolate de Marie Claude
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Cremas, flanes y mousses]({{ site.baseurl }}/index/index/) > Mouse de chocolate de Marie Claude
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Mouse de chocolate de Marie Claude
 
 ## Mouse de chocolate de Marie Claude
 

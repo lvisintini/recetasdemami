@@ -4,7 +4,7 @@ uuid: 85d52e6e-3bb6-4323-8471-0a6ea1b3bb15
 page_title: Pizzas rellenas
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/index/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/index/index/) > Pizzas rellenas
+[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Pizzas rellenas
 
 ## Pizzas rellenas
 

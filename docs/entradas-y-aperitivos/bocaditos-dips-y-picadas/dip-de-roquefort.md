@@ -4,7 +4,7 @@ uuid: 4b3039b6-647c-4ef6-8763-66a211f71f24
 page_title: Dip de Roquefort
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Dip de Roquefort
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de Roquefort
 
 ## Dip de Roquefort
 

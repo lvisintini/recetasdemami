@@ -4,7 +4,7 @@ uuid: 8ac69e36-17d4-4195-b7aa-98a44cd896a4
 page_title: Salsa Cesar 1
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa Cesar 1
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa Cesar 1
 
 ## Salsa Cesar 1
 

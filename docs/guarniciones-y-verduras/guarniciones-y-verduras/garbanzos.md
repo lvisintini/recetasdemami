@@ -4,7 +4,7 @@ uuid: 31e2d07b-4342-4e49-b451-d136d02b1f6e
 page_title: Garbanzos
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Garbanzos
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Garbanzos
 
 ## Garbanzos
 

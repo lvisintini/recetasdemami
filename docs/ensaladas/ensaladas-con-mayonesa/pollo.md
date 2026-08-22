@@ -4,7 +4,7 @@ uuid: a513459b-9c3d-455a-a90f-14f3c21e34e4
 page_title: Pollo
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con mayonesa]({{ site.baseurl }}/index/index/) > Pollo
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Pollo
 
 ## Pollo
 

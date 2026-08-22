@@ -4,7 +4,7 @@ uuid: 4b8cb8e6-dfca-40d3-b2f9-a2a489cf0278
 page_title: Marquise al vino blanco
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Marquise al vino blanco
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Marquise al vino blanco
 
 ## Marquise al vino blanco
 

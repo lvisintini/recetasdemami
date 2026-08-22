@@ -4,7 +4,7 @@ uuid: 33ed7a4c-1ea3-4c2c-a649-577d8eb2936e
 page_title: Bondiola de cerdo a la cerveza
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Bondiola de cerdo a la cerveza
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Bondiola de cerdo a la cerveza
 
 ## Bondiola de cerdo a la cerveza
 

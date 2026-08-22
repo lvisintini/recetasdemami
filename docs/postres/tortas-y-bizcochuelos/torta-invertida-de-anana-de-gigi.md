@@ -4,7 +4,7 @@ uuid: f1a3ee8a-0c85-495a-9a46-5aeb8ca305a4
 page_title: Torta invertida de ananá de Gigi
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta invertida de ananá de Gigi
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta invertida de ananá de Gigi
 
 ## Torta invertida de ananá de Gigi
 

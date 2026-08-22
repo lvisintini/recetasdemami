@@ -4,7 +4,7 @@ uuid: b171d502-eb1a-4903-b3ec-c794b1277e6e
 page_title: Tarta de coco y dulce de leche
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Tarta de coco y dulce de leche
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Tarta de coco y dulce de leche
 
 ## Tarta de coco y dulce de leche
 

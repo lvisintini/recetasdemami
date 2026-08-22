@@ -4,7 +4,7 @@ uuid: 8c10096f-b9d2-4ff5-9032-073b1f8f7671
 page_title: Masa para crepes
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/index/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/index/index/) > Masa para crepes
+[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para crepes
 
 ## Masa para crepes
 

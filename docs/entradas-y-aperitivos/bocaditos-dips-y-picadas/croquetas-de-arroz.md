@@ -4,7 +4,7 @@ uuid: 3ce8a4dd-b865-4804-8641-e8d313f3ba2e
 page_title: Croquetas de arroz
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Croquetas de arroz
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Croquetas de arroz
 
 ## Croquetas de arroz
 

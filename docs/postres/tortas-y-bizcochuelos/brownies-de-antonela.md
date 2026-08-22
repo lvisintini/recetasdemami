@@ -4,7 +4,7 @@ uuid: bb73bc12-5d2a-4419-b250-473fc0547610
 page_title: Brownies de Antonela
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Brownies de Antonela
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Brownies de Antonela
 
 ## Brownies de Antonela
 

@@ -4,7 +4,7 @@ uuid: 792fca3b-7a38-4fdd-af96-5c6c885dd01c
 page_title: Ñoquis caseros
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Ñoquis caseros
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Ñoquis caseros
 
 ## Ñoquis caseros
 

@@ -4,7 +4,7 @@ uuid: c1858c34-b15f-4f3a-b1e8-37677e2404b0
 page_title: Piononos arrollados salados
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/index/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/index/index/) > Piononos arrollados salados
+[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Piononos arrollados salados
 
 ## Piononos arrollados salados
 

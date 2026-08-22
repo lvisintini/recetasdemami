@@ -4,7 +4,7 @@ uuid: 7c23f4cb-51e1-4d55-82be-c14ca0d58cc8
 page_title: Arroz con mejillones (berberechos, u otro bicho de mar)
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Arroz con mejillones (berberechos, u otro bicho de mar)
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Arroz con mejillones (berberechos, u otro bicho de mar)
 
 ## Arroz con mejillones (berberechos, u otro bicho de mar)
 

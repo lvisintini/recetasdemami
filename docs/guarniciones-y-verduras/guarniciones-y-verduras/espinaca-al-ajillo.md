@@ -4,7 +4,7 @@ uuid: 7b158548-982e-4e8f-95f5-1297a0614da1
 page_title: Espinaca al ajillo
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Espinaca al ajillo
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Espinaca al ajillo
 
 ## Espinaca al ajillo
 

@@ -4,7 +4,7 @@ uuid: c1528b53-4eac-4221-9f5b-717f94986158
 page_title: Canastitas redondas o cubitos con 4 picos
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Canastitas redondas o cubitos con 4 picos
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Canastitas redondas o cubitos con 4 picos
 
 ## Canastitas redondas o cubitos con 4 picos
 

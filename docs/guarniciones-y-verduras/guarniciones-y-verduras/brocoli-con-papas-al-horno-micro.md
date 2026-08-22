@@ -4,7 +4,7 @@ uuid: 31406484-bde8-4276-a4c1-f1594dfe730d
 page_title: Brócoli con papas al horno micro
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Brócoli con papas al horno micro
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Brócoli con papas al horno micro
 
 ## Brócoli con papas al horno micro
 

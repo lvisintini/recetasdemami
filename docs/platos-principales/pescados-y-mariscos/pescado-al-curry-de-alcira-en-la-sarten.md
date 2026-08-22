@@ -4,7 +4,7 @@ uuid: 3a4b68d6-9d10-4473-8fd5-beacd146a656
 page_title: Pescado al curry de alcira en la sartén
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Pescado al curry de alcira en la sartén
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Pescado al curry de alcira en la sartén
 
 ## Pescado al curry de alcira en la sartén
 

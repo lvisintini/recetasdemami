@@ -4,7 +4,7 @@ uuid: 78b655fa-648e-4c28-8b7c-52d791e285d8
 page_title: Pescado sobre cama de verduras al horno
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Pescado sobre cama de verduras al horno
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Pescado sobre cama de verduras al horno
 
 ## Pescado sobre cama de verduras al horno
 

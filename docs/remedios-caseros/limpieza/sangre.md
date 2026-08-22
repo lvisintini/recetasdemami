@@ -4,7 +4,7 @@ uuid: d12babdc-4776-49d0-9894-ee702b208acc
 page_title: Sangre
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Sangre
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Sangre
 
 ## Sangre
 

@@ -4,7 +4,7 @@ uuid: 7c878a9a-e88f-46c5-bcdb-da44a9b3e5ae
 page_title: Aderezo para ensaladas hermana Bernarda
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Aderezo para ensaladas hermana Bernarda
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Aderezo para ensaladas hermana Bernarda
 
 ## Aderezo para ensaladas hermana Bernarda
 

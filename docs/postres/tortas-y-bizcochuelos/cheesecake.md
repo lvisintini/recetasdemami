@@ -4,7 +4,7 @@ uuid: 38b7ff0e-ffb5-45ff-a933-3111508365aa
 page_title: Cheesecake
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Cheesecake
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Cheesecake
 
 ## Cheesecake
 

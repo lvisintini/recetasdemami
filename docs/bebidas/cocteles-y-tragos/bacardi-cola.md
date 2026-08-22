@@ -4,7 +4,7 @@ uuid: 0586ac1c-f24b-4192-8955-1fcf8c8f8b71
 page_title: Bacardi cola
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Bacardi cola
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi cola
 
 ## Bacardi cola
 

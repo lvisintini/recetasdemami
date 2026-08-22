@@ -4,7 +4,7 @@ uuid: 7fbce0ae-bcb6-4619-8c02-b990f9fc96ab
 page_title: Torta haragana de manzanas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta haragana de manzanas
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta haragana de manzanas
 
 ## Torta haragana de manzanas
 

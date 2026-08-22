@@ -4,7 +4,7 @@ uuid: 6f461b45-3c26-4b7e-b358-4be4fea057e9
 page_title: Buñuelos de papa y queso
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Buñuelos de papa y queso
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Buñuelos de papa y queso
 
 ## Buñuelos de papa y queso
 

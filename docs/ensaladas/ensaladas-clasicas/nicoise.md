@@ -4,7 +4,7 @@ uuid: 6cc7b27a-5b0e-4af9-ada3-47715f5786b8
 page_title: Nicoise
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas clásicas]({{ site.baseurl }}/index/index/) > Nicoise
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Nicoise
 
 ## Nicoise
 

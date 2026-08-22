@@ -4,7 +4,7 @@ uuid: 5f737e8c-df84-4c5d-8ceb-13883cd80ad7
 page_title: Bomba de papa y queso
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Bomba de papa y queso
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Bomba de papa y queso
 
 ## Bomba de papa y queso
 

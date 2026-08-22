@@ -4,7 +4,7 @@ uuid: 2b273e7c-db60-420c-b36f-7a3cd6dd2566
 page_title: Piña colada
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Piña colada
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Piña colada
 
 ## Piña colada
 

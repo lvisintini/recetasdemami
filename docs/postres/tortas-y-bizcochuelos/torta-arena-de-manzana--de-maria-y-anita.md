@@ -4,7 +4,7 @@ uuid: a365d985-ca5b-419a-b85a-9f62c0491b2d
 page_title: Torta arena de manzana (y otras frutas) de Maria y Anita
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta arena de manzana (y otras frutas) de Maria y Anita
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta arena de manzana (y otras frutas) de Maria y Anita
 
 ## Torta arena de manzana (y otras frutas) de Maria y Anita
 

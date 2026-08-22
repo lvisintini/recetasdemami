@@ -4,7 +4,7 @@ uuid: 04c51f4a-2f24-47bd-b68c-6b57cab211ca
 page_title: Te o Cafe
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Te o Cafe
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Te o Cafe
 
 ## Te o Cafe
 

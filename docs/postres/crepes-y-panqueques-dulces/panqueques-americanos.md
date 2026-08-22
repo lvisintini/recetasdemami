@@ -4,7 +4,7 @@ uuid: 936e965f-7363-4a0d-8de3-0fb11bd659d1
 page_title: Panqueques americanos (gruesos)
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Crepes y panqueques dulces]({{ site.baseurl }}/index/index/) > Panqueques americanos (gruesos)
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) > Panqueques americanos (gruesos)
 
 ## Panqueques americanos (gruesos)
 

@@ -4,7 +4,7 @@ uuid: 71fa28ce-f02d-46f0-8600-d029ccd9a0f2
 page_title: Quiche lorraine de luigi.
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/index/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/index/index/) > Quiche lorraine de luigi.
+[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Quiche lorraine de luigi.
 
 ## Quiche lorraine de luigi.
 

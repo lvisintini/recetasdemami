@@ -4,7 +4,7 @@ uuid: 3aeb43c8-87c0-4920-8215-1c64b0fca428
 page_title: Masa para tartas dulces
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/index/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/index/index/) > Masa para tartas dulces
+[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para tartas dulces
 
 ## Masa para tartas dulces
 

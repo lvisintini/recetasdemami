@@ -4,7 +4,7 @@ uuid: b454d0fa-c238-4988-b730-a973695318d0
 page_title: Salsa del Español
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa del Español
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa del Español
 
 ## Salsa del Español
 

@@ -4,7 +4,7 @@ uuid: 2c0db0f0-9f3c-42c9-8044-969589ee83f2
 page_title: Mousse de chocolate de Emilia
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Cremas, flanes y mousses]({{ site.baseurl }}/index/index/) > Mousse de chocolate de Emilia
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Mousse de chocolate de Emilia
 
 ## Mousse de chocolate de Emilia
 

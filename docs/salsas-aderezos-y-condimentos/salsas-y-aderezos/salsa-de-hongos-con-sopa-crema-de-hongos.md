@@ -4,7 +4,7 @@ uuid: 21eeacdd-683a-4f8f-a88d-bb3a494ecbf9
 page_title: Salsa de hongos con sopa crema de hongos
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa de hongos con sopa crema de hongos
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de hongos con sopa crema de hongos
 
 ## Salsa de hongos con sopa crema de hongos
 

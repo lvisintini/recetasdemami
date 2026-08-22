@@ -4,7 +4,7 @@ uuid: 00e8a72f-f6c3-4dd6-b565-b17e8c16c036
 page_title: Grumos de harina o streusel
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/index/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/index/index/) > Grumos de harina o streusel
+[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Grumos de harina o streusel
 
 ## Grumos de harina o streusel
 

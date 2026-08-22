@@ -4,7 +4,7 @@ uuid: e9d55843-f2d0-4bac-b410-d2118200af55
 page_title: Pasto
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Pasto
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Pasto
 
 ## Pasto
 

@@ -4,7 +4,7 @@ uuid: ee5ea155-88c0-47bd-a607-8b1fce99b61e
 page_title: Moho
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Moho
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Moho
 
 ## Moho
 

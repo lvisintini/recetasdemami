@@ -4,7 +4,7 @@ uuid: 69fa1cac-d93a-4120-bc09-18c64e8ca758
 page_title: Crimbury
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/index/index/) > Crimbury
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Crimbury
 
 ## Crimbury
 

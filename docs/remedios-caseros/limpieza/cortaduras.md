@@ -4,7 +4,7 @@ uuid: b861fc16-1abd-4889-92d3-25589497ed0c
 page_title: Cortaduras
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Cortaduras
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Cortaduras
 
 ## Cortaduras
 

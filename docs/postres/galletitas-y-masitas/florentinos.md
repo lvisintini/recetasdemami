@@ -4,7 +4,7 @@ uuid: 59caa3ed-ec9c-4e17-be73-7fe57a0c38e3
 page_title: Florentinos
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Galletitas y masitas]({{ site.baseurl }}/index/index/) > Florentinos
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Florentinos
 
 ## Florentinos
 

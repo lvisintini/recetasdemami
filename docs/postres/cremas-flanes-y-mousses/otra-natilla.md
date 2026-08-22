@@ -4,7 +4,7 @@ uuid: fe2da537-2ed5-40d8-8b1d-4e2c4e1a73c7
 page_title: Otra natilla
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Cremas, flanes y mousses]({{ site.baseurl }}/index/index/) > Otra natilla
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Otra natilla
 
 ## Otra natilla
 

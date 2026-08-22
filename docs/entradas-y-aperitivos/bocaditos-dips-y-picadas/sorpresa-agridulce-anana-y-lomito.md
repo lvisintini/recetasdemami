@@ -4,7 +4,7 @@ uuid: 3da6e5de-aa1d-44c3-9a87-ae865c5fbf42
 page_title: Sorpresa agridulce ananá y lomito
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Sorpresa agridulce ananá y lomito
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Sorpresa agridulce ananá y lomito
 
 ## Sorpresa agridulce ananá y lomito
 

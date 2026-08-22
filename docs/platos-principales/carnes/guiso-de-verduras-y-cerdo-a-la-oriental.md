@@ -4,7 +4,7 @@ uuid: 754dee5b-39c2-46cf-90df-ac6d8dc64768
 page_title: Guiso de verduras y cerdo a la oriental
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Guiso de verduras y cerdo a la oriental
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Guiso de verduras y cerdo a la oriental
 
 ## Guiso de verduras y cerdo a la oriental
 

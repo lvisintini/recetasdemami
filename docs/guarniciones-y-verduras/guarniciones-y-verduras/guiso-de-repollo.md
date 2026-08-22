@@ -4,7 +4,7 @@ uuid: 1db69f93-1f7d-4ae0-bf12-383655bfc997
 page_title: Guiso de repollo
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Guiso de repollo
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Guiso de repollo
 
 ## Guiso de repollo
 

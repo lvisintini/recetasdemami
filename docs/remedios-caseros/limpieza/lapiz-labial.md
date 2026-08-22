@@ -4,7 +4,7 @@ uuid: 45932673-13e7-4879-ace3-6958ae1a99a8
 page_title: Lapiz labial
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Lapiz labial
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Lapiz labial
 
 ## Lapiz labial
 

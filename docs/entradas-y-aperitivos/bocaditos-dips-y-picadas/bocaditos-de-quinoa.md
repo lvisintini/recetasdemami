@@ -4,7 +4,7 @@ uuid: 5f16dd23-c3a4-4b2b-b451-06c0aafe655a
 page_title: Bocaditos de quinoa
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Bocaditos de quinoa
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Bocaditos de quinoa
 
 ## Bocaditos de quinoa
 

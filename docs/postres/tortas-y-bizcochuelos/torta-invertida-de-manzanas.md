@@ -4,7 +4,7 @@ uuid: 51ed9ec3-acf6-4c36-b8fb-1683550d18f7
 page_title: Torta invertida de manzanas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta invertida de manzanas
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta invertida de manzanas
 
 ## Torta invertida de manzanas
 

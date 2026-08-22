@@ -4,7 +4,7 @@ uuid: 2e456d14-614b-4cad-be3c-5bc801f498d9
 page_title: Repollo
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con mayonesa]({{ site.baseurl }}/index/index/) > Repollo
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Repollo
 
 ## Repollo
 

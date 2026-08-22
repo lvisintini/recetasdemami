@@ -4,7 +4,7 @@ uuid: d58ca09d-6da3-4be4-bbd6-603f554ee2c5
 page_title: Relleno para tarta
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/index/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/index/index/) > Relleno para tarta
+[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Relleno para tarta
 
 ## Relleno para tarta
 

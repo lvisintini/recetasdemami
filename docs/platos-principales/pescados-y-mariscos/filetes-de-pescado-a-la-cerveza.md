@@ -4,7 +4,7 @@ uuid: 3d49ffe2-ce20-4d0d-8bdd-fa540daab57b
 page_title: Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
 
 ## Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
 

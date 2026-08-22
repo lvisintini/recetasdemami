@@ -4,7 +4,7 @@ uuid: 0198aa07-9b4d-4bf3-b660-268385347dfd
 page_title: Rucula 1
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/index/index/) > Rucula 1
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Rucula 1
 
 ## Rucula 1
 

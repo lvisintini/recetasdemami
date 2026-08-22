@@ -4,7 +4,7 @@ uuid: a3554cb9-4d58-4c0e-886a-61c154fb5d46
 page_title: Tarta de frutas artística
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Tarta de frutas artística
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Tarta de frutas artística
 
 ## Tarta de frutas artística
 

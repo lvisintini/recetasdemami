@@ -4,7 +4,7 @@ uuid: d3d368b4-ac0a-4ff9-aaf5-21e1d77cb21f
 page_title: Torta de simple marmolada
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de simple marmolada
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de simple marmolada
 
 ## Torta de simple marmolada
 

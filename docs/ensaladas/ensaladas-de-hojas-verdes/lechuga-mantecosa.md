@@ -4,7 +4,7 @@ uuid: bdfba309-3a53-4300-841f-319f253b7b0c
 page_title: Lechuga mantecosa
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/index/index/) > Lechuga mantecosa
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Lechuga mantecosa
 
 ## Lechuga mantecosa
 

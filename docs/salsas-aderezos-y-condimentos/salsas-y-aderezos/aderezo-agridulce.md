@@ -4,7 +4,7 @@ uuid: f5f8899b-17b9-440c-89db-2b2fe016b785
 page_title: Aderezo Agridulce
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Aderezo Agridulce
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Aderezo Agridulce
 
 ## Aderezo Agridulce
 

@@ -4,7 +4,7 @@ uuid: cdc0d81b-1817-4192-9f30-70326ff60a07
 page_title: Garganta irritada
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Garganta irritada
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Garganta irritada
 
 ## Garganta irritada
 

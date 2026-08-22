@@ -4,7 +4,7 @@ uuid: 959a7a4a-ee0f-44df-b248-3d1bce151eb3
 page_title: Cebollas caramelizadas
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Cebollas caramelizadas
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Cebollas caramelizadas
 
 ## Cebollas caramelizadas
 

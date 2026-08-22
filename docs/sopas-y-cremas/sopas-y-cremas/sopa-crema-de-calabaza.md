@@ -4,7 +4,7 @@ uuid: 3e8ce37d-f813-4a7f-b9ce-770221dcb196
 page_title: Sopa crema de calabaza
 ---
 
-[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/index/) > [Sopas y cremas]({{ site.baseurl }}/index/index/) > Sopa crema de calabaza
+[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa crema de calabaza
 
 ## Sopa crema de calabaza
 

@@ -4,7 +4,7 @@ uuid: babdb37e-cd5a-4735-a878-d815e663eac9
 page_title: Colitis
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Colitis
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Colitis
 
 ## Colitis
 

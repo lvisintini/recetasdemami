@@ -4,7 +4,7 @@ uuid: 819e773a-27cd-4643-a6fc-4bc5b577ec8c
 page_title: Clafoutis de cereza
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Clafoutis de cereza
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Clafoutis de cereza
 
 ## Clafoutis de cereza
 

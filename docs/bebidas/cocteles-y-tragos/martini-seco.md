@@ -4,7 +4,7 @@ uuid: 2bd3cd16-d4d2-438c-b4c6-f84782c9a235
 page_title: Martini seco
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Martini seco
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Martini seco
 
 ## Martini seco
 

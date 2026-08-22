@@ -4,7 +4,7 @@ uuid: 16a75d67-c408-492c-a2f9-582470a5d5e1
 page_title: Estofado de carne y verduras
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Estofado de carne y verduras
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Estofado de carne y verduras
 
 ## Estofado de carne y verduras
 

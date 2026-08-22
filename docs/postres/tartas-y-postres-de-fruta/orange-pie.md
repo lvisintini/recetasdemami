@@ -4,7 +4,7 @@ uuid: e8b1ffff-71a7-4547-ac5c-c59aceec0bc6
 page_title: Orange pie
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Orange pie
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Orange pie
 
 ## Orange pie
 

@@ -4,7 +4,7 @@ uuid: e5ab49bd-f267-4fd5-8299-1e479e125211
 page_title: Escalopes al vino Marsala.
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Escalopes al vino Marsala.
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Escalopes al vino Marsala.
 
 ## Escalopes al vino Marsala.
 

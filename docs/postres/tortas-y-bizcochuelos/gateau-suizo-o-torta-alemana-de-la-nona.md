@@ -4,7 +4,7 @@ uuid: 53f26d58-18ba-4f4d-9b34-295f8ba7328d
 page_title: Gateau suizo o torta alemana de la nona
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Gateau suizo o torta alemana de la nona
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Gateau suizo o torta alemana de la nona
 
 ## Gateau suizo o torta alemana de la nona
 

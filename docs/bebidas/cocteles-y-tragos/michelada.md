@@ -4,7 +4,7 @@ uuid: 9a448327-74d8-413e-a384-11b52ec0f955
 page_title: Michelada
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Michelada
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Michelada
 
 ## Michelada
 

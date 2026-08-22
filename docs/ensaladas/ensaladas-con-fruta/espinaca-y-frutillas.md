@@ -4,7 +4,7 @@ uuid: d123c8dd-bc6c-4adb-870e-47dd4511352a
 page_title: Espinaca y frutillas
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con fruta]({{ site.baseurl }}/index/index/) > Espinaca y frutillas
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Espinaca y frutillas
 
 ## Espinaca y frutillas
 

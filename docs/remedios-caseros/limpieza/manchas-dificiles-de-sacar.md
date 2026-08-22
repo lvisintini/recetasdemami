@@ -4,7 +4,7 @@ uuid: 737e360e-30d9-4283-9de9-285440880fc3
 page_title: Manchas difíciles de sacar
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Manchas difíciles de sacar
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Manchas difíciles de sacar
 
 ## Manchas difíciles de sacar
 

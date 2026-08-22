@@ -4,7 +4,7 @@ uuid: fe8a8d71-fe92-4c81-9f4b-43ff63aded9c
 page_title: Rellenos dulces para crepes
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Crepes y panqueques dulces]({{ site.baseurl }}/index/index/) > Rellenos dulces para crepes
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) > Rellenos dulces para crepes
 
 ## Rellenos dulces para crepes
 

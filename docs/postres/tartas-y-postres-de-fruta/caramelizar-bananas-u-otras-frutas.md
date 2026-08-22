@@ -4,7 +4,7 @@ uuid: c7bb2d7e-f386-45fa-aef5-12d626c79e1d
 page_title: Caramelizar bananas u otras frutas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Caramelizar bananas u otras frutas
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Caramelizar bananas u otras frutas
 
 ## Caramelizar bananas u otras frutas
 

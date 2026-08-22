@@ -4,7 +4,7 @@ uuid: 497d4f21-670a-4de8-8ce4-91a042fcc8c0
 page_title: Dip de almendras
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Dip de almendras
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de almendras
 
 ## Dip de almendras
 

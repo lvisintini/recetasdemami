@@ -4,7 +4,7 @@ uuid: b47d242a-7e46-4dad-b69e-60c89735e07f
 page_title: Champiñones en escabeche de Maria Rosa
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/index/index/) > Champiñones en escabeche de Maria Rosa
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Champiñones en escabeche de Maria Rosa
 
 ## Champiñones en escabeche de Maria Rosa
 

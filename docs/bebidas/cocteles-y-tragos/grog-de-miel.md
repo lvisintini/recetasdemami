@@ -4,7 +4,7 @@ uuid: c2f77caa-46d8-4931-9e56-7483199a41de
 page_title: Grog de miel
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Grog de miel
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Grog de miel
 
 ## Grog de miel
 

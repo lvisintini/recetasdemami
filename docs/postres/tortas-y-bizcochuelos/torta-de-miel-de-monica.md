@@ -4,7 +4,7 @@ uuid: 682708aa-0214-4f24-b803-38b6f236c42f
 page_title: Torta de miel de Mónica
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de miel de Mónica
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de miel de Mónica
 
 ## Torta de miel de Mónica
 

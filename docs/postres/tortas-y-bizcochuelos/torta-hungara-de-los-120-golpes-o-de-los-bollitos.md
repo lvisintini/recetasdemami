@@ -4,7 +4,7 @@ uuid: 3f4eb5b2-bae8-414a-9589-76da2ea74b46
 page_title: Torta hungara, de los 120 golpes, o de los bollitos
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta hungara, de los 120 golpes, o de los bollitos
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta hungara, de los 120 golpes, o de los bollitos
 
 ## Torta hungara, de los 120 golpes, o de los bollitos
 

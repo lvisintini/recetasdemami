@@ -4,7 +4,7 @@ uuid: 1df421d1-ab3e-423d-9aef-6c431815eabe
 page_title: Torta de ricota
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de ricota
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de ricota
 
 ## Torta de ricota
 

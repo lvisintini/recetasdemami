@@ -4,7 +4,7 @@ uuid: 35983c42-b149-4d01-8dec-806f12ff2dcb
 page_title: Dolores y molestias
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Dolores y molestias
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Dolores y molestias
 
 ## Dolores y molestias
 

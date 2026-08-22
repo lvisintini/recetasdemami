@@ -4,7 +4,7 @@ uuid: 656b1123-a307-4d61-8897-fe9199bd9975
 page_title: Bloody Mary
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Bloody Mary
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bloody Mary
 
 ## Bloody Mary
 

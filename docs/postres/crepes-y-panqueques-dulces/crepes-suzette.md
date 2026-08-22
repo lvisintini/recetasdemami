@@ -4,7 +4,7 @@ uuid: 93907275-951a-4f48-839b-9f18ff675607
 page_title: Crepes suzette
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Crepes y panqueques dulces]({{ site.baseurl }}/index/index/) > Crepes suzette
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) > Crepes suzette
 
 ## Crepes suzette
 

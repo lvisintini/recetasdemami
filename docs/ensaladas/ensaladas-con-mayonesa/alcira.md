@@ -4,7 +4,7 @@ uuid: e8aa9964-0bfb-4563-a191-431353485c96
 page_title: Alcira
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas con mayonesa]({{ site.baseurl }}/index/index/) > Alcira
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Alcira
 
 ## Alcira
 

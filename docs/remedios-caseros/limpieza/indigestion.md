@@ -4,7 +4,7 @@ uuid: 56df5d0a-bc5f-4d3a-b76b-8d6e61da1e74
 page_title: Indigestión
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Indigestión
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Indigestión
 
 ## Indigestión
 

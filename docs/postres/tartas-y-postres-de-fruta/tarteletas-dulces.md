@@ -4,7 +4,7 @@ uuid: e096997a-45e6-452d-95c5-91856cc4f144
 page_title: Tarteletas dulces
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tartas y postres de fruta]({{ site.baseurl }}/index/index/) > Tarteletas dulces
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Tarteletas dulces
 
 ## Tarteletas dulces
 

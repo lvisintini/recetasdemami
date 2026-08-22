@@ -4,7 +4,7 @@ uuid: 6d2c5327-4d5e-4631-bf6f-7e3457c54379
 page_title: Huevos en las nieves
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/index/) > [Huevos]({{ site.baseurl }}/index/index/) > Huevos en las nieves
+[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Huevos en las nieves
 
 ## Huevos en las nieves
 

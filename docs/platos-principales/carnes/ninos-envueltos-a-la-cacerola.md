@@ -4,7 +4,7 @@ uuid: 0526f2fb-e622-4504-a455-371c25035f6b
 page_title: Niños envueltos a la cacerola
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Niños envueltos a la cacerola
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Niños envueltos a la cacerola
 
 ## Niños envueltos a la cacerola
 

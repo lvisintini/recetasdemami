@@ -4,7 +4,7 @@ uuid: 629efaab-35bc-4249-84d9-c60a3cbb3c62
 page_title: Caprece
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/index/) > [Ensaladas clásicas]({{ site.baseurl }}/index/index/) > Caprece
+[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Caprece
 
 ## Caprece
 

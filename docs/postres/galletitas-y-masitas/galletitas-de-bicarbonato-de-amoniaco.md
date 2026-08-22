@@ -4,7 +4,7 @@ uuid: 3136257e-6918-4436-aea6-a67ed9a6e55b
 page_title: Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Galletitas y masitas]({{ site.baseurl }}/index/index/) > Galletitas de Bicarbonato de Amoniaco (CO3NH4)
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 
 ## Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 

@@ -4,7 +4,7 @@ uuid: 1cb21d44-38d6-464b-ac78-c13aee6ed305
 page_title: Bacardi frutilla
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Bacardi frutilla
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi frutilla
 
 ## Bacardi frutilla
 

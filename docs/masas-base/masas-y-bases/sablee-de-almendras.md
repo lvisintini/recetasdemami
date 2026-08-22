@@ -4,7 +4,7 @@ uuid: 335cf6e7-03e4-4f4b-a0f3-db2f36f090d0
 page_title: Sablée de almendras
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/index/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/index/index/) > Sablée de almendras
+[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Sablée de almendras
 
 ## Sablée de almendras
 

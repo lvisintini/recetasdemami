@@ -4,7 +4,7 @@ uuid: c97e175c-4b39-4e96-809f-4d7e4d134043
 page_title: Pisco sour
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Pisco sour
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Pisco sour
 
 ## Pisco sour
 

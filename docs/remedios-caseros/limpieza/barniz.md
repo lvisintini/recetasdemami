@@ -4,7 +4,7 @@ uuid: 5142bda7-7e76-45d9-ae54-64f769bea906
 page_title: Barniz
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Barniz
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Barniz
 
 ## Barniz
 

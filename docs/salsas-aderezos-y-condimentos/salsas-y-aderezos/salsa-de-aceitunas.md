@@ -4,7 +4,7 @@ uuid: 41b25258-d081-4a09-b0fa-3868f50ad0c1
 page_title: Salsa de aceitunas
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/index/) > [Salsas y aderezos]({{ site.baseurl }}/index/index/) > Salsa de aceitunas
+[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de aceitunas
 
 ## Salsa de aceitunas
 

@@ -4,7 +4,7 @@ uuid: cfa40fd4-3329-4a37-9e1f-b214a7ea0335
 page_title: Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
 
 ## Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
 

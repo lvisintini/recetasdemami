@@ -4,7 +4,7 @@ uuid: 037a69b5-f0ea-4ec2-83da-27b504dad5cb
 page_title: Torta de queso
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de queso
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de queso
 
 ## Torta de queso
 

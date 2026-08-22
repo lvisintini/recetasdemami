@@ -4,7 +4,7 @@ uuid: 28d48135-ea99-4fa1-b9cb-0c2984eb38b9
 page_title: Leche, crema o helado
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Leche, crema o helado
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Leche, crema o helado
 
 ## Leche, crema o helado
 

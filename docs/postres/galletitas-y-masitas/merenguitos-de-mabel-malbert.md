@@ -4,7 +4,7 @@ uuid: 603fd494-2bf4-4b2f-9d9f-4d70e8c02bbb
 page_title: Merenguitos de Mabel Malbert
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Galletitas y masitas]({{ site.baseurl }}/index/index/) > Merenguitos de Mabel Malbert
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Merenguitos de Mabel Malbert
 
 ## Merenguitos de Mabel Malbert
 

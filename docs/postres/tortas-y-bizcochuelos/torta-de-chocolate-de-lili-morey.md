@@ -4,7 +4,7 @@ uuid: 6c3cfa05-99c4-45ae-9b23-58f966ea1567
 page_title: Torta de chocolate de Lili Morey
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Torta de chocolate de Lili Morey
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de chocolate de Lili Morey
 
 ## Torta de chocolate de Lili Morey
 

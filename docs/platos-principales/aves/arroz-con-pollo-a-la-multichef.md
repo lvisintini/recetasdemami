@@ -4,7 +4,7 @@ uuid: 0eadcad2-d8b1-4a56-bb8a-c559f4c5f77e
 page_title: Arroz con pollo a la Multichef (o sin multichef)
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Aves]({{ site.baseurl }}/index/index/) > Arroz con pollo a la Multichef (o sin multichef)
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Arroz con pollo a la Multichef (o sin multichef)
 
 ## Arroz con pollo a la Multichef (o sin multichef)
 

@@ -4,7 +4,7 @@ uuid: 1b44e33f-166f-4b34-9dca-b2c3fcd67d35
 page_title: Old fashion
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Old fashion
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Old fashion
 
 ## Old fashion
 

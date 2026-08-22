@@ -4,7 +4,7 @@ uuid: abe8f233-d820-4088-b5d4-957fe8e73de5
 page_title: Chocolate
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Chocolate
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Chocolate
 
 ## Chocolate
 

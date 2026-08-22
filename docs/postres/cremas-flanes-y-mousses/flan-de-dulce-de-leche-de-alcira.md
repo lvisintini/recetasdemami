@@ -4,7 +4,7 @@ uuid: fff4b27a-7e9f-4d37-9ef1-d8db1996e918
 page_title: Flan de Dulce de Leche de Alcira
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Cremas, flanes y mousses]({{ site.baseurl }}/index/index/) > Flan de Dulce de Leche de Alcira
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Flan de Dulce de Leche de Alcira
 
 ## Flan de Dulce de Leche de Alcira
 

@@ -4,7 +4,7 @@ uuid: 291301de-a99d-41ee-baff-70f9a7b79705
 page_title: Cera de velas
 ---
 
-[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/index/) > [Limpieza]({{ site.baseurl }}/index/index/) > Cera de velas
+[docs]({{ site.baseurl }}/) > [11. Remedios Caseros]({{ site.baseurl }}/remedios-caseros/) > [Limpieza]({{ site.baseurl }}/remedios-caseros/limpieza/) > Cera de velas
 
 ## Cera de velas
 

@@ -4,7 +4,7 @@ uuid: 49e91322-ed6c-4ce4-851f-60030e8ceb9d
 page_title: Cachetes de abadejo a la sartén
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Pescados y mariscos]({{ site.baseurl }}/index/index/) > Cachetes de abadejo a la sartén
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Cachetes de abadejo a la sartén
 
 ## Cachetes de abadejo a la sartén
 

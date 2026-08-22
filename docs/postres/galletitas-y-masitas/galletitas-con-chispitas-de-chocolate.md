@@ -4,7 +4,7 @@ uuid: 9008d06a-6354-4811-ac69-cf85728c046f
 page_title: Galletitas con chispitas de chocolate
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Galletitas y masitas]({{ site.baseurl }}/index/index/) > Galletitas con chispitas de chocolate
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Galletitas con chispitas de chocolate
 
 ## Galletitas con chispitas de chocolate
 

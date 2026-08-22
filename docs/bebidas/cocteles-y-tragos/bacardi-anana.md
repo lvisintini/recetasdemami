@@ -4,7 +4,7 @@ uuid: 9257e040-416f-48d4-9d2a-90e764cf6622
 page_title: Bacardi ananá
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/index/) > [Cócteles y tragos]({{ site.baseurl }}/index/index/) > Bacardi ananá
+[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi ananá
 
 ## Bacardi ananá
 

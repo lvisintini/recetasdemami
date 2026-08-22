@@ -4,7 +4,7 @@ uuid: 1cb21e73-ec31-4e66-a112-ede7606a88c4
 page_title: Cazuela de salchichas
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/index/) > [Carnes]({{ site.baseurl }}/index/index/) > Cazuela de salchichas
+[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Cazuela de salchichas
 
 ## Cazuela de salchichas
 

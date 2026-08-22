@@ -4,7 +4,7 @@ uuid: ba5af2c0-80d8-47b9-9302-e6b05a73476c
 page_title: Graten de calabaza y choclo
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/index/) > [Guarniciones y verduras]({{ site.baseurl }}/index/index/) > Graten de calabaza y choclo
+[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Graten de calabaza y choclo
 
 ## Graten de calabaza y choclo
 

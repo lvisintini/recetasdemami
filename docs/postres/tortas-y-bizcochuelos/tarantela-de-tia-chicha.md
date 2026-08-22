@@ -4,7 +4,7 @@ uuid: 7d5b1cd6-6239-422c-8f26-6ba9bff9ad25
 page_title: Tarantela de Tía Chicha
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/index/) > [Tortas y bizcochuelos]({{ site.baseurl }}/index/index/) > Tarantela de Tía Chicha
+[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Tarantela de Tía Chicha
 
 ## Tarantela de Tía Chicha
 
