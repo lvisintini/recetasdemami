@@ -1,0 +1,6 @@
+TODO:
+
+- Formatear todas las recetas y linkearlas
+- Agrupar las recetas similares
+- Algunas recomendaciones deben ser incluidas a todas las recetas bajo una categoria.... maybe?
+- Add.txt inclusions
