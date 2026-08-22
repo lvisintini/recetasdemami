@@ -4,7 +4,7 @@ uuid: 50bca583-052d-4a6e-af72-ab824ec673b5
 page_title: Repollo en torrejas de Enrique Sereno
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Repollo en torrejas de Enrique Sereno
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Repollo en torrejas de Enrique Sereno
 
 ## Repollo en torrejas de Enrique Sereno
 

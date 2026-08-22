@@ -4,7 +4,7 @@ uuid: 0f365373-dec4-4a92-9bfd-70b3560599ef
 page_title: Pollo con champiñones
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo con champiñones
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo con champiñones
 
 ## Pollo con champiñones
 

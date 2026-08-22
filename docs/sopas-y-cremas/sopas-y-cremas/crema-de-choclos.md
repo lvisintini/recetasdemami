@@ -4,7 +4,7 @@ uuid: 548b119d-4000-4e63-9be4-72ca74343d93
 page_title: Crema de Choclos
 ---
 
-[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Crema de Choclos
+[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Crema de Choclos
 
 ## Crema de Choclos
 

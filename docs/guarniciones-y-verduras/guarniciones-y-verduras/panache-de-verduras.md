@@ -4,7 +4,7 @@ uuid: 6a45d4f8-870e-4bc4-8381-dd097761d4c0
 page_title: Panaché de verduras
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Panaché de verduras
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Panaché de verduras
 
 ## Panaché de verduras
 

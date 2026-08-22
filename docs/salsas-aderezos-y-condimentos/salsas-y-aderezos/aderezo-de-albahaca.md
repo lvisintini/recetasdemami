@@ -4,7 +4,7 @@ uuid: 9e126536-2d47-4a82-aada-043ab00315ff
 page_title: Aderezo de Albahaca
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Aderezo de Albahaca
+[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Aderezo de Albahaca
 
 ## Aderezo de Albahaca
 

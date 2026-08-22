@@ -4,7 +4,7 @@ uuid: e8aad0a8-c14d-4a86-8712-c8a9d3722776
 page_title: Salsa Bechamel 2
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa Bechamel 2
+[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa Bechamel 2
 
 ## Salsa Bechamel 2
 

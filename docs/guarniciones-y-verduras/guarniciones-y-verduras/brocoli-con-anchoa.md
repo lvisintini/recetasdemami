@@ -4,7 +4,7 @@ uuid: dfcaca43-08ad-4322-9cc0-a5599684cee6
 page_title: Brócoli con anchoa
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Brócoli con anchoa
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Brócoli con anchoa
 
 ## Brócoli con anchoa
 

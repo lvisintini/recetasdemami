@@ -4,7 +4,7 @@ uuid: 3a95734a-daab-4ecc-89bb-e0248656ea94
 page_title: Arroz a la oriental
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Arroz a la oriental
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Arroz a la oriental
 
 ## Arroz a la oriental
 

@@ -4,7 +4,7 @@ uuid: 2994e094-9bfb-4f42-9775-841c7a788600
 page_title: Bruschettas para muchas personas.
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) > Bruschettas para muchas personas.
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) > Bruschettas para muchas personas.
 
 ## Bruschettas para muchas personas.
 

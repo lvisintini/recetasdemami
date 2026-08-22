@@ -4,7 +4,7 @@ uuid: 67dc7038-243b-43ea-af4d-276412c9b0c7
 page_title: Brusquetas 5
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) > Brusquetas 5
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) > Brusquetas 5
 
 ## Brusquetas 5
 

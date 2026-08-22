@@ -3,7 +3,7 @@ slug: index
 uuid: a9787f46-39ec-4ae9-a370-68909ec32c8b
 page_title: Guarniciones y verduras
 ---
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > Guarniciones y verduras
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > Guarniciones y verduras
 
 ## Guarniciones y verduras
 

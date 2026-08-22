@@ -3,7 +3,7 @@ slug: index
 uuid: 320ed379-b086-4c45-b9db-8e9b699d4711
 page_title: Bocaditos, dips y picadas
 ---
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > Bocaditos, dips y picadas
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > Bocaditos, dips y picadas
 
 ## Bocaditos, dips y picadas
 

@@ -4,7 +4,7 @@ uuid: 7a869ec7-62b8-4a42-a5b3-1f509df6bd31
 page_title: Salsa criolla
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa criolla
+[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa criolla
 
 ## Salsa criolla
 

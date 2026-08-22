@@ -4,7 +4,7 @@ uuid: 924265ba-456e-4fe6-9f6f-6fde40ec8290
 page_title: Waldorf
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Waldorf
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Waldorf
 
 ## Waldorf
 

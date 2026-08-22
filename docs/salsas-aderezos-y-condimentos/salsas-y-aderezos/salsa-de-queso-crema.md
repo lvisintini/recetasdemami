@@ -4,7 +4,7 @@ uuid: 30d62f53-0bb4-4bb6-aa57-14cc2e58d00b
 page_title: Salsa de Queso Crema
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de Queso Crema
+[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de Queso Crema
 
 ## Salsa de Queso Crema
 

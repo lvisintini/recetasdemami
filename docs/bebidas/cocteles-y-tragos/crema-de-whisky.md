@@ -4,7 +4,7 @@ uuid: f39ecbb8-11b5-4bb1-8c5a-db6ce3071832
 page_title: Crema de whisky
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Crema de whisky
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Crema de whisky
 
 ## Crema de whisky
 

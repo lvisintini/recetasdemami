@@ -4,7 +4,7 @@ uuid: 2bf45f4c-bbeb-496d-96c9-7e32b1c12bc3
 page_title: Lentejas
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Lentejas
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Lentejas
 
 ## Lentejas
 

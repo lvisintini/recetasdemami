@@ -4,7 +4,7 @@ uuid: 9dd51bbe-4713-4a59-8617-2160a930aacb
 page_title: Palta agridulce 2
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) > Palta agridulce 2
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) > Palta agridulce 2
 
 ## Palta agridulce 2
 

@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: 9b418a58-8161-4e9f-a044-fa49aca9ba3b
-page_title: 7. Platos Principales
+page_title: 07. Platos Principales
 ---
-[docs]({{ site.baseurl }}/) > 7. Platos Principales
+[docs]({{ site.baseurl }}/) > 07. Platos Principales
 
-## 7. Platos Principales
+## 07. Platos Principales
 
 - [Aves]({{ site.baseurl }}/platos-principales/aves/)
   - [Arroz con pollo a la Multichef (o sin multichef)]({{ site.baseurl }}/platos-principales/aves/arroz-con-pollo-a-la-multichef)

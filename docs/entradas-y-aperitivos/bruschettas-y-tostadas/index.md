@@ -3,7 +3,7 @@ slug: index
 uuid: 6c701f95-af12-49d8-b522-6ce9fc7e144f
 page_title: Bruschettas y tostadas
 ---
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > Bruschettas y tostadas
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > Bruschettas y tostadas
 
 ## Bruschettas y tostadas
 

@@ -4,7 +4,7 @@ uuid: e169a3a8-ca03-4ebd-8aed-75c45363c7f0
 page_title: Caipirinha
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Caipirinha
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Caipirinha
 
 ## Caipirinha
 

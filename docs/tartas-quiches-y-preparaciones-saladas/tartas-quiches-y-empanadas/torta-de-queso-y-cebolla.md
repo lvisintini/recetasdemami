@@ -4,7 +4,7 @@ uuid: 629da51d-51f8-4c0e-96e8-3ccf133717a9
 page_title: Torta de queso y cebolla (muy buena)
 ---
 
-[docs]({{ site.baseurl }}/) > [9. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Torta de queso y cebolla (muy buena)
+[docs]({{ site.baseurl }}/) > [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Torta de queso y cebolla (muy buena)
 
 ## Torta de queso y cebolla (muy buena)
 

@@ -4,7 +4,7 @@ uuid: aa290aa3-4dca-4a58-9e18-cb2494e0118a
 page_title: Gambas al ajillo
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Gambas al ajillo
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Gambas al ajillo
 
 ## Gambas al ajillo
 

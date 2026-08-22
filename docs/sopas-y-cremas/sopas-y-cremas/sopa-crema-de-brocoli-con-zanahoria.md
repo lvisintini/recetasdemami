@@ -4,7 +4,7 @@ uuid: d882ac9d-6fd1-4e93-b97c-6a2dd5aa0d9f
 page_title: Sopa crema de brocoli con zanahoria
 ---
 
-[docs]({{ site.baseurl }}/) > [4. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa crema de brocoli con zanahoria
+[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa crema de brocoli con zanahoria
 
 ## Sopa crema de brocoli con zanahoria
 

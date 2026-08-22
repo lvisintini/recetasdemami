@@ -4,7 +4,7 @@ uuid: d159675d-f77b-4449-a2d8-553b1a9b09fc
 page_title: Hojaldre con cebolla (no probado)
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Hojaldre con cebolla (no probado)
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Hojaldre con cebolla (no probado)
 
 ## Hojaldre con cebolla (no probado)
 

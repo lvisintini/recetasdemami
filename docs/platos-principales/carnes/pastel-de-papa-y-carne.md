@@ -4,7 +4,7 @@ uuid: c054c0ed-4ea7-4487-80ea-f7f4593777cf
 page_title: Pastel de papa y carne
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Pastel de papa y carne
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Pastel de papa y carne
 
 ## Pastel de papa y carne
 

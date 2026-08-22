@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: 98ac0b09-2c13-43d9-9597-d49033707e90
-page_title: 8. Guarniciones y Verduras
+page_title: 08. Guarniciones y Verduras
 ---
-[docs]({{ site.baseurl }}/) > 8. Guarniciones y Verduras
+[docs]({{ site.baseurl }}/) > 08. Guarniciones y Verduras
 
-## 8. Guarniciones y Verduras
+## 08. Guarniciones y Verduras
 
 - [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/)
   - [Arroz a la oriental]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/arroz-a-la-oriental)

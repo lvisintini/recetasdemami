@@ -3,7 +3,7 @@ slug: index
 uuid: 54b6b335-c605-4e0a-905a-f52cebcc1dc3
 page_title: Aves
 ---
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > Aves
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > Aves
 
 ## Aves
 

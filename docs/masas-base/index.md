@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: e7b94a8d-0d28-4fbc-b833-0d76edee07d0
-page_title: 6. Masas Base
+page_title: 06. Masas Base
 ---
-[docs]({{ site.baseurl }}/) > 6. Masas Base
+[docs]({{ site.baseurl }}/) > 06. Masas Base
 
-## 6. Masas Base
+## 06. Masas Base
 
 - [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/)
   - [Grumos de avena]({{ site.baseurl }}/masas-base/masas-y-bases/grumos-de-avena)

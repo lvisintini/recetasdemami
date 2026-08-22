@@ -4,7 +4,7 @@ uuid: 14179fca-0bc7-4181-ba7d-7cdb16fd296c
 page_title: Almíbar a punto de hilo flojo para endulzar cócteles
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Almíbar a punto de hilo flojo para endulzar cócteles
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Almíbar a punto de hilo flojo para endulzar cócteles
 
 ## Almíbar a punto de hilo flojo para endulzar cócteles
 

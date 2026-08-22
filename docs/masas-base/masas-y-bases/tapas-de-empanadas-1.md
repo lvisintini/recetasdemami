@@ -4,7 +4,7 @@ uuid: 3af766e7-ed3b-4a4c-81a7-0c27cd006d0d
 page_title: Tapas de empanadas 1
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Tapas de empanadas 1
+[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Tapas de empanadas 1
 
 ## Tapas de empanadas 1
 

@@ -4,7 +4,7 @@ uuid: c65f4f50-c21c-4318-a8a5-0905ed9820d1
 page_title: Coliflor o brocoli a la milanesa
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Coliflor o brocoli a la milanesa
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Coliflor o brocoli a la milanesa
 
 ## Coliflor o brocoli a la milanesa
 

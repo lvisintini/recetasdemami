@@ -4,7 +4,7 @@ uuid: dc3e7066-11d4-46fb-8e0a-e8a927e31199
 page_title: Coup de Milieu, Tutti Frutti
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Coup de Milieu, Tutti Frutti
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Coup de Milieu, Tutti Frutti
 
 ## Coup de Milieu, Tutti Frutti
 

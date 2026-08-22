@@ -3,7 +3,7 @@ slug: index
 uuid: 256630d6-a083-4a53-94da-35e1c437b003
 page_title: Pescados y mariscos
 ---
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > Pescados y mariscos
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > Pescados y mariscos
 
 ## Pescados y mariscos
 

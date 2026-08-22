@@ -4,7 +4,7 @@ uuid: 051f36e0-3f0f-4938-a757-b2c981311909
 page_title: Masa de la pasta frola de las tías
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa de la pasta frola de las tías
+[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa de la pasta frola de las tías
 
 ## Masa de la pasta frola de las tías
 

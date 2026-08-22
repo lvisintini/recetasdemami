@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: d792034a-7d02-4171-a015-eb070481c530
-page_title: 2. Entradas y Aperitivos
+page_title: 02. Entradas y Aperitivos
 ---
-[docs]({{ site.baseurl }}/) > 2. Entradas y Aperitivos
+[docs]({{ site.baseurl }}/) > 02. Entradas y Aperitivos
 
-## 2. Entradas y Aperitivos
+## 02. Entradas y Aperitivos
 
 - [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/)
   - [Aceitunas en la picada]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/aceitunas-en-la-picada)

@@ -4,7 +4,7 @@ uuid: e6f9825c-42fc-4f1c-a8e4-6caa2c9203c4
 page_title: Hueso perdido
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Hueso perdido
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Hueso perdido
 
 ## Hueso perdido
 

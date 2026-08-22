@@ -4,7 +4,7 @@ uuid: 7c2115e8-39f0-43a2-8dc5-a81b83a1d4a9
 page_title: Guiso de lentejas
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Guiso de lentejas
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Guiso de lentejas
 
 ## Guiso de lentejas
 

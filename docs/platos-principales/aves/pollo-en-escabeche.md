@@ -4,7 +4,7 @@ uuid: b80a47ad-1b03-4ada-b6db-c01ae5104cd8
 page_title: Pollo en escabeche
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo en escabeche
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo en escabeche
 
 ## Pollo en escabeche
 

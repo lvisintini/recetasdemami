@@ -3,7 +3,7 @@ slug: index
 uuid: 90a6ef8c-74d2-4a80-948d-385b2f9dfe82
 page_title: Masas y bases (dulces y saladas)
 ---
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > Masas y bases (dulces y saladas)
+[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > Masas y bases (dulces y saladas)
 
 ## Masas y bases (dulces y saladas)
 

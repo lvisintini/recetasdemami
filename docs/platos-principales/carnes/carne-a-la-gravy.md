@@ -4,7 +4,7 @@ uuid: 81f3379e-98ec-466c-b90c-e5e4ae65a38c
 page_title: Carne a la gravy.
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Carne a la gravy.
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Carne a la gravy.
 
 ## Carne a la gravy.
 

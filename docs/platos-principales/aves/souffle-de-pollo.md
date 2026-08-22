@@ -4,7 +4,7 @@ uuid: f08c93f2-57b5-452c-8f68-f5c70b986061
 page_title: Souffle de pollo
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Souffle de pollo
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Souffle de pollo
 
 ## Souffle de pollo
 

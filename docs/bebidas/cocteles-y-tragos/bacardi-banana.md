@@ -4,7 +4,7 @@ uuid: 8651af34-a949-4607-8095-961cd4a5035e
 page_title: Bacardi banana
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi banana
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi banana
 
 ## Bacardi banana
 

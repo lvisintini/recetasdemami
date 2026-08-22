@@ -4,7 +4,7 @@ uuid: e16a3c09-5d7b-4664-bb47-5454ff6a409c
 page_title: Pastel de calabaza al curry (muy rico)
 ---
 
-[docs]({{ site.baseurl }}/) > [8. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Pastel de calabaza al curry (muy rico)
+[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Pastel de calabaza al curry (muy rico)
 
 ## Pastel de calabaza al curry (muy rico)
 

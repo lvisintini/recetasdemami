@@ -4,7 +4,7 @@ uuid: 31f71113-11f2-40aa-b63c-df82ead991e7
 page_title: Chimichurri para 100 kg de Mamona
 ---
 
-[docs]({{ site.baseurl }}/) > [5. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Chimichurri para 100 kg de Mamona
+[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Chimichurri para 100 kg de Mamona
 
 ## Chimichurri para 100 kg de Mamona
 

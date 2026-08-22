@@ -3,7 +3,7 @@ slug: index
 uuid: acc727dd-ef10-4026-857a-9a3cd9747eb0
 page_title: Ensaladas de hojas verdes
 ---
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > Ensaladas de hojas verdes
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > Ensaladas de hojas verdes
 
 ## Ensaladas de hojas verdes
 

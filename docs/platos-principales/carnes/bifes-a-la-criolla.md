@@ -4,7 +4,7 @@ uuid: 68aa6d2d-93a2-42ae-9130-016537266745
 page_title: Bifes a la criolla
 ---
 
-[docs]({{ site.baseurl }}/) > [7. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Bifes a la criolla
+[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Bifes a la criolla
 
 ## Bifes a la criolla
 

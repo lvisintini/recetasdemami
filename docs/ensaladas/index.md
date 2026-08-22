@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: 0a445e9c-0087-414a-8f03-3b181bd0f0f2
-page_title: 3. Ensaladas
+page_title: 03. Ensaladas
 ---
-[docs]({{ site.baseurl }}/) > 3. Ensaladas
+[docs]({{ site.baseurl }}/) > 03. Ensaladas
 
-## 3. Ensaladas
+## 03. Ensaladas
 
 - [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/)
   - [Caprece]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/caprece)

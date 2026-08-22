@@ -4,7 +4,7 @@ uuid: 20e2e600-beb6-476b-aa6a-4f0fb1be8410
 page_title: Masa para flammkuchen de Sofi
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para flammkuchen de Sofi
+[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para flammkuchen de Sofi
 
 ## Masa para flammkuchen de Sofi
 

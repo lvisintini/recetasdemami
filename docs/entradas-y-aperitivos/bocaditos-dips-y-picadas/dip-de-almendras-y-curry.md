@@ -4,7 +4,7 @@ uuid: 8d84603d-4470-4ef3-a1b4-e9ab4a80c946
 page_title: Dip de Almendras y Curry
 ---
 
-[docs]({{ site.baseurl }}/) > [2. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de Almendras y Curry
+[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Dip de Almendras y Curry
 
 ## Dip de Almendras y Curry
 

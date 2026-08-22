@@ -1,11 +1,11 @@
 ---
 slug: index
 uuid: 1936f728-d8f9-4d97-a142-be26072b8eb3
-page_title: 1. Bebidas
+page_title: 01. Bebidas
 ---
-[docs]({{ site.baseurl }}/) > 1. Bebidas
+[docs]({{ site.baseurl }}/) > 01. Bebidas
 
-## 1. Bebidas
+## 01. Bebidas
 
 - [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/)
   - [Almíbar a punto de hilo flojo para endulzar cócteles]({{ site.baseurl }}/bebidas/cocteles-y-tragos/almibar-a-punto-de-hilo-flojo-para-endulzar-cocteles)

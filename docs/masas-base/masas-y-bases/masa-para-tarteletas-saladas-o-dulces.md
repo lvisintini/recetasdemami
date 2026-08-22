@@ -4,7 +4,7 @@ uuid: d2a246e8-803e-48bd-a91f-aab2de2470d4
 page_title: Masa para tarteletas saladas o dulces
 ---
 
-[docs]({{ site.baseurl }}/) > [6. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para tarteletas saladas o dulces
+[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa para tarteletas saladas o dulces
 
 ## Masa para tarteletas saladas o dulces
 

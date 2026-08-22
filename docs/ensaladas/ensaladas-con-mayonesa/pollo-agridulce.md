@@ -4,7 +4,7 @@ uuid: 0fd54fad-8960-48fc-b8fb-10f734d4f1ce
 page_title: Pollo agridulce
 ---
 
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Pollo agridulce
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Pollo agridulce
 
 ## Pollo agridulce
 

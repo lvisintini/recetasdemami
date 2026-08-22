@@ -4,7 +4,7 @@ uuid: 803ba725-4311-4432-9e6d-218de68bed25
 page_title: Caipiroska
 ---
 
-[docs]({{ site.baseurl }}/) > [1. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Caipiroska
+[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Caipiroska
 
 ## Caipiroska
 

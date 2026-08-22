@@ -3,7 +3,7 @@ slug: index
 uuid: 3ee29611-6bc8-49cb-813e-43ece0359f55
 page_title: Ensaladas con mayonesa
 ---
-[docs]({{ site.baseurl }}/) > [3. Ensaladas]({{ site.baseurl }}/ensaladas/) > Ensaladas con mayonesa
+[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > Ensaladas con mayonesa
 
 ## Ensaladas con mayonesa
 
