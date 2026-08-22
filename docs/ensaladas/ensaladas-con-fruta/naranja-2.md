@@ -4,7 +4,7 @@ uuid: f22f1d8e-a426-490b-ad97-22a297016c58
 page_title: Naranja 2
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Naranja 2
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Naranja 2
 
 ## Naranja 2
 

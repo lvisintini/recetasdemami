@@ -3,7 +3,7 @@ slug: index
 uuid: 67591b60-0c9e-4ef1-b54c-58c45c0119fa
 page_title: 10. Postres
 ---
-[docs]({{ site.baseurl }}/) > 10. Postres
+[docs]({{ site.baseurl }}/) / 10. Postres
 
 ## 10. Postres
 

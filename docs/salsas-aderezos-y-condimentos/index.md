@@ -3,7 +3,7 @@ slug: index
 uuid: 1d8ac754-d6f4-4edb-9381-1236af9b2015
 page_title: 05. Salsas, Aderezos y Condimentos
 ---
-[docs]({{ site.baseurl }}/) > 05. Salsas, Aderezos y Condimentos
+[docs]({{ site.baseurl }}/) / 05. Salsas, Aderezos y Condimentos
 
 ## 05. Salsas, Aderezos y Condimentos
 

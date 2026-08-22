@@ -4,7 +4,7 @@ uuid: efecbb58-9b7d-40d4-91f9-ac1aecdb77e5
 page_title: Masa tarta Veer. Con semillas
 ---
 
-[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa tarta Veer. Con semillas
+[docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa tarta Veer. Con semillas
 
 ## Masa tarta Veer. Con semillas
 

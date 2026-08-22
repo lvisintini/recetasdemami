@@ -4,7 +4,7 @@ uuid: bb4c7a67-49e2-4695-9616-030ffa55680c
 page_title: Arroz con leche
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Arroz con leche
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Arroz con leche
 
 ## Arroz con leche
 

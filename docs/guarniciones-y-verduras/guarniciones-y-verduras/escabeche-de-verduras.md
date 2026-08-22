@@ -4,7 +4,7 @@ uuid: 8289ad1a-dfd7-4552-8370-ba8c37fc8339
 page_title: Escabeche de verduras
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Escabeche de verduras
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Escabeche de verduras
 
 ## Escabeche de verduras
 

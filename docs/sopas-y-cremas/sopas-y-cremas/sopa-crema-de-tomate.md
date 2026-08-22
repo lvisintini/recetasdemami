@@ -4,7 +4,7 @@ uuid: b35bb48f-d03f-4b22-af03-572b50df4a9b
 page_title: Sopa crema de tomate
 ---
 
-[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa crema de tomate
+[docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Sopa crema de tomate
 
 ## Sopa crema de tomate
 

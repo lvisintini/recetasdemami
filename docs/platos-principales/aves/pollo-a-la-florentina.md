@@ -4,7 +4,7 @@ uuid: 52ba2578-4cdb-4244-8022-0a6b01090bb2
 page_title: Pollo a la florentina
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo a la florentina
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo a la florentina
 
 ## Pollo a la florentina
 

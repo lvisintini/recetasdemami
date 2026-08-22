@@ -4,7 +4,7 @@ uuid: 521272ad-f56f-488c-9ddd-006d35532860
 page_title: Mollejas y hongos
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Mollejas y hongos
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Mollejas y hongos
 
 ## Mollejas y hongos
 

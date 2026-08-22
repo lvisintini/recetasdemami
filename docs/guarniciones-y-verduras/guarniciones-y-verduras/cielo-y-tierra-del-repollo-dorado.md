@@ -4,7 +4,7 @@ uuid: 813d58d5-c638-4fbb-92ff-af9d7cac5e92
 page_title: Cielo y tierra, del “repollo dorado”
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Cielo y tierra, del “repollo dorado”
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Cielo y tierra, del “repollo dorado”
 
 ## Cielo y tierra, del “repollo dorado”
 

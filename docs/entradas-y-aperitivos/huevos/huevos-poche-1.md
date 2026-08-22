@@ -4,7 +4,7 @@ uuid: 03ead31a-a137-46a5-a85a-345de849fb38
 page_title: Huevos poche 1
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Huevos poche 1
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos poche 1
 
 ## Huevos poche 1
 

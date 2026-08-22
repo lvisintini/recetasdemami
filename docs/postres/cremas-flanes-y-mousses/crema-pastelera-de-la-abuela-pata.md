@@ -4,7 +4,7 @@ uuid: a23a0b67-6a10-442b-8f0a-f34585bce3da
 page_title: Crema pastelera de la abuela Pata
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Crema pastelera de la abuela Pata
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Crema pastelera de la abuela Pata
 
 ## Crema pastelera de la abuela Pata
 

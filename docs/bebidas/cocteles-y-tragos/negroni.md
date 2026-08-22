@@ -4,7 +4,7 @@ uuid: 312e71f1-8139-472f-86b0-287783db373f
 page_title: Negroni
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Negroni
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Negroni
 
 ## Negroni
 

@@ -4,7 +4,7 @@ uuid: 20953f3c-7e48-4e9d-8ecd-a579ea1aa440
 page_title: Carne agri-dulce (receta de gigi)
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Carne agri-dulce (receta de gigi)
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Carne agri-dulce (receta de gigi)
 
 ## Carne agri-dulce (receta de gigi)
 

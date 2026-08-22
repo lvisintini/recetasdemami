@@ -4,7 +4,7 @@ uuid: 3529f612-f1e4-4d91-9b9c-42676eea5302
 page_title: Chorizo de chocolate
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Chorizo de chocolate
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Chorizo de chocolate
 
 ## Chorizo de chocolate
 

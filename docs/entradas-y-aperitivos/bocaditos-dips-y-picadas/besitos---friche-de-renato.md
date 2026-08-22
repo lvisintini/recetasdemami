@@ -4,7 +4,7 @@ uuid: dda1b839-1a78-4308-bc02-de542a773d9f
 page_title: Besitos - friche de Renato
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Besitos - friche de Renato
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Besitos - friche de Renato
 
 ## Besitos - friche de Renato
 

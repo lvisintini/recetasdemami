@@ -4,7 +4,7 @@ uuid: 0665920f-c9c5-49e5-9646-25b1a847e160
 page_title: Pollo a la Haiti.
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo a la Haiti.
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo a la Haiti.
 
 ## Pollo a la Haiti.
 

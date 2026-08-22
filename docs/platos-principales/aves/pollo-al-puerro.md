@@ -4,7 +4,7 @@ uuid: f35b2d8e-fcc6-4395-8633-bf3b36f5dba2
 page_title: Pollo al puerro
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Aves]({{ site.baseurl }}/platos-principales/aves/) > Pollo al puerro
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo al puerro
 
 ## Pollo al puerro
 

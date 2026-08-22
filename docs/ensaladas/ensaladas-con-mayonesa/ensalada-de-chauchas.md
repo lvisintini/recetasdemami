@@ -4,7 +4,7 @@ uuid: 257a410a-d4dd-42be-b34f-be8aa7ed931d
 page_title: Ensalada de chauchas
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Ensalada de chauchas
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Ensalada de chauchas
 
 ## Ensalada de chauchas
 

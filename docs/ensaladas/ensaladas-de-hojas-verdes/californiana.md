@@ -4,7 +4,7 @@ uuid: ab5696ec-f254-43d9-8cf0-eebc5731b38c
 page_title: Californiana
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Californiana
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Californiana
 
 ## Californiana
 

@@ -4,7 +4,7 @@ uuid: cdb31fa6-07b8-4bb8-886b-543440fd1866
 page_title: Griega
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) > Griega
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) / Griega
 
 ## Griega
 

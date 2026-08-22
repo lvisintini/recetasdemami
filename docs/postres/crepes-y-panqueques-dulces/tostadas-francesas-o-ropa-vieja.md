@@ -4,7 +4,7 @@ uuid: df6c6317-be4b-42d2-9c5f-522abcc842d0
 page_title: Tostadas francesas o ropa vieja
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) > Tostadas francesas o ropa vieja
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Tostadas francesas o ropa vieja
 
 ## Tostadas francesas o ropa vieja
 

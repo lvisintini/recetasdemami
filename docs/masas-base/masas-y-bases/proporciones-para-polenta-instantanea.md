@@ -4,7 +4,7 @@ uuid: 495a1b73-3440-4085-b101-506bcb2df334
 page_title: Proporciones para polenta instantánea
 ---
 
-[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Proporciones para polenta instantánea
+[docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Proporciones para polenta instantánea
 
 ## Proporciones para polenta instantánea
 

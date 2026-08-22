@@ -4,7 +4,7 @@ uuid: 42fe3983-d3cb-47e0-a9c6-154040fae3a2
 page_title: Budin de batatas con gusto a castañas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) > Budin de batatas con gusto a castañas
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Budin de batatas con gusto a castañas
 
 ## Budin de batatas con gusto a castañas
 

@@ -4,7 +4,7 @@ uuid: 06292f12-86d9-42ce-b32a-71f5cc3ab843
 page_title: Huevos a la canasta
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Huevos a la canasta
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos a la canasta
 
 ## Huevos a la canasta
 

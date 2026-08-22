@@ -4,7 +4,7 @@ uuid: ba01d062-1dbf-407c-9b95-aa9ab1decbe7
 page_title: Ron-naranja
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Ron-naranja
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Ron-naranja
 
 ## Ron-naranja
 

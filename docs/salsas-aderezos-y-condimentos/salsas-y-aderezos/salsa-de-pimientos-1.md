@@ -4,7 +4,7 @@ uuid: b99662b7-4398-43cb-ac1e-74fc59d6803d
 page_title: Salsa de Pimientos 1
 ---
 
-[docs]({{ site.baseurl }}/) > [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) > [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) > Salsa de Pimientos 1
+[docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa de Pimientos 1
 
 ## Salsa de Pimientos 1
 

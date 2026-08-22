@@ -4,7 +4,7 @@ uuid: be0ea23f-3a2a-4fa9-887a-890d8807cc31
 page_title: Ponche Manolete para muchos
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Ponche Manolete para muchos
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Ponche Manolete para muchos
 
 ## Ponche Manolete para muchos
 

@@ -4,7 +4,7 @@ uuid: c2d603e1-ffb1-4fbb-bb96-ad089a034e4c
 page_title: Doraditos de cebolla o Brownie de cebolla
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) > Doraditos de cebolla o Brownie de cebolla
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Doraditos de cebolla o Brownie de cebolla
 
 ## Doraditos de cebolla o Brownie de cebolla
 

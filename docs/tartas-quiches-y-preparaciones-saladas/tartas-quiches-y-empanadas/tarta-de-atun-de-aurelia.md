@@ -4,7 +4,7 @@ uuid: b0727237-c008-438b-8c1e-b2499add7064
 page_title: Tarta de atun de Aurelia
 ---
 
-[docs]({{ site.baseurl }}/) > [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) > Tarta de atun de Aurelia
+[docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Tarta de atun de Aurelia
 
 ## Tarta de atun de Aurelia
 

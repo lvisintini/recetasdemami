@@ -4,7 +4,7 @@ uuid: ff7ab9aa-11cc-44e4-bc4d-d4fb342a5adf
 page_title: Fondue suiza
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) > Fondue suiza
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) / Fondue suiza
 
 ## Fondue suiza
 

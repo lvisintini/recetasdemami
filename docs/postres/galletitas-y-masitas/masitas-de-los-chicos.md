@@ -4,7 +4,7 @@ uuid: c4a7335c-6fb7-4946-8fa8-b2db3dcbabe4
 page_title: Masitas de los chicos
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Masitas de los chicos
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Masitas de los chicos
 
 ## Masitas de los chicos
 

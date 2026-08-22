@@ -4,7 +4,7 @@ uuid: 46614a0f-896e-4262-90bd-516f1dc78d27
 page_title: Repollo Roman (bisabuelo)
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Repollo Roman (bisabuelo)
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Repollo Roman (bisabuelo)
 
 ## Repollo Roman (bisabuelo)
 

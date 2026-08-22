@@ -4,7 +4,7 @@ uuid: 1915bae9-1060-4228-acc7-8266dd0f106b
 page_title: Omelette
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Omelette
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Omelette
 
 ## Omelette
 

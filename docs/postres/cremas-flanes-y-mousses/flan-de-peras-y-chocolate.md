@@ -4,7 +4,7 @@ uuid: 3e85c0c8-c04c-4bbd-970c-2d8b39c9474b
 page_title: Flan de peras y chocolate
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Flan de peras y chocolate
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Flan de peras y chocolate
 
 ## Flan de peras y chocolate
 

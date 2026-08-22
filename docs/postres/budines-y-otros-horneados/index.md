@@ -3,7 +3,7 @@ slug: index
 uuid: 2b26c67b-aaf4-4287-806d-d69c8137a514
 page_title: Budines y otros horneados
 ---
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > Budines y otros horneados
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Budines y otros horneados
 
 ## Budines y otros horneados
 

@@ -4,7 +4,7 @@ uuid: ff5bc28b-814c-4e11-b6e2-ae30e96d0c2e
 page_title: Zanahoria
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) > Zanahoria
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Zanahoria
 
 ## Zanahoria
 

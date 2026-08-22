@@ -4,7 +4,7 @@ uuid: ab02f65e-1ffd-4043-8c4d-56f1c50b6f3b
 page_title: Espinaca y cherry
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) > Espinaca y cherry
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Espinaca y cherry
 
 ## Espinaca y cherry
 

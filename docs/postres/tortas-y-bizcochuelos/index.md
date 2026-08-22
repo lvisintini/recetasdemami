@@ -3,7 +3,7 @@ slug: index
 uuid: 4ba620f8-f058-4d64-ae99-3a5c50545107
 page_title: Tortas y bizcochuelos
 ---
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > Tortas y bizcochuelos
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Tortas y bizcochuelos
 
 ## Tortas y bizcochuelos
 

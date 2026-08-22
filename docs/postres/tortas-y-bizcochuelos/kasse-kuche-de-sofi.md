@@ -4,7 +4,7 @@ uuid: 59781cc7-1701-4792-bfa9-3cf76410ec78
 page_title: Kâsse kuche de Sofi
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Kâsse kuche de Sofi
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Kâsse kuche de Sofi
 
 ## Kâsse kuche de Sofi
 

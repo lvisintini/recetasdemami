@@ -4,7 +4,7 @@ uuid: 86bf2b29-0e85-4cde-adc7-80f2a41e7b3f
 page_title: Alfajores de maizena
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Alfajores de maizena
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Alfajores de maizena
 
 ## Alfajores de maizena
 

@@ -4,7 +4,7 @@ uuid: fbbbfc49-dcc7-4766-8a7c-4ac96323c530
 page_title: Borrachito de la Tía Nely
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Borrachito de la Tía Nely
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Borrachito de la Tía Nely
 
 ## Borrachito de la Tía Nely
 

@@ -4,7 +4,7 @@ uuid: 185366e9-0d10-4ddb-ba28-ecd6905393a9
 page_title: Flan de Dulce de Leche de la abuela Aurelia
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Flan de Dulce de Leche de la abuela Aurelia
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Flan de Dulce de Leche de la abuela Aurelia
 
 ## Flan de Dulce de Leche de la abuela Aurelia
 

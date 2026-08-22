@@ -4,7 +4,7 @@ uuid: 7ab6edff-1996-4fc5-886b-e9a4694aa408
 page_title: Baño de chocolate de mamama
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Baño de chocolate de mamama
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Baño de chocolate de mamama
 
 ## Baño de chocolate de mamama
 

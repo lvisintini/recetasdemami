@@ -4,7 +4,7 @@ uuid: 7df589ff-e7bb-4e50-8032-a864f72cbf99
 page_title: bacardi durazno
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > bacardi durazno
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / bacardi durazno
 
 ## bacardi durazno
 

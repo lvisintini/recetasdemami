@@ -3,7 +3,7 @@ slug: index
 uuid: e666e44e-7eb2-4602-9f29-39ff0c1c3a9e
 page_title: Crepes y panqueques dulces
 ---
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > Crepes y panqueques dulces
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Crepes y panqueques dulces
 
 ## Crepes y panqueques dulces
 

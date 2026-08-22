@@ -4,7 +4,7 @@ uuid: 6a50823a-d0a9-4984-8d17-76e44e1a0c2a
 page_title: Bacardi lima limón
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Bacardi lima limón
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bacardi lima limón
 
 ## Bacardi lima limón
 

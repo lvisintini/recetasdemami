@@ -4,7 +4,7 @@ uuid: 12364a50-70a4-4679-9bb1-f24807666215
 page_title: Zanahorias caramelizadas
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Zanahorias caramelizadas
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Zanahorias caramelizadas
 
 ## Zanahorias caramelizadas
 

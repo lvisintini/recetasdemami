@@ -4,7 +4,7 @@ uuid: 2b5c2bc5-9bc4-4b6b-8d8a-0a052cdcfe3c
 page_title: Tortas fritas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) > Tortas fritas
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Tortas fritas
 
 ## Tortas fritas
 

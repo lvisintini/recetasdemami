@@ -4,7 +4,7 @@ uuid: 4270b030-3d1e-4e96-ba7e-ff4cc3453da2
 page_title: Dulce de leche
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Dulces y mermeladas]({{ site.baseurl }}/postres/dulces-y-mermeladas/) > Dulce de leche
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Dulces y mermeladas]({{ site.baseurl }}/postres/dulces-y-mermeladas/) / Dulce de leche
 
 ## Dulce de leche
 

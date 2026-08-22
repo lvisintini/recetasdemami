@@ -4,7 +4,7 @@ uuid: c30a551c-37f6-4d0a-a55c-1ddc9f830ae5
 page_title: Huevos napoleon
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Huevos napoleon
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos napoleon
 
 ## Huevos napoleon
 

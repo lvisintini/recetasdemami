@@ -3,7 +3,7 @@ slug: index
 uuid: 290af949-eb28-4f2e-ac8e-242798a5b464
 page_title: Carnes
 ---
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > Carnes
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / Carnes
 
 ## Carnes
 

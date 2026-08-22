@@ -4,7 +4,7 @@ uuid: 45a0135b-a49b-4e2f-b196-b866671dd6e8
 page_title: Huevos abrazados por la panceta
 ---
 
-[docs]({{ site.baseurl }}/) > [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) > [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) > Huevos abrazados por la panceta
+[docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos abrazados por la panceta
 
 ## Huevos abrazados por la panceta
 

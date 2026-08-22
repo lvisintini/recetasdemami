@@ -4,7 +4,7 @@ uuid: faf2c885-007f-4035-a712-5ffb8f931e0b
 page_title: Sopa de puerros de Sarah Effertz
 ---
 
-[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Sopa de puerros de Sarah Effertz
+[docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Sopa de puerros de Sarah Effertz
 
 ## Sopa de puerros de Sarah Effertz
 

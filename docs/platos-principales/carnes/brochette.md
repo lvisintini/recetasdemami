@@ -4,7 +4,7 @@ uuid: 9bbf6362-e083-429a-a2f3-9d32a9eaff9e
 page_title: Brochette
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Brochette
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Brochette
 
 ## Brochette
 

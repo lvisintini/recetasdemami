@@ -4,7 +4,7 @@ uuid: 3c5cb7af-6cf7-4b15-9f59-104c1e08b538
 page_title: Postre Chocolino
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Postre Chocolino
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Postre Chocolino
 
 ## Postre Chocolino
 

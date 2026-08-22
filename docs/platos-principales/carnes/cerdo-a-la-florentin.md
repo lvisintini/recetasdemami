@@ -4,7 +4,7 @@ uuid: 01d09260-5f40-4ae8-839e-7a7f6602b285
 page_title: Cerdo a la florentin (agridulce)
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Carnes]({{ site.baseurl }}/platos-principales/carnes/) > Cerdo a la florentin (agridulce)
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Cerdo a la florentin (agridulce)
 
 ## Cerdo a la florentin (agridulce)
 

@@ -3,7 +3,7 @@ slug: index
 uuid: 8f3f19b1-41b6-4f2f-8b5a-a814cdf15f05
 page_title: Tartas, quiches y empanadas
 ---
-[docs]({{ site.baseurl }}/) > [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) > Tartas, quiches y empanadas
+[docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / Tartas, quiches y empanadas
 
 ## Tartas, quiches y empanadas
 

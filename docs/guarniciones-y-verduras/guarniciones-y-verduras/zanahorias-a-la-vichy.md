@@ -4,7 +4,7 @@ uuid: f5295a4c-14ef-4c79-a53e-85edb49582bf
 page_title: Zanahorias a la Vichy
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Zanahorias a la Vichy
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Zanahorias a la Vichy
 
 ## Zanahorias a la Vichy
 

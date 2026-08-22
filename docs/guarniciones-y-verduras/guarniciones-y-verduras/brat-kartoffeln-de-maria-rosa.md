@@ -4,7 +4,7 @@ uuid: b1b4db30-bdb5-4c04-b42f-8ed786c10475
 page_title: Brat kartoffeln de Maria Rosa
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Brat kartoffeln de Maria Rosa
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brat kartoffeln de Maria Rosa
 
 ## Brat kartoffeln de Maria Rosa
 

@@ -4,7 +4,7 @@ uuid: 72c09536-3caf-454f-8143-5f53c3253388
 page_title: Souffle de choclos Mamama
 ---
 
-[docs]({{ site.baseurl }}/) > [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) > [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) > Souffle de choclos Mamama
+[docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Souffle de choclos Mamama
 
 ## Souffle de choclos Mamama
 

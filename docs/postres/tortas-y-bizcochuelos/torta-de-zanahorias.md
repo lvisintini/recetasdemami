@@ -4,7 +4,7 @@ uuid: 209c434a-37cd-40c3-913d-8bcfa39de118
 page_title: Torta de zanahorias
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta de zanahorias
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de zanahorias
 
 ## Torta de zanahorias
 

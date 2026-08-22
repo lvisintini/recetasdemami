@@ -4,7 +4,7 @@ uuid: b942470f-c438-4e92-b4f9-24281401f01b
 page_title: Sacher tarte (torta de chocolate)
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Sacher tarte (torta de chocolate)
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Sacher tarte (torta de chocolate)
 
 ## Sacher tarte (torta de chocolate)
 

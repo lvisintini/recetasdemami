@@ -3,7 +3,7 @@ slug: index
 uuid: 7669b61c-d722-468e-82dd-99d5d5040cd6
 page_title: Dulces y mermeladas
 ---
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > Dulces y mermeladas
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Dulces y mermeladas
 
 ## Dulces y mermeladas
 

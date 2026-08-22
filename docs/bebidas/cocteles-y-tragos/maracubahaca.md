@@ -4,7 +4,7 @@ uuid: 53293be1-e925-4dcf-8d9c-84f8c1afa089
 page_title: Maracubahaca
 ---
 
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) > Maracubahaca
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Maracubahaca
 
 ## Maracubahaca
 

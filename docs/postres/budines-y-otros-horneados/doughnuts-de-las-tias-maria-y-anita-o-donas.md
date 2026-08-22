@@ -4,7 +4,7 @@ uuid: 925aeec6-a4b9-4c0f-9c61-02081ba75d80
 page_title: Doughnuts de las tías maría y anita o donas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) > Doughnuts de las tías maría y anita o donas
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Doughnuts de las tías maría y anita o donas
 
 ## Doughnuts de las tías maría y anita o donas
 

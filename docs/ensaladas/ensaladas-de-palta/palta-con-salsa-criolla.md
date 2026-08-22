@@ -4,7 +4,7 @@ uuid: 089dcde2-dcb2-4740-b906-48556c49e2cf
 page_title: Palta con salsa criolla
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) > Palta con salsa criolla
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) / Palta con salsa criolla
 
 ## Palta con salsa criolla
 

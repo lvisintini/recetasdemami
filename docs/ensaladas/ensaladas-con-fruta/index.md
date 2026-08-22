@@ -3,7 +3,7 @@ slug: index
 uuid: 8f601396-0a4b-45d7-b9fe-41d17739a35f
 page_title: Ensaladas con fruta
 ---
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > Ensaladas con fruta
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / Ensaladas con fruta
 
 ## Ensaladas con fruta
 

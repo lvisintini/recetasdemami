@@ -4,7 +4,7 @@ uuid: e372d7a9-5a4d-47ff-8f14-5b635acb5d1e
 page_title: Torre de panqueques o piononos
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) > Torre de panqueques o piononos
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Torre de panqueques o piononos
 
 ## Torre de panqueques o piononos
 

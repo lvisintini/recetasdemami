@@ -4,7 +4,7 @@ uuid: e341a357-8407-4c37-a1ed-f7ae5e96906d
 page_title: Remolachas 2
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas de remolacha]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/) > Remolachas 2
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de remolacha]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/) / Remolachas 2
 
 ## Remolachas 2
 

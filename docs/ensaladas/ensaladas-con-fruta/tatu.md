@@ -4,7 +4,7 @@ uuid: 4abbcd5d-4088-442e-8806-9e19bc899f8b
 page_title: Tatu
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Tatu
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Tatu
 
 ## Tatu
 

@@ -4,7 +4,7 @@ uuid: 6e350b4d-bd35-47d5-b3fe-af9e54795bc8
 page_title: Crema de Ajo
 ---
 
-[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) > Crema de Ajo
+[docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Crema de Ajo
 
 ## Crema de Ajo
 

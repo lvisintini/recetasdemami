@@ -4,7 +4,7 @@ uuid: c7222c6a-ec9f-4a82-a059-c5503b39a932
 page_title: Postre sencillo de batatas al horno
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Postre sencillo de batatas al horno
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Postre sencillo de batatas al horno
 
 ## Postre sencillo de batatas al horno
 

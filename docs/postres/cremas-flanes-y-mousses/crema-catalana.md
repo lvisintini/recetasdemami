@@ -4,7 +4,7 @@ uuid: 20c9611e-bdac-4172-bacf-c2e4df40052b
 page_title: Crema Catalana
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Crema Catalana
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Crema Catalana
 
 ## Crema Catalana
 

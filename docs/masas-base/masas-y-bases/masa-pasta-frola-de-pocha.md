@@ -4,7 +4,7 @@ uuid: 8cb4c56b-8c36-4402-93fc-50ffc3942ac1
 page_title: Masa pasta frola de Pocha
 ---
 
-[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Masa pasta frola de Pocha
+[docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa pasta frola de Pocha
 
 ## Masa pasta frola de Pocha
 

@@ -4,7 +4,7 @@ uuid: 7bf7775f-c830-499c-90b3-39b55417e32c
 page_title: Coliflor y naranjas
 ---
 
-[docs]({{ site.baseurl }}/) > [03. Ensaladas]({{ site.baseurl }}/ensaladas/) > [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) > Coliflor y naranjas
+[docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Coliflor y naranjas
 
 ## Coliflor y naranjas
 

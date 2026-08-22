@@ -4,7 +4,7 @@ uuid: ae12bc4c-de1e-4a68-ba2d-c2355ee89fcc
 page_title: Grumos de avena
 ---
 
-[docs]({{ site.baseurl }}/) > [06. Masas Base]({{ site.baseurl }}/masas-base/) > [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) > Grumos de avena
+[docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Grumos de avena
 
 ## Grumos de avena
 

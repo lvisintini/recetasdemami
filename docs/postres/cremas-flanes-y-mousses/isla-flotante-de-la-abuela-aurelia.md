@@ -4,7 +4,7 @@ uuid: c58fbce7-0be3-4e31-9a25-cd6ab0392df7
 page_title: Isla flotante de la Abuela Aurelia
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) > Isla flotante de la Abuela Aurelia
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Isla flotante de la Abuela Aurelia
 
 ## Isla flotante de la Abuela Aurelia
 

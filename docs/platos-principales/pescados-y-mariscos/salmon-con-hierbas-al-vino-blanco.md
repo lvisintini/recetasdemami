@@ -4,7 +4,7 @@ uuid: d512e9c3-17b3-4b61-b98b-5b81771f2e3b
 page_title: Salmón con hierbas al vino blanco
 ---
 
-[docs]({{ site.baseurl }}/) > [07. Platos Principales]({{ site.baseurl }}/platos-principales/) > [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) > Salmón con hierbas al vino blanco
+[docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Salmón con hierbas al vino blanco
 
 ## Salmón con hierbas al vino blanco
 

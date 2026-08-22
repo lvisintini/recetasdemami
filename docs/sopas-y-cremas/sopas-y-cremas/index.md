@@ -3,7 +3,7 @@ slug: index
 uuid: d15d4eac-65db-4147-894c-def64d6dba24
 page_title: Sopas y cremas
 ---
-[docs]({{ site.baseurl }}/) > [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) > Sopas y cremas
+[docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / Sopas y cremas
 
 ## Sopas y cremas
 

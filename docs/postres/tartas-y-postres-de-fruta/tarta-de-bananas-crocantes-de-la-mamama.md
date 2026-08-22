@@ -4,7 +4,7 @@ uuid: a74d0c7b-c266-4c99-b6d1-04745bd85513
 page_title: Tarta de bananas crocantes de la Mamama
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Tarta de bananas crocantes de la Mamama
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Tarta de bananas crocantes de la Mamama
 
 ## Tarta de bananas crocantes de la Mamama
 

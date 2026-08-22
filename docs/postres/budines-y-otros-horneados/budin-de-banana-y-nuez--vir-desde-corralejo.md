@@ -4,7 +4,7 @@ uuid: 8782f1bc-39c4-4e1f-a187-df0a4f19bdad
 page_title: Budín de banana y nuez (y chocolate). Vir desde corralejo.
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) > Budín de banana y nuez (y chocolate). Vir desde corralejo.
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Budín de banana y nuez (y chocolate). Vir desde corralejo.
 
 ## Budín de banana y nuez (y chocolate). Vir desde corralejo.
 

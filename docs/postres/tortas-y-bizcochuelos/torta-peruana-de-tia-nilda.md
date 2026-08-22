@@ -4,7 +4,7 @@ uuid: d7654e81-7995-4744-9201-4180253566f9
 page_title: Torta peruana de Tía Nilda.
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) > Torta peruana de Tía Nilda.
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta peruana de Tía Nilda.
 
 ## Torta peruana de Tía Nilda.
 

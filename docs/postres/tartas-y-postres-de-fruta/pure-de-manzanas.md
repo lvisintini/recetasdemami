@@ -4,7 +4,7 @@ uuid: f2b00edb-e006-4971-b30a-ac05071ce53f
 page_title: Pure de manzanas
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Pure de manzanas
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Pure de manzanas
 
 ## Pure de manzanas
 

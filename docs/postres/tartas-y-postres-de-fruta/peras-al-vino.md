@@ -4,7 +4,7 @@ uuid: 60e09fed-6b86-4e5a-933b-da4cac9cccf2
 page_title: Peras al vino
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) > Peras al vino
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Peras al vino
 
 ## Peras al vino
 

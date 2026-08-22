@@ -3,7 +3,7 @@ slug: index
 uuid: 8fd2b542-cf02-4060-9d6c-457503c386e7
 page_title: Cócteles y tragos
 ---
-[docs]({{ site.baseurl }}/) > [01. Bebidas]({{ site.baseurl }}/bebidas/) > Cócteles y tragos
+[docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / Cócteles y tragos
 
 ## Cócteles y tragos
 

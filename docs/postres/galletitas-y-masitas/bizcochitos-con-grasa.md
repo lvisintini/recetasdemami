@@ -4,7 +4,7 @@ uuid: 50d60096-0332-4efc-b155-c93fe031906f
 page_title: Bizcochitos con grasa
 ---
 
-[docs]({{ site.baseurl }}/) > [10. Postres]({{ site.baseurl }}/postres/) > [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) > Bizcochitos con grasa
+[docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Bizcochitos con grasa
 
 ## Bizcochitos con grasa
 
