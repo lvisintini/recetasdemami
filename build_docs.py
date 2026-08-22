@@ -121,6 +121,11 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
                 node.index_page = page
             else:
                 node.pages.append(page)
+                if page.slug == "index":
+                    warnings.append(
+                        f"non-index page has slug 'index', which will collide "
+                        f"with its directory's URL: {page.rel_path}"
+                    )
 
             if page.uuid:
                 if page.uuid in uuid_map:
@@ -167,8 +172,10 @@ def ancestor_chain(dir_node: Dir) -> list[Dir]:
 def page_url(page: Page) -> str:
     """Site-root-relative URL for a page, e.g. '/getting-started/config/'.
 
-    Built from slugs, not file paths: a directory's index.md contributes
-    only its directory's own slug segment (no "index", no ".md").
+    Built from directory names for the nesting, plus the page's own slug
+    for non-index pages. A directory's index.md never contributes its own
+    slug (index.md files all have slug: index in front matter, which is
+    not a real path segment) -- the directory name IS its segment.
     """
     dir_node = page.dir_node
     is_index = dir_node.index_page is page
@@ -177,14 +184,16 @@ def page_url(page: Page) -> str:
     for d in ancestor_chain(dir_node):
         if d.parent is None:
             continue  # tree root contributes no segment
-        segments.append(d.index_page.slug if d.index_page else d.rel_path.name)
+        segments.append(d.rel_path.name)  # directory name, never index.md's slug
 
     if not is_index:
         segments.append(page.slug)
 
     if not segments:
         return "/"
-    return "/" + "/".join(segments) + "/"
+
+    url = "/" + "/".join(segments)
+    return url + "/" if is_index else url
 
 
 def site_link(page: Page) -> str:
