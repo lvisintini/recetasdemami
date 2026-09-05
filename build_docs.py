@@ -14,6 +14,10 @@ recursive) and builds a fresh copy into a target directory:
     are resolved by uuid: the link text becomes the target page's
     page_title and the uuid becomes a relative link to that page
   * non-markdown files (images, etc.) are copied through unchanged
+  * when --edit-base-url is given, every page's front matter gets a
+    `custom_edit_url` property injected/overridden with
+    edit_base_url + the file's source-relative path -- no template
+    placeholder needed, and any pre-existing value is replaced
   * the target directory is wiped and rebuilt each run, so it's safe to
     run this repeatedly as the source content changes
 
@@ -260,13 +264,27 @@ def resolve_uuid_links(body: str, page: Page, uuid_map: dict, warnings: list) ->
 
 
 # --------------------------------------------------------------------------
+# custom_edit_url -- "Improve this page" front-matter property
+#
+# Always computed as edit_base_url + the file's source-relative path, and
+# always overrides whatever (if anything) was already in a page's front
+# matter. Templates never need to reference it directly; it's injected
+# straight into the output front matter for downstream Jekyll/theme use.
+# --------------------------------------------------------------------------
+
+def compute_edit_url(page: Page, edit_base_url: str) -> str:
+    return edit_base_url.rstrip("/") + "/" + page.rel_path.as_posix()
+
+
+# --------------------------------------------------------------------------
 # Pass 2 (recursive, depth-first): render + copy into target
 # --------------------------------------------------------------------------
 
 def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
-                 uuid_map: dict, warnings: list, nav_sep: str) -> None:
+                 uuid_map: dict, warnings: list, nav_sep: str,
+                 edit_base_url: str | None) -> None:
     text = page.src_path.read_text(encoding="utf-8")
-    raw_fm, _, body = split_frontmatter(text)
+    raw_fm, fm_dict, body = split_frontmatter(text)
 
     body = resolve_uuid_links(body, page, uuid_map, warnings)
     body = body.replace("{nav}", build_nav(page, dir_node, is_index, nav_sep))
@@ -276,21 +294,35 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
         toc_text = "\n".join(toc_lines) if toc_lines else "_No pages yet._"
         body = body.replace("{toc}", toc_text)
 
+    if edit_base_url:
+        # override in place (or append) -- computed value always wins
+        fm_dict["custom_edit_url"] = compute_edit_url(page, edit_base_url)
+        new_yaml = yaml.safe_dump(
+            fm_dict, sort_keys=False, default_flow_style=False, allow_unicode=True
+        )
+        raw_fm = f"---\n{new_yaml}---\n"
+    elif "custom_edit_url" not in fm_dict:
+        warnings.append(
+            f"no --edit-base-url set and {page.rel_path} has no custom_edit_url "
+            f"of its own; front matter left unchanged"
+        )
+
     out_path = target_root / page.rel_path
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(raw_fm + body, encoding="utf-8")
 
 
 def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
-                warnings: list, nav_sep: str) -> None:
+                warnings: list, nav_sep: str, edit_base_url: str | None) -> None:
     out_dir = target_root / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if dir_node.index_page:
         render_page(dir_node.index_page, dir_node, True, target_root, uuid_map,
-                    warnings, nav_sep)
+                    warnings, nav_sep, edit_base_url)
     for page in dir_node.pages:
-        render_page(page, dir_node, False, target_root, uuid_map, warnings, nav_sep)
+        render_page(page, dir_node, False, target_root, uuid_map, warnings,
+                    nav_sep, edit_base_url)
 
     # copy non-markdown files (images, etc.) through unchanged
     for entry in dir_node.src_path.iterdir():
@@ -298,14 +330,15 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
             shutil.copy2(entry, out_dir / entry.name)
 
     for sub in dir_node.subdirs:
-        render_dir(sub, target_root, uuid_map, warnings, nav_sep)  # <-- recursion
+        render_dir(sub, target_root, uuid_map, warnings, nav_sep, edit_base_url)  # <-- recursion
 
 
 # --------------------------------------------------------------------------
 # Entry point
 # --------------------------------------------------------------------------
 
-def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / "):
+def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
+               edit_base_url: str | None = None):
     source_root = Path(source_dir).resolve()
     target_root = Path(target_dir).resolve()
 
@@ -322,7 +355,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / "):
         shutil.rmtree(target_root)
     target_root.mkdir(parents=True, exist_ok=True)
 
-    render_dir(tree, target_root, uuid_map, warnings, nav_sep)
+    render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
 
     if warnings:
         print(f"Build finished with {len(warnings)} warning(s):", file=sys.stderr)
@@ -342,9 +375,19 @@ def main():
         "--nav-sep", default=" / ",
         help='separator for breadcrumb nav, e.g. " / " or " > " (default: " / ")'
     )
+    parser.add_argument(
+        "--edit-base-url", default=None,
+        help=(
+            "Base URL used to compute each page's custom_edit_url front-matter "
+            "property, e.g. 'https://github.com/org/repo/edit/main/docs' -- the "
+            "page's source-relative path is appended to this and always "
+            "overrides any custom_edit_url already present in the source file."
+        ),
+    )
     args = parser.parse_args()
-    build_docs(args.source, args.target, args.nav_sep)
+    build_docs(args.source, args.target, args.nav_sep, args.edit_base_url)
 
 
 if __name__ == "__main__":
     main()
+
