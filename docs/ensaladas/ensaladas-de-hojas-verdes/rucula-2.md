@@ -2,6 +2,7 @@
 slug: rucula-2
 uuid: ab913491-fa3c-4582-b877-20713c48de27
 page_title: Rucula 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/rucula-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Rucula 2

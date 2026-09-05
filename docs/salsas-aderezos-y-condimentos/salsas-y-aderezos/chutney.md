@@ -2,6 +2,7 @@
 slug: chutney
 uuid: 97ec9c39-c809-4e84-bf78-51dd703fd37d
 page_title: Chutney
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/chutney.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Chutney

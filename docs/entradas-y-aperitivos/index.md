@@ -2,6 +2,7 @@
 slug: index
 uuid: d792034a-7d02-4171-a015-eb070481c530
 page_title: 02. Entradas y Aperitivos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/index.md
 ---
 [docs]({{ site.baseurl }}/) / 02. Entradas y Aperitivos
 

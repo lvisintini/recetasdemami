@@ -2,6 +2,7 @@
 slug: gateau-suizo-o-torta-alemana-de-la-nona
 uuid: 53f26d58-18ba-4f4d-9b34-295f8ba7328d
 page_title: Gateau suizo o torta alemana de la nona
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/gateau-suizo-o-torta-alemana-de-la-nona.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Gateau suizo o torta alemana de la nona

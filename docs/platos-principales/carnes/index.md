@@ -2,6 +2,7 @@
 slug: index
 uuid: 290af949-eb28-4f2e-ac8e-242798a5b464
 page_title: Carnes
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/index.md
 ---
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / Carnes
 

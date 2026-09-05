@@ -2,6 +2,7 @@
 slug: palta-con-salsa-criolla
 uuid: 089dcde2-dcb2-4740-b906-48556c49e2cf
 page_title: Palta con salsa criolla
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-palta/palta-con-salsa-criolla.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) / Palta con salsa criolla

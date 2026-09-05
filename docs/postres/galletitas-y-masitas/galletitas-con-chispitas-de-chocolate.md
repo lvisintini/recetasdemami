@@ -2,6 +2,7 @@
 slug: galletitas-con-chispitas-de-chocolate
 uuid: 9008d06a-6354-4811-ac69-cf85728c046f
 page_title: Galletitas con chispitas de chocolate
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/galletitas-con-chispitas-de-chocolate.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Galletitas con chispitas de chocolate

@@ -2,6 +2,7 @@
 slug: creme-brulee
 uuid: 41486d12-01a3-4e6a-9a4c-5ef56f854429
 page_title: Creme brulee
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/creme-brulee.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Creme brulee

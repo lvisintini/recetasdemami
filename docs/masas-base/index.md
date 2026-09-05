@@ -2,6 +2,7 @@
 slug: index
 uuid: e7b94a8d-0d28-4fbc-b833-0d76edee07d0
 page_title: 06. Masas Base
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/index.md
 ---
 [docs]({{ site.baseurl }}/) / 06. Masas Base
 

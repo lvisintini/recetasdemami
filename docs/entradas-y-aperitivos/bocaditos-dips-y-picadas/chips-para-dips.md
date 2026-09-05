@@ -2,6 +2,7 @@
 slug: chips-para-dips
 uuid: 44fa8cc4-7903-4bf1-8fa2-c486309789c3
 page_title: Chips para dips
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/chips-para-dips.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Chips para dips

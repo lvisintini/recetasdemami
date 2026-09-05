@@ -2,6 +2,7 @@
 slug: alioli-2
 uuid: c6627db5-47c4-4563-8672-9005e51e65bd
 page_title: Alioli 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/alioli-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Alioli 2

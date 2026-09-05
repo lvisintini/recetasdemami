@@ -1,7 +1,9 @@
 ---
 slug: filetes-de-pescado-a-la-cerveza
 uuid: 3d49ffe2-ce20-4d0d-8bdd-fa540daab57b
-page_title: Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
+page_title: Filetes de pescado a la cerveza (pueden ser aros de calamar previamente
+  hervidos por 5 minutos).
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/filetes-de-pescado-a-la-cerveza.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).

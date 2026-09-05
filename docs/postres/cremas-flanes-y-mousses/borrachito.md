@@ -2,6 +2,7 @@
 slug: borrachito
 uuid: 40300baf-fab3-4a2f-ab7e-1e1af12a7f0b
 page_title: Borrachito
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/borrachito.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Borrachito

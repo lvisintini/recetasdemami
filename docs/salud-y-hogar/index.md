@@ -2,6 +2,7 @@
 slug: index
 uuid: e085053f-fb12-419c-8492-f3b8c593ab96
 page_title: 11. Salud y Hogar
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salud-y-hogar/index.md
 ---
 [docs]({{ site.baseurl }}/) / 11. Salud y Hogar
 

@@ -2,6 +2,7 @@
 slug: repollo
 uuid: 2e456d14-614b-4cad-be3c-5bc801f498d9
 page_title: Repollo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/repollo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Repollo

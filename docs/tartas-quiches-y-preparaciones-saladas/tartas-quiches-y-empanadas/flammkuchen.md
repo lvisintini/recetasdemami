@@ -2,6 +2,7 @@
 slug: flammkuchen
 uuid: fc6cf196-2838-4b52-a4bd-b0e9e24acc18
 page_title: Flammkuchen
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/flammkuchen.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Flammkuchen

@@ -2,6 +2,7 @@
 slug: masitas-de-los-chicos
 uuid: c4a7335c-6fb7-4946-8fa8-b2db3dcbabe4
 page_title: Masitas de los chicos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/masitas-de-los-chicos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Masitas de los chicos

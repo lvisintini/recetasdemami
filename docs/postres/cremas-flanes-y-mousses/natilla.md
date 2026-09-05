@@ -2,6 +2,7 @@
 slug: natilla
 uuid: c76feb48-4a1f-48ab-bdfa-e190e2667bf4
 page_title: Natilla
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/natilla.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Natilla

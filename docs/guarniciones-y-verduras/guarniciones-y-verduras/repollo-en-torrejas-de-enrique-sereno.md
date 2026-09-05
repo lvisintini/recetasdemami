@@ -2,6 +2,7 @@
 slug: repollo-en-torrejas-de-enrique-sereno
 uuid: 50bca583-052d-4a6e-af72-ab824ec673b5
 page_title: Repollo en torrejas de Enrique Sereno
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/repollo-en-torrejas-de-enrique-sereno.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Repollo en torrejas de Enrique Sereno

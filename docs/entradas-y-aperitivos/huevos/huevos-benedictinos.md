@@ -2,6 +2,7 @@
 slug: huevos-benedictinos
 uuid: f6bb0cbf-eb15-41f4-bb0c-9ccee0a38416
 page_title: Huevos benedictinos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/huevos/huevos-benedictinos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos benedictinos

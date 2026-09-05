@@ -2,6 +2,7 @@
 slug: guarniciones-para-sopas
 uuid: b3edd001-3e7e-4e6c-a672-0d070cce722b
 page_title: Guarniciones para sopas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/guarniciones-para-sopas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Guarniciones para sopas

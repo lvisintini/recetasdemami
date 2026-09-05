@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-a-la-milanesa
 uuid: c65f4f50-c21c-4318-a8a5-0905ed9820d1
 page_title: Coliflor o brocoli a la milanesa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/coliflor-o-brocoli-a-la-milanesa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Coliflor o brocoli a la milanesa

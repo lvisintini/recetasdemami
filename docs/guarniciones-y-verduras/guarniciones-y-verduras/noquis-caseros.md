@@ -2,6 +2,7 @@
 slug: noquis-caseros
 uuid: 792fca3b-7a38-4fdd-af96-5c6c885dd01c
 page_title: Ñoquis caseros
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/noquis-caseros.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Ñoquis caseros

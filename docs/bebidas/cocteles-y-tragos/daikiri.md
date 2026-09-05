@@ -2,6 +2,7 @@
 slug: daikiri
 uuid: c297145e-4f00-4523-8ca3-4e646263dcc1
 page_title: Daikiri
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/daikiri.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Daikiri

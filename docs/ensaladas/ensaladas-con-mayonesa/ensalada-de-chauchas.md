@@ -2,6 +2,7 @@
 slug: ensalada-de-chauchas
 uuid: 257a410a-d4dd-42be-b34f-be8aa7ed931d
 page_title: Ensalada de chauchas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/ensalada-de-chauchas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Ensalada de chauchas

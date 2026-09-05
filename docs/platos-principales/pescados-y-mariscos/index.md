@@ -2,6 +2,7 @@
 slug: index
 uuid: 256630d6-a083-4a53-94da-35e1c437b003
 page_title: Pescados y mariscos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/index.md
 ---
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / Pescados y mariscos
 

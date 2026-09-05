@@ -2,6 +2,7 @@
 slug: pollo-al-puerro
 uuid: f35b2d8e-fcc6-4395-8633-bf3b36f5dba2
 page_title: Pollo al puerro
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/pollo-al-puerro.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo al puerro

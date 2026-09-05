@@ -2,6 +2,7 @@
 slug: sopa-de-panceta-y-queso
 uuid: b32bbb0b-edae-4251-9fcb-84b4aaad34cb
 page_title: Sopa de panceta y queso
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/sopa-de-panceta-y-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Sopa de panceta y queso

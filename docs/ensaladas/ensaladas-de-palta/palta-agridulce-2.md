@@ -2,6 +2,7 @@
 slug: palta-agridulce-2
 uuid: 9dd51bbe-4713-4a59-8617-2160a930aacb
 page_title: Palta agridulce 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-palta/palta-agridulce-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) / Palta agridulce 2

@@ -2,6 +2,7 @@
 slug: besitos---friche-de-renato
 uuid: dda1b839-1a78-4308-bc02-de542a773d9f
 page_title: Besitos - friche de Renato
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/besitos---friche-de-renato.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Besitos - friche de Renato

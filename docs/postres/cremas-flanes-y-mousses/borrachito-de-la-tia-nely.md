@@ -2,6 +2,7 @@
 slug: borrachito-de-la-tia-nely
 uuid: fbbbfc49-dcc7-4766-8a7c-4ac96323c530
 page_title: Borrachito de la Tía Nely
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/borrachito-de-la-tia-nely.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Borrachito de la Tía Nely

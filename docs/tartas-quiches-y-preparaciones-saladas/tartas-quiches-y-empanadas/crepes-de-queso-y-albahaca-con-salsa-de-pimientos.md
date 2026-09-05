@@ -2,6 +2,7 @@
 slug: crepes-de-queso-y-albahaca-con-salsa-de-pimientos
 uuid: 732dc9e8-1a4a-44c7-99a1-8e02f38f3a3e
 page_title: Crepes de queso y albahaca con salsa de pimientos.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/crepes-de-queso-y-albahaca-con-salsa-de-pimientos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Crepes de queso y albahaca con salsa de pimientos.

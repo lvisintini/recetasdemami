@@ -2,6 +2,7 @@
 slug: crepes-suzette
 uuid: 93907275-951a-4f48-839b-9f18ff675607
 page_title: Crepes suzette
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/crepes-y-panqueques-dulces/crepes-suzette.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Crepes suzette

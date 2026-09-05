@@ -2,6 +2,7 @@
 slug: bacardi-lima-limon
 uuid: 6a50823a-d0a9-4984-8d17-76e44e1a0c2a
 page_title: Bacardi lima limón
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bacardi-lima-limon.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bacardi lima limón

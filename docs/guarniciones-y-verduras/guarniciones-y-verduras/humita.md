@@ -2,6 +2,7 @@
 slug: humita
 uuid: e15dd424-5358-4443-936b-917952ebe043
 page_title: Humita
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/humita.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Humita

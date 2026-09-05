@@ -2,6 +2,7 @@
 slug: espinaca-y-cherry
 uuid: ab02f65e-1ffd-4043-8c4d-56f1c50b6f3b
 page_title: Espinaca y cherry
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/espinaca-y-cherry.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Espinaca y cherry

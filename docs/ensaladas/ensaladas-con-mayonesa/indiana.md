@@ -2,6 +2,7 @@
 slug: indiana
 uuid: 418aa336-ad25-4774-aad1-456eb4880c9b
 page_title: Indiana
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/indiana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Indiana

@@ -2,6 +2,7 @@
 slug: index
 uuid: 320ed379-b086-4c45-b9db-8e9b699d4711
 page_title: Bocaditos, dips y picadas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/index.md
 ---
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / Bocaditos, dips y picadas
 

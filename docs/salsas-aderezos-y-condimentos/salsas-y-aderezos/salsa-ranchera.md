@@ -2,6 +2,7 @@
 slug: salsa-ranchera
 uuid: bc7cc0aa-45f7-48f1-86f5-6ec164940f22
 page_title: Salsa ranchera
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-ranchera.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa ranchera

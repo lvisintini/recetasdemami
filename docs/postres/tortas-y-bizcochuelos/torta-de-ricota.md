@@ -2,6 +2,7 @@
 slug: torta-de-ricota
 uuid: 1df421d1-ab3e-423d-9aef-6c431815eabe
 page_title: Torta de ricota
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-ricota.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de ricota

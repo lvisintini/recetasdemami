@@ -2,6 +2,7 @@
 slug: egg-sour
 uuid: c681e74b-354c-4452-a258-004da4b27d15
 page_title: Egg sour
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/egg-sour.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Egg sour

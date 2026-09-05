@@ -2,6 +2,7 @@
 slug: salsa-del-espanol
 uuid: b454d0fa-c238-4988-b730-a973695318d0
 page_title: Salsa del Español
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-del-espanol.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa del Español

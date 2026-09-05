@@ -2,6 +2,7 @@
 slug: index
 uuid: 67591b60-0c9e-4ef1-b54c-58c45c0119fa
 page_title: 10. Postres
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/index.md
 ---
 [docs]({{ site.baseurl }}/) / 10. Postres
 

@@ -2,6 +2,7 @@
 slug: cuba-libre
 uuid: ecd3d46b-fdb8-46e5-8c08-752161dd68ae
 page_title: Cuba libre
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/cuba-libre.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Cuba libre

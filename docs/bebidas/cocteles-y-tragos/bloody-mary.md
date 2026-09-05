@@ -2,6 +2,7 @@
 slug: bloody-mary
 uuid: 656b1123-a307-4d61-8897-fe9199bd9975
 page_title: Bloody Mary
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bloody-mary.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bloody Mary

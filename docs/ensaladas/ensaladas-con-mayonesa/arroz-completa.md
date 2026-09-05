@@ -2,6 +2,7 @@
 slug: arroz-completa
 uuid: 32364efa-55ec-44f1-b3a8-ceb309cfbc9e
 page_title: Arroz completa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/arroz-completa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Arroz completa

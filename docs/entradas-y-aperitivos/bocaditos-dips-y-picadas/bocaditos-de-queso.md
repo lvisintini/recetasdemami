@@ -2,6 +2,7 @@
 slug: bocaditos-de-queso
 uuid: 935098ae-2583-4235-b5c5-66491081ee66
 page_title: Bocaditos de queso
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bocaditos-de-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Bocaditos de queso

@@ -2,6 +2,7 @@
 slug: wok-con-carne
 uuid: bc0b7e80-f5f3-4a22-9ffb-346b2526c644
 page_title: Wok con carne
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/wok-con-carne.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Wok con carne

@@ -2,6 +2,7 @@
 slug: cebollas-caramelizadas
 uuid: 959a7a4a-ee0f-44df-b248-3d1bce151eb3
 page_title: Cebollas caramelizadas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/cebollas-caramelizadas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Cebollas caramelizadas

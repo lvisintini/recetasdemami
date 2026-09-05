@@ -2,6 +2,7 @@
 slug: palta-y-mortadela
 uuid: 4b38f8c8-e7a6-4c8f-873b-9f8d55cbd69e
 page_title: Palta y mortadela
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-palta/palta-y-mortadela.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) / Palta y mortadela

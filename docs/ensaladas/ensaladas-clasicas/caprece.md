@@ -2,6 +2,7 @@
 slug: caprece
 uuid: 629efaab-35bc-4249-84d9-c60a3cbb3c62
 page_title: Caprece
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-clasicas/caprece.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) / Caprece

@@ -2,6 +2,7 @@
 slug: grumos-de-harina-o-streusel
 uuid: 00e8a72f-f6c3-4dd6-b565-b17e8c16c036
 page_title: Grumos de harina o streusel
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/grumos-de-harina-o-streusel.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Grumos de harina o streusel

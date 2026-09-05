@@ -2,6 +2,7 @@
 slug: paleta-de-pintor-1
 uuid: e1cc9ba0-7a29-4224-9677-63df9c83599e
 page_title: Paleta de pintor 1
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/paleta-de-pintor-1.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Paleta de pintor 1

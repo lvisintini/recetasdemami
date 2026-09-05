@@ -2,6 +2,7 @@
 slug: salsa-de-queso-2
 uuid: 702c9b7d-037e-437a-a771-b0dfb421bcae
 page_title: Salsa de queso 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-de-queso-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa de queso 2

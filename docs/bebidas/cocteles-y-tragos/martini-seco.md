@@ -2,6 +2,7 @@
 slug: martini-seco
 uuid: 2bd3cd16-d4d2-438c-b4c6-f84782c9a235
 page_title: Martini seco
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/martini-seco.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Martini seco

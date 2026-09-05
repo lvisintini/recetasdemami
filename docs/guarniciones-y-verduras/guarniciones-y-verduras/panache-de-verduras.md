@@ -2,6 +2,7 @@
 slug: panache-de-verduras
 uuid: 6a45d4f8-870e-4bc4-8381-dd097761d4c0
 page_title: Panaché de verduras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/panache-de-verduras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Panaché de verduras

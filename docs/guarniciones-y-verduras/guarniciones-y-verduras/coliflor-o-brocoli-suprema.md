@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-suprema
 uuid: 50d24fce-a150-4aed-8527-353730a4647f
 page_title: Coliflor o brócoli suprema
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/coliflor-o-brocoli-suprema.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Coliflor o brócoli suprema

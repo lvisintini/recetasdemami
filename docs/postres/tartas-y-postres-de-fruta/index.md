@@ -2,6 +2,7 @@
 slug: index
 uuid: 95479820-5437-46bc-a055-de0f197ea878
 page_title: Tartas y postres de fruta
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/index.md
 ---
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Tartas y postres de fruta
 

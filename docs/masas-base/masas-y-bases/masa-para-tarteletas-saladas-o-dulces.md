@@ -2,6 +2,7 @@
 slug: masa-para-tarteletas-saladas-o-dulces
 uuid: d2a246e8-803e-48bd-a91f-aab2de2470d4
 page_title: Masa para tarteletas saladas o dulces
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-para-tarteletas-saladas-o-dulces.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa para tarteletas saladas o dulces

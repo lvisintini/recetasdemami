@@ -2,6 +2,7 @@
 slug: dip-de-roquefort
 uuid: 4b3039b6-647c-4ef6-8763-66a211f71f24
 page_title: Dip de Roquefort
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-roquefort.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Dip de Roquefort

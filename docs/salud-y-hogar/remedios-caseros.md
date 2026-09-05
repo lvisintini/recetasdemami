@@ -2,6 +2,7 @@
 slug: remedios-caseros
 uuid: 1b7f84d1-6943-4ecf-a15a-a8247edccc32
 page_title: Remedios Caseros
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salud-y-hogar/remedios-caseros.md
 ---
 
 [docs]({{ site.baseurl }}/) / [11. Salud y Hogar]({{ site.baseurl }}/salud-y-hogar/) / Remedios Caseros

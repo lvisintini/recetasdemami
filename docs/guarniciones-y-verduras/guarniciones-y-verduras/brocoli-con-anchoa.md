@@ -2,6 +2,7 @@
 slug: brocoli-con-anchoa
 uuid: dfcaca43-08ad-4322-9cc0-a5599684cee6
 page_title: Brócoli con anchoa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/brocoli-con-anchoa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brócoli con anchoa

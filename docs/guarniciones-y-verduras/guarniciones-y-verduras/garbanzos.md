@@ -2,6 +2,7 @@
 slug: garbanzos
 uuid: 31e2d07b-4342-4e49-b451-d136d02b1f6e
 page_title: Garbanzos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/garbanzos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Garbanzos

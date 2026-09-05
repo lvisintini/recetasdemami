@@ -2,6 +2,7 @@
 slug: bocaditos-de-quinoa
 uuid: 5f16dd23-c3a4-4b2b-b451-06c0aafe655a
 page_title: Bocaditos de quinoa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bocaditos-de-quinoa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Bocaditos de quinoa

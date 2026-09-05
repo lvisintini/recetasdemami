@@ -2,6 +2,7 @@
 slug: guiso-de-lentejas
 uuid: 7c2115e8-39f0-43a2-8dc5-a81b83a1d4a9
 page_title: Guiso de lentejas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/guiso-de-lentejas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Guiso de lentejas

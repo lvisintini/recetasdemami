@@ -2,6 +2,7 @@
 slug: tapas-de-empanadas-1
 uuid: 3af766e7-ed3b-4a4c-81a7-0c27cd006d0d
 page_title: Tapas de empanadas 1
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/tapas-de-empanadas-1.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Tapas de empanadas 1

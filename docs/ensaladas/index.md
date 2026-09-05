@@ -2,6 +2,7 @@
 slug: index
 uuid: 0a445e9c-0087-414a-8f03-3b181bd0f0f2
 page_title: 03. Ensaladas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/index.md
 ---
 [docs]({{ site.baseurl }}/) / 03. Ensaladas
 

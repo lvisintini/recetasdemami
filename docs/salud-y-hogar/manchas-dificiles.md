@@ -2,6 +2,7 @@
 slug: manchas-dificiles
 uuid: c075d4c7-94af-4ce8-955d-386296a343a2
 page_title: Manchas difíciles
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salud-y-hogar/manchas-dificiles.md
 ---
 
 [docs]({{ site.baseurl }}/) / [11. Salud y Hogar]({{ site.baseurl }}/salud-y-hogar/) / Manchas difíciles

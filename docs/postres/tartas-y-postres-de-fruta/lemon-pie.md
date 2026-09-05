@@ -2,6 +2,7 @@
 slug: lemon-pie
 uuid: cbf1d773-05eb-4d4a-adc9-b0a1d06e4958
 page_title: Lemon pie
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/lemon-pie.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Lemon pie

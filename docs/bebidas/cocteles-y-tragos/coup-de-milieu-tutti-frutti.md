@@ -2,6 +2,7 @@
 slug: coup-de-milieu-tutti-frutti
 uuid: dc3e7066-11d4-46fb-8e0a-e8a927e31199
 page_title: Coup de Milieu, Tutti Frutti
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/coup-de-milieu-tutti-frutti.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Coup de Milieu, Tutti Frutti

@@ -2,6 +2,7 @@
 slug: proporciones-para-polenta-instantanea
 uuid: 495a1b73-3440-4085-b101-506bcb2df334
 page_title: Proporciones para polenta instantánea
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/proporciones-para-polenta-instantanea.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Proporciones para polenta instantánea

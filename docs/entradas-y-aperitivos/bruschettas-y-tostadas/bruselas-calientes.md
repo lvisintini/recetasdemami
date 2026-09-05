@@ -2,6 +2,7 @@
 slug: bruselas-calientes
 uuid: e3dd72e5-6646-4136-9f6c-1ce9323ba31f
 page_title: Bruselas calientes
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bruschettas-y-tostadas/bruselas-calientes.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) / Bruselas calientes

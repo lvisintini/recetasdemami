@@ -2,6 +2,7 @@
 slug: tartas-de-maria-rosa
 uuid: adf72bb5-db11-4f1a-9a57-ea85f1e27a5b
 page_title: Tartas de maria rosa (muy buenas; saladas)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/tartas-de-maria-rosa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Tartas de maria rosa (muy buenas; saladas)

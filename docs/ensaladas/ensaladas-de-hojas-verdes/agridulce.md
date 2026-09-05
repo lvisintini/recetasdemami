@@ -2,6 +2,7 @@
 slug: agridulce
 uuid: 5f529207-3cd0-4dcb-a516-92c486e7485b
 page_title: Agridulce
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/agridulce.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Agridulce

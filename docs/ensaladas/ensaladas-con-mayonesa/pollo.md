@@ -2,6 +2,7 @@
 slug: pollo
 uuid: a513459b-9c3d-455a-a90f-14f3c21e34e4
 page_title: Pollo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/pollo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Pollo

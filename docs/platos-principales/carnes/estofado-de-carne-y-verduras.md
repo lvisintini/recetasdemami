@@ -2,6 +2,7 @@
 slug: estofado-de-carne-y-verduras
 uuid: 16a75d67-c408-492c-a2f9-582470a5d5e1
 page_title: Estofado de carne y verduras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/estofado-de-carne-y-verduras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Estofado de carne y verduras

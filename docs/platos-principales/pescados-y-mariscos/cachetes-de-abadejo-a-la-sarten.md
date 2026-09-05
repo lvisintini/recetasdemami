@@ -2,6 +2,7 @@
 slug: cachetes-de-abadejo-a-la-sarten
 uuid: 49e91322-ed6c-4ce4-851f-60030e8ceb9d
 page_title: Cachetes de abadejo a la sartén
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/cachetes-de-abadejo-a-la-sarten.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Cachetes de abadejo a la sartén

@@ -2,6 +2,7 @@
 slug: pollo-a-la-haiti
 uuid: 0665920f-c9c5-49e5-9646-25b1a847e160
 page_title: Pollo a la Haiti.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/pollo-a-la-haiti.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo a la Haiti.

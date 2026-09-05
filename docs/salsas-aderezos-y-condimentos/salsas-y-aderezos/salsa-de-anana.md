@@ -2,6 +2,7 @@
 slug: salsa-de-anana
 uuid: ed83d6d2-fd93-493c-8072-c15edf2319b2
 page_title: Salsa de Ananá
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-de-anana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa de Ananá

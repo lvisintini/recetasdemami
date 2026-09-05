@@ -2,6 +2,7 @@
 slug: margarita
 uuid: e5ec1052-1030-47b7-b5aa-73e36162b2b8
 page_title: Margarita
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/margarita.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Margarita

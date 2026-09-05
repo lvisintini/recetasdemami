@@ -2,6 +2,7 @@
 slug: index
 uuid: a9787f46-39ec-4ae9-a370-68909ec32c8b
 page_title: Guarniciones y verduras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/index.md
 ---
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / Guarniciones y verduras
 

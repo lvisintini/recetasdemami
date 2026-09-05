@@ -2,6 +2,7 @@
 slug: waffles
 uuid: 6e9ffdad-a201-454c-84a8-240c476c1dbc
 page_title: Waffles
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/budines-y-otros-horneados/waffles.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Waffles

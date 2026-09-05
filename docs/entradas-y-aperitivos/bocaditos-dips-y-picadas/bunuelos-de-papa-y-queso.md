@@ -2,6 +2,7 @@
 slug: bunuelos-de-papa-y-queso
 uuid: 6f461b45-3c26-4b7e-b358-4be4fea057e9
 page_title: Buñuelos de papa y queso
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bunuelos-de-papa-y-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Buñuelos de papa y queso

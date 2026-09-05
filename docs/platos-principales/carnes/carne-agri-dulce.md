@@ -2,6 +2,7 @@
 slug: carne-agri-dulce
 uuid: 20953f3c-7e48-4e9d-8ecd-a579ea1aa440
 page_title: Carne agri-dulce (receta de gigi)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/carne-agri-dulce.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Carne agri-dulce (receta de gigi)

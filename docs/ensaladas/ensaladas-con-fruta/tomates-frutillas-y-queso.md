@@ -2,6 +2,7 @@
 slug: tomates-frutillas-y-queso
 uuid: 88c9d8fa-1dea-458b-889f-0b570572d164
 page_title: Tomates, frutillas y queso (para 10 personas)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-fruta/tomates-frutillas-y-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Tomates, frutillas y queso (para 10 personas)

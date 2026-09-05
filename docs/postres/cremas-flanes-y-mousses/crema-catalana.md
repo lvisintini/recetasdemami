@@ -2,6 +2,7 @@
 slug: crema-catalana
 uuid: 20c9611e-bdac-4172-bacf-c2e4df40052b
 page_title: Crema Catalana
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/crema-catalana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Crema Catalana

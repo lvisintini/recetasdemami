@@ -2,6 +2,7 @@
 slug: torta-de-naranjas-o-mandarinas-maria-eugenia
 uuid: cfa40fd4-3329-4a37-9e1f-b214a7ea0335
 page_title: Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-naranjas-o-mandarinas-maria-eugenia.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)

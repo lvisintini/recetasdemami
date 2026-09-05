@@ -2,6 +2,7 @@
 slug: torta-de-chocolate-de-lili-morey
 uuid: 6c3cfa05-99c4-45ae-9b23-58f966ea1567
 page_title: Torta de chocolate de Lili Morey
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-chocolate-de-lili-morey.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de chocolate de Lili Morey

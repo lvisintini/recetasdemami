@@ -2,6 +2,7 @@
 slug: minestrone
 uuid: d4b1e916-aece-404f-b57f-d3af130551ab
 page_title: Minestrone
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/minestrone.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Minestrone

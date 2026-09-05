@@ -2,6 +2,7 @@
 slug: albondigas
 uuid: a94a511f-9f0b-4427-9386-51bc50ae3acf
 page_title: Albondigas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/albondigas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Albondigas

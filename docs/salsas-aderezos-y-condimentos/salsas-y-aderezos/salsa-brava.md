@@ -2,6 +2,7 @@
 slug: salsa-brava
 uuid: e72e155a-3950-42c8-b248-7f3335ce0dd0
 page_title: Salsa Brava
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-brava.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa Brava

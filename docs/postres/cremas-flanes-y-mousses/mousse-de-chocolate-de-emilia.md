@@ -2,6 +2,7 @@
 slug: mousse-de-chocolate-de-emilia
 uuid: 2c0db0f0-9f3c-42c9-8044-969589ee83f2
 page_title: Mousse de chocolate de Emilia
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/mousse-de-chocolate-de-emilia.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Mousse de chocolate de Emilia

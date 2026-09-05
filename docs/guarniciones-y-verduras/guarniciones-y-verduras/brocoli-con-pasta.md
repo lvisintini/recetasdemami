@@ -2,6 +2,7 @@
 slug: brocoli-con-pasta
 uuid: 7c76a69c-48d4-4cfc-a43e-2893d608f346
 page_title: Brócoli con pasta
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/brocoli-con-pasta.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brócoli con pasta

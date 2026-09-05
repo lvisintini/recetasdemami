@@ -2,6 +2,7 @@
 slug: brownies-de-antonela
 uuid: bb73bc12-5d2a-4419-b250-473fc0547610
 page_title: Brownies de Antonela
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/brownies-de-antonela.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Brownies de Antonela

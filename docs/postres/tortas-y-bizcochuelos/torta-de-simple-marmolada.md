@@ -2,6 +2,7 @@
 slug: torta-de-simple-marmolada
 uuid: d3d368b4-ac0a-4ff9-aaf5-21e1d77cb21f
 page_title: Torta de simple marmolada
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-simple-marmolada.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de simple marmolada

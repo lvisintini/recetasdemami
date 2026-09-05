@@ -2,6 +2,7 @@
 slug: wok-de-verduras
 uuid: cd878a78-85c0-488e-bd0d-6fe0c40a6f7a
 page_title: Wok de verduras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/wok-de-verduras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Wok de verduras

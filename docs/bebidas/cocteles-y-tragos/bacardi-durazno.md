@@ -2,6 +2,7 @@
 slug: bacardi-durazno
 uuid: 7df589ff-e7bb-4e50-8032-a864f72cbf99
 page_title: bacardi durazno
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bacardi-durazno.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / bacardi durazno

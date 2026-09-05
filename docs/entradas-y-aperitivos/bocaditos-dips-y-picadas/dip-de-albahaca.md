@@ -2,6 +2,7 @@
 slug: dip-de-albahaca
 uuid: cebd58e0-a78f-4a8a-857b-e0486b2ae182
 page_title: Dip de Albahaca
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-albahaca.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Dip de Albahaca

@@ -2,6 +2,7 @@
 slug: champinones-en-escabeche-de-maria-rosa
 uuid: b47d242a-7e46-4dad-b69e-60c89735e07f
 page_title: Champiñones en escabeche de Maria Rosa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/champinones-en-escabeche-de-maria-rosa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Champiñones en escabeche de Maria Rosa

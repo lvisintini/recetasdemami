@@ -2,6 +2,7 @@
 slug: pastel-de-caballa
 uuid: a981c973-0388-4227-bfd9-53205da687e6
 page_title: Pastel de caballa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/pastel-de-caballa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Pastel de caballa

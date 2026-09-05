@@ -2,6 +2,7 @@
 slug: index
 uuid: 0083be4b-16b3-4051-86ff-fa56426b4506
 page_title: Galletitas y masitas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/index.md
 ---
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Galletitas y masitas
 

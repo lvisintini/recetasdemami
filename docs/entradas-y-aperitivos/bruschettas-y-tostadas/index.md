@@ -2,6 +2,7 @@
 slug: index
 uuid: 6c701f95-af12-49d8-b522-6ce9fc7e144f
 page_title: Bruschettas y tostadas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bruschettas-y-tostadas/index.md
 ---
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / Bruschettas y tostadas
 

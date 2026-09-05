@@ -2,6 +2,7 @@
 slug: pisco-sour
 uuid: c97e175c-4b39-4e96-809f-4d7e4d134043
 page_title: Pisco sour
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/pisco-sour.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Pisco sour

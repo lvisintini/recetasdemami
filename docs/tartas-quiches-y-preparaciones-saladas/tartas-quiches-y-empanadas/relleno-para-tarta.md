@@ -2,6 +2,7 @@
 slug: relleno-para-tarta
 uuid: d58ca09d-6da3-4be4-bbd6-603f554ee2c5
 page_title: Relleno para tarta
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/relleno-para-tarta.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Relleno para tarta

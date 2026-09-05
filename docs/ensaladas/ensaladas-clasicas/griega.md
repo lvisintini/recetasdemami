@@ -2,6 +2,7 @@
 slug: griega
 uuid: cdb31fa6-07b8-4bb8-886b-543440fd1866
 page_title: Griega
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-clasicas/griega.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) / Griega

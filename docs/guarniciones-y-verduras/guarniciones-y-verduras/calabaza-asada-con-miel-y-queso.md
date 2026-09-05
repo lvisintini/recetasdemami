@@ -2,6 +2,7 @@
 slug: calabaza-asada-con-miel-y-queso
 uuid: aa905215-d0ea-4c62-971c-7fa7ddf8dd0f
 page_title: Calabaza asada con miel y queso.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/calabaza-asada-con-miel-y-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Calabaza asada con miel y queso.

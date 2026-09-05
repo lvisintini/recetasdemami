@@ -2,6 +2,7 @@
 slug: index
 uuid: e666e44e-7eb2-4602-9f29-39ff0c1c3a9e
 page_title: Crepes y panqueques dulces
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/crepes-y-panqueques-dulces/index.md
 ---
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Crepes y panqueques dulces
 

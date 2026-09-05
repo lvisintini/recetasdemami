@@ -2,6 +2,7 @@
 slug: californiana
 uuid: ab5696ec-f254-43d9-8cf0-eebc5731b38c
 page_title: Californiana
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/californiana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Californiana

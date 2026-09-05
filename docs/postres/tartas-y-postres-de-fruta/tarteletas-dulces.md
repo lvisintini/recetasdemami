@@ -2,6 +2,7 @@
 slug: tarteletas-dulces
 uuid: e096997a-45e6-452d-95c5-91856cc4f144
 page_title: Tarteletas dulces
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/tarteletas-dulces.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Tarteletas dulces

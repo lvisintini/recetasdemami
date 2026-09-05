@@ -2,6 +2,7 @@
 slug: bomba-de-papa-y-queso
 uuid: 5f737e8c-df84-4c5d-8ceb-13883cd80ad7
 page_title: Bomba de papa y queso
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bomba-de-papa-y-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Bomba de papa y queso

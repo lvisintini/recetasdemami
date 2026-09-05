@@ -2,6 +2,7 @@
 slug: bondiola-de-cerdo-a-la-cerveza
 uuid: 33ed7a4c-1ea3-4c2c-a649-577d8eb2936e
 page_title: Bondiola de cerdo a la cerveza
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/bondiola-de-cerdo-a-la-cerveza.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Bondiola de cerdo a la cerveza

@@ -2,6 +2,7 @@
 slug: brochette
 uuid: 9bbf6362-e083-429a-a2f3-9d32a9eaff9e
 page_title: Brochette
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/brochette.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Brochette

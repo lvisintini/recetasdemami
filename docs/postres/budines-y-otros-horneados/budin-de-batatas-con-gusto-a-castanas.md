@@ -2,6 +2,7 @@
 slug: budin-de-batatas-con-gusto-a-castanas
 uuid: 42fe3983-d3cb-47e0-a9c6-154040fae3a2
 page_title: Budin de batatas con gusto a castañas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/budines-y-otros-horneados/budin-de-batatas-con-gusto-a-castanas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Budin de batatas con gusto a castañas

@@ -2,6 +2,7 @@
 slug: pescado-sobre-cama-de-verduras-al-horno
 uuid: 78b655fa-648e-4c28-8b7c-52d791e285d8
 page_title: Pescado sobre cama de verduras al horno
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/pescado-sobre-cama-de-verduras-al-horno.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Pescado sobre cama de verduras al horno

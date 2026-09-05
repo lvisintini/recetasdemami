@@ -2,6 +2,7 @@
 slug: cheesecake
 uuid: 38b7ff0e-ffb5-45ff-a933-3111508365aa
 page_title: Cheesecake
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/cheesecake.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Cheesecake

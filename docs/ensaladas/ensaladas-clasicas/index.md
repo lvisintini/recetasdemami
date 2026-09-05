@@ -2,6 +2,7 @@
 slug: index
 uuid: ed7cc9d7-f2bf-408c-a403-9139e8f26c52
 page_title: Ensaladas clásicas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-clasicas/index.md
 ---
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / Ensaladas clásicas
 

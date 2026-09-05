@@ -2,6 +2,7 @@
 slug: anzac-masitas-australianas
 uuid: 3308be82-3456-41e1-846f-470fc436facd
 page_title: Anzac, masitas australianas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/anzac-masitas-australianas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Anzac, masitas australianas

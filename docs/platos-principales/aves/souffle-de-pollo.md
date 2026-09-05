@@ -2,6 +2,7 @@
 slug: souffle-de-pollo
 uuid: f08c93f2-57b5-452c-8f68-f5c70b986061
 page_title: Souffle de pollo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/souffle-de-pollo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Souffle de pollo

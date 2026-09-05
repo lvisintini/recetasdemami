@@ -2,6 +2,7 @@
 slug: arroz-al-curry
 uuid: f6e548c3-623e-49b5-afd0-9f35ccd9eb78
 page_title: Arroz al curry
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/arroz-al-curry.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Arroz al curry

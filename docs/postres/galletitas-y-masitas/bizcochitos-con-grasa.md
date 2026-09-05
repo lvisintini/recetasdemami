@@ -2,6 +2,7 @@
 slug: bizcochitos-con-grasa
 uuid: 50d60096-0332-4efc-b155-c93fe031906f
 page_title: Bizcochitos con grasa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/bizcochitos-con-grasa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Bizcochitos con grasa

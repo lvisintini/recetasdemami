@@ -2,6 +2,7 @@
 slug: postre-chocolino
 uuid: 3c5cb7af-6cf7-4b15-9f59-104c1e08b538
 page_title: Postre Chocolino
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/postre-chocolino.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Postre Chocolino

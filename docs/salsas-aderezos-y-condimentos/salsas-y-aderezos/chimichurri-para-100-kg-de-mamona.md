@@ -2,6 +2,7 @@
 slug: chimichurri-para-100-kg-de-mamona
 uuid: 31f71113-11f2-40aa-b63c-df82ead991e7
 page_title: Chimichurri para 100 kg de Mamona
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/chimichurri-para-100-kg-de-mamona.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Chimichurri para 100 kg de Mamona

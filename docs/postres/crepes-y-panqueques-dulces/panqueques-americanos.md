@@ -2,6 +2,7 @@
 slug: panqueques-americanos
 uuid: 936e965f-7363-4a0d-8de3-0fb11bd659d1
 page_title: Panqueques americanos (gruesos)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/crepes-y-panqueques-dulces/panqueques-americanos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Panqueques americanos (gruesos)

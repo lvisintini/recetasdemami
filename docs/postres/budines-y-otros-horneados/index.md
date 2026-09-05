@@ -2,6 +2,7 @@
 slug: index
 uuid: 2b26c67b-aaf4-4287-806d-d69c8137a514
 page_title: Budines y otros horneados
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/budines-y-otros-horneados/index.md
 ---
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / Budines y otros horneados
 

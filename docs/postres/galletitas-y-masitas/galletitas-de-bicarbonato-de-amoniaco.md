@@ -2,6 +2,7 @@
 slug: galletitas-de-bicarbonato-de-amoniaco
 uuid: 3136257e-6918-4436-aea6-a67ed9a6e55b
 page_title: Galletitas de Bicarbonato de Amoniaco (CO3NH4)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/galletitas-de-bicarbonato-de-amoniaco.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Galletitas de Bicarbonato de Amoniaco (CO3NH4)

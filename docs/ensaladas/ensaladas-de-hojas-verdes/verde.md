@@ -2,6 +2,7 @@
 slug: verde
 uuid: 1cd411b0-d73b-4fb0-a3fe-c2d3e4dffb0a
 page_title: Verde
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/verde.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Verde

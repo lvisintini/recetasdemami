@@ -2,6 +2,7 @@
 slug: tarta-de-peras
 uuid: 236bd8b7-cad4-4f99-a373-58267e751c3e
 page_title: Tarta de peras (y otras frutas)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/tarta-de-peras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Tarta de peras (y otras frutas)

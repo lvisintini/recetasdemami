@@ -2,6 +2,7 @@
 slug: espinaca-y-frutillas
 uuid: d123c8dd-bc6c-4adb-870e-47dd4511352a
 page_title: Espinaca y frutillas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-fruta/espinaca-y-frutillas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Espinaca y frutillas

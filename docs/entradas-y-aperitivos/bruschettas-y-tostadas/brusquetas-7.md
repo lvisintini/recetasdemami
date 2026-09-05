@@ -2,6 +2,7 @@
 slug: brusquetas-7
 uuid: a123ee41-1995-4a39-8029-7096d8ce3190
 page_title: Brusquetas 7
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bruschettas-y-tostadas/brusquetas-7.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) / Brusquetas 7

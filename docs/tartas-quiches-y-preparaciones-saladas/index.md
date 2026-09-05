@@ -2,6 +2,7 @@
 slug: index
 uuid: 40b08101-d718-4918-93fe-48772a2ddb46
 page_title: 09. Tartas, Quiches y Preparaciones Saladas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/index.md
 ---
 [docs]({{ site.baseurl }}/) / 09. Tartas, Quiches y Preparaciones Saladas
 

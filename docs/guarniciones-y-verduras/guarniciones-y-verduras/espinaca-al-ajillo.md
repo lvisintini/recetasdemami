@@ -2,6 +2,7 @@
 slug: espinaca-al-ajillo
 uuid: 7b158548-982e-4e8f-95f5-1297a0614da1
 page_title: Espinaca al ajillo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/espinaca-al-ajillo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Espinaca al ajillo

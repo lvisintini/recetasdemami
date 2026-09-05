@@ -2,6 +2,7 @@
 slug: crema-de-whisky
 uuid: f39ecbb8-11b5-4bb1-8c5a-db6ce3071832
 page_title: Crema de whisky
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/crema-de-whisky.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Crema de whisky

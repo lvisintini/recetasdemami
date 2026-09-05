@@ -2,6 +2,7 @@
 slug: gulasch
 uuid: 8bb7e45b-4879-43f1-bfab-89aa17cc7f32
 page_title: Gulasch
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/gulasch.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Gulasch

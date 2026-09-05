@@ -2,6 +2,7 @@
 slug: postre-sencillo-de-batatas-al-horno
 uuid: c7222c6a-ec9f-4a82-a059-c5503b39a932
 page_title: Postre sencillo de batatas al horno
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/postre-sencillo-de-batatas-al-horno.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Postre sencillo de batatas al horno

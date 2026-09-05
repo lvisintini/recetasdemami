@@ -2,6 +2,7 @@
 slug: torta-de-coco
 uuid: 54ea957e-a20e-44f8-ac04-7dbd11f54292
 page_title: Torta de coco
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-coco.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de coco

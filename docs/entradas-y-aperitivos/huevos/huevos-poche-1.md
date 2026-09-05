@@ -2,6 +2,7 @@
 slug: huevos-poche-1
 uuid: 03ead31a-a137-46a5-a85a-345de849fb38
 page_title: Huevos poche 1
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/huevos/huevos-poche-1.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos poche 1

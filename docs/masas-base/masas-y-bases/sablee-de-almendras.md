@@ -2,6 +2,7 @@
 slug: sablee-de-almendras
 uuid: 335cf6e7-03e4-4f4b-a0f3-db2f36f090d0
 page_title: Sablée de almendras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/sablee-de-almendras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Sablée de almendras

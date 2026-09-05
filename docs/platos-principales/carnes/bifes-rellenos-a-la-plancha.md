@@ -2,6 +2,7 @@
 slug: bifes-rellenos-a-la-plancha
 uuid: 005ff145-1843-45d3-9a7c-6333fea8e3eb
 page_title: Bifes rellenos a la plancha
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/bifes-rellenos-a-la-plancha.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Bifes rellenos a la plancha

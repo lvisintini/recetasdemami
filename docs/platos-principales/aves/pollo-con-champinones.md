@@ -2,6 +2,7 @@
 slug: pollo-con-champinones
 uuid: 0f365373-dec4-4a92-9bfd-70b3560599ef
 page_title: Pollo con champiñones
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/pollo-con-champinones.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo con champiñones

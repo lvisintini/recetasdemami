@@ -2,6 +2,7 @@
 slug: gambas-al-ajillo
 uuid: aa290aa3-4dca-4a58-9e18-cb2494e0118a
 page_title: Gambas al ajillo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/gambas-al-ajillo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Gambas al ajillo

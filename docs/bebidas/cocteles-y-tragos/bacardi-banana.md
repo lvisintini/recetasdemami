@@ -2,6 +2,7 @@
 slug: bacardi-banana
 uuid: 8651af34-a949-4607-8095-961cd4a5035e
 page_title: Bacardi banana
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bacardi-banana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bacardi banana

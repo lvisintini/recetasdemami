@@ -2,6 +2,7 @@
 slug: bano-de-chocolate-de-mamama
 uuid: 7ab6edff-1996-4fc5-886b-e9a4694aa408
 page_title: Baño de chocolate de mamama
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/bano-de-chocolate-de-mamama.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Baño de chocolate de mamama

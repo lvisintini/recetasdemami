@@ -2,6 +2,7 @@
 slug: index
 uuid: 9b418a58-8161-4e9f-a044-fa49aca9ba3b
 page_title: 07. Platos Principales
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/index.md
 ---
 [docs]({{ site.baseurl }}/) / 07. Platos Principales
 

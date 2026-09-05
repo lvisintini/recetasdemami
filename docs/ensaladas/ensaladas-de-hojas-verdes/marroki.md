@@ -2,6 +2,7 @@
 slug: marroki
 uuid: 01528c4f-b9ba-461f-b2fa-b8743f6c4791
 page_title: Marroki
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/marroki.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Marroki

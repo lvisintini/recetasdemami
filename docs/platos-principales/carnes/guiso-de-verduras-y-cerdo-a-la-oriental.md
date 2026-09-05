@@ -2,6 +2,7 @@
 slug: guiso-de-verduras-y-cerdo-a-la-oriental
 uuid: 754dee5b-39c2-46cf-90df-ac6d8dc64768
 page_title: Guiso de verduras y cerdo a la oriental
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/guiso-de-verduras-y-cerdo-a-la-oriental.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Guiso de verduras y cerdo a la oriental

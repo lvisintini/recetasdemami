@@ -2,6 +2,7 @@
 slug: clafoutis-de-frutos-rojos
 uuid: a4726dbc-7dff-46a3-9742-f889d22c8399
 page_title: Clafoutis de frutos rojos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/clafoutis-de-frutos-rojos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Clafoutis de frutos rojos

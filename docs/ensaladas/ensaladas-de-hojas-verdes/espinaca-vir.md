@@ -2,6 +2,7 @@
 slug: espinaca-vir
 uuid: dd22f62e-8a87-46a7-896c-6b88c69d33bf
 page_title: Espinaca Vir
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/espinaca-vir.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Espinaca Vir

@@ -2,6 +2,7 @@
 slug: tarantela-de-tia-chicha
 uuid: 7d5b1cd6-6239-422c-8f26-6ba9bff9ad25
 page_title: Tarantela de Tía Chicha
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/tarantela-de-tia-chicha.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Tarantela de Tía Chicha

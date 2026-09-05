@@ -2,6 +2,7 @@
 slug: brisle
 uuid: c6c0e2c4-0835-4a86-9843-40483906c2e9
 page_title: Brisle
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/brisle.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Brisle

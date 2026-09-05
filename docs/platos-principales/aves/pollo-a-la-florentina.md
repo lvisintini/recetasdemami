@@ -2,6 +2,7 @@
 slug: pollo-a-la-florentina
 uuid: 52ba2578-4cdb-4244-8022-0a6b01090bb2
 page_title: Pollo a la florentina
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/pollo-a-la-florentina.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Pollo a la florentina

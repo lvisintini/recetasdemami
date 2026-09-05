@@ -2,6 +2,7 @@
 slug: torta-hungara-de-los-120-golpes-o-de-los-bollitos
 uuid: 3f4eb5b2-bae8-414a-9589-76da2ea74b46
 page_title: Torta hungara, de los 120 golpes, o de los bollitos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-hungara-de-los-120-golpes-o-de-los-bollitos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta hungara, de los 120 golpes, o de los bollitos

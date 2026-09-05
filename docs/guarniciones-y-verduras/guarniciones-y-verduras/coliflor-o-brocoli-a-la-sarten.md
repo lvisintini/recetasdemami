@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-a-la-sarten
 uuid: 8df74393-3a45-4458-a01f-0fbf2eaff4b5
 page_title: Coliflor o brocoli a la sarten
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/coliflor-o-brocoli-a-la-sarten.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Coliflor o brocoli a la sarten

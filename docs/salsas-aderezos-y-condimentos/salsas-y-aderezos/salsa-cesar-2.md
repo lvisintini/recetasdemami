@@ -2,6 +2,7 @@
 slug: salsa-cesar-2
 uuid: aaf4d362-2885-46ee-b39c-6adebe3b5693
 page_title: Salsa Cesar 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-cesar-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa Cesar 2

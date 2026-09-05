@@ -2,6 +2,7 @@
 slug: spatzle
 uuid: ecd9ee0b-5bcd-42f2-a2fd-7536eb836a8f
 page_title: Spâtzle (4 personas)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/otros-platos-principales/spatzle.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) / Spâtzle (4 personas)

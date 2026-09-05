@@ -2,6 +2,7 @@
 slug: repollo-roman
 uuid: 46614a0f-896e-4262-90bd-516f1dc78d27
 page_title: Repollo Roman (bisabuelo)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/repollo-roman.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Repollo Roman (bisabuelo)

@@ -2,6 +2,7 @@
 slug: kasse-kuche-de-sofi
 uuid: 59781cc7-1701-4792-bfa9-3cf76410ec78
 page_title: Kâsse kuche de Sofi
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/kasse-kuche-de-sofi.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Kâsse kuche de Sofi

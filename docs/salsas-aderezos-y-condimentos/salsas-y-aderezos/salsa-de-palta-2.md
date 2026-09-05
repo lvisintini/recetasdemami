@@ -2,6 +2,7 @@
 slug: salsa-de-palta-2
 uuid: 2939eba0-56a6-422f-94af-da11ef123e6c
 page_title: Salsa de Palta 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-de-palta-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa de Palta 2

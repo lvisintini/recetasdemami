@@ -2,6 +2,7 @@
 slug: crema-de-ajo
 uuid: 6e350b4d-bd35-47d5-b3fe-af9e54795bc8
 page_title: Crema de Ajo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/crema-de-ajo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Crema de Ajo

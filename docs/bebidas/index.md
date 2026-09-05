@@ -2,6 +2,7 @@
 slug: index
 uuid: 1936f728-d8f9-4d97-a142-be26072b8eb3
 page_title: 01. Bebidas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/index.md
 ---
 [docs]({{ site.baseurl }}/) / 01. Bebidas
 

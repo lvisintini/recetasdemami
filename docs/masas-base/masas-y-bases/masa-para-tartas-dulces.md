@@ -2,6 +2,7 @@
 slug: masa-para-tartas-dulces
 uuid: 3aeb43c8-87c0-4920-8215-1c64b0fca428
 page_title: Masa para tartas dulces
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-para-tartas-dulces.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa para tartas dulces

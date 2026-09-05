@@ -2,6 +2,7 @@
 slug: salsa-de-pimiento
 uuid: 584bd7fa-64f8-42b4-bc04-35c3189e735b
 page_title: Salsa de pimiento
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-de-pimiento.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa de pimiento

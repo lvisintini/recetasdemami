@@ -2,6 +2,7 @@
 slug: pollo-al-curry
 uuid: 58877391-c11a-49e9-850a-0f030f58a76b
 page_title: Pollo al curry
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/pollo-al-curry.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Pollo al curry

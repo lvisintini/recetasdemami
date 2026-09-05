@@ -2,6 +2,7 @@
 slug: filetes-de-pescado-al-curry-receta-del-abuelito-lito-al-horno
 uuid: 10241e2d-484a-4fc3-aab6-48341a69910a
 page_title: Filetes de pescado al curry receta del abuelito lito al horno
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/filetes-de-pescado-al-curry-receta-del-abuelito-lito-al-horno.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Filetes de pescado al curry receta del abuelito lito al horno

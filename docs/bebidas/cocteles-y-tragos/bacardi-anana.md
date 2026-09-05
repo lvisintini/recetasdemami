@@ -2,6 +2,7 @@
 slug: bacardi-anana
 uuid: 9257e040-416f-48d4-9d2a-90e764cf6622
 page_title: Bacardi ananá
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bacardi-anana.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bacardi ananá

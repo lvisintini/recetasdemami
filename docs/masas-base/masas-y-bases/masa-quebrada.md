@@ -2,6 +2,7 @@
 slug: masa-quebrada
 uuid: 7e9751fe-cb51-476b-a49f-b5c3cc983bb3
 page_title: Masa quebrada
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-quebrada.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa quebrada

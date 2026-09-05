@@ -2,6 +2,7 @@
 slug: tortilla-de-papas-a-la-espanola
 uuid: 530f588d-b378-46ea-9024-c381a712369c
 page_title: Tortilla de papas a la española
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/otros-platos-principales/tortilla-de-papas-a-la-espanola.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) / Tortilla de papas a la española

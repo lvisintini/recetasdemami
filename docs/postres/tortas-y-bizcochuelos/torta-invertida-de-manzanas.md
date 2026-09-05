@@ -2,6 +2,7 @@
 slug: torta-invertida-de-manzanas
 uuid: 51ed9ec3-acf6-4c36-b8fb-1683550d18f7
 page_title: Torta invertida de manzanas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-invertida-de-manzanas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta invertida de manzanas

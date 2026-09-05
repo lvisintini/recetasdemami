@@ -2,6 +2,7 @@
 slug: pure-de-batatas
 uuid: 20282eba-6d07-43cf-9c67-316c4c75bcf6
 page_title: Pure de batatas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/pure-de-batatas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Pure de batatas

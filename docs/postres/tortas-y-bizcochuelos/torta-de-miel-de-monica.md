@@ -2,6 +2,7 @@
 slug: torta-de-miel-de-monica
 uuid: 682708aa-0214-4f24-b803-38b6f236c42f
 page_title: Torta de miel de Mónica
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-miel-de-monica.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de miel de Mónica

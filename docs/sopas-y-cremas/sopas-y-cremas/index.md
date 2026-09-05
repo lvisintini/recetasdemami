@@ -2,6 +2,7 @@
 slug: index
 uuid: d15d4eac-65db-4147-894c-def64d6dba24
 page_title: Sopas y cremas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/index.md
 ---
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / Sopas y cremas
 

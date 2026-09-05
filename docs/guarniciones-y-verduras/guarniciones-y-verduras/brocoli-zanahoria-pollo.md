@@ -2,6 +2,7 @@
 slug: brocoli-zanahoria-pollo
 uuid: 439458ad-eb60-41d6-8cb0-0676c5b2ea7b
 page_title: Brócoli, zanahoria, pollo.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/brocoli-zanahoria-pollo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brócoli, zanahoria, pollo.

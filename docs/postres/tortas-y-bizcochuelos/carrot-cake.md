@@ -2,6 +2,7 @@
 slug: carrot-cake
 uuid: 66c4eac1-f99c-4885-88e9-cebae78cb6a7
 page_title: Carrot cake
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/carrot-cake.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Carrot cake

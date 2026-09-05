@@ -2,6 +2,7 @@
 slug: arroz-con-leche
 uuid: bb4c7a67-49e2-4695-9616-030ffa55680c
 page_title: Arroz con leche
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/arroz-con-leche.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Arroz con leche

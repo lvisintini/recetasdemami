@@ -2,6 +2,7 @@
 slug: index
 uuid: 90a6ef8c-74d2-4a80-948d-385b2f9dfe82
 page_title: Masas y bases (dulces y saladas)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/index.md
 ---
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / Masas y bases (dulces y saladas)
 

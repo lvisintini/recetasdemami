@@ -2,6 +2,7 @@
 slug: arroz-con-pollo-a-la-multichef
 uuid: 0eadcad2-d8b1-4a56-bb8a-c559f4c5f77e
 page_title: Arroz con pollo a la Multichef (o sin multichef)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/arroz-con-pollo-a-la-multichef.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Arroz con pollo a la Multichef (o sin multichef)

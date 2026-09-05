@@ -2,6 +2,7 @@
 slug: tarta-de-choclos
 uuid: e9c9915f-55c3-4701-a027-41b9276be4cf
 page_title: Tarta de choclos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/tarta-de-choclos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Tarta de choclos

@@ -2,6 +2,7 @@
 slug: salsa-vitel-tone
 uuid: 53515cff-78f7-4a38-bd36-3f1fb4121419
 page_title: Salsa Vitel Toné
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-vitel-tone.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa Vitel Toné

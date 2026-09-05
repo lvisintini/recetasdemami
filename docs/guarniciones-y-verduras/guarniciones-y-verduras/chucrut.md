@@ -2,6 +2,7 @@
 slug: chucrut
 uuid: 5c0aeef2-2ac0-449e-ac59-99187fc0034b
 page_title: Chucrut
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/chucrut.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Chucrut

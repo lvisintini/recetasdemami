@@ -2,6 +2,7 @@
 slug: zanahorias-caramelizadas
 uuid: 12364a50-70a4-4679-9bb1-f24807666215
 page_title: Zanahorias caramelizadas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/zanahorias-caramelizadas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Zanahorias caramelizadas

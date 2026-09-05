@@ -2,6 +2,7 @@
 slug: masa-medio-hojaldre-blancaflor
 uuid: cc16d521-9327-4b87-8b93-0a6dd74c4db3
 page_title: Masa medio hojaldre blancaflor
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-medio-hojaldre-blancaflor.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa medio hojaldre blancaflor

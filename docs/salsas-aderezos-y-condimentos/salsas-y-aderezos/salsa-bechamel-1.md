@@ -2,6 +2,7 @@
 slug: salsa-bechamel-1
 uuid: b47c0731-c8b7-4f34-be29-65f3b1ad0563
 page_title: Salsa Bechamel 1
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-bechamel-1.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa Bechamel 1

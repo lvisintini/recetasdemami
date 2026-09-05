@@ -2,6 +2,7 @@
 slug: ninos-envueltos-a-la-cacerola
 uuid: 0526f2fb-e622-4504-a455-371c25035f6b
 page_title: Niños envueltos a la cacerola
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/ninos-envueltos-a-la-cacerola.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Niños envueltos a la cacerola

@@ -2,6 +2,7 @@
 slug: chorizo-de-chocolate
 uuid: 3529f612-f1e4-4d91-9b9c-42676eea5302
 page_title: Chorizo de chocolate
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/chorizo-de-chocolate.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Chorizo de chocolate

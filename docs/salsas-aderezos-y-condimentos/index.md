@@ -2,6 +2,7 @@
 slug: index
 uuid: 1d8ac754-d6f4-4edb-9381-1236af9b2015
 page_title: 05. Salsas, Aderezos y Condimentos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/index.md
 ---
 [docs]({{ site.baseurl }}/) / 05. Salsas, Aderezos y Condimentos
 

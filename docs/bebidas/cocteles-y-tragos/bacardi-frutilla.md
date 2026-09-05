@@ -2,6 +2,7 @@
 slug: bacardi-frutilla
 uuid: 1cb21d44-38d6-464b-ac78-c13aee6ed305
 page_title: Bacardi frutilla
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/bacardi-frutilla.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Bacardi frutilla

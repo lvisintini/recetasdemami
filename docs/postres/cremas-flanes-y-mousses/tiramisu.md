@@ -2,6 +2,7 @@
 slug: tiramisu
 uuid: 74c66312-4c62-41d6-a5fb-3f10c6e517f2
 page_title: Tiramisu
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/tiramisu.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Tiramisu

@@ -2,6 +2,7 @@
 slug: salsa-bechamel-2
 uuid: e8aad0a8-c14d-4a86-8712-c8a9d3722776
 page_title: Salsa Bechamel 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/salsa-bechamel-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Salsa Bechamel 2

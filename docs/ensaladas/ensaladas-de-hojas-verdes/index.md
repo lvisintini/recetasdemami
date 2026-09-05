@@ -2,6 +2,7 @@
 slug: index
 uuid: acc727dd-ef10-4026-857a-9a3cd9747eb0
 page_title: Ensaladas de hojas verdes
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/index.md
 ---
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / Ensaladas de hojas verdes
 

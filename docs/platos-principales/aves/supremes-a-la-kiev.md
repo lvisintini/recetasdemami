@@ -2,6 +2,7 @@
 slug: supremes-a-la-kiev
 uuid: e29f9c8c-b97a-4200-8e94-eefe78bd2424
 page_title: Supremes a la Kiev
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/supremes-a-la-kiev.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Aves]({{ site.baseurl }}/platos-principales/aves/) / Supremes a la Kiev

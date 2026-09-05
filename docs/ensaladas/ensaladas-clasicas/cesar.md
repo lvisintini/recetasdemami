@@ -2,6 +2,7 @@
 slug: cesar
 uuid: de7560d4-5ae1-4cd6-8c32-59e277598094
 page_title: Cesar
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-clasicas/cesar.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/) / Cesar

@@ -2,6 +2,7 @@
 slug: huevos-en-las-nieves
 uuid: 6d2c5327-4d5e-4631-bf6f-7e3457c54379
 page_title: Huevos en las nieves
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/huevos/huevos-en-las-nieves.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Huevos]({{ site.baseurl }}/entradas-y-aperitivos/huevos/) / Huevos en las nieves

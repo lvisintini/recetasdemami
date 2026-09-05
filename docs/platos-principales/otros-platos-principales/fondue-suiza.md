@@ -2,6 +2,7 @@
 slug: fondue-suiza
 uuid: ff7ab9aa-11cc-44e4-bc4d-d4fb342a5adf
 page_title: Fondue suiza
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/otros-platos-principales/fondue-suiza.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/) / Fondue suiza

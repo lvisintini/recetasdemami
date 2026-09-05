@@ -2,6 +2,7 @@
 slug: substituto-para-salsa-bechamel
 uuid: 91a0df0d-d4ab-4861-9c0e-cf0a9d2c2e58
 page_title: Substituto para salsa bechamel
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/substituto-para-salsa-bechamel.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Substituto para salsa bechamel

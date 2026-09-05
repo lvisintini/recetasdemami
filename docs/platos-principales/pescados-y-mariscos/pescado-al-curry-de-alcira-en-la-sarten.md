@@ -2,6 +2,7 @@
 slug: pescado-al-curry-de-alcira-en-la-sarten
 uuid: 3a4b68d6-9d10-4473-8fd5-beacd146a656
 page_title: Pescado al curry de alcira en la sartén
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/pescado-al-curry-de-alcira-en-la-sarten.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Pescado al curry de alcira en la sartén

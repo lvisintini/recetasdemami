@@ -2,6 +2,7 @@
 slug: sorpresa-agridulce-anana-y-lomito
 uuid: 3da6e5de-aa1d-44c3-9a87-ae865c5fbf42
 page_title: Sorpresa agridulce ananá y lomito
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/sorpresa-agridulce-anana-y-lomito.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Sorpresa agridulce ananá y lomito

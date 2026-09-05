@@ -2,6 +2,7 @@
 slug: melon
 uuid: 8deba576-8eb7-4db7-8240-582cecc2121b
 page_title: Melon
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-fruta/melon.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/) / Melon

@@ -2,6 +2,7 @@
 slug: torta-arena-con-duraznos-al-natural
 uuid: 398c4b7e-ed46-4ee1-b4aa-2738a4bc702c
 page_title: Torta arena con duraznos al natural
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-arena-con-duraznos-al-natural.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta arena con duraznos al natural

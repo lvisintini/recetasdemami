@@ -2,6 +2,7 @@
 slug: imperial
 uuid: 5b1272d1-793f-4659-ad78-d22e074a00c4
 page_title: Imperial
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/imperial.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Imperial

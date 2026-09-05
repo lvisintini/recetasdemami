@@ -2,6 +2,7 @@
 slug: pure-de-manzanas
 uuid: f2b00edb-e006-4971-b30a-ac05071ce53f
 page_title: Pure de manzanas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/pure-de-manzanas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Pure de manzanas

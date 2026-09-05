@@ -2,6 +2,7 @@
 slug: escalopes-al-vino-marsala
 uuid: e5ab49bd-f267-4fd5-8299-1e479e125211
 page_title: Escalopes al vino Marsala.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/escalopes-al-vino-marsala.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Escalopes al vino Marsala.

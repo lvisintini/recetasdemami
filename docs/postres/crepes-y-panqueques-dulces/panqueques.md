@@ -2,6 +2,7 @@
 slug: panqueques
 uuid: d0b2c5f7-6e84-498b-95fc-126c227bc0cb
 page_title: Panqueques (finitos)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/crepes-y-panqueques-dulces/panqueques.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Panqueques (finitos)

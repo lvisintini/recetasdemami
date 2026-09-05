@@ -2,6 +2,7 @@
 slug: torta-de-simple-de-vainilla
 uuid: be22e580-1d32-4e71-8d7a-a072f922ff9c
 page_title: Torta de simple de vainilla
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-simple-de-vainilla.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de simple de vainilla

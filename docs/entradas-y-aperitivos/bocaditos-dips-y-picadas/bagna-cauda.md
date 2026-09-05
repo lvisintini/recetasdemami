@@ -2,6 +2,7 @@
 slug: bagna-cauda
 uuid: d5786b97-8a54-4dfd-8908-d693378f07a3
 page_title: Bagna cauda
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bagna-cauda.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Bagna cauda

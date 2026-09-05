@@ -2,6 +2,7 @@
 slug: caipiroska
 uuid: 803ba725-4311-4432-9e6d-218de68bed25
 page_title: Caipiroska
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/caipiroska.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Caipiroska

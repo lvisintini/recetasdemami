@@ -2,6 +2,7 @@
 slug: masa-para-flammkuchen-de-sofi
 uuid: 20e2e600-beb6-476b-aa6a-4f0fb1be8410
 page_title: Masa para flammkuchen de Sofi
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-para-flammkuchen-de-sofi.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa para flammkuchen de Sofi

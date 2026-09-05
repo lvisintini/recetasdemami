@@ -2,6 +2,7 @@
 slug: piononos-arrollados-salados
 uuid: c1858c34-b15f-4f3a-b1e8-37677e2404b0
 page_title: Piononos arrollados salados
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/piononos-arrollados-salados.md
 ---
 
 [docs]({{ site.baseurl }}/) / [09. Tartas, Quiches y Preparaciones Saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/) / [Tartas, quiches y empanadas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-quiches-y-empanadas/) / Piononos arrollados salados

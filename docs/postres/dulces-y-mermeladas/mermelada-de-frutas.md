@@ -2,6 +2,7 @@
 slug: mermelada-de-frutas
 uuid: 717551c7-28e9-4016-98fb-1eea1e9d7e12
 page_title: Mermelada de frutas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/dulces-y-mermeladas/mermelada-de-frutas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Dulces y mermeladas]({{ site.baseurl }}/postres/dulces-y-mermeladas/) / Mermelada de frutas

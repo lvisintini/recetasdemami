@@ -2,6 +2,7 @@
 slug: souffle-de-choclos-mamama
 uuid: 72c09536-3caf-454f-8143-5f53c3253388
 page_title: Souffle de choclos Mamama
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/souffle-de-choclos-mamama.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Souffle de choclos Mamama

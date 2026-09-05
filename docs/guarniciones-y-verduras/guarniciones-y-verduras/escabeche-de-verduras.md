@@ -2,6 +2,7 @@
 slug: escabeche-de-verduras
 uuid: 8289ad1a-dfd7-4552-8370-ba8c37fc8339
 page_title: Escabeche de verduras
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/escabeche-de-verduras.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Escabeche de verduras

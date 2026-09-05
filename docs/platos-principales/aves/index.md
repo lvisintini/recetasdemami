@@ -2,6 +2,7 @@
 slug: index
 uuid: 54b6b335-c605-4e0a-905a-f52cebcc1dc3
 page_title: Aves
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/aves/index.md
 ---
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / Aves
 

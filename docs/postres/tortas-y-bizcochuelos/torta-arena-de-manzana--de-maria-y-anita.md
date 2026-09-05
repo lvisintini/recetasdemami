@@ -2,6 +2,7 @@
 slug: torta-arena-de-manzana--de-maria-y-anita
 uuid: a365d985-ca5b-419a-b85a-9f62c0491b2d
 page_title: Torta arena de manzana (y otras frutas) de Maria y Anita
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-arena-de-manzana--de-maria-y-anita.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta arena de manzana (y otras frutas) de Maria y Anita

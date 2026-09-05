@@ -2,6 +2,7 @@
 slug: tapas-de-empanadas-2
 uuid: eeef1a10-e090-4d12-841a-87c602aba96a
 page_title: Tapas de empanadas 2
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/tapas-de-empanadas-2.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Tapas de empanadas 2

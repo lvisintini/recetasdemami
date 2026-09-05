@@ -2,6 +2,7 @@
 slug: clafoutis-de-manzanas-rojas
 uuid: 98a65110-b928-4db5-b795-e45dab77f7a8
 page_title: Clafoutis de manzanas rojas
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/clafoutis-de-manzanas-rojas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Clafoutis de manzanas rojas

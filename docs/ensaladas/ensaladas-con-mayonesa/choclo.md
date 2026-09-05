@@ -2,6 +2,7 @@
 slug: choclo
 uuid: 4f98dc29-263c-4877-b5d8-0580fab9fa7a
 page_title: Choclo
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/choclo.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Choclo

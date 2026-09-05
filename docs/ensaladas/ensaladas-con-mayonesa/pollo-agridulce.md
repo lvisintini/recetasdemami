@@ -2,6 +2,7 @@
 slug: pollo-agridulce
 uuid: 0fd54fad-8960-48fc-b8fb-10f734d4f1ce
 page_title: Pollo agridulce
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/pollo-agridulce.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Pollo agridulce

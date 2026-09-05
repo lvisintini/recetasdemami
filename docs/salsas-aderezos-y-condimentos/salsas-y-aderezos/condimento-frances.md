@@ -2,6 +2,7 @@
 slug: condimento-frances
 uuid: 577780a0-518c-46e6-aac5-6e6d51d21c55
 page_title: Condimento Frances
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/condimento-frances.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Condimento Frances

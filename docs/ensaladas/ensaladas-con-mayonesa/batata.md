@@ -2,6 +2,7 @@
 slug: batata
 uuid: 397a8d91-5eba-406d-8ea6-a7dfc1747bb1
 page_title: Batata
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/batata.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Batata

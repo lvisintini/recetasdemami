@@ -2,6 +2,7 @@
 slug: ponche-manolete-para-muchos
 uuid: be0ea23f-3a2a-4fa9-887a-890d8807cc31
 page_title: Ponche Manolete para muchos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/ponche-manolete-para-muchos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Ponche Manolete para muchos

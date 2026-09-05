@@ -2,6 +2,7 @@
 slug: sopa-crema-de-calabaza
 uuid: 3e8ce37d-f813-4a7f-b9ce-770221dcb196
 page_title: Sopa crema de calabaza
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/sopa-crema-de-calabaza.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Sopa crema de calabaza

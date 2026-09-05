@@ -2,6 +2,7 @@
 slug: rusa
 uuid: 161f54e8-d5c6-46dc-b17e-8db065a4c5af
 page_title: Rusa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/rusa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Rusa

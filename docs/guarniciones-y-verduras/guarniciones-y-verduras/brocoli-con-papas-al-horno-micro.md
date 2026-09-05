@@ -2,6 +2,7 @@
 slug: brocoli-con-papas-al-horno-micro
 uuid: 31406484-bde8-4276-a4c1-f1594dfe730d
 page_title: Brócoli con papas al horno micro
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/brocoli-con-papas-al-horno-micro.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brócoli con papas al horno micro

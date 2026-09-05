@@ -2,6 +2,7 @@
 slug: clafoutis-de-cereza
 uuid: 819e773a-27cd-4643-a6fc-4bc5b577ec8c
 page_title: Clafoutis de cereza
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tartas-y-postres-de-fruta/clafoutis-de-cereza.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/) / Clafoutis de cereza

@@ -2,6 +2,7 @@
 slug: crema-de-choclos
 uuid: 548b119d-4000-4e63-9be4-72ca74343d93
 page_title: Crema de Choclos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/sopas-y-cremas/sopas-y-cremas/crema-de-choclos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [04. Sopas y Cremas]({{ site.baseurl }}/sopas-y-cremas/) / [Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/sopas-y-cremas/) / Crema de Choclos

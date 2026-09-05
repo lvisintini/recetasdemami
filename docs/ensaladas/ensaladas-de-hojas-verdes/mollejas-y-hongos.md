@@ -2,6 +2,7 @@
 slug: mollejas-y-hongos
 uuid: 521272ad-f56f-488c-9ddd-006d35532860
 page_title: Mollejas y hongos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-hojas-verdes/mollejas-y-hongos.md
 ---
 
 [docs]({{ site.baseurl }}/) / [03. Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/) / Mollejas y hongos

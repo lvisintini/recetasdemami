@@ -2,6 +2,7 @@
 slug: bruschettas-para-muchas-personas
 uuid: 2994e094-9bfb-4f42-9775-841c7a788600
 page_title: Bruschettas para muchas personas.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-para-muchas-personas.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) / Bruschettas para muchas personas.

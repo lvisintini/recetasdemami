@@ -2,6 +2,7 @@
 slug: pina-colada
 uuid: 2b273e7c-db60-420c-b36f-7a3cd6dd2566
 page_title: Piña colada
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/pina-colada.md
 ---
 
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / [Cócteles y tragos]({{ site.baseurl }}/bebidas/cocteles-y-tragos/) / Piña colada

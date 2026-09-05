@@ -2,6 +2,7 @@
 slug: mayonesa-a-bano-maria
 uuid: fd3ddd4a-029c-4e55-bd95-34d1caf5f691
 page_title: Mayonesa a baño maría
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/mayonesa-a-bano-maria.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Mayonesa a baño maría

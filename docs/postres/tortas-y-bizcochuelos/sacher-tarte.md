@@ -2,6 +2,7 @@
 slug: sacher-tarte
 uuid: b942470f-c438-4e92-b4f9-24281401f01b
 page_title: Sacher tarte (torta de chocolate)
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/sacher-tarte.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Sacher tarte (torta de chocolate)

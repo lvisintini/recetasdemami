@@ -2,6 +2,7 @@
 slug: index
 uuid: 8fd2b542-cf02-4060-9d6c-457503c386e7
 page_title: Cócteles y tragos
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/bebidas/cocteles-y-tragos/index.md
 ---
 [docs]({{ site.baseurl }}/) / [01. Bebidas]({{ site.baseurl }}/bebidas/) / Cócteles y tragos
 

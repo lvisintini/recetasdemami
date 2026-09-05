@@ -2,6 +2,7 @@
 slug: turron-de-quaker
 uuid: ae866956-77ab-4a5a-b941-27a584000660
 page_title: Turron de quaker
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/turron-de-quaker.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Turron de quaker

@@ -2,6 +2,7 @@
 slug: alfajores-de-maizena
 uuid: 86bf2b29-0e85-4cde-adc7-80f2a41e7b3f
 page_title: Alfajores de maizena
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/alfajores-de-maizena.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Alfajores de maizena

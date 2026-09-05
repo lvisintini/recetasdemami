@@ -2,6 +2,7 @@
 slug: masa-pasta-frola-de-pocha
 uuid: 8cb4c56b-8c36-4402-93fc-50ffc3942ac1
 page_title: Masa pasta frola de Pocha
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masas-y-bases/masa-pasta-frola-de-pocha.md
 ---
 
 [docs]({{ site.baseurl }}/) / [06. Masas Base]({{ site.baseurl }}/masas-base/) / [Masas y bases (dulces y saladas)]({{ site.baseurl }}/masas-base/masas-y-bases/) / Masa pasta frola de Pocha

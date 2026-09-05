@@ -2,6 +2,7 @@
 slug: carne-a-la-gravy
 uuid: 81f3379e-98ec-466c-b90c-e5e4ae65a38c
 page_title: Carne a la gravy.
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/carne-a-la-gravy.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Carne a la gravy.

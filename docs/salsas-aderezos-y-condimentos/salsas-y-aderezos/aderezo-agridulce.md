@@ -2,6 +2,7 @@
 slug: aderezo-agridulce
 uuid: f5f8899b-17b9-440c-89db-2b2fe016b785
 page_title: Aderezo Agridulce
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsas-y-aderezos/aderezo-agridulce.md
 ---
 
 [docs]({{ site.baseurl }}/) / [05. Salsas, Aderezos y Condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / [Salsas y aderezos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsas-y-aderezos/) / Aderezo Agridulce

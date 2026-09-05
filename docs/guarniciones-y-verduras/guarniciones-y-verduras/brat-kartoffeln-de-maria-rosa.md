@@ -2,6 +2,7 @@
 slug: brat-kartoffeln-de-maria-rosa
 uuid: b1b4db30-bdb5-4c04-b42f-8ed786c10475
 page_title: Brat kartoffeln de Maria Rosa
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/brat-kartoffeln-de-maria-rosa.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Brat kartoffeln de Maria Rosa

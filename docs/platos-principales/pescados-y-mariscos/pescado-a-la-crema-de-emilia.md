@@ -2,6 +2,7 @@
 slug: pescado-a-la-crema-de-emilia
 uuid: 8621b1b9-8071-4af2-9fba-4ddc6f5c0116
 page_title: Pescado a la crema de Emilia
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/pescado-a-la-crema-de-emilia.md
 ---
 
 [docs]({{ site.baseurl }}/) / [07. Platos Principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Pescado a la crema de Emilia

@@ -2,6 +2,7 @@
 slug: toast-hawaii
 uuid: 7f03dcd9-ed11-40c7-ac8c-4e8412bb084f
 page_title: Toast Hawaii
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/toast-hawaii.md
 ---
 
 [docs]({{ site.baseurl }}/) / [02. Entradas y Aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Toast Hawaii

@@ -2,6 +2,7 @@
 slug: spekulatius
 uuid: ff79da46-3d6c-4518-97a8-d49b22ede5cb
 page_title: Spekulatius
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/galletitas-y-masitas/spekulatius.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/) / Spekulatius

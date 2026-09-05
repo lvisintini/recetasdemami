@@ -2,6 +2,7 @@
 slug: frijoles
 uuid: dda3c0ec-8246-418d-b37d-8ec9f9070f57
 page_title: Frijoles
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/guarniciones-y-verduras/frijoles.md
 ---
 
 [docs]({{ site.baseurl }}/) / [08. Guarniciones y Verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/guarniciones-y-verduras/) / Frijoles

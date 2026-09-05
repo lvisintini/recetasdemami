@@ -2,6 +2,7 @@
 slug: torta-de-queso
 uuid: 037a69b5-f0ea-4ec2-83da-27b504dad5cb
 page_title: Torta de queso
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-queso.md
 ---
 
 [docs]({{ site.baseurl }}/) / [10. Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de queso
