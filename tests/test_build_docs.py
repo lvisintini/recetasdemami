@@ -147,3 +147,47 @@ def test_non_index_page_with_slug_index_warns(tmp_path):
     write(s, "oops.md", page("index", "00000000-0000-0000-0000-0000000000a2", "Oops", "{nav}"))
     _, _, warnings = build_docs(str(s), str(tmp_path / "o"), edit_base_url=EDIT_BASE)
     assert any("collide" in w for w in warnings)
+
+
+def test_toc_sorts_numbered_titles_naturally(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000b1", "Home", "{toc}"))
+    write(s, "ten/index.md", page("index", "00000000-0000-0000-0000-0000000000b2", "10. Postres", ""))
+    write(s, "two/index.md", page("index", "00000000-0000-0000-0000-0000000000b3", "2. Entradas", ""))
+    out = tmp_path / "o"
+    build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    toc = read(out, "index.md")
+    assert toc.index("2. Entradas") < toc.index("10. Postres")
+
+
+def test_curation_markers_stripped_from_output_only(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000c1", "Home",
+                              "{toc}\n\n<TODO>"))
+    write(s, "dish.md", page("dish", "00000000-0000-0000-0000-0000000000c2", "Dish",
+                             "Intro\n\n{summary}\n\n### Ingredientes"))
+    out = tmp_path / "o"
+    _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    assert "Intro\n\n### Ingredientes" in read(out, "dish.md")
+    assert "<TODO>" not in read(out, "index.md")
+    assert "{summary}" in read(s, "dish.md")
+    assert [w for w in warnings if "curation markers" in w] == [
+        "2 page(s) still have curation markers ({summary}, <TODO>); stripped from output"
+    ]
+
+
+def test_site_dir_copied_into_output(src, tmp_path):
+    site = tmp_path / "site"
+    write(site, "_config.yml", "baseurl: /x\n")
+    write(site, "_layouts/default.html", "{{ content }}")
+    out = tmp_path / "o"
+    build_docs(str(src), str(out), edit_base_url=EDIT_BASE, site_dir=str(site))
+    assert read(out, "_config.yml") == "baseurl: /x\n"
+    assert read(out, "_layouts/default.html") == "{{ content }}"
+
+
+@pytest.mark.parametrize("target", [".", "..", "sub/out"])
+def test_target_overlapping_source_is_refused(src, target):
+    with pytest.raises(ValueError):
+        build_docs(str(src), str(src / target), edit_base_url=EDIT_BASE)
+    assert (src / "index.md").exists()

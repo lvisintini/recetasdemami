@@ -18,8 +18,13 @@ recursive) and builds a fresh copy into a target directory:
     `custom_edit_url` property injected/overridden with
     edit_base_url + the file's source-relative path -- no template
     placeholder needed, and any pre-existing value is replaced
+  * curation markers ({summary}, <TODO>) left in the sources as manual
+    to-dos are stripped from the output, with one summary warning
+  * when --site-dir is given, that tree (_config.yml, _layouts/, ...) is
+    copied over the output, so Jekyll site files reach the publish branch
   * the target directory is wiped and rebuilt each run, so it's safe to
-    run this repeatedly as the source content changes
+    run this repeatedly as the source content changes; a target that is,
+    contains, or sits inside the source (or site) directory is refused
 
 Front matter is expected at the top of every .md file, e.g.:
 
@@ -31,6 +36,7 @@ Front matter is expected at the top of every .md file, e.g.:
 
 Usage:
     python build_docs.py SOURCE_DIR TARGET_DIR [--nav-sep " / "]
+                         [--edit-base-url URL] [--site-dir DIR]
 """
 
 from __future__ import annotations
@@ -53,6 +59,13 @@ UUID_LINK_RE = re.compile(r"\[([^\]]*)\]\(\s*(" + UUID_PATTERN + r")\s*\)")
 # Front matter block: from the leading "---" line to the closing "---" line,
 # inclusive. Captured as a whole so we can re-emit it byte-for-byte.
 FRONTMATTER_RE = re.compile(r"^---[ \t]*\n.*?\n---[ \t]*\n?", re.DOTALL)
+
+# Placeholders left in the sources as manual curation to-dos. Kept in the
+# templates, removed from the output (with the blank line that follows).
+CURATION_MARKERS = ("{summary}", "<TODO>")
+CURATION_RE = re.compile(
+    "(?:" + "|".join(re.escape(m) for m in CURATION_MARKERS) + r")[ \t]*\n?(?:[ \t]*\n)?"
+)
 
 
 # --------------------------------------------------------------------------
@@ -103,6 +116,11 @@ def split_frontmatter(text: str) -> tuple[str, dict, str]:
     return raw, data, text[m.end():]
 
 
+def natural_key(text: str) -> list:
+    """Sort key that compares digit runs as numbers: '2. B' < '10. A'."""
+    return [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", text)]
+
+
 # --------------------------------------------------------------------------
 # Pass 1 (recursive, depth-first): scan the source tree
 # --------------------------------------------------------------------------
@@ -144,9 +162,9 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
     if node.index_page is None:
         warnings.append(f"missing index.md in directory: {node.rel_path or '.'}")
 
-    node.pages.sort(key=lambda p: p.title.lower())
+    node.pages.sort(key=lambda p: natural_key(str(p.title)))
     node.subdirs.sort(
-        key=lambda d: (d.index_page.title if d.index_page else d.rel_path.name).lower()
+        key=lambda d: natural_key(str(d.index_page.title if d.index_page else d.rel_path.name))
     )
     return node
 
@@ -263,6 +281,11 @@ def resolve_uuid_links(body: str, page: Page, uuid_map: dict, warnings: list) ->
     return UUID_LINK_RE.sub(_sub, body)
 
 
+def strip_curation_markers(body: str) -> tuple[str, int]:
+    """Remove manual to-do markers from the output body; return (body, count)."""
+    return CURATION_RE.subn("", body)
+
+
 # --------------------------------------------------------------------------
 # custom_edit_url -- "Improve this page" front-matter property
 #
@@ -282,10 +305,12 @@ def compute_edit_url(page: Page, edit_base_url: str) -> str:
 
 def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
                  uuid_map: dict, warnings: list, nav_sep: str,
-                 edit_base_url: str | None) -> None:
+                 edit_base_url: str | None) -> bool:
+    """Render one page; return True if it still had curation markers."""
     text = page.src_path.read_text(encoding="utf-8")
     raw_fm, fm_dict, body = split_frontmatter(text)
 
+    body, marker_count = strip_curation_markers(body)
     body = resolve_uuid_links(body, page, uuid_map, warnings)
     body = body.replace("{nav}", build_nav(page, dir_node, is_index, nav_sep))
 
@@ -310,19 +335,22 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
     out_path = target_root / page.rel_path
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(raw_fm + body, encoding="utf-8")
+    return marker_count > 0
 
 
 def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
-                warnings: list, nav_sep: str, edit_base_url: str | None) -> None:
+                warnings: list, nav_sep: str, edit_base_url: str | None) -> int:
+    """Render a directory tree; return how many pages had curation markers."""
     out_dir = target_root / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    pending = 0
     if dir_node.index_page:
-        render_page(dir_node.index_page, dir_node, True, target_root, uuid_map,
-                    warnings, nav_sep, edit_base_url)
+        pending += render_page(dir_node.index_page, dir_node, True, target_root,
+                               uuid_map, warnings, nav_sep, edit_base_url)
     for page in dir_node.pages:
-        render_page(page, dir_node, False, target_root, uuid_map, warnings,
-                    nav_sep, edit_base_url)
+        pending += render_page(page, dir_node, False, target_root, uuid_map,
+                               warnings, nav_sep, edit_base_url)
 
     # copy non-markdown files (images, etc.) through unchanged
     for entry in dir_node.src_path.iterdir():
@@ -330,7 +358,34 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
             shutil.copy2(entry, out_dir / entry.name)
 
     for sub in dir_node.subdirs:
-        render_dir(sub, target_root, uuid_map, warnings, nav_sep, edit_base_url)  # <-- recursion
+        pending += render_dir(sub, target_root, uuid_map, warnings, nav_sep,
+                              edit_base_url)  # <-- recursion
+    return pending
+
+
+# --------------------------------------------------------------------------
+# Site files (_config.yml, _layouts/, ...) copied over the output
+# --------------------------------------------------------------------------
+
+def copy_site_dir(site_root: Path, target_root: Path, warnings: list) -> None:
+    for entry in sorted(site_root.rglob("*")):
+        if not entry.is_file():
+            continue
+        dest = target_root / entry.relative_to(site_root)
+        if dest.exists():
+            warnings.append(
+                f"site file overrides a generated file: {dest.relative_to(target_root)}"
+            )
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(entry, dest)
+
+
+def check_target(protected: Path, target_root: Path) -> None:
+    """Refuse a target that is, contains, or sits inside a protected dir."""
+    if protected.is_relative_to(target_root) or target_root.is_relative_to(protected):
+        raise ValueError(
+            f"target {target_root} overlaps {protected}; refusing to wipe it"
+        )
 
 
 # --------------------------------------------------------------------------
@@ -338,12 +393,17 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
 # --------------------------------------------------------------------------
 
 def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
-               edit_base_url: str | None = None):
+               edit_base_url: str | None = None, site_dir: str | None = None):
     source_root = Path(source_dir).resolve()
     target_root = Path(target_dir).resolve()
+    site_root = Path(site_dir).resolve() if site_dir else None
 
     if not source_root.is_dir():
         raise NotADirectoryError(f"source directory not found: {source_root}")
+    if site_root and not site_root.is_dir():
+        raise NotADirectoryError(f"site directory not found: {site_root}")
+    for protected in filter(None, (source_root, site_root)):
+        check_target(protected, target_root)
 
     warnings: list[str] = []
     uuid_map: dict[str, Page] = {}
@@ -355,7 +415,15 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
         shutil.rmtree(target_root)
     target_root.mkdir(parents=True, exist_ok=True)
 
-    render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
+    pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
+    if pending:
+        warnings.append(
+            f"{pending} page(s) still have curation markers "
+            f"({', '.join(CURATION_MARKERS)}); stripped from output"
+        )
+
+    if site_root:
+        copy_site_dir(site_root, target_root, warnings)
 
     if warnings:
         print(f"Build finished with {len(warnings)} warning(s):", file=sys.stderr)
@@ -384,8 +452,16 @@ def main():
             "overrides any custom_edit_url already present in the source file."
         ),
     )
+    parser.add_argument(
+        "--site-dir", default=None,
+        help=(
+            "Directory of Jekyll site files (_config.yml, _layouts/, ...) copied "
+            "over the output after the build, e.g. 'site'."
+        ),
+    )
     args = parser.parse_args()
-    build_docs(args.source, args.target, args.nav_sep, args.edit_base_url)
+    build_docs(args.source, args.target, args.nav_sep, args.edit_base_url,
+               args.site_dir)
 
 
 if __name__ == "__main__":

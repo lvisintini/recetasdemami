@@ -9,7 +9,10 @@ on:
     branches: [main]            # source branch holding the doc content
     paths:
       - "docs/**"
+      - "site/**"
       - "scripts/build_docs.py"
+      - "tests/**"
+      - "requirements*.txt"
       - ".github/workflows/build-and-publish-docs.yml"
   workflow_dispatch: {}
 
@@ -23,6 +26,7 @@ concurrency:
 env:
   SCRIPT_PATH: scripts/build_docs.py
   SOURCE_DIR: docs
+  SITE_DIR: site                # Jekyll site files (_config.yml, _layouts/) copied over the output
   PUBLISH_BRANCH: gh-pages
   NAV_SEPARATOR: " / "
 
@@ -52,6 +56,7 @@ jobs:
             "source/${{ env.SOURCE_DIR }}" \
             "build_output" \
             --nav-sep "${{ env.NAV_SEPARATOR }}" \
+            --site-dir "source/${{ env.SITE_DIR }}" \
             --edit-base-url "https://github.com/${{ github.repository }}/edit/${{ github.ref_name }}/${{ env.SOURCE_DIR }}"
 
       - name: Publish to target branch
