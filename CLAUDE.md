@@ -53,10 +53,11 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   because the publish uses `force_orphan: true`, which wipes anything added to gh-pages by hand.
 
 ## Gotchas
-- The site uses GitHub's default no-theme setup, which knows nothing about
-  `custom_edit_url`. `site/_layouts/default.html` renders it. GitHub Pages enables
-  `jekyll-default-layout`, which applies `default` to pages without `layout:` (verified
-  on the live site, so the script does not inject `layout:`).
+- The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`), which knows nothing
+  about `custom_edit_url`. `site/_layouts/page.html` wraps the theme's `default` layout and
+  renders the edit link; `_config.yml` `defaults:` applies `layout: page` to every page, so
+  the script does not inject `layout:`. Don't override the theme's `default.html`; that
+  drops its CSS. Page `<title>` comes from the first heading (`jekyll-titles-from-headings`).
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
   makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
   `gh-pages` at `/ (root)`.

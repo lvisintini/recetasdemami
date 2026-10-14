@@ -13,6 +13,6 @@ python scripts/build_docs.py docs build_output --site-dir site --edit-base-url "
 
 ## Setup
 1. Put your markdown source in `docs/` (or change `SOURCE_DIR` in the workflow), and Jekyll
-   site files (`_config.yml`, `_layouts/`) in `site/`.
+   site files (`_config.yml` with the theme, `_layouts/page.html`) in `site/`.
 2. Settings > Pages: serve from the `gh-pages` branch (or change `PUBLISH_BRANCH`).
 3. Push to `main`; the Action tests, builds, and publishes.
