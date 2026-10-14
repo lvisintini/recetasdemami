@@ -57,6 +57,9 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   `custom_edit_url`. `site/_layouts/default.html` renders it. GitHub Pages enables
   `jekyll-default-layout`, which should apply `default` to pages without `layout:`
   (unverified on the live site).
+- `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
+  makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
+  `gh-pages` at `/ (root)`.
 - `scan_dir` recurses into every subdirectory of the source dir (including dot/underscore
   dirs), so keep non-doc folders outside `docs/`.
 - `legacy/` holds the original source text (`Recetas.md`, `add.txt`) that `docs/` was

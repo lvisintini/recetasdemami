@@ -66,5 +66,6 @@ jobs:
           publish_dir: ./build_output
           publish_branch: ${{ env.PUBLISH_BRANCH }}
           force_orphan: true
+          enable_jekyll: true   # otherwise a .nojekyll is added and Pages serves raw .md (404 at /)
           user_name: "github-actions[bot]"
           user_email: "github-actions[bot]@users.noreply.github.com"
