@@ -42,7 +42,8 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   (by their index `page_title`), each followed by its own nested list.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
-  value. Templates never contain it. Front matter is only re-serialized (PyYAML, key
+  value. Templates never contain it. The same step sets `title` from `page_title` (unless
+  `title` exists) because the theme's `<title>` reads `title`. Front matter is only re-serialized (PyYAML, key
   order kept, comments lost) when the flag is set; otherwise it passes through untouched.
 - **Warnings, not failures**: missing/duplicate uuid, missing index.md, unresolved uuid
   references (left untouched in output), non-index page with `slug: index`.
@@ -57,7 +58,8 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   about `custom_edit_url`. `site/_layouts/page.html` wraps the theme's `default` layout and
   renders the edit link; `_config.yml` `defaults:` applies `layout: page` to every page, so
   the script does not inject `layout:`. Don't override the theme's `default.html`; that
-  drops its CSS. Page `<title>` comes from the first heading (`jekyll-titles-from-headings`).
+  drops its CSS. `jekyll-titles-from-headings` can't supply page titles because `{nav}`
+  comes before the first heading, hence the injected `title`.
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
   makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
   `gh-pages` at `/ (root)`.

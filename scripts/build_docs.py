@@ -322,6 +322,9 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
     if edit_base_url:
         # override in place (or append) -- computed value always wins
         fm_dict["custom_edit_url"] = compute_edit_url(page, edit_base_url)
+        # the theme's <title> (jekyll-seo-tag) reads `title`, not `page_title`
+        if "title" not in fm_dict and "page_title" in fm_dict:
+            fm_dict["title"] = fm_dict["page_title"]
         new_yaml = yaml.safe_dump(
             fm_dict, sort_keys=False, default_flow_style=False, allow_unicode=True
         )

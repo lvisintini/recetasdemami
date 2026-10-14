@@ -121,11 +121,23 @@ def test_edit_url_always_injected_and_overrides_existing(built):
     assert f"custom_edit_url: {EDIT_BASE}/index.md" in read(out, "index.md")
 
 
+def test_title_copied_from_page_title_unless_already_set(built, tmp_path):
+    out, _ = built
+    assert "\ntitle: Installation\n" in read(out, "getting-started/installation.md")
+    s = tmp_path / "src_title"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-000000000001", "Home",
+                              "{nav}", extra="title: Custom\n"))
+    build_docs(str(s), str(tmp_path / "out_title"), edit_base_url=EDIT_BASE)
+    fm = read(tmp_path / "out_title", "index.md")
+    assert "\ntitle: Custom\n" in fm and "title: Home" not in fm.replace("page_title", "")
+
+
 def test_front_matter_untouched_without_edit_base_url(src, tmp_path):
     out = tmp_path / "out2"
     build_docs(str(src), str(out))
     assert "custom_edit_url: https://example.com/stale" in read(out, "getting-started/config.md")
     assert "custom_edit_url" not in read(out, "getting-started/installation.md")
+    assert "\ntitle:" not in read(out, "getting-started/installation.md")
 
 
 def test_non_markdown_files_copied(built):
