@@ -188,6 +188,32 @@ def test_curation_markers_stripped_from_output_only(tmp_path):
     ]
 
 
+def test_sidebar_include_two_levels_collapsible(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000d1", "Home", "{nav}"))
+    write(s, "ten/index.md", page("index", "00000000-0000-0000-0000-0000000000d2", "10. Postres", ""))
+    write(s, "two/index.md", page("index", "00000000-0000-0000-0000-0000000000d3",
+                                  "2. Salsas & Dips", ""))
+    write(s, "two/sub/index.md", page("index", "00000000-0000-0000-0000-0000000000d4", "Dips", ""))
+    write(s, "two/sub/deep.md", page("deep", "00000000-0000-0000-0000-0000000000d5", "Deep", ""))
+    write(s, "two/flan.md", page("flan", "00000000-0000-0000-0000-0000000000d6", "Flan", ""))
+    out = tmp_path / "o"
+    build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    toc = read(out, "_includes/site-toc.html")
+    assert toc.startswith("{% assign here = page.url | remove: '.html' %}\n<ul class=\"site-toc\">")
+    assert toc.index("2. Salsas &amp; Dips") < toc.index("10. Postres")  # natural, escaped
+    assert "Deep" not in toc  # level 3 left out
+    # directory with children folds; open + current by URL prefix
+    assert "{% assign p = here | slice: 0, 5 %}" in toc
+    assert ("<li><details{% if p == '/two/' %} open{% endif %}><summary>"
+            "<a href=\"{{ site.baseurl }}/two/\"{% if p == '/two/' %} class=\"current\"{% endif %}>"
+            in toc)
+    # level-2 page: exact match; level-2 dir without shown children: plain link
+    assert "<li><a href=\"{{ site.baseurl }}/two/flan\"{% if here == '/two/flan' %}" in toc
+    assert "<li><a href=\"{{ site.baseurl }}/two/sub/\"" in toc
+    assert "<li><a href=\"{{ site.baseurl }}/ten/\"" in toc  # empty dir: no <details>
+
+
 def test_site_dir_copied_into_output(src, tmp_path):
     site = tmp_path / "site"
     write(site, "_config.yml", "baseurl: /x\n")

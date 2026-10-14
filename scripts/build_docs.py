@@ -20,6 +20,8 @@ recursive) and builds a fresh copy into a target directory:
     placeholder needed, and any pre-existing value is replaced
   * curation markers ({summary}, <TODO>) left in the sources as manual
     to-dos are stripped from the output, with one summary warning
+  * a sidebar index of the tree, SIDEBAR_DEPTH levels down, is written to
+    _includes/site-toc.html for the site layout to include
   * when --site-dir is given, that tree (_config.yml, _layouts/, ...) is
     copied over the output, so Jekyll site files reach the publish branch
   * the target directory is wiped and rebuilt each run, so it's safe to
@@ -42,6 +44,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import html
 import re
 import shutil
 import sys
@@ -264,6 +267,60 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
 
 
 # --------------------------------------------------------------------------
+# Sidebar index: _includes/site-toc.html (recursive, depth-limited)
+#
+# The tree SIDEBAR_DEPTH levels down as nested HTML lists; a directory with
+# children folds into <details>. Liquid in the output marks the page being
+# rendered: directories match by URL prefix (open + class="current" on the
+# whole trail), regular pages by exact URL. `here` is page.url sans ".html".
+# --------------------------------------------------------------------------
+
+SIDEBAR_DEPTH = 2
+SIDEBAR_INCLUDE = Path("_includes") / "site-toc.html"
+
+
+def sidebar_entry(page: Page, children: list[str]) -> list[str]:
+    url = page_url(page)
+    if url.endswith("/"):  # directory: prefix match
+        lines = [f"{{% assign p = here | slice: 0, {len(url)} %}}"]
+        cond = f"{{% if p == '{url}' %}}"
+    else:
+        lines = []
+        cond = f"{{% if here == '{url}' %}}"
+    link = (f'<a href="{site_link(page)}"{cond} class="current"{{% endif %}}>'
+            f"{html.escape(str(page.title))}</a>")
+    if not children:
+        return lines + [f"<li>{link}</li>"]
+    return lines + [f"<li><details{cond} open{{% endif %}}><summary>{link}</summary>",
+                    *children, "</details></li>"]
+
+
+def build_sidebar(dir_node: Dir, depth: int = SIDEBAR_DEPTH) -> list[str]:
+    if depth <= 0:
+        return []
+    lines = []
+    for page in dir_node.pages:
+        lines.extend(sidebar_entry(page, []))
+    for sub in dir_node.subdirs:
+        if sub.index_page:
+            lines.extend(sidebar_entry(sub.index_page,
+                                       build_sidebar(sub, depth - 1)))  # <-- recursion
+    return ["<ul>", *lines, "</ul>"] if lines else []
+
+
+def write_sidebar(tree: Dir, target_root: Path) -> None:
+    out_path = target_root / SIDEBAR_INCLUDE
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    lines = build_sidebar(tree)
+    if lines:
+        lines[0] = '<ul class="site-toc">'
+    out_path.write_text(
+        "{% assign here = page.url | remove: '.html' %}\n" + "\n".join(lines) + "\n",
+        encoding="utf-8",
+    )
+
+
+# --------------------------------------------------------------------------
 # uuid reference resolution in page bodies
 # --------------------------------------------------------------------------
 
@@ -419,6 +476,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     target_root.mkdir(parents=True, exist_ok=True)
 
     pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
+    write_sidebar(tree, target_root)
     if pending:
         warnings.append(
             f"{pending} page(s) still have curation markers "

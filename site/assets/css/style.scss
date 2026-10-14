@@ -1,0 +1,76 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+// Wider sidebar (fits the site title on one line) that scrolls on its own,
+// holding the site index, the edit link and the credits. See _layouts/default.html.
+
+.wrapper {
+  width:auto;
+  max-width:1080px;
+}
+
+header {
+  width:320px;
+  top:50px;
+  bottom:0;
+  overflow-y:auto;
+  padding-bottom:30px;
+}
+
+section {
+  float:none;
+  width:auto;
+  margin-left:360px;
+}
+
+.site-index summary {
+  cursor:pointer;
+  color:#222;
+  font-weight:bold;
+  margin-bottom:6px;
+}
+
+.site-toc, .site-toc ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+
+.site-toc ul {
+  padding-left:18px;
+  margin:2px 0 6px;
+}
+
+.site-toc li {
+  margin:2px 0;
+}
+
+.site-toc summary {
+  cursor:pointer;
+}
+
+.site-toc a.current {
+  color:#222;
+  font-weight:bold;
+}
+
+.edit-link {
+  margin-top:20px;
+}
+
+@media print, screen and (max-width: 960px) {
+  header {
+    padding-right:0;
+    overflow:visible;
+  }
+
+  header .site-toc, header .site-toc ul {
+    position:static;
+  }
+
+  section {
+    margin-left:0;
+  }
+}

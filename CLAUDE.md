@@ -40,6 +40,10 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - **{toc}**: per directory, regular pages first (natural sort by `page_title`,
   case-insensitive, digit runs compared as numbers so `2.` < `10.`), then subdirectories
   (by their index `page_title`), each followed by its own nested list.
+- **Sidebar index**: every build writes `_includes/site-toc.html`, the same ordering
+  `SIDEBAR_DEPTH` (2) levels down as HTML. Directories with children fold into `<details>`;
+  Liquid in the include opens the current section and marks `class="current"` (directories
+  by URL prefix, pages by exact URL). The site layout includes it in the sidebar.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
@@ -54,12 +58,13 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   because the publish uses `force_orphan: true`, which wipes anything added to gh-pages by hand.
 
 ## Gotchas
-- The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`), which knows nothing
-  about `custom_edit_url`. `site/_layouts/page.html` wraps the theme's `default` layout and
-  renders the edit link; `_config.yml` `defaults:` applies `layout: page` to every page, so
-  the script does not inject `layout:`. Don't override the theme's `default.html`; that
-  drops its CSS. `jekyll-titles-from-headings` can't supply page titles because `{nav}`
-  comes before the first heading, hence the injected `title`.
+- The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`).
+  `site/_layouts/default.html` is a copy of the theme's v0.2.0 layout with the sidebar
+  index, the edit link and the credits moved into `<header>` (the sidebar); keep it in step
+  with the theme if the theme changes. `site/assets/css/style.scss` imports the theme's CSS
+  and widens/scrolls the sidebar. `_config.yml` `defaults:` applies `layout: default`, so the
+  script does not inject `layout:`. `jekyll-titles-from-headings` can't supply page titles
+  because `{nav}` comes before the first heading, hence the injected `title`.
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
   makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
   `gh-pages` at `/ (root)`.
