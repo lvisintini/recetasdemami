@@ -55,8 +55,8 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 ## Gotchas
 - The site uses GitHub's default no-theme setup, which knows nothing about
   `custom_edit_url`. `site/_layouts/default.html` renders it. GitHub Pages enables
-  `jekyll-default-layout`, which should apply `default` to pages without `layout:`
-  (unverified on the live site).
+  `jekyll-default-layout`, which applies `default` to pages without `layout:` (verified
+  on the live site, so the script does not inject `layout:`).
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
   makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
   `gh-pages` at `/ (root)`.
@@ -66,10 +66,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   migrated from. The migration scripts were removed; `add.txt` still has recipes to add.
 
 ## Open items
-- Decide whether the script should also inject `layout: default` into front matter (likely
-  unnecessary if `jekyll-default-layout` applies it; check the live site first).
 - Ordering is by title only (natural sort); a `weight`/`order` front matter field is not implemented.
-- Confirm the edit link renders on the live site now that `site/` is published.
 - Curation workflow: make the manual pass over recipes more agile, e.g. a report/checklist
   of pages still containing curation markers or empty Ingredientes, or a `curated: true`
   front-matter flag shown on the site.
