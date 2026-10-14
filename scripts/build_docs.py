@@ -21,9 +21,10 @@ recursive) and builds a fresh copy into a target directory:
     placeholder needed, and any pre-existing value is replaced
   * curation markers ({summary}, <TODO>) left in the sources as manual
     to-dos are stripped from the output, with one summary warning
-  * every directory gets a flat sidebar list of its pages and subdirectories,
-    written to _includes/site-toc/<dir>/toc.html for the site layout to
-    include by page.dir
+  * every directory gets flat sidebar lists written to _includes/site-toc/<dir>/
+    for the site layout to include by page.dir: toc.html (its pages and
+    subdirectories, for its regular pages) and index-toc.html (its parent's
+    list with it expanded, for its index page)
   * when --site-dir is given, that tree (_config.yml, _layouts/, ...) is
     copied over the output, so Jekyll site files reach the publish branch
   * the target directory is wiped and rebuilt each run, so it's safe to
@@ -269,39 +270,55 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
 
 
 # --------------------------------------------------------------------------
-# Sidebar index: _includes/site-toc/<dir>/toc.html (recursive, one per dir)
+# Sidebar index: _includes/site-toc/<dir>/{toc,index-toc}.html (recursive)
 #
-# Each directory gets a flat list of its own pages, then its subdirectories
-# (in bold), under a heading linking the directory's index. The layout
-# includes the file matching page.dir, so a page's sidebar lists what sits
-# next to it (an index page lists its own directory). Liquid marks the page
-# being rendered by exact URL; `here` is page.url sans ".html".
+# Each directory gets two flat lists (pages, then subdirectories in bold),
+# under a heading linking the listed directory's index. The layout picks one
+# by page.dir:
+#   * toc.html, for regular pages: the directory's own children, i.e. the
+#     page's siblings. Liquid marks the page being rendered by exact URL;
+#     `here` is page.url sans ".html".
+#   * index-toc.html, for the directory's index page: the parent's list with
+#     this directory marked current and its own children listed right under
+#     it (the root has no parent, so it gets its own list).
 # --------------------------------------------------------------------------
 
 SIDEBAR_DIR = Path("_includes") / "site-toc"
+CURRENT_PAGE = "{{% if here == '{}' %}} class=\"current\"{{% endif %}}"
 
 
 def link_html(page: Page, attrs: str = "") -> str:
     return f'<a href="{site_link(page)}"{attrs}>{html.escape(str(page.title))}</a>'
 
 
-def build_sidebar(dir_node: Dir) -> list[str]:
+def sidebar_list(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
+    items = [f"<li>{link_html(p, CURRENT_PAGE.format(page_url(p)))}</li>"
+             for p in dir_node.pages]
+    for sub in dir_node.subdirs:
+        if sub.index_page is None:
+            continue
+        if sub is open_dir:
+            items += [f'<li><strong>{link_html(sub.index_page, " class=\"current\"")}</strong>',
+                      *sidebar_list(sub), "</li>"]  # <-- recursion, one level
+        else:
+            items.append(f"<li><strong>{link_html(sub.index_page)}</strong></li>")
+    return ['<ul class="site-toc">', *items, "</ul>"] if items else []
+
+
+def build_sidebar(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
     lines = ["{% assign here = page.url | remove: '.html' %}"]
     if dir_node.index_page:
         lines.append(f'<p class="site-toc-title">{link_html(dir_node.index_page)}</p>')
-    current = "{{% if here == '{}' %}} class=\"current\"{{% endif %}}"
-    items = [f"<li>{link_html(p, current.format(page_url(p)))}</li>" for p in dir_node.pages]
-    items += [f"<li><strong>{link_html(sub.index_page)}</strong></li>"
-              for sub in dir_node.subdirs if sub.index_page]
-    if items:
-        lines += ['<ul class="site-toc">', *items, "</ul>"]
-    return lines
+    return lines + sidebar_list(dir_node, open_dir)
 
 
 def write_sidebar(dir_node: Dir, target_root: Path) -> None:
-    out_path = target_root / SIDEBAR_DIR / dir_node.rel_path / "toc.html"
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    out_path.write_text("\n".join(build_sidebar(dir_node)) + "\n", encoding="utf-8")
+    out_dir = target_root / SIDEBAR_DIR / dir_node.rel_path
+    out_dir.mkdir(parents=True, exist_ok=True)
+    own = build_sidebar(dir_node)
+    in_parent = build_sidebar(dir_node.parent, dir_node) if dir_node.parent else own
+    (out_dir / "toc.html").write_text("\n".join(own) + "\n", encoding="utf-8")
+    (out_dir / "index-toc.html").write_text("\n".join(in_parent) + "\n", encoding="utf-8")
     for sub in dir_node.subdirs:
         write_sidebar(sub, target_root)  # <-- recursion
 

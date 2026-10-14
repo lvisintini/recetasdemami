@@ -195,7 +195,7 @@ def test_curation_markers_stripped_from_output_only(tmp_path):
     ]
 
 
-def test_sidebar_include_per_directory_flat_list(tmp_path):
+def build_sidebar_tree(tmp_path) -> Path:
     s = tmp_path / "s"
     write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000d1", "Home", "{nav}"))
     write(s, "ten/index.md", page("index", "00000000-0000-0000-0000-0000000000d2", "10. Postres", ""))
@@ -206,8 +206,12 @@ def test_sidebar_include_per_directory_flat_list(tmp_path):
     write(s, "two/flan.md", page("flan", "00000000-0000-0000-0000-0000000000d6", "Flan", ""))
     out = tmp_path / "o"
     build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
-    inc = out / "_includes/site-toc"
-    assert sorted(f.relative_to(inc).as_posix() for f in inc.rglob("*.html")) == [
+    return out / "_includes/site-toc"
+
+
+def test_sidebar_include_per_directory_flat_list(tmp_path):
+    inc = build_sidebar_tree(tmp_path)
+    assert sorted(f.relative_to(inc).as_posix() for f in inc.rglob("toc.html")) == [
         "ten/toc.html", "toc.html", "two/sub/toc.html", "two/toc.html"]
     root = read(inc, "toc.html")
     assert root.startswith("{% assign here = page.url | remove: '.html' %}\n"
@@ -224,6 +228,22 @@ def test_sidebar_include_per_directory_flat_list(tmp_path):
     assert '<li><strong><a href="{{ site.baseurl }}/two/sub/">Dips</a></strong></li>' in two
     assert "Deep" not in two
     assert "<ul" not in read(inc, "ten/toc.html")  # empty directory: heading only
+
+
+def test_sidebar_index_page_lists_parent_with_own_section_expanded(tmp_path):
+    inc = build_sidebar_tree(tmp_path)
+    two = read(inc, "two/index-toc.html")
+    assert '<p class="site-toc-title"><a href="{{ site.baseurl }}/">Home</a></p>' in two
+    assert ('<li><strong><a href="{{ site.baseurl }}/two/" class="current">'
+            "2. Salsas &amp; Dips</a></strong>\n<ul class=\"site-toc\">") in two
+    # own children right under it, before the next sibling; no grandchildren
+    assert two.index("/two/") < two.index("/two/flan") < two.index("/two/sub/") \
+        < two.index("/ten/")
+    assert "Deep" not in two
+    sub = read(inc, "two/sub/index-toc.html")
+    assert '<a href="{{ site.baseurl }}/two/sub/" class="current">Dips</a>' in sub
+    assert "/two/sub/deep" in sub and "10. Postres" not in sub
+    assert read(inc, "index-toc.html") == read(inc, "toc.html")  # root: no parent
 
 
 def test_site_dir_copied_into_output(src, tmp_path):

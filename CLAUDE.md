@@ -40,12 +40,15 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - **{toc}**: per directory, regular pages first (natural sort by `page_title`,
   case-insensitive, digit runs compared as numbers so `2.` < `10.`), then subdirectories
   (by their index `page_title`, in **bold**), each followed by its own nested list.
-- **Sidebar index**: every build writes one `_includes/site-toc/<dir>/toc.html` per
-  directory: a heading linking the directory's index, then a flat, unindented bulleted list
-  of only that directory's direct children (same ordering as `{toc}`, subdirectories in
-  bold). Never collapsible, mobile included. The layout includes the one matching
-  `page.dir`, so a recipe lists its siblings and an index page lists its own directory.
-  Liquid marks the current page with `class="current"` (exact URL).
+- **Sidebar index**: flat, unindented bulleted lists (same ordering as `{toc}`,
+  subdirectories in bold) under a heading linking the listed directory's index. Never
+  collapsible, mobile included. Every build writes two per directory to
+  `_includes/site-toc/<dir>/`, and the layout picks one by `page.dir` / `page.name`:
+  - `toc.html` (regular pages): the directory's direct children, i.e. the page's siblings;
+    Liquid marks the current page with `class="current"` (exact URL).
+  - `index-toc.html` (the directory's index page): the parent's list with this directory
+    marked current and its own direct children listed right under it. The root has no
+    parent, so it gets its own list.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
