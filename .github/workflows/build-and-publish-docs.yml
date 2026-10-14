@@ -1,0 +1,65 @@
+# Reads markdown docs from the branch that triggered the run, builds them with
+# scripts/build_docs.py, and pushes the result to PUBLISH_BRANCH.
+# GitHub Pages must be configured (Settings > Pages) to serve from PUBLISH_BRANCH.
+
+name: Build & Publish Docs
+
+on:
+  push:
+    branches: [main]            # source branch holding the doc content
+    paths:
+      - "docs/**"
+      - "scripts/build_docs.py"
+      - ".github/workflows/build-and-publish-docs.yml"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write               # needed to push to the publish branch
+
+concurrency:
+  group: publish-docs
+  cancel-in-progress: true
+
+env:
+  SCRIPT_PATH: scripts/build_docs.py
+  SOURCE_DIR: docs
+  PUBLISH_BRANCH: gh-pages
+  NAV_SEPARATOR: " / "
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source branch
+        uses: actions/checkout@v4
+        with:
+          path: source
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install -r source/requirements-dev.txt
+
+      - name: Run tests
+        run: python -m pytest source/tests -q
+
+      - name: Build docs
+        run: |
+          python "source/${{ env.SCRIPT_PATH }}" \
+            "source/${{ env.SOURCE_DIR }}" \
+            "build_output" \
+            --nav-sep "${{ env.NAV_SEPARATOR }}" \
+            --edit-base-url "https://github.com/${{ github.repository }}/edit/${{ github.ref_name }}/${{ env.SOURCE_DIR }}"
+
+      - name: Publish to target branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build_output
+          publish_branch: ${{ env.PUBLISH_BRANCH }}
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
