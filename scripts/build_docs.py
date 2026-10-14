@@ -7,7 +7,8 @@ Walks a source tree of Jekyll/GitHub-Pages markdown docs (depth-first,
 recursive) and builds a fresh copy into a target directory:
 
   * every directory's index.md gets a {toc} block replaced with a
-    hierarchical (nested) list of links to every page under it
+    hierarchical (nested) list of links to every page under it, with
+    directories in bold
   * every file's {nav} placeholder is replaced with a breadcrumb trail
     ("Home / Section / Current Page", last item not linked)
   * in-body references like  [page_link](14179fca-0bc7-4181-ba7d-7cdb16fd296c)
@@ -20,8 +21,9 @@ recursive) and builds a fresh copy into a target directory:
     placeholder needed, and any pre-existing value is replaced
   * curation markers ({summary}, <TODO>) left in the sources as manual
     to-dos are stripped from the output, with one summary warning
-  * a sidebar index of the tree, SIDEBAR_DEPTH levels down, is written to
-    _includes/site-toc.html for the site layout to include
+  * every directory gets a flat sidebar list of its pages and subdirectories,
+    written to _includes/site-toc/<dir>/toc.html for the site layout to
+    include by page.dir
   * when --site-dir is given, that tree (_config.yml, _layouts/, ...) is
     copied over the output, so Jekyll site files reach the publish branch
   * the target directory is wiped and rebuilt each run, so it's safe to
@@ -257,67 +259,51 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
         lines.append(f"{pad}- [{page.title}]({site_link(page)})")
 
     for sub in dir_node.subdirs:
-        if sub.index_page:
-            lines.append(f"{pad}- [{sub.index_page.title}]({site_link(sub.index_page)})")
+        if sub.index_page:  # directories (non-leaf entries) in bold
+            lines.append(f"{pad}- **[{sub.index_page.title}]({site_link(sub.index_page)})**")
         else:
-            lines.append(f"{pad}- {sub.rel_path.name}")
+            lines.append(f"{pad}- **{sub.rel_path.name}**")
         lines.extend(build_toc(sub, depth + 1))  # <-- recursion
 
     return lines
 
 
 # --------------------------------------------------------------------------
-# Sidebar index: _includes/site-toc.html (recursive, depth-limited)
+# Sidebar index: _includes/site-toc/<dir>/toc.html (recursive, one per dir)
 #
-# The tree SIDEBAR_DEPTH levels down as nested HTML lists; a directory with
-# children folds into <details>. Liquid in the output marks the page being
-# rendered: directories match by URL prefix (open + class="current" on the
-# whole trail), regular pages by exact URL. `here` is page.url sans ".html".
+# Each directory gets a flat list of its own pages, then its subdirectories
+# (in bold), under a heading linking the directory's index. The layout
+# includes the file matching page.dir, so a page's sidebar lists what sits
+# next to it (an index page lists its own directory). Liquid marks the page
+# being rendered by exact URL; `here` is page.url sans ".html".
 # --------------------------------------------------------------------------
 
-SIDEBAR_DEPTH = 2
-SIDEBAR_INCLUDE = Path("_includes") / "site-toc.html"
+SIDEBAR_DIR = Path("_includes") / "site-toc"
 
 
-def sidebar_entry(page: Page, children: list[str]) -> list[str]:
-    url = page_url(page)
-    if url.endswith("/"):  # directory: prefix match
-        lines = [f"{{% assign p = here | slice: 0, {len(url)} %}}"]
-        cond = f"{{% if p == '{url}' %}}"
-    else:
-        lines = []
-        cond = f"{{% if here == '{url}' %}}"
-    link = (f'<a href="{site_link(page)}"{cond} class="current"{{% endif %}}>'
-            f"{html.escape(str(page.title))}</a>")
-    if not children:
-        return lines + [f"<li>{link}</li>"]
-    return lines + [f"<li><details{cond} open{{% endif %}}><summary>{link}</summary>",
-                    *children, "</details></li>"]
+def link_html(page: Page, attrs: str = "") -> str:
+    return f'<a href="{site_link(page)}"{attrs}>{html.escape(str(page.title))}</a>'
 
 
-def build_sidebar(dir_node: Dir, depth: int = SIDEBAR_DEPTH) -> list[str]:
-    if depth <= 0:
-        return []
-    lines = []
-    for page in dir_node.pages:
-        lines.extend(sidebar_entry(page, []))
-    for sub in dir_node.subdirs:
-        if sub.index_page:
-            lines.extend(sidebar_entry(sub.index_page,
-                                       build_sidebar(sub, depth - 1)))  # <-- recursion
-    return ["<ul>", *lines, "</ul>"] if lines else []
+def build_sidebar(dir_node: Dir) -> list[str]:
+    lines = ["{% assign here = page.url | remove: '.html' %}"]
+    if dir_node.index_page:
+        lines.append(f'<p class="site-toc-title">{link_html(dir_node.index_page)}</p>')
+    current = "{{% if here == '{}' %}} class=\"current\"{{% endif %}}"
+    items = [f"<li>{link_html(p, current.format(page_url(p)))}</li>" for p in dir_node.pages]
+    items += [f"<li><strong>{link_html(sub.index_page)}</strong></li>"
+              for sub in dir_node.subdirs if sub.index_page]
+    if items:
+        lines += ['<ul class="site-toc">', *items, "</ul>"]
+    return lines
 
 
-def write_sidebar(tree: Dir, target_root: Path) -> None:
-    out_path = target_root / SIDEBAR_INCLUDE
+def write_sidebar(dir_node: Dir, target_root: Path) -> None:
+    out_path = target_root / SIDEBAR_DIR / dir_node.rel_path / "toc.html"
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    lines = build_sidebar(tree)
-    if lines:
-        lines[0] = '<ul class="site-toc">'
-    out_path.write_text(
-        "{% assign here = page.url | remove: '.html' %}\n" + "\n".join(lines) + "\n",
-        encoding="utf-8",
-    )
+    out_path.write_text("\n".join(build_sidebar(dir_node)) + "\n", encoding="utf-8")
+    for sub in dir_node.subdirs:
+        write_sidebar(sub, target_root)  # <-- recursion
 
 
 # --------------------------------------------------------------------------

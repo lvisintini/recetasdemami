@@ -113,6 +113,13 @@ def test_toc_is_hierarchical_dirs_after_pages_sorted_by_title(built):
     assert lines[1].startswith("  - ")  # nested under its directory
 
 
+def test_toc_bolds_directories_only(built):
+    out, _ = built
+    toc = read(out, "index.md")
+    assert "- **[Getting Started]({{ site.baseurl }}/getting-started/)**" in toc
+    assert "  - [Installation]({{ site.baseurl }}/getting-started/installation)\n" in toc
+
+
 def test_edit_url_always_injected_and_overrides_existing(built):
     out, _ = built
     cfg = read(out, "getting-started/config.md")
@@ -188,7 +195,7 @@ def test_curation_markers_stripped_from_output_only(tmp_path):
     ]
 
 
-def test_sidebar_include_two_levels_collapsible(tmp_path):
+def test_sidebar_include_per_directory_flat_list(tmp_path):
     s = tmp_path / "s"
     write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000d1", "Home", "{nav}"))
     write(s, "ten/index.md", page("index", "00000000-0000-0000-0000-0000000000d2", "10. Postres", ""))
@@ -199,19 +206,24 @@ def test_sidebar_include_two_levels_collapsible(tmp_path):
     write(s, "two/flan.md", page("flan", "00000000-0000-0000-0000-0000000000d6", "Flan", ""))
     out = tmp_path / "o"
     build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
-    toc = read(out, "_includes/site-toc.html")
-    assert toc.startswith("{% assign here = page.url | remove: '.html' %}\n<ul class=\"site-toc\">")
-    assert toc.index("2. Salsas &amp; Dips") < toc.index("10. Postres")  # natural, escaped
-    assert "Deep" not in toc  # level 3 left out
-    # directory with children folds; open + current by URL prefix
-    assert "{% assign p = here | slice: 0, 5 %}" in toc
-    assert ("<li><details{% if p == '/two/' %} open{% endif %}><summary>"
-            "<a href=\"{{ site.baseurl }}/two/\"{% if p == '/two/' %} class=\"current\"{% endif %}>"
-            in toc)
-    # level-2 page: exact match; level-2 dir without shown children: plain link
-    assert "<li><a href=\"{{ site.baseurl }}/two/flan\"{% if here == '/two/flan' %}" in toc
-    assert "<li><a href=\"{{ site.baseurl }}/two/sub/\"" in toc
-    assert "<li><a href=\"{{ site.baseurl }}/ten/\"" in toc  # empty dir: no <details>
+    inc = out / "_includes/site-toc"
+    assert sorted(f.relative_to(inc).as_posix() for f in inc.rglob("*.html")) == [
+        "ten/toc.html", "toc.html", "two/sub/toc.html", "two/toc.html"]
+    root = read(inc, "toc.html")
+    assert root.startswith("{% assign here = page.url | remove: '.html' %}\n"
+                           '<p class="site-toc-title"><a href="{{ site.baseurl }}/">Home</a></p>\n'
+                           '<ul class="site-toc">')
+    assert root.index("2. Salsas &amp; Dips") < root.index("10. Postres")  # natural, escaped
+    assert "/two/flan" not in root and "/two/sub/" not in root  # only direct children
+    assert "<details" not in root
+    assert '<li><strong><a href="{{ site.baseurl }}/ten/">10. Postres</a></strong></li>' in root
+    two = read(inc, "two/toc.html")
+    assert two.index("/two/flan") < two.index("/two/sub/")  # pages before subdirectories
+    assert ('<li><a href="{{ site.baseurl }}/two/flan"'
+            "{% if here == '/two/flan' %} class=\"current\"{% endif %}>Flan</a></li>") in two
+    assert '<li><strong><a href="{{ site.baseurl }}/two/sub/">Dips</a></strong></li>' in two
+    assert "Deep" not in two
+    assert "<ul" not in read(inc, "ten/toc.html")  # empty directory: heading only
 
 
 def test_site_dir_copied_into_output(src, tmp_path):

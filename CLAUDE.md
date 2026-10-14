@@ -39,11 +39,13 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - **{nav}**: ancestors linked, current page plain text, separator `" / "` (CLI `--nav-sep`).
 - **{toc}**: per directory, regular pages first (natural sort by `page_title`,
   case-insensitive, digit runs compared as numbers so `2.` < `10.`), then subdirectories
-  (by their index `page_title`), each followed by its own nested list.
-- **Sidebar index**: every build writes `_includes/site-toc.html`, the same ordering
-  `SIDEBAR_DEPTH` (2) levels down as HTML. Directories with children fold into `<details>`;
-  Liquid in the include opens the current section and marks `class="current"` (directories
-  by URL prefix, pages by exact URL). The site layout includes it in the sidebar.
+  (by their index `page_title`, in **bold**), each followed by its own nested list.
+- **Sidebar index**: every build writes one `_includes/site-toc/<dir>/toc.html` per
+  directory: a heading linking the directory's index, then a flat, unindented bulleted list
+  of only that directory's direct children (same ordering as `{toc}`, subdirectories in
+  bold). Never collapsible, mobile included. The layout includes the one matching
+  `page.dir`, so a recipe lists its siblings and an index page lists its own directory.
+  Liquid marks the current page with `class="current"` (exact URL).
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
@@ -60,9 +62,11 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 ## Gotchas
 - The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`).
   `site/_layouts/default.html` is a copy of the theme's v0.2.0 layout with the sidebar
-  index, the edit link and the credits moved into `<header>` (the sidebar); keep it in step
-  with the theme if the theme changes. `site/assets/css/style.scss` imports the theme's CSS
-  and widens/scrolls the sidebar. `_config.yml` `defaults:` applies `layout: default`, so the
+  index in `<header>` (the sidebar) and the project link, edit link and credits in a
+  `.sidebar-footer` pinned at its bottom; keep it in step with the theme if the theme
+  changes. `site/assets/css/style.scss` imports the theme's CSS, widens the sidebar and
+  makes it a flex column where only the index scrolls. The theme positions `header ul`
+  absolutely at <=960px, hence the `position:static` override on `.site-toc`. `_config.yml` `defaults:` applies `layout: default`, so the
   script does not inject `layout:`. `jekyll-titles-from-headings` can't supply page titles
   because `{nav}` comes before the first heading, hence the injected `title`.
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
