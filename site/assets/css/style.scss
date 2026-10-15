@@ -58,6 +58,27 @@ section {
   font-weight:bold;
 }
 
+// "Recomendaciones" under the index (site/_includes/site-recs.html)
+.site-recs {
+  border-top:1px solid #e5e5e5;
+  margin-top:12px;
+  padding-top:10px;
+  font-size:0.9em;
+}
+
+.site-rec p,
+.site-rec ul {
+  margin:0 0 6px;
+}
+
+.site-rec ul {
+  padding-left:16px;
+}
+
+.site-rec + .site-rec {
+  margin-top:10px;
+}
+
 // pages still pending curation: a mark after every link to them, a note on the page
 .pending-mark::after,
 .pending-note::before {

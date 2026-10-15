@@ -34,6 +34,9 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   Breadcrumbs are left unmarked. `<SUMMARY>` in recipes is the placeholder for the summary
   still to write; it stays in the sources, is stripped from the output, and is warned if
   left on a curated page.
+- Recomendaciones (tips): plain-markdown files (no front matter) in
+  `docs/_recomendaciones/<name>.md`, attached by name with a `recomendaciones: [name, ...]`
+  front-matter list (a single string is accepted). `[page_link](<uuid>)` works inside them.
 
 ## Settled design decisions (do not re-litigate without asking)
 - **Slugs match file/dir names** (ignoring extension). Directory URL segments come from the
@@ -60,6 +63,13 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   - `index-toc.html` (the directory's index page): the parent's list with this directory
     marked current and its own direct children listed right under it. The root has no
     parent, so it gets its own list.
+- **Sidebar Recomendaciones**: under the index, a page's sidebar lists every tip that applies
+  to it: those on each ancestor directory's `index.md` (root first), then its own, without
+  repeats. A tip on an `index.md` thus covers the whole directory, index page included. The
+  build writes each tip (links resolved) to `_includes/recomendaciones/<name>.md` and ends
+  each sidebar file with Liquid that picks the page's tip list (per-page tips by exact URL,
+  like `class="current"`) for `site/_includes/site-recs.html`, which includes and
+  `markdownify`s them. Unknown or unused tip names, and a non-list value, are warnings.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
@@ -86,10 +96,11 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and
   makes the site 404. The workflow sets `enable_jekyll: true`; keep it. Pages serves
   `gh-pages` at `/ (root)`.
-- `scan_dir` recurses into every subdirectory of the source dir (including dot/underscore
-  dirs), so keep non-doc folders outside `docs/`.
-- `legacy/` holds the original source text (`Recetas.md`, `add.txt`) that `docs/` was
-  migrated from. The migration scripts were removed; `add.txt` still has recipes to add.
+- `scan_dir` recurses into every subdirectory of the source dir except `_`/`.`-prefixed ones
+  (`_recomendaciones/` lives there), so keep other non-doc folders outside `docs/` or prefix
+  them with `_`.
+- `legacy/Recetas.md` is the original source text `docs/` was migrated from (the migration
+  is complete; its scripts were removed).
 
 ## Open items
 - Curation workflow: a local report/checklist of pending pages (`curated: false`, leftover

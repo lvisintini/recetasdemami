@@ -336,6 +336,73 @@ def test_sidebar_index_page_lists_parent_with_own_section_expanded(tmp_path):
     assert read(inc, "index-toc.html") == read(inc, "toc.html")  # root: no parent
 
 
+def build_recs_tree(tmp_path):
+    s = tmp_path / "s"
+    recs = "recomendaciones: [general]\n"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000f1", "Home",
+                              "{nav}\n\n{toc}", extra=recs))
+    write(s, "sec/index.md", page("index", "00000000-0000-0000-0000-0000000000f2", "Sec",
+                                  "{nav}\n\n{toc}",
+                                  extra="recomendaciones: [seccion, general]\n"))
+    write(s, "sec/sub/index.md", page("index", "00000000-0000-0000-0000-0000000000f3", "Sub",
+                                      "{toc}"))
+    write(s, "sec/sub/dish.md", page("dish", "00000000-0000-0000-0000-0000000000f4", "Dish",
+                                     "Body", extra="recomendaciones: plato\n"))
+    write(s, "sec/sub/plain.md", page("plain", "00000000-0000-0000-0000-0000000000f5",
+                                      "Plain", "Body"))
+    write(s, "other/index.md", page("index", "00000000-0000-0000-0000-0000000000f6", "Other",
+                                    "{toc}", extra="recomendaciones: [nope]\n"))
+    write(s, "other/bad.md", page("bad", "00000000-0000-0000-0000-0000000000f7", "Bad",
+                                  "Body", extra="recomendaciones: {a: 1}\n"))
+    write(s, "_recomendaciones/general.md", "General tip.\n")
+    write(s, "_recomendaciones/seccion.md",
+          "Ver [page_link](00000000-0000-0000-0000-0000000000f4).\n")
+    write(s, "_recomendaciones/plato.md", "Plato tip.\n")
+    write(s, "_recomendaciones/suelto.md", "Unused tip.\n")
+    out = tmp_path / "o"
+    _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    return out, warnings
+
+
+def test_recs_inherited_by_everything_under_a_section(tmp_path):
+    out, _ = build_recs_tree(tmp_path)
+    inc = out / "_includes/site-toc"
+    # most general first, no repeats; the index page gets its own section's tips
+    assert read(inc, "sec/index-toc.html").endswith(
+        '{% assign recs = "general,seccion" %}\n{% include site-recs.html names=recs %}\n')
+    assert '{% assign recs = "general,seccion" %}' in read(inc, "sec/sub/index-toc.html")
+    assert '{% assign recs = "general" %}' in read(inc, "other/toc.html")  # sibling: root only
+    assert "seccion" not in read(inc, "other/toc.html")
+
+
+def test_page_recs_only_for_that_page(tmp_path):
+    out, _ = build_recs_tree(tmp_path)
+    sub = read(out, "_includes/site-toc/sec/sub/toc.html")
+    assert sub.endswith(
+        '{% assign recs = "general,seccion" %}\n'
+        "{% if here == '/sec/sub/dish' %}{% assign recs = \"general,seccion,plato\" %}"
+        "{% endif %}\n{% include site-recs.html names=recs %}\n")
+    assert "plain' %}{% assign recs" not in sub
+    assert "plato" not in read(out, "_includes/site-toc/sec/sub/index-toc.html")
+
+
+def test_rec_files_written_as_includes_not_pages(tmp_path):
+    out, warnings = build_recs_tree(tmp_path)
+    assert read(out, "_includes/recomendaciones/seccion.md") == (
+        "Ver [Dish]({{ site.baseurl }}/sec/sub/dish).\n")
+    assert not (out / "_recomendaciones").exists()
+    assert "_recomendaciones" not in read(out, "index.md")
+    assert "unknown recomendacion 'nope' in other/index.md" in warnings
+    assert "unused recomendacion: suelto" in warnings
+    assert "recomendaciones must be a list of names, ignored: other/bad.md" in warnings
+
+
+def test_no_recs_block_without_tips(tmp_path):
+    inc = build_sidebar_tree(tmp_path)
+    assert "site-recs" not in read(inc, "two/toc.html")
+    assert not (inc.parent / "recomendaciones").exists()
+
+
 def test_site_dir_copied_into_output(src, tmp_path):
     site = tmp_path / "site"
     write(site, "_config.yml", "baseurl: /x\n")

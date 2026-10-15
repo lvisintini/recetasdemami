@@ -1,0 +1,15 @@
+{%- comment -%}
+  Sidebar "Recomendaciones": the tips named in include.names (comma-separated), each from
+  _includes/recomendaciones/<name>.md (written by build_docs.py), rendered as markdown.
+  Included at the end of the generated _includes/site-toc/<dir>/{toc,index-toc}.html.
+{%- endcomment -%}
+{%- assign names = include.names | split: "," -%}
+{%- if names.size > 0 %}
+<div class="site-recs">
+<p class="site-toc-title">Recomendaciones</p>
+{%- for name in names %}
+{%- capture rec %}{% include recomendaciones/{{ name }}.md %}{% endcapture %}
+<div class="site-rec">{{ rec | markdownify }}</div>
+{%- endfor %}
+</div>
+{%- endif %}

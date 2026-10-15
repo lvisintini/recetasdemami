@@ -25,6 +25,12 @@ recursive) and builds a fresh copy into a target directory:
     it gets a "pending review" note under its {nav}, every generated link
     to it (toc, sidebar, uuid references) a small mark, and the build one
     summary warning with the count
+  * tips ("recomendaciones") live as plain markdown files in
+    SOURCE/_recomendaciones/<name>.md; a page attaches them by name in its
+    `recomendaciones` front matter, and a tip on an index.md applies to the
+    whole directory below it. Each tip is written (uuid links resolved) to
+    _includes/recomendaciones/<name>.md and the sidebar lists every tip that
+    applies to the page, most general first, under the index
   * every directory gets sidebar lists written to _includes/site-toc/<dir>/
     for the site layout to include by page.dir: toc.html (its pages and
     subdirectories, for its regular pages) and index-toc.html (its parent's
@@ -43,6 +49,7 @@ Front matter is expected at the top of every .md file, e.g.:
     page_title: Installation
     weight: 1          # optional: orders entries before unweighted ones
     curated: false     # true once the page has been reviewed
+    recomendaciones: [hinojo]   # optional: tips from _recomendaciones/
     ---
 
 Usage:
@@ -106,6 +113,11 @@ class Page:
         curated = self.frontmatter.get("curated")  # reviewed by hand
         self.pending = curated is not True
         self.bad_curated = curated is not None and not isinstance(curated, bool)
+        recs = self.frontmatter.get("recomendaciones")  # tip names, see load_recs
+        recs = [recs] if isinstance(recs, str) else recs
+        ok = recs is None or (isinstance(recs, list) and all(isinstance(r, str) for r in recs))
+        self.recs = list(recs) if recs and ok else []
+        self.bad_recs = not ok
         self.dir_node: "Dir" | None = None  # set by the scanner
 
 
@@ -161,6 +173,8 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
 
     for entry in sorted(dir_path.iterdir(), key=lambda p: p.name.lower()):
         if entry.is_dir():
+            if entry.name.startswith(("_", ".")):
+                continue  # not pages: _recomendaciones/, .git/, ...
             child = scan_dir(root, entry, uuid_map, warnings)  # <-- recursion
             child.parent = node
             node.subdirs.append(child)
@@ -189,6 +203,10 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
                 warnings.append(
                     f"non-boolean curated {page.frontmatter['curated']!r} treated as "
                     f"false: {page.rel_path}"
+                )
+            if page.bad_recs:
+                warnings.append(
+                    f"recomendaciones must be a list of names, ignored: {page.rel_path}"
                 )
 
             if page.uuid:
@@ -363,11 +381,25 @@ def build_sidebar(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
     return lines + sidebar_trail(trail, sidebar_list(dir_node, open_dir))
 
 
+def sidebar_recs(base: list[str], pages: list[Page]) -> list[str]:
+    """Liquid picking the rendered page's tips (by exact URL) for site-recs.html."""
+    own = [(p, merge_recs(base, p.recs)) for p in pages if p.recs]
+    if not base and not own:
+        return []
+    lines = [f'{{% assign recs = "{",".join(base)}" %}}']
+    lines += [f"{{% if here == '{page_url(p)}' %}}"
+              f'{{% assign recs = "{",".join(recs)}" %}}{{% endif %}}' for p, recs in own]
+    return lines + ["{% include site-recs.html names=recs %}"]
+
+
 def write_sidebar(dir_node: Dir, target_root: Path) -> None:
     out_dir = target_root / SIDEBAR_DIR / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
     own = build_sidebar(dir_node)
     in_parent = build_sidebar(dir_node.parent, dir_node) if dir_node.parent else own
+    recs = dir_recs(dir_node)
+    own += sidebar_recs(recs, dir_node.pages)
+    in_parent += sidebar_recs(recs, [])
     (out_dir / "toc.html").write_text("\n".join(own) + "\n", encoding="utf-8")
     (out_dir / "index-toc.html").write_text("\n".join(in_parent) + "\n", encoding="utf-8")
     for sub in dir_node.subdirs:
@@ -375,17 +407,65 @@ def write_sidebar(dir_node: Dir, target_root: Path) -> None:
 
 
 # --------------------------------------------------------------------------
+# Recomendaciones: tips in SOURCE/_recomendaciones/<name>.md, attached by name
+# in a page's `recomendaciones` front matter. A tip on a directory's index.md
+# applies to everything under it. The sidebar includes them (see
+# site/_includes/site-recs.html) from _includes/recomendaciones/<name>.md.
+# --------------------------------------------------------------------------
+
+REC_DIR = "_recomendaciones"
+REC_INCLUDES = Path("_includes") / "recomendaciones"
+
+
+def load_recs(source_root: Path) -> dict[str, str]:
+    rec_dir = source_root / REC_DIR
+    if not rec_dir.is_dir():
+        return {}
+    return {p.stem: p.read_text(encoding="utf-8") for p in sorted(rec_dir.glob("*.md"))}
+
+
+def merge_recs(*lists: list[str]) -> list[str]:
+    """Concatenate tip-name lists, dropping repeats but keeping first-seen order."""
+    return list(dict.fromkeys(name for names in lists for name in names))
+
+
+def dir_recs(dir_node: Dir) -> list[str]:
+    """Tips for a directory: its ancestors' (root first), then its index.md's."""
+    inherited = dir_recs(dir_node.parent) if dir_node.parent else []  # <-- recursion
+    return merge_recs(inherited, dir_node.index_page.recs if dir_node.index_page else [])
+
+
+def check_recs(dir_node: Dir, recs: dict, warnings: list, used: set) -> None:
+    """Warn about (and drop) unknown tip names; collect the names in use."""
+    pages = [dir_node.index_page] if dir_node.index_page else []
+    for page in pages + dir_node.pages:
+        for name in page.recs:
+            if name not in recs:
+                warnings.append(f"unknown recomendacion {name!r} in {page.rel_path}")
+        page.recs = [name for name in page.recs if name in recs]
+        used.update(page.recs)
+    for sub in dir_node.subdirs:
+        check_recs(sub, recs, warnings, used)  # <-- recursion
+
+
+def write_recs(recs: dict, target_root: Path, uuid_map: dict, warnings: list) -> None:
+    out_dir = target_root / REC_INCLUDES
+    for name, text in recs.items():
+        out_dir.mkdir(parents=True, exist_ok=True)
+        text = resolve_uuid_links(text, f"{REC_DIR}/{name}.md", uuid_map, warnings)
+        (out_dir / f"{name}.md").write_text(text, encoding="utf-8")
+
+
+# --------------------------------------------------------------------------
 # uuid reference resolution in page bodies
 # --------------------------------------------------------------------------
 
-def resolve_uuid_links(body: str, page: Page, uuid_map: dict, warnings: list) -> str:
+def resolve_uuid_links(body: str, where: Path | str, uuid_map: dict, warnings: list) -> str:
     def _sub(m: re.Match) -> str:
         target_uuid = m.group(2)
         target = uuid_map.get(target_uuid)
         if target is None:
-            warnings.append(
-                f"unresolved uuid reference {target_uuid} in {page.rel_path}"
-            )
+            warnings.append(f"unresolved uuid reference {target_uuid} in {where}")
             return m.group(0)  # leave as-is so it's easy to spot in the build
         return f"[{target.title}]({site_link(target)}){pending_mark(target)}"
 
@@ -425,7 +505,7 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
     if marker_count and not page.pending:
         warnings.append(f"curated page still has {', '.join(CURATION_MARKERS)}: "
                         f"{page.rel_path}")
-    body = resolve_uuid_links(body, page, uuid_map, warnings)
+    body = resolve_uuid_links(body, page.rel_path, uuid_map, warnings)
     nav = build_nav(page, dir_node, is_index, nav_sep)
     if page.pending:  # "pending review" note right under the breadcrumb, or on top
         if "{nav}" in body:
@@ -532,6 +612,10 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     uuid_map: dict[str, Page] = {}
 
     tree = scan_dir(source_root, source_root, uuid_map, warnings)
+    recs = load_recs(source_root)
+    used: set[str] = set()
+    check_recs(tree, recs, warnings, used)
+    warnings += [f"unused recomendacion: {name}" for name in recs if name not in used]
 
     # clean slate for the target, every run
     if target_root.exists():
@@ -539,6 +623,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     target_root.mkdir(parents=True, exist_ok=True)
 
     pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
+    write_recs(recs, target_root, uuid_map, warnings)
     write_sidebar(tree, target_root)
     if pending:
         warnings.append(f"{pending} page(s) not curated yet (curated: true missing)")
