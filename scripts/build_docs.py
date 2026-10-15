@@ -273,8 +273,8 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
 # Sidebar index: _includes/site-toc/<dir>/{toc,index-toc}.html (recursive)
 #
 # Each directory gets two flat lists (pages, then subdirectories in bold),
-# under a heading linking the listed directory's index. The layout picks one
-# by page.dir:
+# under a heading linking the root index and the trail of sections from the
+# root down to the listed directory. The layout picks one by page.dir:
 #   * toc.html, for regular pages: the directory's own children, i.e. the
 #     page's siblings. Liquid marks the page being rendered by exact URL;
 #     `here` is page.url sans ".html".
@@ -305,11 +305,21 @@ def sidebar_list(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
     return ['<ul class="site-toc">', *items, "</ul>"] if items else []
 
 
+def sidebar_trail(trail: list[Dir], inner: list[str]) -> list[str]:
+    """Nest `inner` under each section of `trail` (root-first), one entry per level."""
+    for d in reversed(trail):
+        if d.index_page:
+            inner = ['<ul class="site-toc">', f"<li><strong>{link_html(d.index_page)}</strong>",
+                     *inner, "</li>", "</ul>"]
+    return inner
+
+
 def build_sidebar(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
+    root, *trail = ancestor_chain(dir_node)
     lines = ["{% assign here = page.url | remove: '.html' %}"]
-    if dir_node.index_page:
-        lines.append(f'<p class="site-toc-title">{link_html(dir_node.index_page)}</p>')
-    return lines + sidebar_list(dir_node, open_dir)
+    if root.index_page:
+        lines.append(f'<p class="site-toc-title">{link_html(root.index_page)}</p>')
+    return lines + sidebar_trail(trail, sidebar_list(dir_node, open_dir))
 
 
 def write_sidebar(dir_node: Dir, target_root: Path) -> None:

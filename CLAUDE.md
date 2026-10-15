@@ -41,8 +41,9 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   case-insensitive, digit runs compared as numbers so `2.` < `10.`), then subdirectories
   (by their index `page_title`, in **bold**), each followed by its own nested list.
 - **Sidebar index**: flat, unindented bulleted lists (same ordering as `{toc}`,
-  subdirectories in bold) under a heading linking the listed directory's index. Never
-  collapsible, mobile included. Every build writes two per directory to
+  subdirectories in bold) under a heading linking the root index, nested (but unindented)
+  under the trail of ancestor sections from the root down to the listed directory (the
+  ancestors only, not their siblings). Never collapsible, mobile included. Every build writes two per directory to
   `_includes/site-toc/<dir>/`, and the layout picks one by `page.dir` / `page.name`:
   - `toc.html` (regular pages): the directory's direct children, i.e. the page's siblings;
     Liquid marks the current page with `class="current"` (exact URL).

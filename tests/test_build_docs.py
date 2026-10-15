@@ -227,7 +227,23 @@ def test_sidebar_include_per_directory_flat_list(tmp_path):
             "{% if here == '/two/flan' %} class=\"current\"{% endif %}>Flan</a></li>") in two
     assert '<li><strong><a href="{{ site.baseurl }}/two/sub/">Dips</a></strong></li>' in two
     assert "Deep" not in two
-    assert "<ul" not in read(inc, "ten/toc.html")  # empty directory: heading only
+    assert "/two/" not in read(inc, "ten/toc.html")  # empty directory: trail only
+
+
+def test_sidebar_lists_the_trail_of_ancestor_sections(tmp_path):
+    inc = build_sidebar_tree(tmp_path)
+    deep = read(inc, "two/sub/toc.html")
+    # root heading, then each section on the path with the next level nested in it
+    assert ('<p class="site-toc-title"><a href="{{ site.baseurl }}/">Home</a></p>\n'
+            '<ul class="site-toc">\n'
+            '<li><strong><a href="{{ site.baseurl }}/two/">2. Salsas &amp; Dips</a></strong>\n'
+            '<ul class="site-toc">\n'
+            '<li><strong><a href="{{ site.baseurl }}/two/sub/">Dips</a></strong>\n'
+            '<ul class="site-toc">\n'
+            '<li><a href="{{ site.baseurl }}/two/sub/deep"') in deep
+    assert "/two/flan" not in deep and "/ten/" not in deep  # ancestors only, no their siblings
+    sub = read(inc, "two/sub/index-toc.html")
+    assert sub.index("/two/") < sub.index("/two/flan") < sub.index("/two/sub/\" class")
 
 
 def test_sidebar_index_page_lists_parent_with_own_section_expanded(tmp_path):
