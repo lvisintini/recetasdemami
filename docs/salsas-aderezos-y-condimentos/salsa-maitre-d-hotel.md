@@ -1,0 +1,41 @@
+---
+slug: salsa-maitre-d-hotel
+uuid: ff6e25c9-2d2e-42b6-9cb2-c1376120ca27
+page_title: Salsa maître d'hôtel
+curated: false
+---
+
+{nav}
+
+## Salsa maître d'hôtel
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+<SUMMARY>
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Ingredientes:
+
+- 100 gr de manteca
+- 15 gr de perejil
+- 1 cucharadita de jugo de limón
+
+
+Se calienta una taza, después se coloca la manteca y se bate hasta que queda como una crema, se le va agregando perejil finamente picado y jugo de limón.
+
+Condimentar con sal y pimienta.
+
+Las proporciones son: 100 gr de manteca, 15 gr de perejil, 1 cucharadita de jugo de limón.
+
+
+### Variantes
