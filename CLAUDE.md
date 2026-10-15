@@ -18,7 +18,10 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   with `force_orphan: true`). Pages must be set to serve from the publish branch.
 
 ## Source file conventions
-- Every `.md` has YAML front matter with `slug`, `uuid`, `page_title`.
+- Every `.md` has YAML front matter with `slug`, `uuid`, `page_title`, and optionally
+  `weight` (a number) to fix its position: weighted entries come first, ascending, before
+  unweighted ones; a directory's weight is its `index.md`'s. Titles carry no numbering
+  (the top-level sections use `weight: 1`..`11`). A non-numeric weight is warned and ignored.
 - Every directory has an `index.md`; all index files have `slug: index`.
 - Placeholders in bodies: `{nav}` (breadcrumb, all pages) and `{toc}` (index pages only).
 - Cross-references: `[page_link](<uuid>)` -> link text becomes the target's `page_title`,
@@ -37,9 +40,10 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - **All generated links** are prefixed `{{ site.baseurl }}` and are site-root-relative.
   No relative links.
 - **{nav}**: ancestors linked, current page plain text, separator `" / "` (CLI `--nav-sep`).
-- **{toc}**: per directory, regular pages first (natural sort by `page_title`,
-  case-insensitive, digit runs compared as numbers so `2.` < `10.`), then subdirectories
-  (by their index `page_title`, in **bold**), each followed by its own nested list.
+- **{toc}**: per directory, regular pages first, then subdirectories (in **bold**), each
+  followed by its own nested list. Within each group: by `weight` if present, then natural
+  sort by `page_title` (a subdirectory by its index's; case-insensitive, digit runs
+  compared as numbers so `2.` < `10.`).
 - **Sidebar index**: bulleted lists (same ordering as `{toc}`, subdirectories in bold;
   top level flush left, each nested level indented by the hierarchy) under a heading
   linking the root index, nested under the trail of ancestor sections from the root down
@@ -83,7 +87,6 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   migrated from. The migration scripts were removed; `add.txt` still has recipes to add.
 
 ## Open items
-- Ordering is by title only (natural sort); a `weight`/`order` front matter field is not implemented.
 - Curation workflow: make the manual pass over recipes more agile, e.g. a report/checklist
   of pages still containing curation markers or empty Ingredientes, or a `curated: true`
   front-matter flag shown on the site.

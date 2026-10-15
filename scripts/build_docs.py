@@ -37,6 +37,7 @@ Front matter is expected at the top of every .md file, e.g.:
     slug: installation
     uuid: 14179fca-0bc7-4181-ba7d-7cdb16fd296c
     page_title: Installation
+    weight: 1          # optional: orders entries before unweighted ones
     ---
 
 Usage:
@@ -88,6 +89,10 @@ class Page:
         self.uuid = str(self.frontmatter.get("uuid") or "").strip()
         self.slug = self.frontmatter.get("slug") or rel_path.stem
         self.title = self.frontmatter.get("page_title") or self.slug
+        weight = self.frontmatter.get("weight")  # optional explicit sort order
+        valid = isinstance(weight, (int, float)) and not isinstance(weight, bool)
+        self.weight = weight if valid else None
+        self.bad_weight = weight is not None and not valid
         self.dir_node: "Dir" | None = None  # set by the scanner
 
 
@@ -127,6 +132,13 @@ def natural_key(text: str) -> list:
     return [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", text)]
 
 
+def order_key(page: "Page | None", fallback: str) -> tuple:
+    """Weighted entries first (ascending), then the rest by natural title."""
+    weight = page.weight if page else None
+    title = str(page.title) if page else fallback
+    return (weight is None, weight or 0, natural_key(title))
+
+
 # --------------------------------------------------------------------------
 # Pass 1 (recursive, depth-first): scan the source tree
 # --------------------------------------------------------------------------
@@ -155,6 +167,12 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
                         f"with its directory's URL: {page.rel_path}"
                     )
 
+            if page.bad_weight:
+                warnings.append(
+                    f"non-numeric weight {page.frontmatter['weight']!r} ignored: "
+                    f"{page.rel_path}"
+                )
+
             if page.uuid:
                 if page.uuid in uuid_map:
                     warnings.append(
@@ -168,10 +186,8 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
     if node.index_page is None:
         warnings.append(f"missing index.md in directory: {node.rel_path or '.'}")
 
-    node.pages.sort(key=lambda p: natural_key(str(p.title)))
-    node.subdirs.sort(
-        key=lambda d: natural_key(str(d.index_page.title if d.index_page else d.rel_path.name))
-    )
+    node.pages.sort(key=lambda p: order_key(p, p.rel_path.stem))
+    node.subdirs.sort(key=lambda d: order_key(d.index_page, d.rel_path.name))
     return node
 
 

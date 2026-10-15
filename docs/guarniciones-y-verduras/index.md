@@ -1,11 +1,12 @@
 ---
 slug: index
 uuid: 98ac0b09-2c13-43d9-9597-d49033707e90
-page_title: 08. Guarniciones y Verduras
+page_title: Guarniciones y Verduras
+weight: 8
 ---
 {nav}
 
-## 08. Guarniciones y Verduras
+## Guarniciones y Verduras
 
 {toc}
 

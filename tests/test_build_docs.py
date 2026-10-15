@@ -179,6 +179,40 @@ def test_toc_sorts_numbered_titles_naturally(tmp_path):
     assert toc.index("2. Entradas") < toc.index("10. Postres")
 
 
+def test_weight_orders_before_title(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000e1", "Home", "{toc}"))
+    write(s, "zeta.md", page("zeta", "00000000-0000-0000-0000-0000000000e2", "Zeta", "",
+                             extra="weight: 1\n"))
+    write(s, "alfa.md", page("alfa", "00000000-0000-0000-0000-0000000000e3", "Alfa", ""))
+    write(s, "beta/index.md", page("index", "00000000-0000-0000-0000-0000000000e4", "Beta", "",
+                                   extra="weight: 2\n"))
+    write(s, "gamma/index.md", page("index", "00000000-0000-0000-0000-0000000000e5", "Gamma", "",
+                                    extra="weight: 1\n"))
+    write(s, "delta/index.md", page("index", "00000000-0000-0000-0000-0000000000e6", "Delta", ""))
+    out = tmp_path / "o"
+    _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    toc = read(out, "index.md")
+    titles = [l.split("[")[1].split("]")[0] for l in toc.splitlines() if l.startswith("- ")]
+    assert titles == ["Zeta", "Alfa", "Gamma", "Beta", "Delta"]  # pages, then dirs
+    sidebar = read(out, "_includes/site-toc/toc.html")
+    assert sidebar.index(">Gamma<") < sidebar.index(">Beta<") < sidebar.index(">Delta<")
+    assert not any("weight" in w for w in warnings)
+
+
+def test_non_numeric_weight_warns_and_is_ignored(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000f1", "Home", "{toc}"))
+    write(s, "b.md", page("b", "00000000-0000-0000-0000-0000000000f2", "B", "",
+                          extra="weight: first\n"))
+    write(s, "a.md", page("a", "00000000-0000-0000-0000-0000000000f3", "A", ""))
+    out = tmp_path / "o"
+    _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    toc = read(out, "index.md")
+    assert toc.index("[A]") < toc.index("[B]")
+    assert "non-numeric weight 'first' ignored: b.md" in warnings
+
+
 def test_curation_markers_stripped_from_output_only(tmp_path):
     s = tmp_path / "s"
     write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000c1", "Home",
