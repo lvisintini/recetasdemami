@@ -2,6 +2,7 @@
 slug: pure-de-manzanas
 uuid: f2b00edb-e006-4971-b30a-ac05071ce53f
 page_title: Pure de manzanas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pure de manzanas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Hervir 5 manzanas peladas y sin semillas con muy poca agua. pisarlas en la misma
 
 
 ### Variantes
-
-
-<TODO>

@@ -19,8 +19,12 @@ recursive) and builds a fresh copy into a target directory:
     `custom_edit_url` property injected/overridden with
     edit_base_url + the file's source-relative path -- no template
     placeholder needed, and any pre-existing value is replaced
-  * curation markers ({summary}, <TODO>) left in the sources as manual
-    to-dos are stripped from the output, with one summary warning
+  * the <SUMMARY> curation placeholder left in the sources is stripped
+    from the output
+  * a page without `curated: true` in its front matter is pending review:
+    it gets a "pending review" note under its {nav}, every generated link
+    to it (toc, sidebar, uuid references) a small mark, and the build one
+    summary warning with the count
   * every directory gets sidebar lists written to _includes/site-toc/<dir>/
     for the site layout to include by page.dir: toc.html (its pages and
     subdirectories, for its regular pages) and index-toc.html (its parent's
@@ -38,6 +42,7 @@ Front matter is expected at the top of every .md file, e.g.:
     uuid: 14179fca-0bc7-4181-ba7d-7cdb16fd296c
     page_title: Installation
     weight: 1          # optional: orders entries before unweighted ones
+    curated: false     # true once the page has been reviewed
     ---
 
 Usage:
@@ -69,10 +74,15 @@ FRONTMATTER_RE = re.compile(r"^---[ \t]*\n.*?\n---[ \t]*\n?", re.DOTALL)
 
 # Placeholders left in the sources as manual curation to-dos. Kept in the
 # templates, removed from the output (with the blank line that follows).
-CURATION_MARKERS = ("{summary}", "<TODO>")
+CURATION_MARKERS = ("<SUMMARY>",)
 CURATION_RE = re.compile(
     "(?:" + "|".join(re.escape(m) for m in CURATION_MARKERS) + r")[ \t]*\n?(?:[ \t]*\n)?"
 )
+# Shown for pages not marked `curated: true`; the icon itself is CSS.
+PENDING_LABEL = "Pendiente de revisión"
+PENDING_MARK = (f'<span class="pending-mark" role="img" title="{PENDING_LABEL}" '
+                f'aria-label="{PENDING_LABEL}"></span>')
+PENDING_NOTE = f'<p class="pending-note">{PENDING_LABEL}</p>'
 
 
 # --------------------------------------------------------------------------
@@ -93,6 +103,9 @@ class Page:
         valid = isinstance(weight, (int, float)) and not isinstance(weight, bool)
         self.weight = weight if valid else None
         self.bad_weight = weight is not None and not valid
+        curated = self.frontmatter.get("curated")  # reviewed by hand
+        self.pending = curated is not True
+        self.bad_curated = curated is not None and not isinstance(curated, bool)
         self.dir_node: "Dir" | None = None  # set by the scanner
 
 
@@ -172,6 +185,11 @@ def scan_dir(root: Path, dir_path: Path, uuid_map: dict, warnings: list) -> Dir:
                     f"non-numeric weight {page.frontmatter['weight']!r} ignored: "
                     f"{page.rel_path}"
                 )
+            if page.bad_curated:
+                warnings.append(
+                    f"non-boolean curated {page.frontmatter['curated']!r} treated as "
+                    f"false: {page.rel_path}"
+                )
 
             if page.uuid:
                 if page.uuid in uuid_map:
@@ -245,6 +263,11 @@ def site_link(page: Page) -> str:
     return "{{ site.baseurl }}" + page_url(page)
 
 
+def pending_mark(page: Page) -> str:
+    """Mark placed after every generated link to a page not curated yet."""
+    return PENDING_MARK if page.pending else ""
+
+
 # --------------------------------------------------------------------------
 # {nav} breadcrumb
 # --------------------------------------------------------------------------
@@ -273,11 +296,12 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
     pad = "  " * depth
 
     for page in dir_node.pages:
-        lines.append(f"{pad}- [{page.title}]({site_link(page)})")
+        lines.append(f"{pad}- [{page.title}]({site_link(page)}){pending_mark(page)}")
 
     for sub in dir_node.subdirs:
         if sub.index_page:  # directories (non-leaf entries) in bold
-            lines.append(f"{pad}- **[{sub.index_page.title}]({site_link(sub.index_page)})**")
+            lines.append(f"{pad}- **[{sub.index_page.title}]({site_link(sub.index_page)})**"
+                         f"{pending_mark(sub.index_page)}")
         else:
             lines.append(f"{pad}- **{sub.rel_path.name}**")
         lines.extend(build_toc(sub, depth + 1))  # <-- recursion
@@ -304,7 +328,8 @@ CURRENT_PAGE = "{{% if here == '{}' %}} class=\"current\"{{% endif %}}"
 
 
 def link_html(page: Page, attrs: str = "") -> str:
-    return f'<a href="{site_link(page)}"{attrs}>{html.escape(str(page.title))}</a>'
+    return (f'<a href="{site_link(page)}"{attrs}>{html.escape(str(page.title))}</a>'
+            + pending_mark(page))
 
 
 def sidebar_list(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
@@ -362,7 +387,7 @@ def resolve_uuid_links(body: str, page: Page, uuid_map: dict, warnings: list) ->
                 f"unresolved uuid reference {target_uuid} in {page.rel_path}"
             )
             return m.group(0)  # leave as-is so it's easy to spot in the build
-        return f"[{target.title}]({site_link(target)})"
+        return f"[{target.title}]({site_link(target)}){pending_mark(target)}"
 
     return UUID_LINK_RE.sub(_sub, body)
 
@@ -392,13 +417,22 @@ def compute_edit_url(page: Page, edit_base_url: str) -> str:
 def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
                  uuid_map: dict, warnings: list, nav_sep: str,
                  edit_base_url: str | None) -> bool:
-    """Render one page; return True if it still had curation markers."""
+    """Render one page; return True if it is still pending curation."""
     text = page.src_path.read_text(encoding="utf-8")
     raw_fm, fm_dict, body = split_frontmatter(text)
 
     body, marker_count = strip_curation_markers(body)
+    if marker_count and not page.pending:
+        warnings.append(f"curated page still has {', '.join(CURATION_MARKERS)}: "
+                        f"{page.rel_path}")
     body = resolve_uuid_links(body, page, uuid_map, warnings)
-    body = body.replace("{nav}", build_nav(page, dir_node, is_index, nav_sep))
+    nav = build_nav(page, dir_node, is_index, nav_sep)
+    if page.pending:  # "pending review" note right under the breadcrumb, or on top
+        if "{nav}" in body:
+            nav += f"\n\n{PENDING_NOTE}"
+        else:
+            body = f"{PENDING_NOTE}\n\n{body}"
+    body = body.replace("{nav}", nav)
 
     if is_index:
         toc_lines = build_toc(dir_node)
@@ -424,12 +458,12 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
     out_path = target_root / page.rel_path
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(raw_fm + body, encoding="utf-8")
-    return marker_count > 0
+    return page.pending
 
 
 def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
                 warnings: list, nav_sep: str, edit_base_url: str | None) -> int:
-    """Render a directory tree; return how many pages had curation markers."""
+    """Render a directory tree; return how many pages are pending curation."""
     out_dir = target_root / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -507,10 +541,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
     write_sidebar(tree, target_root)
     if pending:
-        warnings.append(
-            f"{pending} page(s) still have curation markers "
-            f"({', '.join(CURATION_MARKERS)}); stripped from output"
-        )
+        warnings.append(f"{pending} page(s) not curated yet (curated: true missing)")
 
     if site_root:
         copy_site_dir(site_root, target_root, warnings)

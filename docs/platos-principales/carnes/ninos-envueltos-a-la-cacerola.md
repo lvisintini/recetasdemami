@@ -2,6 +2,7 @@
 slug: ninos-envueltos-a-la-cacerola
 uuid: 0526f2fb-e622-4504-a455-371c25035f6b
 page_title: Niños envueltos a la cacerola
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Niños envueltos a la cacerola
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Bañarlos con la salsa y salpicar con perejil picado.
 
 
 ### Variantes
-
-
-<TODO>

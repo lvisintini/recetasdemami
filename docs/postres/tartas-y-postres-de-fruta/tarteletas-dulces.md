@@ -2,6 +2,7 @@
 slug: tarteletas-dulces
 uuid: e096997a-45e6-452d-95c5-91856cc4f144
 page_title: Tarteletas dulces
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarteletas dulces
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -38,6 +39,3 @@ Pinchar el fondo y los costados para que mantenga la forma y llevar a horno a 18
 
 
 ### Variantes
-
-
-<TODO>

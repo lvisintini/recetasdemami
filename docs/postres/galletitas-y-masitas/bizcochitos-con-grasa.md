@@ -2,6 +2,7 @@
 slug: bizcochitos-con-grasa
 uuid: 50d60096-0332-4efc-b155-c93fe031906f
 page_title: Bizcochitos con grasa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bizcochitos con grasa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Pincharlos con un tenedor y cocinarlos en horno caliente durante 15 minutos.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: sopa-crema-de-brocoli-con-zanahoria
 uuid: d882ac9d-6fd1-4e93-b97c-6a2dd5aa0d9f
 page_title: Sopa crema de brocoli con zanahoria
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sopa crema de brocoli con zanahoria
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -38,6 +39,3 @@ Decorar con arbolitos de brócoli, queso rallado y crutones al ajo.
 
 
 ### Variantes
-
-
-<TODO>

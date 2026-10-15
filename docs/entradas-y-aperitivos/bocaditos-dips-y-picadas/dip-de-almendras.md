@@ -2,6 +2,7 @@
 slug: dip-de-almendras
 uuid: 497d4f21-670a-4de8-8ce4-91a042fcc8c0
 page_title: Dip de almendras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Dip de almendras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

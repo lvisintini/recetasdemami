@@ -2,6 +2,7 @@
 slug: flout
 uuid: 7d11356e-88c0-4920-bd77-470eb6d4563e
 page_title: Flout
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Flout
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Cuando tiene cierta consistencia se fríe en manteca.
 
 
 ### Variantes
-
-
-<TODO>

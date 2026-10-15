@@ -2,6 +2,7 @@
 slug: otra-natilla
 uuid: fe2da537-2ed5-40d8-8b1d-4e2c4e1a73c7
 page_title: Otra natilla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Otra natilla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Cocinar, no debe hervir.
 
 
 ### Variantes
-
-
-<TODO>

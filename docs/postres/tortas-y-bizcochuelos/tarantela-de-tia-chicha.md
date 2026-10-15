@@ -2,6 +2,7 @@
 slug: tarantela-de-tia-chicha
 uuid: 7d5b1cd6-6239-422c-8f26-6ba9bff9ad25
 page_title: Tarantela de Tía Chicha
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarantela de Tía Chicha
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Llevar al horno para que fragüe.
 
 
 ### Variantes
-
-
-<TODO>

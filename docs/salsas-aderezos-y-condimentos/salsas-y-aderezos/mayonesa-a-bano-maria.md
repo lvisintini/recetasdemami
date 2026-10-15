@@ -2,6 +2,7 @@
 slug: mayonesa-a-bano-maria
 uuid: fd3ddd4a-029c-4e55-bd95-34d1caf5f691
 page_title: Mayonesa a baño maría
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Mayonesa a baño maría
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -38,6 +39,3 @@ Llevar a la heladera.
 
 
 ### Variantes
-
-
-<TODO>

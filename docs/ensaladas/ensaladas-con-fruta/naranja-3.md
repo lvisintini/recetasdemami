@@ -2,6 +2,7 @@
 slug: naranja-3
 uuid: a0bf6bf5-cd7d-442a-9755-b3ad5b4e8adf
 page_title: Naranja 3
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Naranja 3
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Aceitunas, lechuga, queso crema, salsa inglesa, ketchup, sal, pimienta y perejil
 
 
 ### Variantes
-
-
-<TODO>

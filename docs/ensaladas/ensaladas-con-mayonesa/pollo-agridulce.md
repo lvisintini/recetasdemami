@@ -2,6 +2,7 @@
 slug: pollo-agridulce
 uuid: 0fd54fad-8960-48fc-b8fb-10f734d4f1ce
 page_title: Pollo agridulce
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo agridulce
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Unir al pollo y salpicar con perejil picado. Heladera.
 
 
 ### Variantes
-
-
-<TODO>

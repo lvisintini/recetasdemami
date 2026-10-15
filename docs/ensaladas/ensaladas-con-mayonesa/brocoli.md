@@ -2,6 +2,7 @@
 slug: brocoli
 uuid: 3c6ecc9a-cd90-4e98-9517-45e857040a40
 page_title: Brócoli
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brócoli
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Brócoli, apio, choclo, jugo de limón, aceite de oliva, sal, pimienta. Compleme
 
 
 ### Variantes
-
-
-<TODO>

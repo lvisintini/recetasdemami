@@ -2,6 +2,7 @@
 slug: biscochuelo
 uuid: 36762624-66d5-4ec7-b6b6-1418de949b4a
 page_title: Biscochuelo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Biscochuelo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Dejarlo en el horno apagado hasta que se enfríe, de lo contrario puede aplastar
 
 
 ### Variantes
-
-
-<TODO>

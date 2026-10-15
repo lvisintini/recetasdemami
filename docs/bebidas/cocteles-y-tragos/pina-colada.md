@@ -2,6 +2,7 @@
 slug: pina-colada
 uuid: 2b273e7c-db60-420c-b36f-7a3cd6dd2566
 page_title: Piña colada
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Piña colada
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Licuar hasta que esté espumoso:
 
 
 ### Variantes
-
-
-<TODO>

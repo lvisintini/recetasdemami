@@ -2,6 +2,7 @@
 slug: old-fashion
 uuid: 1b44e33f-166f-4b34-9dca-b2c3fcd67d35
 page_title: Old fashion
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Old fashion
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar hasta empañar el vaso y decorar con 1 rodaja de limón.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: salsa-vitel-tone
 uuid: 53515cff-78f7-4a38-bd36-3f1fb4121419
 page_title: Salsa Vitel Toné
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Vitel Toné
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

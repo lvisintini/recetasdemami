@@ -2,6 +2,7 @@
 slug: garbanzos
 uuid: 31e2d07b-4342-4e49-b451-d136d02b1f6e
 page_title: Garbanzos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Garbanzos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Yo pondría 2 latas de tomates al natural y 3 tazas de caldo o vino.
 
 
 ### Variantes
-
-
-<TODO>

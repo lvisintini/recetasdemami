@@ -2,6 +2,7 @@
 slug: torta-de-simple-marmolada
 uuid: d3d368b4-ac0a-4ff9-aaf5-21e1d77cb21f
 page_title: Torta de simple marmolada
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de simple marmolada
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -42,6 +43,3 @@ Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: tartas-de-maria-rosa
 uuid: adf72bb5-db11-4f1a-9a57-ea85f1e27a5b
 page_title: Tartas de maria rosa (muy buenas; saladas)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tartas de maria rosa (muy buenas; saladas)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -48,6 +49,3 @@ A la de jamón y queso le pongo solo queso, jamón, crema de leche, queso rallad
 
 
 ### Variantes
-
-
-<TODO>

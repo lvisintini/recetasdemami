@@ -18,8 +18,10 @@ def write(root: Path, rel: str, text: str) -> None:
     p.write_text(text, encoding="utf-8")
 
 
-def page(slug, uuid, title, body, extra=""):
-    return f"---\nslug: {slug}\nuuid: {uuid}\npage_title: {title}\n{extra}---\n{body}\n"
+def page(slug, uuid, title, body, extra="", curated=True):
+    flag = "" if curated is None else f"curated: {str(curated).lower()}\n"
+    return (f"---\nslug: {slug}\nuuid: {uuid}\npage_title: {title}\n{flag}{extra}---\n"
+            f"{body}\n")
 
 
 @pytest.fixture
@@ -213,20 +215,58 @@ def test_non_numeric_weight_warns_and_is_ignored(tmp_path):
     assert "non-numeric weight 'first' ignored: b.md" in warnings
 
 
-def test_curation_markers_stripped_from_output_only(tmp_path):
+def test_summary_marker_stripped_from_output_only(tmp_path):
     s = tmp_path / "s"
-    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000c1", "Home",
-                              "{toc}\n\n<TODO>"))
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000c1", "Home", "{toc}"))
     write(s, "dish.md", page("dish", "00000000-0000-0000-0000-0000000000c2", "Dish",
-                             "Intro\n\n{summary}\n\n### Ingredientes"))
+                             "Intro\n\n<SUMMARY>\n\n### Ingredientes", curated=False))
+    write(s, "done.md", page("done", "00000000-0000-0000-0000-0000000000c3", "Done",
+                             "Intro\n\n<SUMMARY>\n\nBody"))
     out = tmp_path / "o"
     _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
     assert "Intro\n\n### Ingredientes" in read(out, "dish.md")
-    assert "<TODO>" not in read(out, "index.md")
-    assert "{summary}" in read(s, "dish.md")
-    assert [w for w in warnings if "curation markers" in w] == [
-        "2 page(s) still have curation markers ({summary}, <TODO>); stripped from output"
-    ]
+    assert "Intro\n\nBody" in read(out, "done.md")
+    assert "<SUMMARY>" in read(s, "dish.md")
+    assert "curated page still has <SUMMARY>: done.md" in warnings
+    assert not any("dish.md" in w for w in warnings)  # pending: placeholder expected
+    assert "1 page(s) not curated yet (curated: true missing)" in warnings
+
+
+def test_pending_pages_get_a_note_and_their_links_a_mark(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000e1", "Home",
+                              "{nav}\n\n{toc}"))
+    write(s, "sec/index.md", page("index", "00000000-0000-0000-0000-0000000000e2", "Sec",
+                                  "{nav}\n\n{toc}", curated=None))  # no flag: pending
+    write(s, "sec/dish.md", page("dish", "00000000-0000-0000-0000-0000000000e3", "Dish",
+                                 "{nav}\n\n## Dish\n\nBody", curated=False))
+    write(s, "sec/done.md", page("done", "00000000-0000-0000-0000-0000000000e4", "Done",
+                                 "{nav}\n\nSee [page_link](00000000-0000-0000-0000-0000000000e3)"))
+    write(s, "sec/bare.md", page("bare", "00000000-0000-0000-0000-0000000000e5", "Bare",
+                                 "No nav", curated=None, extra="curated: 'yes'\n"))
+    out = tmp_path / "o"
+    _, _, warnings = build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    mark = ('<span class="pending-mark" role="img" title="Pendiente de revisión" '
+            'aria-label="Pendiente de revisión"></span>')
+    note = '<p class="pending-note">Pendiente de revisión</p>'
+    dish = read(out, "sec/dish.md")
+    assert dish.split("---\n", 2)[2].startswith(
+        "[Home]({{ site.baseurl }}/) / [Sec]({{ site.baseurl }}/sec/) / Dish"  # nav: no marks
+        f"\n\n{note}\n\n## Dish")
+    assert read(out, "sec/bare.md").split("---\n", 2)[2].startswith(f"{note}\n\nNo nav")
+    assert "non-boolean curated 'yes' treated as false: sec/bare.md" in warnings
+    assert "3 page(s) not curated yet (curated: true missing)" in warnings
+    done = read(out, "sec/done.md")
+    assert note not in done
+    assert f"See [Dish]({{{{ site.baseurl }}}}/sec/dish){mark}" in done  # uuid reference
+    toc = read(out, "index.md")
+    assert f"- **[Sec]({{{{ site.baseurl }}}}/sec/)**{mark}" in toc
+    assert f"  - [Dish]({{{{ site.baseurl }}}}/sec/dish){mark}" in toc
+    assert "  - [Done]({{ site.baseurl }}/sec/done)\n" in toc  # curated: no mark
+    sidebar = read(out, "_includes/site-toc/sec/toc.html")
+    assert "Dish</a>" + mark + "</li>" in sidebar
+    assert "Done</a></li>" in sidebar
+    assert "Home</a></p>" in sidebar  # curated root heading
 
 
 def build_sidebar_tree(tmp_path) -> Path:

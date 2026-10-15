@@ -2,6 +2,7 @@
 slug: brusquetas-6
 uuid: 4285cd64-a580-4216-8cdd-b92484151e36
 page_title: Brusquetas 6
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brusquetas 6
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Gratinar por 5 minutos en horno fuerte.
 
 
 ### Variantes
-
-
-<TODO>

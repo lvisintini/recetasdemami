@@ -2,6 +2,7 @@
 slug: relleno-para-tarta
 uuid: d58ca09d-6da3-4be4-bbd6-603f554ee2c5
 page_title: Relleno para tarta
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Relleno para tarta
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Hacer un sofrito en aceite con: 3 zanahorias ralladas, 1 lata de choclo, 2 puerr
 
 
 ### Variantes
-
-
-<TODO>

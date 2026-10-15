@@ -2,6 +2,7 @@
 slug: brochette
 uuid: 9bbf6362-e083-429a-a2f3-9d32a9eaff9e
 page_title: Brochette
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brochette
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ También pueden hacerse agridulce agregando: manzanas, ciruelas, etc y rociarlos
 
 
 ### Variantes
-
-
-<TODO>

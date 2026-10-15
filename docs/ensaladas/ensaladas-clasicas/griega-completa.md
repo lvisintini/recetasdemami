@@ -2,6 +2,7 @@
 slug: griega-completa
 uuid: 4ec91a12-68e5-4625-b5e4-13a28f94ba10
 page_title: Griega completa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Griega completa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ a la anterior agregar pimiento verde, pepino, jugo de limón y albahaca. Frotar 
 
 
 ### Variantes
-
-
-<TODO>

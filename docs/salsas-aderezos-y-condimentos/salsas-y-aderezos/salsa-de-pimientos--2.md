@@ -2,6 +2,7 @@
 slug: salsa-de-pimientos--2
 uuid: dc13ea37-4ad2-4e3f-9a82-b8ae57deee09
 page_title: Salsa de pimientos  2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de pimientos  2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Incorporar 2 cucharadas de crema de leche y finalmente agregar 6 pepinillos muy 
 
 
 ### Variantes
-
-
-<TODO>

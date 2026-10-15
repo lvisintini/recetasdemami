@@ -2,6 +2,7 @@
 slug: torta-de-naranjas-o-mandarinas-maria-eugenia
 uuid: cfa40fd4-3329-4a37-9e1f-b214a7ea0335
 page_title: Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Piantoni)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de naranjas o mandarinas Maria Eugenia (mejor que la de M Pian
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -49,6 +50,3 @@ Puede hacerse con mandarinas, en vez de naranjas.
 
 
 ### Variantes
-
-
-<TODO>

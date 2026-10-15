@@ -2,6 +2,7 @@
 slug: condimento-frances
 uuid: 577780a0-518c-46e6-aac5-6e6d51d21c55
 page_title: Condimento Frances
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Condimento Frances
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -36,6 +37,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

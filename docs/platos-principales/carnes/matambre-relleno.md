@@ -2,6 +2,7 @@
 slug: matambre-relleno
 uuid: 94f74033-b7ba-47db-9f37-c6ba92bd0e93
 page_title: Matambre relleno (2 kg)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Matambre relleno (2 kg)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Cerrar el matambre enroscándolo sobre el relleno, coserlo o atarlo para que tom
 
 
 ### Variantes
-
-
-<TODO>

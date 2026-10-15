@@ -2,6 +2,7 @@
 slug: salsa-maltesa
 uuid: ce6f0a1e-17ac-4d82-a7e2-20a3ea3da17d
 page_title: Salsa Maltesa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Maltesa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

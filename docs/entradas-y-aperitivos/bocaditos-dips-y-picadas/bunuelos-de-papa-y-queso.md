@@ -2,6 +2,7 @@
 slug: bunuelos-de-papa-y-queso
 uuid: 6f461b45-3c26-4b7e-b358-4be4fea057e9
 page_title: Buñuelos de papa y queso
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Buñuelos de papa y queso
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Servir caliente.
 
 
 ### Variantes
-
-
-<TODO>

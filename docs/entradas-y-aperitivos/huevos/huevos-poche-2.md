@@ -2,6 +2,7 @@
 slug: huevos-poche-2
 uuid: c956f725-f9b1-48b0-a419-a4cb7e83a8d8
 page_title: Huevos poche 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos poche 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Poner sobre la sartén tibia un papel manteca enmantecado y el huevo arriba, coc
 
 
 ### Variantes
-
-
-<TODO>

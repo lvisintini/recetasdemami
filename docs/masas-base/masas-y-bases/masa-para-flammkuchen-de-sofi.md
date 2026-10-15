@@ -2,6 +2,7 @@
 slug: masa-para-flammkuchen-de-sofi
 uuid: 20e2e600-beb6-476b-aa6a-4f0fb1be8410
 page_title: Masa para flammkuchen de Sofi
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa para flammkuchen de Sofi
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Salen 4 tapas grandes y finitas.
 
 
 ### Variantes
-
-
-<TODO>

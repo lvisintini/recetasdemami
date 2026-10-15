@@ -2,6 +2,7 @@
 slug: bacardi-limon
 uuid: 2320eb45-3362-4f70-af46-b6afa11c343e
 page_title: Bacardi limón
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bacardi limón
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

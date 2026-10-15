@@ -2,6 +2,7 @@
 slug: guiso-de-verduras-y-cerdo-a-la-oriental
 uuid: 754dee5b-39c2-46cf-90df-ac6d8dc64768
 page_title: Guiso de verduras y cerdo a la oriental
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Guiso de verduras y cerdo a la oriental
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Cortar ½ kg de carne de cerdo, espolvorear con 1 cucharada de maizena y freírl
 
 
 ### Variantes
-
-
-<TODO>

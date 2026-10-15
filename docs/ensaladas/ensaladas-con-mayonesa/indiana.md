@@ -2,6 +2,7 @@
 slug: indiana
 uuid: 418aa336-ad25-4774-aad1-456eb4880c9b
 page_title: Indiana
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Indiana
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Indiana
 
 
 ### Variantes
-
-
-<TODO>

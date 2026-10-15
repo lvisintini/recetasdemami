@@ -2,6 +2,7 @@
 slug: torta-de-miel-de-monica
 uuid: 682708aa-0214-4f24-b803-38b6f236c42f
 page_title: Torta de miel de Mónica
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de miel de Mónica
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Ojo, usar una tartera más grande que de 27 cm de diámetro, de lo contrario pue
 
 
 ### Variantes
-
-
-<TODO>

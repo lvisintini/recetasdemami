@@ -2,6 +2,7 @@
 slug: flan-de-peras-y-chocolate
 uuid: 3e85c0c8-c04c-4bbd-970c-2d8b39c9474b
 page_title: Flan de peras y chocolate
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Flan de peras y chocolate
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -46,6 +47,3 @@ Una vez frías pasarlas por azúcar impalpable o bañarlas con chocolate.
 
 
 ### Variantes
-
-
-<TODO>

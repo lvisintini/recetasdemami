@@ -2,6 +2,7 @@
 slug: bruselas-calientes
 uuid: e3dd72e5-6646-4136-9f6c-1ce9323ba31f
 page_title: Bruselas calientes
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bruselas calientes
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -28,6 +29,3 @@ También queda bien con salsa holandesa.
 
 
 ### Variantes
-
-
-<TODO>

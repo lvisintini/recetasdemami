@@ -2,6 +2,7 @@
 slug: flan-de-dulce-de-leche-de-la-abuela-aurelia
 uuid: 185366e9-0d10-4ddb-ba28-ecd6905393a9
 page_title: Flan de Dulce de Leche de la abuela Aurelia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Flan de Dulce de Leche de la abuela Aurelia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Llevar al horno moderado y en baño maría durante 35 o 40 minutos.
 
 
 ### Variantes
-
-
-<TODO>

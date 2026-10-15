@@ -2,6 +2,7 @@
 slug: carne-a-la-gravy
 uuid: 81f3379e-98ec-466c-b90c-e5e4ae65a38c
 page_title: Carne a la gravy.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Carne a la gravy.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Podría agregarse: apio en rodajas finas, 1 pimiento morrón cortado chiquito, c
 
 
 ### Variantes
-
-
-<TODO>

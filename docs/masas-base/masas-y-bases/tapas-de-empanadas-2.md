@@ -2,6 +2,7 @@
 slug: tapas-de-empanadas-2
 uuid: eeef1a10-e090-4d12-841a-87c602aba96a
 page_title: Tapas de empanadas 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tapas de empanadas 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Se fríen en grasa de cerdo y se sirven calientes.
 
 
 ### Variantes
-
-
-<TODO>

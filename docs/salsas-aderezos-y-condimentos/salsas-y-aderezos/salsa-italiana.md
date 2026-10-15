@@ -2,6 +2,7 @@
 slug: salsa-italiana
 uuid: 2aae7d84-8dbc-459d-aeb2-4e0b7e84bbb0
 page_title: Salsa italiana
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa italiana
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Servir sobre pasta y esparcir queso rallado.
 
 
 ### Variantes
-
-
-<TODO>

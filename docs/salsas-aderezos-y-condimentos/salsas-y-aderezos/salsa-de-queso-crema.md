@@ -2,6 +2,7 @@
 slug: salsa-de-queso-crema
 uuid: 30d62f53-0bb4-4bb6-aa57-14cc2e58d00b
 page_title: Salsa de Queso Crema
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de Queso Crema
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

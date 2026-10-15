@@ -2,6 +2,7 @@
 slug: negroni
 uuid: 312e71f1-8139-472f-86b0-287783db373f
 page_title: Negroni
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Negroni
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ page_title: Negroni
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: spatzle
 uuid: ecd9ee0b-5bcd-42f2-a2fd-7536eb836a8f
 page_title: Spâtzle (4 personas)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Spâtzle (4 personas)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Ir cortando la masa que va cayendo en el agua hirviendo y cocinandose.
 
 
 ### Variantes
-
-
-<TODO>

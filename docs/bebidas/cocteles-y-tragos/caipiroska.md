@@ -2,6 +2,7 @@
 slug: caipiroska
 uuid: 803ba725-4311-4432-9e6d-218de68bed25
 page_title: Caipiroska
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Caipiroska
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ page_title: Caipiroska
 
 
 ### Variantes
-
-
-<TODO>

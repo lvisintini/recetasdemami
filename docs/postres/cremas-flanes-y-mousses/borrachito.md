@@ -2,6 +2,7 @@
 slug: borrachito
 uuid: 40300baf-fab3-4a2f-ab7e-1e1af12a7f0b
 page_title: Borrachito
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Borrachito
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ También se pueden invertir los postres y terminar con el de chocolate, decorand
 
 
 ### Variantes
-
-
-<TODO>

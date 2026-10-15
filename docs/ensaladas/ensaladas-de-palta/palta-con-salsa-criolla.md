@@ -2,6 +2,7 @@
 slug: palta-con-salsa-criolla
 uuid: 089dcde2-dcb2-4740-b906-48556c49e2cf
 page_title: Palta con salsa criolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Palta con salsa criolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Se puede completar con apio, lechuga, espinaca y rúcula (cama).
 
 
 ### Variantes
-
-
-<TODO>

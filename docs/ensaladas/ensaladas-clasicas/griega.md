@@ -2,6 +2,7 @@
 slug: griega
 uuid: cdb31fa6-07b8-4bb8-886b-543440fd1866
 page_title: Griega
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Griega
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Daditos de queso, oregano, daditos de jamon crudo o lomito, aceitunas negras, to
 
 
 ### Variantes
-
-
-<TODO>

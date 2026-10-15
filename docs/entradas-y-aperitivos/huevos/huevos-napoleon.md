@@ -2,6 +2,7 @@
 slug: huevos-napoleon
 uuid: c30a551c-37f6-4d0a-a55c-1ddc9f830ae5
 page_title: Huevos napoleon
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos napoleon
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Llevar al horno a 180°C por 10 a 12 minutos.
 
 
 ### Variantes
-
-
-<TODO>

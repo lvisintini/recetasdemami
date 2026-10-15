@@ -2,6 +2,7 @@
 slug: masa-para-tarteletas-saladas-o-dulces
 uuid: d2a246e8-803e-48bd-a91f-aab2de2470d4
 page_title: Masa para tarteletas saladas o dulces
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa para tarteletas saladas o dulces
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Para las dulces, se suprime la sal y la pimienta y se agregan 3 cucharadas de az
 
 
 ### Variantes
-
-
-<TODO>

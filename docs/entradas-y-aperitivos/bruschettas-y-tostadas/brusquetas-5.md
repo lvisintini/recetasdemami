@@ -2,6 +2,7 @@
 slug: brusquetas-5
 uuid: 67dc7038-243b-43ea-af4d-276412c9b0c7
 page_title: Brusquetas 5
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brusquetas 5
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Se cubren las rebanadas de pan con una capa de ½ cm de espesor y se tuestan al 
 
 
 ### Variantes
-
-
-<TODO>

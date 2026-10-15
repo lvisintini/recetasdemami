@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-a-la-milanesa
 uuid: c65f4f50-c21c-4318-a8a5-0905ed9820d1
 page_title: Coliflor o brocoli a la milanesa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Coliflor o brocoli a la milanesa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Pasarlos por huevo batido condimentado con sal y ají molido, o ajo con perejil 
 
 
 ### Variantes
-
-
-<TODO>

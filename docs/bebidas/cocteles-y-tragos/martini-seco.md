@@ -2,6 +2,7 @@
 slug: martini-seco
 uuid: 2bd3cd16-d4d2-438c-b4c6-f84782c9a235
 page_title: Martini seco
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Martini seco
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ En una copa de 90 cc:
 
 
 ### Variantes
-
-
-<TODO>

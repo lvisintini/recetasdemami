@@ -2,6 +2,7 @@
 slug: aderezo-de-soja
 uuid: 550aeae1-f11b-4879-a72c-70e0039fee52
 page_title: Aderezo de Soja
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Aderezo de Soja
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Salsa de soja, aceite de oliva y jugo de limón.
 
 
 ### Variantes
-
-
-<TODO>

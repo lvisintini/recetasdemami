@@ -2,6 +2,7 @@
 slug: chipa-de-emilia
 uuid: 5a4aa5d7-ae04-448a-8496-d52e0d47d05a
 page_title: Chipá de Emilia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chipá de Emilia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -52,6 +53,3 @@ Son los mas ricos.
 
 
 ### Variantes
-
-
-<TODO>

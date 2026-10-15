@@ -2,6 +2,7 @@
 slug: dulce-de-leche
 uuid: 4270b030-3d1e-4e96-ba7e-ff4cc3453da2
 page_title: Dulce de leche
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Dulce de leche
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -45,6 +46,3 @@ Retirarlo del fuego pero seguir revolviendo por 5 o 10 minutos más para que se 
 
 
 ### Variantes
-
-
-<TODO>

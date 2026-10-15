@@ -2,6 +2,7 @@
 slug: mojito
 uuid: b665fd43-ea17-49fb-9498-61d91d129119
 page_title: Mojito
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Mojito
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Decorar con hojitas de menta.
 
 
 ### Variantes
-
-
-<TODO>

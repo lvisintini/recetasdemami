@@ -2,6 +2,7 @@
 slug: arroz-al-curry
 uuid: f6e548c3-623e-49b5-afd0-9f35ccd9eb78
 page_title: Arroz al curry
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Arroz al curry
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Se puede espolvorear con perejil picado.
 
 
 ### Variantes
-
-
-<TODO>

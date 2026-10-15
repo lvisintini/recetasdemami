@@ -2,6 +2,7 @@
 slug: brocoli-zanahoria-pollo
 uuid: 439458ad-eb60-41d6-8cb0-0676c5b2ea7b
 page_title: Brócoli, zanahoria, pollo.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brócoli, zanahoria, pollo.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ Aderezar con 1 cucharada de aceite de oliva, pizca de sal y 3 cucharadas de sals
 
 
 ### Variantes
-
-
-<TODO>

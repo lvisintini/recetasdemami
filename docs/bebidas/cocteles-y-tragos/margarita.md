@@ -2,6 +2,7 @@
 slug: margarita
 uuid: e5ec1052-1030-47b7-b5aa-73e36162b2b8
 page_title: Margarita
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Margarita
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Humedecer el borde de la copa con jugo de limón y sal.
 
 
 ### Variantes
-
-
-<TODO>

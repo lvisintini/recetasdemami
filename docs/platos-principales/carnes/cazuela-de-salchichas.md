@@ -2,6 +2,7 @@
 slug: cazuela-de-salchichas
 uuid: 1cb21e73-ec31-4e66-a112-ede7606a88c4
 page_title: Cazuela de salchichas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cazuela de salchichas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Sal, pimienta, orégano, perejil, o la aromática que prefiera. puede agregar tr
 
 
 ### Variantes
-
-
-<TODO>

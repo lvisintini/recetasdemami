@@ -2,6 +2,7 @@
 slug: bano-de-chocolate-de-mamama
 uuid: 7ab6edff-1996-4fc5-886b-e9a4694aa408
 page_title: Baño de chocolate de mamama
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Baño de chocolate de mamama
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar, darle un hervor y bañar la torta.
 
 
 ### Variantes
-
-
-<TODO>

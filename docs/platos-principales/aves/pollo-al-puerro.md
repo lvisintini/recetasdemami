@@ -2,6 +2,7 @@
 slug: pollo-al-puerro
 uuid: f35b2d8e-fcc6-4395-8633-bf3b36f5dba2
 page_title: Pollo al puerro
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo al puerro
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -28,6 +29,3 @@ Puede agregarse ½ vaso de vino blanco.
 
 
 ### Variantes
-
-
-<TODO>

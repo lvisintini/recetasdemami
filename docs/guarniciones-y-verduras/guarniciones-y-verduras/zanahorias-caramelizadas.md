@@ -2,6 +2,7 @@
 slug: zanahorias-caramelizadas
 uuid: 12364a50-70a4-4679-9bb1-f24807666215
 page_title: Zanahorias caramelizadas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Zanahorias caramelizadas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Retirar y colocarles el perejil picado.
 
 
 ### Variantes
-
-
-<TODO>

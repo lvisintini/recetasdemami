@@ -2,6 +2,7 @@
 slug: aderezo-para-ensaladas-hermana-bernarda
 uuid: 7c878a9a-e88f-46c5-bcdb-da44a9b3e5ae
 page_title: Aderezo para ensaladas hermana Bernarda
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Aderezo para ensaladas hermana Bernarda
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

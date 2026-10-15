@@ -2,6 +2,7 @@
 slug: orange-pie
 uuid: e8b1ffff-71a7-4547-ac5c-c59aceec0bc6
 page_title: Orange pie
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Orange pie
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Cocinar hasta que tenga la consistencia adecuada.
 
 
 ### Variantes
-
-
-<TODO>

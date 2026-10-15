@@ -2,6 +2,7 @@
 slug: flan-de-dulce-de-leche-de-alcira
 uuid: fff4b27a-7e9f-4d37-9ef1-d8db1996e918
 page_title: Flan de Dulce de Leche de Alcira
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Flan de Dulce de Leche de Alcira
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Si el molde es con tubo central de 24 cm, puede demorar 1 hora a 150°C o 160°C
 
 
 ### Variantes
-
-
-<TODO>

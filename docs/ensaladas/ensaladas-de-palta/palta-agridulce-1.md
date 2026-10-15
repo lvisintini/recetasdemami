@@ -2,6 +2,7 @@
 slug: palta-agridulce-1
 uuid: 0982e350-7834-4604-a9f3-9934e6fcc599
 page_title: Palta agridulce 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Palta agridulce 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ Salsa de soja, aceite de oliva y jugo de limón.
 
 
 ### Variantes
-
-
-<TODO>

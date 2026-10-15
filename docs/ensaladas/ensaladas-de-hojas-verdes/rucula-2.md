@@ -2,6 +2,7 @@
 slug: rucula-2
 uuid: ab913491-fa3c-4582-b877-20713c48de27
 page_title: Rucula 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Rucula 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Rucula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, p
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: arroz-completa
 uuid: 32364efa-55ec-44f1-b3a8-ceb309cfbc9e
 page_title: Arroz completa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Arroz completa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Arroz completa
 
 
 ### Variantes
-
-
-<TODO>

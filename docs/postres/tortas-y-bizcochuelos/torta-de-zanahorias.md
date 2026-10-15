@@ -2,6 +2,7 @@
 slug: torta-de-zanahorias
 uuid: 209c434a-37cd-40c3-913d-8bcfa39de118
 page_title: Torta de zanahorias
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de zanahorias
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Llevar a horno precalentado de 80°C por 40 minutos.
 
 
 ### Variantes
-
-
-<TODO>

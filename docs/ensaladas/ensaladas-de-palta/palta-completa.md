@@ -2,6 +2,7 @@
 slug: palta-completa
 uuid: 5f786e06-9009-4a59-a07b-a5ae7fd770f3
 page_title: Palta completa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Palta completa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Palta, pera, queso cremoso, crema de leche, jugo de limón, almendras, salsa de 
 
 
 ### Variantes
-
-
-<TODO>

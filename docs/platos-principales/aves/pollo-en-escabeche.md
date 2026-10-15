@@ -2,6 +2,7 @@
 slug: pollo-en-escabeche
 uuid: b80a47ad-1b03-4ada-b6db-c01ae5104cd8
 page_title: Pollo en escabeche
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo en escabeche
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Hervir hasta que las zanahorias estén tiernas.
 
 
 ### Variantes
-
-
-<TODO>

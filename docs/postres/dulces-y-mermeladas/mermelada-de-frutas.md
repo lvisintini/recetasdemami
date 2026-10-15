@@ -2,6 +2,7 @@
 slug: mermelada-de-frutas
 uuid: 717551c7-28e9-4016-98fb-1eea1e9d7e12
 page_title: Mermelada de frutas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Mermelada de frutas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Si tiene color, consistencia y la fruta está blanda pero tiene pedazos grandes,
 
 
 ### Variantes
-
-
-<TODO>

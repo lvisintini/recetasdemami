@@ -2,6 +2,7 @@
 slug: coup-de-milieu-tutti-frutti
 uuid: dc3e7066-11d4-46fb-8e0a-e8a927e31199
 page_title: Coup de Milieu, Tutti Frutti
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Coup de Milieu, Tutti Frutti
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Si es necesario volver a enfriar y completar con sidra helada.
 
 
 ### Variantes
-
-
-<TODO>

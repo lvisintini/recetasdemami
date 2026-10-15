@@ -2,6 +2,7 @@
 slug: pollo-a-la-haiti
 uuid: 0665920f-c9c5-49e5-9646-25b1a847e160
 page_title: Pollo a la Haiti.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo a la Haiti.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Retirar y disponer junto a las rodajas de ananá. salsear con el fondo de cocci�
 
 
 ### Variantes
-
-
-<TODO>

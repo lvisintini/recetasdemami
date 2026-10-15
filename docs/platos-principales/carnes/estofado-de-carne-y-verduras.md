@@ -2,6 +2,7 @@
 slug: estofado-de-carne-y-verduras
 uuid: 16a75d67-c408-492c-a2f9-582470a5d5e1
 page_title: Estofado de carne y verduras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Estofado de carne y verduras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Cuando a la papa le falte poco para que esté cocida incluir las arvejas, no agr
 
 
 ### Variantes
-
-
-<TODO>

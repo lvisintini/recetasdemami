@@ -2,6 +2,7 @@
 slug: omelette
 uuid: 1915bae9-1060-4228-acc7-8266dd0f106b
 page_title: Omelette
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Omelette
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ A parte del tradicional de huevo, queso, con o sin perejil picado, sal y pimient
 
 
 ### Variantes
-
-
-<TODO>

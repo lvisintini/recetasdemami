@@ -2,6 +2,7 @@
 slug: cebollas-caramelizadas
 uuid: 959a7a4a-ee0f-44df-b248-3d1bce151eb3
 page_title: Cebollas caramelizadas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cebollas caramelizadas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ A fuego moderado, revolver frecuentemente durante 5 minutos o hasta que la cebol
 
 
 ### Variantes
-
-
-<TODO>

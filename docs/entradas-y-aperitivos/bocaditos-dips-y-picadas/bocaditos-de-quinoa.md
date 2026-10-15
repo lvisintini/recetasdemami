@@ -2,6 +2,7 @@
 slug: bocaditos-de-quinoa
 uuid: 5f16dd23-c3a4-4b2b-b451-06c0aafe655a
 page_title: Bocaditos de quinoa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bocaditos de quinoa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Salen 24 bocaditos.
 
 
 ### Variantes
-
-
-<TODO>

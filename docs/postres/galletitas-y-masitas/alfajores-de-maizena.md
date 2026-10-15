@@ -2,6 +2,7 @@
 slug: alfajores-de-maizena
 uuid: 86bf2b29-0e85-4cde-adc7-80f2a41e7b3f
 page_title: Alfajores de maizena
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Alfajores de maizena
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Una vez fríos se unen de a dos con dulce de leche, poniéndoles un poco del dul
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: galletitas-de-bicarbonato-de-amoniaco
 uuid: 3136257e-6918-4436-aea6-a67ed9a6e55b
 page_title: Galletitas de Bicarbonato de Amoniaco (CO3NH4)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Galletitas de Bicarbonato de Amoniaco (CO3NH4)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Dejar enfriar bien antes de sacarlas.
 
 
 ### Variantes
-
-
-<TODO>

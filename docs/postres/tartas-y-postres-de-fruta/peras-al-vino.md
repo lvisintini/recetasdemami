@@ -2,6 +2,7 @@
 slug: peras-al-vino
 uuid: 60e09fed-6b86-4e5a-933b-da4cac9cccf2
 page_title: Peras al vino
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Peras al vino
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Cocinar por 45 minutos aproximadamente. Retirar las peras y reducir el líquido 
 
 
 ### Variantes
-
-
-<TODO>

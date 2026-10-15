@@ -2,6 +2,7 @@
 slug: quiche-lorraine-de-luigi
 uuid: 71fa28ce-f02d-46f0-8600-d029ccd9a0f2
 page_title: Quiche lorraine de luigi.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Quiche lorraine de luigi.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -49,6 +50,3 @@ Llevar al horno caliente por 45 minutos.
 
 
 ### Variantes
-
-
-<TODO>

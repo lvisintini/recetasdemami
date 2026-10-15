@@ -2,6 +2,7 @@
 slug: pizzas-rellenas
 uuid: 85d52e6e-3bb6-4323-8471-0a6ea1b3bb15
 page_title: Pizzas rellenas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pizzas rellenas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Hornear a 190°C por 15 minutos, y proceder como con cualquier tipo de pizza, ll
 
 
 ### Variantes
-
-
-<TODO>

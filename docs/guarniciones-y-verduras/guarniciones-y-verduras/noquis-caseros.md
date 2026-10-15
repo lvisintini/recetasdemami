@@ -2,6 +2,7 @@
 slug: noquis-caseros
 uuid: 792fca3b-7a38-4fdd-af96-5c6c885dd01c
 page_title: Ñoquis caseros
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Ñoquis caseros
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Si hace falta para obtener una masa trabajable agregar manteca. hacer los choric
 
 
 ### Variantes
-
-
-<TODO>

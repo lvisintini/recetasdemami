@@ -2,6 +2,7 @@
 slug: turron-de-quaker
 uuid: ae866956-77ab-4a5a-b941-27a584000660
 page_title: Turron de quaker
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Turron de quaker
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -36,6 +37,3 @@ Poner en una fuente, una capa de la crema y una capa de galletitas criollitas
 
 
 ### Variantes
-
-
-<TODO>

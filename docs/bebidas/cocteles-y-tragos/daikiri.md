@@ -2,6 +2,7 @@
 slug: daikiri
 uuid: c297145e-4f00-4523-8ca3-4e646263dcc1
 page_title: Daikiri
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Daikiri
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Escarchar el vaso con jugo de limón y azúcar.
 
 
 ### Variantes
-
-
-<TODO>

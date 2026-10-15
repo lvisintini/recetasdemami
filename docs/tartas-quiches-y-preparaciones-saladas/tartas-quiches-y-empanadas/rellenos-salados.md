@@ -2,6 +2,7 @@
 slug: rellenos-salados
 uuid: 75c9b241-6fb8-4e48-85ac-6c41aca71f39
 page_title: Rellenos Salados
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Rellenos Salados
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -48,6 +49,3 @@ Lo que sigue es una lista de opciones, pero también se puede usar la imaginaci�
 
 
 ### Variantes
-
-
-<TODO>

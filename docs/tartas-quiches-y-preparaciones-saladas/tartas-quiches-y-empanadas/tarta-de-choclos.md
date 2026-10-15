@@ -2,6 +2,7 @@
 slug: tarta-de-choclos
 uuid: e9c9915f-55c3-4701-a027-41b9276be4cf
 page_title: Tarta de choclos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarta de choclos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Freír en aceite 1 cebolla picada, agregarle 1 lata de tomates picados y 1 lata 
 
 
 ### Variantes
-
-
-<TODO>

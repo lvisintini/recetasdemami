@@ -2,6 +2,7 @@
 slug: bruschettas-para-muchas-personas
 uuid: 2994e094-9bfb-4f42-9775-841c7a788600
 page_title: Bruschettas para muchas personas.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bruschettas para muchas personas.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
 
 
 ### Variantes
-
-
-<TODO>

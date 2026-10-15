@@ -2,6 +2,7 @@
 slug: wok-con-carne
 uuid: bc0b7e80-f5f3-4a22-9ffb-346b2526c644
 page_title: Wok con carne
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Wok con carne
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) 
 
 
 ### Variantes
-
-
-<TODO>

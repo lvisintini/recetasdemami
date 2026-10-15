@@ -2,6 +2,7 @@
 slug: sopa-crema-de-tomate
 uuid: b35bb48f-d03f-4b22-af03-572b50df4a9b
 page_title: Sopa crema de tomate
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sopa crema de tomate
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -50,6 +51,3 @@ Agregar queso crema y, por último, unos crutones y perejil picado.
 
 
 ### Variantes
-
-
-<TODO>

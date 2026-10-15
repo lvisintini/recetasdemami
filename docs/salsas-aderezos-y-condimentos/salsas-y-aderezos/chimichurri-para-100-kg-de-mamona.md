@@ -2,6 +2,7 @@
 slug: chimichurri-para-100-kg-de-mamona
 uuid: 31f71113-11f2-40aa-b63c-df82ead991e7
 page_title: Chimichurri para 100 kg de Mamona
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chimichurri para 100 kg de Mamona
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Por último agregarle la salsa y cocinar hasta que esté tierna
 
 
 ### Variantes
-
-
-<TODO>

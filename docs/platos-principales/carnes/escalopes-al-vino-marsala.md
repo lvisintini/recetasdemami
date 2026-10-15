@@ -2,6 +2,7 @@
 slug: escalopes-al-vino-marsala
 uuid: e5ab49bd-f267-4fd5-8299-1e479e125211
 page_title: Escalopes al vino Marsala.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Escalopes al vino Marsala.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Al fondo de cocción se le agrega caldo (½ taza) y ½ taza de vino marsala o bl
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: quinoa
 uuid: 0b431d3c-b56d-4909-9d83-eb14bfdb69eb
 page_title: Quinoa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Quinoa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Cocinarla en agua por 15 minutos aproximadamente: duplica su volumen y libera su
 
 
 ### Variantes
-
-
-<TODO>

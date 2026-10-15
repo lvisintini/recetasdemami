@@ -2,6 +2,7 @@
 slug: espinaca-vir
 uuid: dd22f62e-8a87-46a7-896c-6b88c69d33bf
 page_title: Espinaca Vir
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Espinaca Vir
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Espinaca, atun, zanahoria, tomate, huevo, crutones.
 
 
 ### Variantes
-
-
-<TODO>

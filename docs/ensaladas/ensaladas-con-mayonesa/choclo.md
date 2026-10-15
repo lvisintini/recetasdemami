@@ -2,6 +2,7 @@
 slug: choclo
 uuid: 4f98dc29-263c-4877-b5d8-0580fab9fa7a
 page_title: Choclo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Choclo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Choclo grano entero, nueces, apio, tomates, ciboulette, mayonesa, jugo limón, p
 
 
 ### Variantes
-
-
-<TODO>

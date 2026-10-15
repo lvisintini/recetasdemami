@@ -2,6 +2,7 @@
 slug: chucrut
 uuid: 5c0aeef2-2ac0-449e-ac59-99187fc0034b
 page_title: Chucrut
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chucrut
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Completar con salchichas alemanas y papas hervidas, también puede ser con carne
 
 
 ### Variantes
-
-
-<TODO>

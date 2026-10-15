@@ -2,6 +2,7 @@
 slug: champinones-en-escabeche-de-maria-rosa
 uuid: b47d242a-7e46-4dad-b69e-60c89735e07f
 page_title: Champiñones en escabeche de Maria Rosa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Champiñones en escabeche de Maria Rosa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -56,6 +57,3 @@ Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser su
 
 
 ### Variantes
-
-
-<TODO>

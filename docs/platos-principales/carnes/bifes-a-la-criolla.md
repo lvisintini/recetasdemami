@@ -2,6 +2,7 @@
 slug: bifes-a-la-criolla
 uuid: 68aa6d2d-93a2-42ae-9130-016537266745
 page_title: Bifes a la criolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bifes a la criolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Tengo entendido que se puede cocinar también en el horno durante
 
 
 ### Variantes
-
-
-<TODO>

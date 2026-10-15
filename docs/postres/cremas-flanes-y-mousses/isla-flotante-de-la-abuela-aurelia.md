@@ -2,6 +2,7 @@
 slug: isla-flotante-de-la-abuela-aurelia
 uuid: c58fbce7-0be3-4e31-9a25-cd6ab0392df7
 page_title: Isla flotante de la Abuela Aurelia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Isla flotante de la Abuela Aurelia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -54,6 +55,3 @@ Batir, cocinar a baño maría hasta espesar. Que no hierva.
 
 
 ### Variantes
-
-
-<TODO>

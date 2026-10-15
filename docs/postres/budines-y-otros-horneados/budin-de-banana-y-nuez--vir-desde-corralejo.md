@@ -2,6 +2,7 @@
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
 uuid: 8782f1bc-39c4-4e1f-a187-df0a4f19bdad
 page_title: Budín de banana y nuez (y chocolate). Vir desde corralejo.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Budín de banana y nuez (y chocolate). Vir desde corralejo.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -48,6 +49,3 @@ Bañar con un glaseado de jugo de limón y azúcar impalpable.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: chutney
 uuid: 97ec9c39-c809-4e84-bf78-51dd703fd37d
 page_title: Chutney
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chutney
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -44,6 +45,3 @@ Picar todos los ingredientes, poner en la hornalla y reducir hasta que tome la c
 
 
 ### Variantes
-
-
-<TODO>

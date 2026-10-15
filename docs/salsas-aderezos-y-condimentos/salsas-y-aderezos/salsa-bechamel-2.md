@@ -2,6 +2,7 @@
 slug: salsa-bechamel-2
 uuid: e8aad0a8-c14d-4a86-8712-c8a9d3722776
 page_title: Salsa Bechamel 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Bechamel 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ La diferencia entre salsa blanca y bechamel es que la primera se hace con leche.
 
 
 ### Variantes
-
-
-<TODO>

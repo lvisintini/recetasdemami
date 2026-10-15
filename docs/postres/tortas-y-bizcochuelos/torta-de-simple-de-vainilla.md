@@ -2,6 +2,7 @@
 slug: torta-de-simple-de-vainilla
 uuid: be22e580-1d32-4e71-8d7a-a072f922ff9c
 page_title: Torta de simple de vainilla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de simple de vainilla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Apagar el horno pero dejar la torta dentro unos minutos para que no se aplaste.
 
 
 ### Variantes
-
-
-<TODO>

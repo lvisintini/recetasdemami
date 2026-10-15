@@ -2,6 +2,7 @@
 slug: criolla
 uuid: c7bdc20d-46ba-47bb-b440-e5652db908fe
 page_title: Criolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Criolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Tomates, pimientos, cebollas, ajo, perejil, sal, aceite, vinagre.
 
 
 ### Variantes
-
-
-<TODO>

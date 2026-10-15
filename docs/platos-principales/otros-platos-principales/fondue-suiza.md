@@ -2,6 +2,7 @@
 slug: fondue-suiza
 uuid: ff7ab9aa-11cc-44e4-bc4d-d4fb342a5adf
 page_title: Fondue suiza
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Fondue suiza
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Frotar el interior de un recipiente de barro con un diente de ajo, cortar los qu
 
 
 ### Variantes
-
-
-<TODO>

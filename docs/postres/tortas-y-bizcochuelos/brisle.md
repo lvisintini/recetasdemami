@@ -2,6 +2,7 @@
 slug: brisle
 uuid: c6c0e2c4-0835-4a86-9843-40483906c2e9
 page_title: Brisle
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brisle
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ page_title: Brisle
 
 
 ### Variantes
-
-
-<TODO>

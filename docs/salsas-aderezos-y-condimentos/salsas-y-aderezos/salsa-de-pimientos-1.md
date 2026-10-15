@@ -2,6 +2,7 @@
 slug: salsa-de-pimientos-1
 uuid: b99662b7-4398-43cb-ac1e-74fc59d6803d
 page_title: Salsa de Pimientos 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de Pimientos 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

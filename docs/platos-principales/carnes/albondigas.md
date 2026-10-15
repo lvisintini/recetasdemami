@@ -2,6 +2,7 @@
 slug: albondigas
 uuid: a94a511f-9f0b-4427-9386-51bc50ae3acf
 page_title: Albondigas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Albondigas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Freírlas o cocinarlas en salsa.
 
 
 ### Variantes
-
-
-<TODO>

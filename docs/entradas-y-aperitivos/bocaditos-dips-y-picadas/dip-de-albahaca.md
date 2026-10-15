@@ -2,6 +2,7 @@
 slug: dip-de-albahaca
 uuid: cebd58e0-a78f-4a8a-857b-e0486b2ae182
 page_title: Dip de Albahaca
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Dip de Albahaca
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Mezclar mayonesa y albahaca picada
 
 
 ### Variantes
-
-
-<TODO>

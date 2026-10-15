@@ -2,6 +2,7 @@
 slug: ron-naranja
 uuid: ba01d062-1dbf-407c-9b95-aa9ab1decbe7
 page_title: Ron-naranja
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Ron-naranja
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ page_title: Ron-naranja
 
 
 ### Variantes
-
-
-<TODO>

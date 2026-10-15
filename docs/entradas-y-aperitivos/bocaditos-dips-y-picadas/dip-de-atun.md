@@ -2,6 +2,7 @@
 slug: dip-de-atun
 uuid: 581c17a7-070d-4fc2-9dd1-e2363c61a33b
 page_title: Dip de atun
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Dip de atun
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

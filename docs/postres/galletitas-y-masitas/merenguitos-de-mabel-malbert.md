@@ -2,6 +2,7 @@
 slug: merenguitos-de-mabel-malbert
 uuid: 603fd494-2bf4-4b2f-9d9f-4d70e8c02bbb
 page_title: Merenguitos de Mabel Malbert
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Merenguitos de Mabel Malbert
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -42,6 +43,3 @@ Para hacer coquitos, se le puede agregar 200 gr de coco rallado.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: masa-para-crepes
 uuid: 8c10096f-b9d2-4ff5-9032-073b1f8f7671
 page_title: Masa para crepes
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa para crepes
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Llevar a la heladera por 1 hora antes de cocinarlos.
 
 
 ### Variantes
-
-
-<TODO>

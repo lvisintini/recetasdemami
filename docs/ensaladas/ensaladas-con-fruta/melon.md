@@ -2,6 +2,7 @@
 slug: melon
 uuid: 8deba576-8eb7-4db7-8240-582cecc2121b
 page_title: Melon
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Melon
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ melon, lechuga, cibulette.
 
 
 ### Variantes
-
-
-<TODO>

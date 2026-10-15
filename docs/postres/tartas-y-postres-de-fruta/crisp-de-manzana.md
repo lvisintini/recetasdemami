@@ -2,6 +2,7 @@
 slug: crisp-de-manzana
 uuid: cb89428f-a4ca-4bb4-b4d5-83cd875dd375
 page_title: Crisp de manzana (crujiente de manzanas)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crisp de manzana (crujiente de manzanas)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Llevar a horno hasta que la avena se dore.
 
 
 ### Variantes
-
-
-<TODO>

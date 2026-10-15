@@ -2,6 +2,7 @@
 slug: guacamole-1
 uuid: 17a789b8-a5d5-4031-a4a2-b07f03b96fe0
 page_title: Guacamole 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Guacamole 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Guacamole 1
 
 
 ### Variantes
-
-
-<TODO>

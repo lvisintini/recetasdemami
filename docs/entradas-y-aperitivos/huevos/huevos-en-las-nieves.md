@@ -2,6 +2,7 @@
 slug: huevos-en-las-nieves
 uuid: 6d2c5327-4d5e-4631-bf6f-7e3457c54379
 page_title: Huevos en las nieves
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos en las nieves
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en
 
 
 ### Variantes
-
-
-<TODO>

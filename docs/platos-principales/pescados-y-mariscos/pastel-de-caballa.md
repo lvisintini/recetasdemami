@@ -2,6 +2,7 @@
 slug: pastel-de-caballa
 uuid: a981c973-0388-4227-bfd9-53205da687e6
 page_title: Pastel de caballa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pastel de caballa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Para la masa: como la de la torta de queso y cebolla u otra. siempre precocinar 
 
 
 ### Variantes
-
-
-<TODO>

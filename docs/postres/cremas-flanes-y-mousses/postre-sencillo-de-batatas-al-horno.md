@@ -2,6 +2,7 @@
 slug: postre-sencillo-de-batatas-al-horno
 uuid: c7222c6a-ec9f-4a82-a059-c5503b39a932
 page_title: Postre sencillo de batatas al horno
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Postre sencillo de batatas al horno
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Llevar 1 hora en horno moderado.
 
 
 ### Variantes
-
-
-<TODO>

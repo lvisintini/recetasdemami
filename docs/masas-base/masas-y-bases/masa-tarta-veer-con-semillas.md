@@ -2,6 +2,7 @@
 slug: masa-tarta-veer-con-semillas
 uuid: efecbb58-9b7d-40d4-91f9-ac1aecdb77e5
 page_title: Masa tarta Veer. Con semillas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa tarta Veer. Con semillas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Mezclar harina, sal y semillas, agregar el aceite, unir lo que resta con la lech
 
 
 ### Variantes
-
-
-<TODO>

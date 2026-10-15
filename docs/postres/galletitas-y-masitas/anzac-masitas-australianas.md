@@ -2,6 +2,7 @@
 slug: anzac-masitas-australianas
 uuid: 3308be82-3456-41e1-846f-470fc436facd
 page_title: Anzac, masitas australianas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Anzac, masitas australianas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -50,6 +51,3 @@ Dejar entibiar (al principio están muy blandas y se pueden quebrar, utilizar es
 
 
 ### Variantes
-
-
-<TODO>

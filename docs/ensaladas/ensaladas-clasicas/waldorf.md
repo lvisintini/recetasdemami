@@ -2,6 +2,7 @@
 slug: waldorf
 uuid: 924265ba-456e-4fe6-9f6f-6fde40ec8290
 page_title: Waldorf
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Waldorf
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Apio, manzana, nueces, aceite, limón, mayonesa.
 
 
 ### Variantes
-
-
-<TODO>

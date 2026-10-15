@@ -2,6 +2,7 @@
 slug: sorpresa-agridulce-anana-y-lomito
 uuid: 3da6e5de-aa1d-44c3-9a87-ae865c5fbf42
 page_title: Sorpresa agridulce ananá y lomito
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sorpresa agridulce ananá y lomito
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Se colocan las rodajas de lomito intercaladas con las de ananá y se termina el 
 
 
 ### Variantes
-
-
-<TODO>

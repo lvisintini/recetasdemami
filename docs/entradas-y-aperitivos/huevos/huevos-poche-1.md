@@ -2,6 +2,7 @@
 slug: huevos-poche-1
 uuid: 03ead31a-a137-46a5-a85a-345de849fb38
 page_title: Huevos poche 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos poche 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ También se puede colocar el huevo condimentado en una bolsita de nylon cerrada 
 
 
 ### Variantes
-
-
-<TODO>

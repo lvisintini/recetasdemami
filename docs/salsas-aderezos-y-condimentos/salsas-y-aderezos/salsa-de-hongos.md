@@ -2,6 +2,7 @@
 slug: salsa-de-hongos
 uuid: 9d2c2766-0417-406a-a563-cca690be8eff
 page_title: Salsa de hongos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de hongos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Para espesar, si es necesario, agregar una cucharada de maizena.
 
 
 ### Variantes
-
-
-<TODO>

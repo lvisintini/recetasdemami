@@ -2,6 +2,7 @@
 slug: lentejas
 uuid: 2bf45f4c-bbeb-496d-96c9-7e32b1c12bc3
 page_title: Lentejas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Lentejas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -28,6 +29,3 @@ Lentejas, zanahorias ralladas, pimiento asado en tiritas, queso rallado, mayones
 
 
 ### Variantes
-
-
-<TODO>

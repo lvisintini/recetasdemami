@@ -2,6 +2,7 @@
 slug: guiso-de-repollo
 uuid: 1db69f93-1f7d-4ae0-bf12-383655bfc997
 page_title: Guiso de repollo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Guiso de repollo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con c
 
 
 ### Variantes
-
-
-<TODO>

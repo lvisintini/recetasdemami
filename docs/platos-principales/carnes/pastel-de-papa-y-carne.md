@@ -2,6 +2,7 @@
 slug: pastel-de-papa-y-carne
 uuid: c054c0ed-4ea7-4487-80ea-f7f4593777cf
 page_title: Pastel de papa y carne
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pastel de papa y carne
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ En una fuente colocar la preparación, y sobre esta, un puré hecho con 4 papas 
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: crema-pastelera-de-la-abuela-pata
 uuid: a23a0b67-6a10-442b-8f0a-f34585bce3da
 page_title: Crema pastelera de la abuela Pata
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema pastelera de la abuela Pata
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ El caramelo se hace con 4 cucharadas colmadas de azúcar apenas cubiertas de agu
 
 
 ### Variantes
-
-
-<TODO>

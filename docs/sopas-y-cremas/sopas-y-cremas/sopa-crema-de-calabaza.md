@@ -2,6 +2,7 @@
 slug: sopa-crema-de-calabaza
 uuid: 3e8ce37d-f813-4a7f-b9ce-770221dcb196
 page_title: Sopa crema de calabaza
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sopa crema de calabaza
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -42,6 +43,3 @@ Servir decorado con perejil picado y semillas de calabaza tostadas.
 
 
 ### Variantes
-
-
-<TODO>

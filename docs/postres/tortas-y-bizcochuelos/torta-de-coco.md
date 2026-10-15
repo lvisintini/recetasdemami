@@ -2,6 +2,7 @@
 slug: torta-de-coco
 uuid: 54ea957e-a20e-44f8-ac04-7dbd11f54292
 page_title: Torta de coco
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de coco
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -44,6 +45,3 @@ Y al horno.
 
 
 ### Variantes
-
-
-<TODO>

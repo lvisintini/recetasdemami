@@ -2,6 +2,7 @@
 slug: flammkuchen
 uuid: fc6cf196-2838-4b52-a4bd-b0e9e24acc18
 page_title: Flammkuchen
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Flammkuchen
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -48,6 +49,3 @@ Arrollar la masa y llevar al horno a fuego moderado hasta que se dore. cuando se
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: zanahorias-a-la-vichy
 uuid: f5295a4c-14ef-4c79-a53e-85edb49582bf
 page_title: Zanahorias a la Vichy
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Zanahorias a la Vichy
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Es para acompañar carnes o servirla con puré de papas.
 
 
 ### Variantes
-
-
-<TODO>

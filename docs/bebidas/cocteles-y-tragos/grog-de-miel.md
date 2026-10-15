@@ -2,6 +2,7 @@
 slug: grog-de-miel
 uuid: c2f77caa-46d8-4931-9e56-7483199a41de
 page_title: Grog de miel
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Grog de miel
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ En un vaso poner:
 
 
 ### Variantes
-
-
-<TODO>

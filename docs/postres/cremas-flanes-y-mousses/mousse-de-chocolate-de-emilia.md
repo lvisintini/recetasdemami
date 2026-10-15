@@ -2,6 +2,7 @@
 slug: mousse-de-chocolate-de-emilia
 uuid: 2c0db0f0-9f3c-42c9-8044-969589ee83f2
 page_title: Mousse de chocolate de Emilia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Mousse de chocolate de Emilia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ page_title: Mousse de chocolate de Emilia
 
 
 ### Variantes
-
-
-<TODO>

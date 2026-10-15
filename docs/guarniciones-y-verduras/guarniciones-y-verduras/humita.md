@@ -2,6 +2,7 @@
 slug: humita
 uuid: e15dd424-5358-4443-936b-917952ebe043
 page_title: Humita
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Humita
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Los doraditos de cebolla (brownie de cebolla) son ideales para acompañarla.
 
 
 ### Variantes
-
-
-<TODO>

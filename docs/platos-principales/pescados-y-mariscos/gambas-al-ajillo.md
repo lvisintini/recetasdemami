@@ -2,6 +2,7 @@
 slug: gambas-al-ajillo
 uuid: aa290aa3-4dca-4a58-9e18-cb2494e0118a
 page_title: Gambas al ajillo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Gambas al ajillo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Freír los ajos a fuego medio y retirarlos antes de dorarse y apagar el fuego. p
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: besitos---friche-de-renato
 uuid: dda1b839-1a78-4308-bc02-de542a773d9f
 page_title: Besitos - friche de Renato
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Besitos - friche de Renato
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -36,6 +37,3 @@ Freír con grasa de cerdo
 
 
 ### Variantes
-
-
-<TODO>

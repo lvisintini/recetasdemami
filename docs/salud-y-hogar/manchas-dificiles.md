@@ -2,6 +2,7 @@
 slug: manchas-dificiles
 uuid: c075d4c7-94af-4ce8-955d-386296a343a2
 page_title: Manchas difíciles
+curated: true
 ---
 
 {nav}

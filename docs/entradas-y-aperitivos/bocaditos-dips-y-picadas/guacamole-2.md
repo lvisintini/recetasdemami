@@ -2,6 +2,7 @@
 slug: guacamole-2
 uuid: 58e7a29d-469e-4c11-b440-854806e8a6c2
 page_title: Guacamole 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Guacamole 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Mezclar:
 
 
 ### Variantes
-
-
-<TODO>

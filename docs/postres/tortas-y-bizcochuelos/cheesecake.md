@@ -2,6 +2,7 @@
 slug: cheesecake
 uuid: 38b7ff0e-ffb5-45ff-a933-3111508365aa
 page_title: Cheesecake
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cheesecake
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Se puede suprimir la gelatina y reemplazarla por 4 claras batidas a punto de nie
 
 
 ### Variantes
-
-
-<TODO>

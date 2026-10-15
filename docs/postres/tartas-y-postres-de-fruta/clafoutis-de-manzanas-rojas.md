@@ -2,6 +2,7 @@
 slug: clafoutis-de-manzanas-rojas
 uuid: 98a65110-b928-4db5-b795-e45dab77f7a8
 page_title: Clafoutis de manzanas rojas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Clafoutis de manzanas rojas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -44,6 +45,3 @@ Espolvorear con abundante azúcar impalpable y servir.
 
 
 ### Variantes
-
-
-<TODO>

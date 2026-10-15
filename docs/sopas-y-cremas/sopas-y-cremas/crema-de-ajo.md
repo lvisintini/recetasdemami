@@ -2,6 +2,7 @@
 slug: crema-de-ajo
 uuid: 6e350b4d-bd35-47d5-b3fe-af9e54795bc8
 page_title: Crema de Ajo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema de Ajo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ page_title: Crema de Ajo
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: hueso-perdido
 uuid: e6f9825c-42fc-4f1c-a8e4-6caa2c9203c4
 page_title: Hueso perdido
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Hueso perdido
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ naranja, cebolla (previamente pasada por agua caliente) o ciboulette, zanahoria,
 
 
 ### Variantes
-
-
-<TODO>

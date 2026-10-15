@@ -2,6 +2,7 @@
 slug: spekulatius
 uuid: ff79da46-3d6c-4518-97a8-d49b22ede5cb
 page_title: Spekulatius
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Spekulatius
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -62,6 +63,3 @@ Llevar al horno a 180°C por 10 minutos. Dejar entibiar antes de retirarlas.
 
 
 ### Variantes
-
-
-<TODO>

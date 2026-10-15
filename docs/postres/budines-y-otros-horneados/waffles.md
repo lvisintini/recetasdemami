@@ -2,6 +2,7 @@
 slug: waffles
 uuid: 6e9ffdad-a201-454c-84a8-240c476c1dbc
 page_title: Waffles
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Waffles
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -42,6 +43,3 @@ page_title: Waffles
 
 
 ### Variantes
-
-
-<TODO>

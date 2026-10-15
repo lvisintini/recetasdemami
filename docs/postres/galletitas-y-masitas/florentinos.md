@@ -2,6 +2,7 @@
 slug: florentinos
 uuid: 59caa3ed-ec9c-4e17-be73-7fe57a0c38e3
 page_title: Florentinos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Florentinos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -52,6 +53,3 @@ Llevarlos a la heladera hasta que se solidifique el chocolate.
 
 
 ### Variantes
-
-
-<TODO>

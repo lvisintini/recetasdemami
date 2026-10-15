@@ -2,6 +2,7 @@
 slug: egg-sour
 uuid: c681e74b-354c-4452-a258-004da4b27d15
 page_title: Egg sour
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Egg sour
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Se sirve frío y con una rodaja de naranja.
 
 
 ### Variantes
-
-
-<TODO>

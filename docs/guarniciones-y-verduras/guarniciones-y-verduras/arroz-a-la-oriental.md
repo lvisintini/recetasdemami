@@ -2,6 +2,7 @@
 slug: arroz-a-la-oriental
 uuid: 3a95734a-daab-4ecc-89bb-e0248656ea94
 page_title: Arroz a la oriental
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Arroz a la oriental
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Hervir el arroz 10 minutos y pasarlo por agua fría, en la sartén con aceite fr
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: chips-para-dips
 uuid: 44fa8cc4-7903-4bf1-8fa2-c486309789c3
 page_title: Chips para dips
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chips para dips
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Usar los crepes, cortarlos en 32 triángulos. ponerlos en molde sobre papel mant
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: salsa-criolla
 uuid: 7a869ec7-62b8-4a42-a5b3-1f509df6bd31
 page_title: Salsa criolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa criolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ page_title: Salsa criolla
 
 
 ### Variantes
-
-
-<TODO>

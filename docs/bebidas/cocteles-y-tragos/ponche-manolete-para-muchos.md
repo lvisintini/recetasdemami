@@ -2,6 +2,7 @@
 slug: ponche-manolete-para-muchos
 uuid: be0ea23f-3a2a-4fa9-887a-890d8807cc31
 page_title: Ponche Manolete para muchos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Ponche Manolete para muchos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -36,6 +37,3 @@ Cuando esté bien helado agregar 1 litro de champán y servir con trocitos de fr
 
 
 ### Variantes
-
-
-<TODO>

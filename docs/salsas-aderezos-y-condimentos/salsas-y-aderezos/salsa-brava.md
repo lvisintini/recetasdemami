@@ -2,6 +2,7 @@
 slug: salsa-brava
 uuid: e72e155a-3950-42c8-b248-7f3335ce0dd0
 page_title: Salsa Brava
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Brava
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Cocinar reduciendo a la mitad.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: coliflor-y-naranjas
 uuid: 7bf7775f-c830-499c-90b3-39b55417e32c
 page_title: Coliflor y naranjas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Coliflor y naranjas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Servir tibio.
 
 
 ### Variantes
-
-
-<TODO>

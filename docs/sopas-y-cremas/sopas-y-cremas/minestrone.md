@@ -2,6 +2,7 @@
 slug: minestrone
 uuid: d4b1e916-aece-404f-b57f-d3af130551ab
 page_title: Minestrone
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Minestrone
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -49,6 +50,3 @@ Por último colocar aceite de oliva, crutones y queso rallado.
 
 
 ### Variantes
-
-
-<TODO>

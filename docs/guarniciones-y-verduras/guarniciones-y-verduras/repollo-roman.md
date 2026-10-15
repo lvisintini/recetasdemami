@@ -2,6 +2,7 @@
 slug: repollo-roman
 uuid: 46614a0f-896e-4262-90bd-516f1dc78d27
 page_title: Repollo Roman (bisabuelo)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Repollo Roman (bisabuelo)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Freir 1 cebolla, 100 de panceta, 1 zanahoria, 1 apio, 1 diente de ajo, todo en j
 
 
 ### Variantes
-
-
-<TODO>

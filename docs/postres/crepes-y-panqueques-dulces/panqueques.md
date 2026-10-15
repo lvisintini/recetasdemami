@@ -2,6 +2,7 @@
 slug: panqueques
 uuid: d0b2c5f7-6e84-498b-95fc-126c227bc0cb
 page_title: Panqueques (finitos)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Panqueques (finitos)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ page_title: Panqueques (finitos)
 
 
 ### Variantes
-
-
-<TODO>

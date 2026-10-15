@@ -2,6 +2,7 @@
 slug: pesto
 uuid: 76795864-956d-4951-88e0-217be089cbbe
 page_title: Pesto
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pesto
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: masa-quebrada
 uuid: 7e9751fe-cb51-476b-a49f-b5c3cc983bb3
 page_title: Masa quebrada
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa quebrada
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Para molde grande: 500 gr harina, 250 gr manteca fría, ½ cucharadita sal, 1 hu
 
 
 ### Variantes
-
-
-<TODO>

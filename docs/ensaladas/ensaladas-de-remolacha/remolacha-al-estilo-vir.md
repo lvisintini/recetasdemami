@@ -2,6 +2,7 @@
 slug: remolacha-al-estilo-vir
 uuid: 9b6560da-35e8-4687-a54a-94f10452120e
 page_title: Remolacha al estilo Vir
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Remolacha al estilo Vir
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Remolacha, huevo duro, zanahoria rallada y salsa golf.
 
 
 ### Variantes
-
-
-<TODO>

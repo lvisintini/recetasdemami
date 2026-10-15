@@ -2,6 +2,7 @@
 slug: pollo
 uuid: a513459b-9c3d-455a-a90f-14f3c21e34e4
 page_title: Pollo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ Pollo, queso mantecoso, ajo, lechuga mantecosa, jamón cocido, tomates, huevo du
 
 
 ### Variantes
-
-
-<TODO>

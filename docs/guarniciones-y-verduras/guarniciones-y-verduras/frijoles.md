@@ -2,6 +2,7 @@
 slug: frijoles
 uuid: dda3c0ec-8246-418d-b37d-8ec9f9070f57
 page_title: Frijoles
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Frijoles
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Puede agregarse ½ kg de carne de cerdo en cubitos, previamente sellados.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: daikiri-de-frutilla-6-and-6
 uuid: 6e61968b-b03e-4214-ae52-4834297b37c4
 page_title: Daikiri de frutilla 6 and 6
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Daikiri de frutilla 6 and 6
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ page_title: Daikiri de frutilla 6 and 6
 
 
 ### Variantes
-
-
-<TODO>

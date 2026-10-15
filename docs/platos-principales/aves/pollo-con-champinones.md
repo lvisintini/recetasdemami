@@ -2,6 +2,7 @@
 slug: pollo-con-champinones
 uuid: 0f365373-dec4-4a92-9bfd-70b3560599ef
 page_title: Pollo con champiñones
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo con champiñones
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Condimentar con sal, pimienta, ajo picado, y orégano las presas de pollo. dorar
 
 
 ### Variantes
-
-
-<TODO>

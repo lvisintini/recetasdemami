@@ -2,6 +2,7 @@
 slug: carrot-cake
 uuid: 66c4eac1-f99c-4885-88e9-cebae78cb6a7
 page_title: Carrot cake
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Carrot cake
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -56,6 +57,3 @@ Poner en la heladera hasta el momento de rellenar.
 
 
 ### Variantes
-
-
-<TODO>

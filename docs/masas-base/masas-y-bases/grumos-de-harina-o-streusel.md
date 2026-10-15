@@ -2,6 +2,7 @@
 slug: grumos-de-harina-o-streusel
 uuid: 00e8a72f-f6c3-4dd6-b565-b17e8c16c036
 page_title: Grumos de harina o streusel
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Grumos de harina o streusel
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Son mas ricos los grumos de avena,
 
 
 ### Variantes
-
-
-<TODO>

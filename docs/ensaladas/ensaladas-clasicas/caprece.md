@@ -2,6 +2,7 @@
 slug: caprece
 uuid: 629efaab-35bc-4249-84d9-c60a3cbb3c62
 page_title: Caprece
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Caprece
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ tomate, aceitunas negras, daditos de queso, albahaca, aceite de oliva, vinagre y
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: repollo-en-torrejas-de-enrique-sereno
 uuid: 50bca583-052d-4a6e-af72-ab824ec673b5
 page_title: Repollo en torrejas de Enrique Sereno
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Repollo en torrejas de Enrique Sereno
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Escurrir el repollo y agregarle la cebolla, 2 huevos, sal, pimienta, ½ taza de 
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: torre-de-panqueques-o-piononos
 uuid: e372d7a9-5a4d-47ff-8f14-5b635acb5d1e
 page_title: Torre de panqueques o piononos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torre de panqueques o piononos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Usar cualquiera de los rellenos salados
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: pisco-sour
 uuid: c97e175c-4b39-4e96-809f-4d7e4d134043
 page_title: Pisco sour
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pisco sour
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Batir:
 
 
 ### Variantes
-
-
-<TODO>

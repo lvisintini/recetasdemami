@@ -2,6 +2,7 @@
 slug: tortas-fritas
 uuid: 2b5c2bc5-9bc4-4b6b-8d8a-0a052cdcfe3c
 page_title: Tortas fritas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tortas fritas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -46,6 +47,3 @@ Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
 
 
 ### Variantes
-
-
-<TODO>

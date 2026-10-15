@@ -2,6 +2,7 @@
 slug: salsa-de-queso-1
 uuid: 7b230378-d69e-464e-899e-353d5f6d1f52
 page_title: Salsa de queso 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de queso 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Condimentar con sal, pimienta y ½ cucharadita de mostaza.
 
 
 ### Variantes
-
-
-<TODO>

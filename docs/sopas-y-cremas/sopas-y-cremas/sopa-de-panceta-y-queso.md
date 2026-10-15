@@ -2,6 +2,7 @@
 slug: sopa-de-panceta-y-queso
 uuid: b32bbb0b-edae-4251-9fcb-84b4aaad34cb
 page_title: Sopa de panceta y queso
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sopa de panceta y queso
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -42,6 +43,3 @@ Servir hirviendo, en 10 bowls y en cada uno agregar un trozo de queso reblochon 
 
 
 ### Variantes
-
-
-<TODO>

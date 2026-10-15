@@ -2,6 +2,7 @@
 slug: postre-chocolino
 uuid: 3c5cb7af-6cf7-4b15-9f59-104c1e08b538
 page_title: Postre Chocolino
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Postre Chocolino
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Llevar por 3 horas a la heladera.
 
 
 ### Variantes
-
-
-<TODO>

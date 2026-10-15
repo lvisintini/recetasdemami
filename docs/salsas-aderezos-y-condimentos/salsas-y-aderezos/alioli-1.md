@@ -2,6 +2,7 @@
 slug: alioli-1
 uuid: b26eb0a1-ad84-4b37-b988-35304206fc88
 page_title: Alioli 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Alioli 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

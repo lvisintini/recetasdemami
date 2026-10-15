@@ -2,6 +2,7 @@
 slug: masitas-de-los-chicos
 uuid: c4a7335c-6fb7-4946-8fa8-b2db3dcbabe4
 page_title: Masitas de los chicos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masitas de los chicos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -62,6 +63,3 @@ Salen 83 masitas de 5 cm de diametro.
 
 
 ### Variantes
-
-
-<TODO>

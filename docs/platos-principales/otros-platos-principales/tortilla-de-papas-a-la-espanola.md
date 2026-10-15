@@ -2,6 +2,7 @@
 slug: tortilla-de-papas-a-la-espanola
 uuid: 530f588d-b378-46ea-9024-c381a712369c
 page_title: Tortilla de papas a la española
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tortilla de papas a la española
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Retirar y colocar todo en un bol, junto con arvejas, queso rallado, sal, pimient
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: zapallitos-crudos
 uuid: 9d633deb-4828-4543-be47-b02979b71daa
 page_title: Zapallitos crudos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Zapallitos crudos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Zapallitos rallados grueso, tomates cherry cortados al medio, aceitunas negras d
 
 
 ### Variantes
-
-
-<TODO>

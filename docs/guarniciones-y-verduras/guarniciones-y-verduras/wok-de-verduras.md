@@ -2,6 +2,7 @@
 slug: wok-de-verduras
 uuid: cd878a78-85c0-488e-bd0d-6fe0c40a6f7a
 page_title: Wok de verduras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Wok de verduras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ En el elemento wok o en una sartén bien caliente incorporar aceite de oliva, aj
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: salsa-de-queso-2
 uuid: 702c9b7d-037e-437a-a771-b0dfb421bcae
 page_title: Salsa de queso 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de queso 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Condimentar y servir.
 
 
 ### Variantes
-
-
-<TODO>

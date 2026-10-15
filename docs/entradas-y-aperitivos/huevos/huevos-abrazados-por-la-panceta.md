@@ -2,6 +2,7 @@
 slug: huevos-abrazados-por-la-panceta
 uuid: 45a0135b-a49b-4e2f-b196-b866671dd6e8
 page_title: Huevos abrazados por la panceta
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos abrazados por la panceta
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Ideal para hacer para varias personas (6)
 
 
 ### Variantes
-
-
-<TODO>

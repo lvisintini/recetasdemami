@@ -2,6 +2,7 @@
 slug: bomba-de-papa-y-queso
 uuid: 5f737e8c-df84-4c5d-8ceb-13883cd80ad7
 page_title: Bomba de papa y queso
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bomba de papa y queso
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Servir caliente.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: crema-de-whisky
 uuid: f39ecbb8-11b5-4bb1-8c5a-db6ce3071832
 page_title: Crema de whisky
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema de whisky
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ page_title: Crema de whisky
 
 
 ### Variantes
-
-
-<TODO>

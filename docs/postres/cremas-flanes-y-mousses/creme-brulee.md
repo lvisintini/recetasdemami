@@ -2,6 +2,7 @@
 slug: creme-brulee
 uuid: 41486d12-01a3-4e6a-9a4c-5ef56f854429
 page_title: Creme brulee
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Creme brulee
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -46,6 +47,3 @@ Adicional colocar al costado ralladura de limón.
 
 
 ### Variantes
-
-
-<TODO>

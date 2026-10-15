@@ -2,6 +2,7 @@
 slug: mollejas-y-hongos
 uuid: 521272ad-f56f-488c-9ddd-006d35532860
 page_title: Mollejas y hongos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Mollejas y hongos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Mollejas y hongos doraditos a la parrilla con rúcula, aceite oliva, vinagre y s
 
 
 ### Variantes
-
-
-<TODO>

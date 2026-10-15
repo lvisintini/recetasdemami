@@ -2,6 +2,7 @@
 slug: galletitas-con-chispitas-de-chocolate
 uuid: 9008d06a-6354-4811-ac69-cf85728c046f
 page_title: Galletitas con chispitas de chocolate
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Galletitas con chispitas de chocolate
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -44,6 +45,3 @@ Dejar enfriar en el horno.
 
 
 ### Variantes
-
-
-<TODO>

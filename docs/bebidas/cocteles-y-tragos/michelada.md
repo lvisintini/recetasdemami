@@ -2,6 +2,7 @@
 slug: michelada
 uuid: 9a448327-74d8-413e-a384-11b52ec0f955
 page_title: Michelada
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Michelada
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ page_title: Michelada
 
 
 ### Variantes
-
-
-<TODO>

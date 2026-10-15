@@ -2,6 +2,7 @@
 slug: alioli-2
 uuid: c6627db5-47c4-4563-8672-9005e51e65bd
 page_title: Alioli 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Alioli 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Poner los dientes de ajo en el horno por 10 minutos, al sacarlos, apretarlos par
 
 
 ### Variantes
-
-
-<TODO>

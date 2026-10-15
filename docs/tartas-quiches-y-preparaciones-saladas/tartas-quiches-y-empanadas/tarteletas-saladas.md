@@ -2,6 +2,7 @@
 slug: tarteletas-saladas
 uuid: 49091649-1d77-434e-8601-538d7ca8b632
 page_title: Tarteletas saladas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarteletas saladas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ Usar cualquiera de los rellenos salados
 
 
 ### Variantes
-
-
-<TODO>

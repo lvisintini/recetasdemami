@@ -2,6 +2,7 @@
 slug: tarta-de-peras
 uuid: 236bd8b7-cad4-4f99-a373-58267e751c3e
 page_title: Tarta de peras (y otras frutas)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarta de peras (y otras frutas)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -53,6 +54,3 @@ Las bananas y el ananá deben ser previamente caramelizados.
 
 
 ### Variantes
-
-
-<TODO>

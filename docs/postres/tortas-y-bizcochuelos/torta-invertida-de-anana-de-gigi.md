@@ -2,6 +2,7 @@
 slug: torta-invertida-de-anana-de-gigi
 uuid: f1a3ee8a-0c85-495a-9a46-5aeb8ca305a4
 page_title: Torta invertida de ananá de Gigi
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta invertida de ananá de Gigi
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Decorar con chantilly cream o merengue.
 
 
 ### Variantes
-
-
-<TODO>

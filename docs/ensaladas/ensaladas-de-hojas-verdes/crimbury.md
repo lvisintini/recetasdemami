@@ -2,6 +2,7 @@
 slug: crimbury
 uuid: 69fa1cac-d93a-4120-bc09-18c64e8ca758
 page_title: Crimbury
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crimbury
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Almendras (muchas), lechuga, rucula, queso gruyere, dados de jamon crudo, tomate
 
 
 ### Variantes
-
-
-<TODO>

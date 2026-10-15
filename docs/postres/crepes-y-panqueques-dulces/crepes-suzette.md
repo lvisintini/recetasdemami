@@ -2,6 +2,7 @@
 slug: crepes-suzette
 uuid: 93907275-951a-4f48-839b-9f18ff675607
 page_title: Crepes suzette
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crepes suzette
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -45,6 +46,3 @@ Se puede reemplazar el Cointreau con: ¼ taza de triple sec y ¼ taza de brandy 
 
 
 ### Variantes
-
-
-<TODO>

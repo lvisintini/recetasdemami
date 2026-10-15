@@ -2,6 +2,7 @@
 slug: bondiola-de-cerdo-a-la-cerveza
 uuid: 33ed7a4c-1ea3-4c2c-a649-577d8eb2936e
 page_title: Bondiola de cerdo a la cerveza
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bondiola de cerdo a la cerveza
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Esta es la receta de casancrem, por lo que también lleva 150 gr de casancrem qu
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: torta-invertida-de-manzanas
 uuid: 51ed9ec3-acf6-4c36-b8fb-1683550d18f7
 page_title: Torta invertida de manzanas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta invertida de manzanas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Agregar canela y ralladura de limón
 
 
 ### Variantes
-
-
-<TODO>

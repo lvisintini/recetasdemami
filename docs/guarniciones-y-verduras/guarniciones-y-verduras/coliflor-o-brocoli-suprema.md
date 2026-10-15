@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-suprema
 uuid: 50d24fce-a150-4aed-8527-353730a4647f
 page_title: Coliflor o brócoli suprema
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Coliflor o brócoli suprema
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Hervir la coliflor entera. Batir 3 cucharadas de manteca, agregarle 3 cucharadas
 
 
 ### Variantes
-
-
-<TODO>

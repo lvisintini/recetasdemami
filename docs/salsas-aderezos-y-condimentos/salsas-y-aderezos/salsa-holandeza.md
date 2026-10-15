@@ -2,6 +2,7 @@
 slug: salsa-holandeza
 uuid: 2e9f6eae-6e8c-4def-8415-a09d3375ca6b
 page_title: Salsa holandeza
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa holandeza
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Salsa holandeza
 
 
 ### Variantes
-
-
-<TODO>

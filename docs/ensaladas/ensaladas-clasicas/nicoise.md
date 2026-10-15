@@ -2,6 +2,7 @@
 slug: nicoise
 uuid: 6cc7b27a-5b0e-4af9-ada3-47715f5786b8
 page_title: Nicoise
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Nicoise
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ chauchas hervidas, huevo duro, cibulette, aceitunas verdes, perejil, rayadura gr
 
 
 ### Variantes
-
-
-<TODO>

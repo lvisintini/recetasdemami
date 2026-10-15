@@ -2,6 +2,7 @@
 slug: batata
 uuid: 397a8d91-5eba-406d-8ea6-a7dfc1747bb1
 page_title: Batata
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Batata
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Batata cocida en cubitos, pimiento morrón rojo picado grueso, cebollita de verd
 
 
 ### Variantes
-
-
-<TODO>

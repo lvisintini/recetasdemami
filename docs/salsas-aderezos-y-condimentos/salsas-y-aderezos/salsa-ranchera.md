@@ -2,6 +2,7 @@
 slug: salsa-ranchera
 uuid: bc7cc0aa-45f7-48f1-86f5-6ec164940f22
 page_title: Salsa ranchera
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa ranchera
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -36,6 +37,3 @@ page_title: Salsa ranchera
 
 
 ### Variantes
-
-
-<TODO>

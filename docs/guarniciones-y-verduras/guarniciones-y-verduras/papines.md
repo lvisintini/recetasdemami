@@ -2,6 +2,7 @@
 slug: papines
 uuid: 3419c6c1-5d67-4e84-b32d-f878e8cef9c5
 page_title: Papines
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Papines
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Hervidos: ponerlos en agua hirviendo de 5 a 7 minutos. saltearlos en la sartén 
 
 
 ### Variantes
-
-
-<TODO>

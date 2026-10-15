@@ -2,6 +2,7 @@
 slug: crema-catalana
 uuid: 20c9611e-bdac-4172-bacf-c2e4df40052b
 page_title: Crema Catalana
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema Catalana
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -47,6 +48,3 @@ O hacer un caramelo con azúcar y agua.
 
 
 ### Variantes
-
-
-<TODO>

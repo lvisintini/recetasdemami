@@ -2,6 +2,7 @@
 slug: masa-de-la-pasta-frola-de-las-tias
 uuid: 051f36e0-3f0f-4938-a757-b2c981311909
 page_title: Masa de la pasta frola de las tías
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa de la pasta frola de las tías
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Masa de la pasta frola de las tías
 
 
 ### Variantes
-
-
-<TODO>

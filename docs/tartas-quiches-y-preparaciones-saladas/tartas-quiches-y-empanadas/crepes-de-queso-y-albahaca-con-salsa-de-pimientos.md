@@ -2,6 +2,7 @@
 slug: crepes-de-queso-y-albahaca-con-salsa-de-pimientos
 uuid: 732dc9e8-1a4a-44c7-99a1-8e02f38f3a3e
 page_title: Crepes de queso y albahaca con salsa de pimientos.
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crepes de queso y albahaca con salsa de pimientos.
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Salsa de pimientos: mezclar 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pi
 
 
 ### Variantes
-
-
-<TODO>

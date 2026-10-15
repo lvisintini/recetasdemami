@@ -2,6 +2,7 @@
 slug: bagna-cauda
 uuid: d5786b97-8a54-4dfd-8908-d693378f07a3
 page_title: Bagna cauda
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bagna cauda
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -43,6 +44,3 @@ Dicen que la original, lleva aceite de oliva en vez de crema.
 
 
 ### Variantes
-
-
-<TODO>

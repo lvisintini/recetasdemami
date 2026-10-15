@@ -2,6 +2,7 @@
 slug: hojaldre-con-cebolla
 uuid: d159675d-f77b-4449-a2d8-553b1a9b09fc
 page_title: Hojaldre con cebolla (no probado)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Hojaldre con cebolla (no probado)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Espolvorear con tomillo y romero frescos, rociar con aceite de oliva y servir.
 
 
 ### Variantes
-
-
-<TODO>

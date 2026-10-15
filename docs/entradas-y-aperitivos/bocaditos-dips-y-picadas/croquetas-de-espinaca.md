@@ -2,6 +2,7 @@
 slug: croquetas-de-espinaca
 uuid: d5908677-fa44-4a97-bfde-4038951e571f
 page_title: Croquetas de espinaca
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Croquetas de espinaca
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Lavar, picar y escurrir bien la espinaca. batir las yemas con la harina, aflojar
 
 
 ### Variantes
-
-
-<TODO>

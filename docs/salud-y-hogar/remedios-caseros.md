@@ -2,6 +2,7 @@
 slug: remedios-caseros
 uuid: 1b7f84d1-6943-4ecf-a15a-a8247edccc32
 page_title: Remedios Caseros
+curated: true
 ---
 
 {nav}

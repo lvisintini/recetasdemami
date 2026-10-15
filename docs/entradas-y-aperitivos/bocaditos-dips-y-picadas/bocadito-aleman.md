@@ -2,6 +2,7 @@
 slug: bocadito-aleman
 uuid: 50db496d-f318-431a-bf4b-8be044e0daae
 page_title: Bocadito aleman
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bocadito aleman
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Sobre biscochos “Rex” (también llamados "Ritz") colocar una rodajita de leb
 
 
 ### Variantes
-
-
-<TODO>

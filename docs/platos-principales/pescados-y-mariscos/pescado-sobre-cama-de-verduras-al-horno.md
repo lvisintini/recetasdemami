@@ -2,6 +2,7 @@
 slug: pescado-sobre-cama-de-verduras-al-horno
 uuid: 78b655fa-648e-4c28-8b7c-52d791e285d8
 page_title: Pescado sobre cama de verduras al horno
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pescado sobre cama de verduras al horno
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Poner aceite en la asadera, incluir cebollas cortadas en plumitas, tomates cherr
 
 
 ### Variantes
-
-
-<TODO>

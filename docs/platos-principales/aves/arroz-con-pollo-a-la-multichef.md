@@ -2,6 +2,7 @@
 slug: arroz-con-pollo-a-la-multichef
 uuid: 0eadcad2-d8b1-4a56-bb8a-c559f4c5f77e
 page_title: Arroz con pollo a la Multichef (o sin multichef)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Arroz con pollo a la Multichef (o sin multichef)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ Acordarse de colocar papel de aluminio, para que sea más fácil la limpieza.
 
 
 ### Variantes
-
-
-<TODO>

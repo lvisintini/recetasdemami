@@ -2,6 +2,7 @@
 slug: paleta-de-pintor-1
 uuid: e1cc9ba0-7a29-4224-9677-63df9c83599e
 page_title: Paleta de pintor 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Paleta de pintor 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil 
 
 
 ### Variantes
-
-
-<TODO>

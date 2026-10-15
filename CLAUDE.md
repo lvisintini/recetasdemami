@@ -18,17 +18,22 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   with `force_orphan: true`). Pages must be set to serve from the publish branch.
 
 ## Source file conventions
-- Every `.md` has YAML front matter with `slug`, `uuid`, `page_title`, and optionally
-  `weight` (a number) to fix its position: weighted entries come first, ascending, before
+- Every `.md` has YAML front matter with `slug`, `uuid`, `page_title`, `curated` (see
+  below), and optionally `weight` (a number) to fix its position: weighted entries come first, ascending, before
   unweighted ones; a directory's weight is its `index.md`'s. Titles carry no numbering
   (the top-level sections use `weight: 1`..`11`). A non-numeric weight is warned and ignored.
 - Every directory has an `index.md`; all index files have `slug: index`.
 - Placeholders in bodies: `{nav}` (breadcrumb, all pages) and `{toc}` (index pages only).
 - Cross-references: `[page_link](<uuid>)` -> link text becomes the target's `page_title`,
   the uuid becomes the target's URL.
-- Curation markers: `{summary}` (recipes) and `<TODO>` (index pages) are manual to-dos for
-  curating each recipe. They stay in the sources and are stripped from the output (one
-  summary warning with the count of pages still pending).
+- Curation: `curated: true|false` in the front matter says whether a page has been reviewed
+  by hand. Anything but `true` (missing, or non-boolean, which is warned) is "pending": the
+  page gets a `Pendiente de revisión` note under its `{nav}` (on top if it has none), every
+  generated link to it in `{toc}`, the sidebar and uuid references gets a `.pending-mark`
+  icon (CSS in `site/assets/css/style.scss`), and the build warns once with the count.
+  Breadcrumbs are left unmarked. `<SUMMARY>` in recipes is the placeholder for the summary
+  still to write; it stays in the sources, is stripped from the output, and is warned if
+  left on a curated page.
 
 ## Settled design decisions (do not re-litigate without asking)
 - **Slugs match file/dir names** (ignoring extension). Directory URL segments come from the
@@ -87,9 +92,8 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   migrated from. The migration scripts were removed; `add.txt` still has recipes to add.
 
 ## Open items
-- Curation workflow: make the manual pass over recipes more agile, e.g. a report/checklist
-  of pages still containing curation markers or empty Ingredientes, or a `curated: true`
-  front-matter flag shown on the site.
+- Curation workflow: a local report/checklist of pending pages (`curated: false`, leftover
+  `<SUMMARY>`, empty Ingredientes or metadata table) could complement the on-site marks.
 
 ## Style
 Single-file script, stdlib + PyYAML only. Keep functions small and recursive where walking

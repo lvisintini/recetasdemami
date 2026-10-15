@@ -2,6 +2,7 @@
 slug: bocaditos-de-queso
 uuid: 935098ae-2583-4235-b5c5-66491081ee66
 page_title: Bocaditos de queso
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bocaditos de queso
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -45,6 +46,3 @@ Servir frio o caliente.
 
 
 ### Variantes
-
-
-<TODO>

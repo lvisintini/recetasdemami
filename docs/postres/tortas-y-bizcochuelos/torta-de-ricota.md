@@ -2,6 +2,7 @@
 slug: torta-de-ricota
 uuid: 1df421d1-ab3e-423d-9aef-6c431815eabe
 page_title: Torta de ricota
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de ricota
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -44,6 +45,3 @@ Servir con pasas de uva maceradas en oporto.
 
 
 ### Variantes
-
-
-<TODO>

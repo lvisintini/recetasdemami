@@ -2,6 +2,7 @@
 slug: ensalada-de-chauchas
 uuid: 257a410a-d4dd-42be-b34f-be8aa7ed931d
 page_title: Ensalada de chauchas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Ensalada de chauchas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Condimentar con 4 cucharadas de aceite de oliva, 2 ½ cucharadas de vinagre de v
 
 
 ### Variantes
-
-
-<TODO>

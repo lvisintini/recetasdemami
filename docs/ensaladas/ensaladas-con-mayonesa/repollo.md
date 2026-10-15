@@ -2,6 +2,7 @@
 slug: repollo
 uuid: 2e456d14-614b-4cad-be3c-5bc801f498d9
 page_title: Repollo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Repollo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ agregar a la anterior palmitos, huevo duro y pizca mostaza.
 
 
 ### Variantes
-
-
-<TODO>

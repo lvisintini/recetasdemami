@@ -2,6 +2,7 @@
 slug: crepes-al-champignon
 uuid: 29ceb325-e7b2-4c93-8aa8-efe7e2c2b72a
 page_title: Crepes al champignon
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crepes al champignon
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Una vez licuado, agregar 1 taza de champignones en rodajas. hacer los panqueques
 
 
 ### Variantes
-
-
-<TODO>

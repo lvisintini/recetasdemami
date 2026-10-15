@@ -2,6 +2,7 @@
 slug: aderezo-de-albahaca
 uuid: 9e126536-2d47-4a82-aada-043ab00315ff
 page_title: Aderezo de Albahaca
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Aderezo de Albahaca
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

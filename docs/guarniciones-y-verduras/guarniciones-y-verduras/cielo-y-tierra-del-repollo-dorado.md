@@ -2,6 +2,7 @@
 slug: cielo-y-tierra-del-repollo-dorado
 uuid: 813d58d5-c638-4fbb-92ff-af9d7cac5e92
 page_title: Cielo y tierra, del “repollo dorado”
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cielo y tierra, del “repollo dorado”
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Puré de papa, cebolla caramelizada, morcilla y puré de manzana. como no tenía
 
 
 ### Variantes
-
-
-<TODO>

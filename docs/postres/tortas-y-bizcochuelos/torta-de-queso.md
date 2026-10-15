@@ -2,6 +2,7 @@
 slug: torta-de-queso
 uuid: 037a69b5-f0ea-4ec2-83da-27b504dad5cb
 page_title: Torta de queso
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de queso
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Mezclar todos los ingredientes hasta obtener una preparación bien homogénea. C
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: salsa-cesar-2
 uuid: aaf4d362-2885-46ee-b39c-6adebe3b5693
 page_title: Salsa Cesar 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Cesar 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: salsa-cesar-1
 uuid: 8ac69e36-17d4-4195-b7aa-98a44cd896a4
 page_title: Salsa Cesar 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Cesar 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Luego sumarle 2 cucharadas de queso parmesano y una pizca pimienta
 
 
 ### Variantes
-
-
-<TODO>

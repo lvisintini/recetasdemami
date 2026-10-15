@@ -2,6 +2,7 @@
 slug: toast-hawaii
 uuid: 7f03dcd9-ed11-40c7-ac8c-4e8412bb084f
 page_title: Toast Hawaii
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Toast Hawaii
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Pan lactal, extender sobre el pan mostaza, jamón cocido, rodaja de ananá, espo
 
 
 ### Variantes
-
-
-<TODO>

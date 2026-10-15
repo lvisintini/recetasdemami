@@ -2,6 +2,7 @@
 slug: brusquetas-1
 uuid: b8c3ed23-cd87-499f-8935-8e30b63dced9
 page_title: Brusquetas 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brusquetas 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Hacer tostadas, frotarlas con ajo. Sobre las tostadas colocar una rodaja de toma
 
 
 ### Variantes
-
-
-<TODO>

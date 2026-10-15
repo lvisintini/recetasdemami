@@ -2,6 +2,7 @@
 slug: doraditos-de-cebolla-o-brownie-de-cebolla
 uuid: c2d603e1-ffb1-4fbb-bb96-ad089a034e4c
 page_title: Doraditos de cebolla o Brownie de cebolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Doraditos de cebolla o Brownie de cebolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -53,6 +54,3 @@ Puede acompañar la humita, o completar una picada.
 
 
 ### Variantes
-
-
-<TODO>

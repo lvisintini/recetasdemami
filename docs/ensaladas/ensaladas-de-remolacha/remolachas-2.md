@@ -2,6 +2,7 @@
 slug: remolachas-2
 uuid: e341a357-8407-4c37-a1ed-f7ae5e96906d
 page_title: Remolachas 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Remolachas 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Remolachas, champiñones, perejil, almendras, ralladura gruesa de limón, aceite
 
 
 ### Variantes
-
-
-<TODO>

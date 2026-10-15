@@ -2,6 +2,7 @@
 slug: bacardi-banana
 uuid: 8651af34-a949-4607-8095-961cd4a5035e
 page_title: Bacardi banana
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bacardi banana
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

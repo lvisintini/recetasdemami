@@ -2,6 +2,7 @@
 slug: crema-sevillana-de-naranjas
 uuid: cc87087f-fb75-4a23-b220-ea82b27a5c7b
 page_title: Crema sevillana de naranjas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema sevillana de naranjas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Decorar con 6 rodajas de naranja peladas y acarameladas con 4 cucharadas de azú
 
 
 ### Variantes
-
-
-<TODO>

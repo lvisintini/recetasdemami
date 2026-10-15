@@ -2,6 +2,7 @@
 slug: alcira
 uuid: e8aa9964-0bfb-4563-a191-431353485c96
 page_title: Alcira
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Alcira
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Alcira
 
 
 ### Variantes
-
-
-<TODO>

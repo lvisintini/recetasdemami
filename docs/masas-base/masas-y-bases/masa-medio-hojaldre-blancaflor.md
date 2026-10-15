@@ -2,6 +2,7 @@
 slug: masa-medio-hojaldre-blancaflor
 uuid: cc16d521-9327-4b87-8b93-0a6dd74c4db3
 page_title: Masa medio hojaldre blancaflor
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Masa medio hojaldre blancaflor
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Con esta masa se pueden hacer palmeritas, rellenar con frutas, hacer cañoncitos
 
 
 ### Variantes
-
-
-<TODO>

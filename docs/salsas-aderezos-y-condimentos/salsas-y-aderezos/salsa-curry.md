@@ -2,6 +2,7 @@
 slug: salsa-curry
 uuid: df537c5d-eae6-4569-ab68-9e8843ffc0c3
 page_title: Salsa curry
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa curry
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Retirar y agregar 100 grs de crema de leche.
 
 
 ### Variantes
-
-
-<TODO>

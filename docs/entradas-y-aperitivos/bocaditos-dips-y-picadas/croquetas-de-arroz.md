@@ -2,6 +2,7 @@
 slug: croquetas-de-arroz
 uuid: 3ce8a4dd-b865-4804-8641-e8d313f3ba2e
 page_title: Croquetas de arroz
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Croquetas de arroz
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Servir caliente.
 
 
 ### Variantes
-
-
-<TODO>

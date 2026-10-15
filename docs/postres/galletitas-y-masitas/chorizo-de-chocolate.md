@@ -2,6 +2,7 @@
 slug: chorizo-de-chocolate
 uuid: 3529f612-f1e4-4d91-9b9c-42676eea5302
 page_title: Chorizo de chocolate
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Chorizo de chocolate
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -37,6 +38,3 @@ En mi opinion, pondria mas masitas mana.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: anchoas
 uuid: 3101a20e-390e-4f06-99d6-77f668fd5454
 page_title: Anchoas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Anchoas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ anchoas, papas hervidas, chauchas hervidas, aceitunas negras, huevo duro, aceite
 
 
 ### Variantes
-
-
-<TODO>

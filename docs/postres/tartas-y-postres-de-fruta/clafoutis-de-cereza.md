@@ -2,6 +2,7 @@
 slug: clafoutis-de-cereza
 uuid: 819e773a-27cd-4643-a6fc-4bc5b577ec8c
 page_title: Clafoutis de cereza
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Clafoutis de cereza
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Espolvorear con abundante azúcar impalpable y servir.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: agridulce
 uuid: 5f529207-3cd0-4dcb-a516-92c486e7485b
 page_title: Agridulce
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Agridulce
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Puede agregarse miel.
 
 
 ### Variantes
-
-
-<TODO>

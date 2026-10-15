@@ -2,6 +2,7 @@
 slug: piononos-arrollados-salados
 uuid: c1858c34-b15f-4f3a-b1e8-37677e2404b0
 page_title: Piononos arrollados salados
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Piononos arrollados salados
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Usar cualquiera de los rellenos salados
 
 
 ### Variantes
-
-
-<TODO>

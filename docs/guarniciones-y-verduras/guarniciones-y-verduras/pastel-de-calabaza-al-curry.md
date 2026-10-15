@@ -2,6 +2,7 @@
 slug: pastel-de-calabaza-al-curry
 uuid: e16a3c09-5d7b-4664-bb47-5454ff6a409c
 page_title: Pastel de calabaza al curry (muy rico)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pastel de calabaza al curry (muy rico)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -47,6 +48,3 @@ Puede decorarse con hojas de albahaca fresca.
 
 
 ### Variantes
-
-
-<TODO>

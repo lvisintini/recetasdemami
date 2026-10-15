@@ -2,6 +2,7 @@
 slug: californiana
 uuid: ab5696ec-f254-43d9-8cf0-eebc5731b38c
 page_title: Californiana
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Californiana
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ los hongos salteados con ajo.
 
 
 ### Variantes
-
-
-<TODO>

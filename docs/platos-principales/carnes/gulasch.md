@@ -2,6 +2,7 @@
 slug: gulasch
 uuid: 8bb7e45b-4879-43f1-bfab-89aa17cc7f32
 page_title: Gulasch
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Gulasch
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Acompañar con papas o arroz hervido.
 
 
 ### Variantes
-
-
-<TODO>

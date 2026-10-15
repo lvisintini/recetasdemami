@@ -2,6 +2,7 @@
 slug: cesar
 uuid: de7560d4-5ae1-4cd6-8c32-59e277598094
 page_title: Cesar
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cesar
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ La salsa tendría que ser César, o puede ser mayonesa con anchoa picada.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: sablee-de-almendras
 uuid: 335cf6e7-03e4-4f4b-a0f3-db2f36f090d0
 page_title: Sablée de almendras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sablée de almendras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -52,6 +53,3 @@ Decorar con hojas de menta.
 
 
 ### Variantes
-
-
-<TODO>

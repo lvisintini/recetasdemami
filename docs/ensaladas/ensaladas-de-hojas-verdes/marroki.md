@@ -2,6 +2,7 @@
 slug: marroki
 uuid: 01528c4f-b9ba-461f-b2fa-b8743f6c4791
 page_title: Marroki
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Marroki
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Rúcula, tomate, semillas de girasol, champiñones salteados, queso gruyere, sal
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: cuba-libre
 uuid: ecd3d46b-fdb8-46e5-8c08-752161dd68ae
 page_title: Cuba libre
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cuba libre
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ Decorar con 2 rodajas de limón
 
 
 ### Variantes
-
-
-<TODO>

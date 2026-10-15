@@ -2,6 +2,7 @@
 slug: espinaca-al-ajillo
 uuid: 7b158548-982e-4e8f-95f5-1297a0614da1
 page_title: Espinaca al ajillo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Espinaca al ajillo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -40,6 +41,3 @@ También puede agregarse trocitos de panceta cocida.
 
 
 ### Variantes
-
-
-<TODO>

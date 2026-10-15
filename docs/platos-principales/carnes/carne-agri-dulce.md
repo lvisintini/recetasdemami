@@ -2,6 +2,7 @@
 slug: carne-agri-dulce
 uuid: 20953f3c-7e48-4e9d-8ecd-a579ea1aa440
 page_title: Carne agri-dulce (receta de gigi)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Carne agri-dulce (receta de gigi)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Puede ser que sea necesario hacer el doble o triple de esta mezcla, dependiendo 
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: torta-de-chocolate-de-lili-morey
 uuid: 6c3cfa05-99c4-45ae-9b23-58f966ea1567
 page_title: Torta de chocolate de Lili Morey
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta de chocolate de Lili Morey
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Y al horno.
 
 
 ### Variantes
-
-
-<TODO>

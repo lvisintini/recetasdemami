@@ -2,6 +2,7 @@
 slug: aros-de-cebolla
 uuid: bb175b45-d71c-45fb-aad5-8ce382993629
 page_title: Aros de cebolla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Aros de cebolla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -43,6 +44,3 @@ Dorarlas de ambos lados y retirarlos con espumadera, colocándolos sobre papel d
 
 
 ### Variantes
-
-
-<TODO>

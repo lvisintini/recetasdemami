@@ -2,6 +2,7 @@
 slug: paleta-de-pintor-2
 uuid: 81bb15a1-2842-4289-b94e-49996dc31df5
 page_title: Paleta de pintor 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Paleta de pintor 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: 
 
 
 ### Variantes
-
-
-<TODO>

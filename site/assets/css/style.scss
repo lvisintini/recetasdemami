@@ -58,6 +58,33 @@ section {
   font-weight:bold;
 }
 
+// pages still pending curation: a mark after every link to them, a note on the page
+.pending-mark::after,
+.pending-note::before {
+  content:"\270E";
+  color:#b26b00;
+}
+
+.pending-mark {
+  margin-left:4px;
+  font-size:0.85em;
+  cursor:help;
+}
+
+.pending-note {
+  display:inline-block;
+  padding:2px 10px;
+  border:1px solid #e8c48a;
+  border-radius:12px;
+  background:#fdf6ea;
+  color:#7a4a00;
+  font-size:0.85em;
+}
+
+.pending-note::before {
+  margin-right:6px;
+}
+
 .sidebar-footer {
   flex:none;
   border-top:1px solid #e5e5e5;

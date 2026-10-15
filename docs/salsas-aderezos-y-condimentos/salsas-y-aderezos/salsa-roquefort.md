@@ -2,6 +2,7 @@
 slug: salsa-roquefort
 uuid: 93fc08ad-8390-47e8-b822-3a6786fd2166
 page_title: Salsa Roquefort
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa Roquefort
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Sobre esta salsa se puede agregar nueces picadas y queso rallado para hornear y 
 
 
 ### Variantes
-
-
-<TODO>

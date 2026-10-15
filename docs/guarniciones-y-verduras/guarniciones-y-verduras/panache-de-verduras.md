@@ -2,6 +2,7 @@
 slug: panache-de-verduras
 uuid: 6a45d4f8-870e-4bc4-8381-dd097761d4c0
 page_title: Panaché de verduras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Panaché de verduras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Llevar al horno hasta que se gratine todo.
 
 
 ### Variantes
-
-
-<TODO>

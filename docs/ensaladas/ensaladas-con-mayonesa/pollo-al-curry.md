@@ -2,6 +2,7 @@
 slug: pollo-al-curry
 uuid: 58877391-c11a-49e9-850a-0f030f58a76b
 page_title: Pollo al curry
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pollo al curry
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Pollo al curry
 
 
 ### Variantes
-
-
-<TODO>

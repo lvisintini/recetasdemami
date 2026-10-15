@@ -2,6 +2,7 @@
 slug: arroz-con-leche
 uuid: bb4c7a67-49e2-4695-9616-030ffa55680c
 page_title: Arroz con leche
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Arroz con leche
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Cocinar a fuego suave hasta que el arroz esté tierno.
 
 
 ### Variantes
-
-
-<TODO>

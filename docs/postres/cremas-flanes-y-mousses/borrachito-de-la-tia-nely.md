@@ -2,6 +2,7 @@
 slug: borrachito-de-la-tia-nely
 uuid: fbbbfc49-dcc7-4766-8a7c-4ac96323c530
 page_title: Borrachito de la Tía Nely
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Borrachito de la Tía Nely
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -30,6 +31,3 @@ Ir alternando, una capa de vainillas, una capa de la mezcla, una capa de vainill
 
 
 ### Variantes
-
-
-<TODO>

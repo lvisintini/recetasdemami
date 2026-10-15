@@ -2,6 +2,7 @@
 slug: guiso-de-lentejas
 uuid: 7c2115e8-39f0-43a2-8dc5-a81b83a1d4a9
 page_title: Guiso de lentejas
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Guiso de lentejas
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Si se cocina en olla a presión, el caldo debe cubrir las lentejas y se cocina p
 
 
 ### Variantes
-
-
-<TODO>

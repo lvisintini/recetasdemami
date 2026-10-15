@@ -2,6 +2,7 @@
 slug: torta-arena-de-manzana--de-maria-y-anita
 uuid: a365d985-ca5b-419a-b85a-9f62c0491b2d
 page_title: Torta arena de manzana (y otras frutas) de Maria y Anita
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Torta arena de manzana (y otras frutas) de Maria y Anita
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Se puede usar manzanas cortadas finitas y azucaradas, ciruelas, damascos, ananá
 
 
 ### Variantes
-
-
-<TODO>

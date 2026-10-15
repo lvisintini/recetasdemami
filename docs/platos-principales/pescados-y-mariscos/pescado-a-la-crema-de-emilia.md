@@ -2,6 +2,7 @@
 slug: pescado-a-la-crema-de-emilia
 uuid: 8621b1b9-8071-4af2-9fba-4ddc6f5c0116
 page_title: Pescado a la crema de Emilia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Pescado a la crema de Emilia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Colocar en cada rollito un trozo de queso cremoso (total 200 gr) y espolvorear c
 
 
 ### Variantes
-
-
-<TODO>

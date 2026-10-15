@@ -2,6 +2,7 @@
 slug: tarta-de-atun-de-aurelia
 uuid: b0727237-c008-438b-8c1e-b2499add7064
 page_title: Tarta de atun de Aurelia
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarta de atun de Aurelia
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Rellenar la pascualina y llevar al horno.
 
 
 ### Variantes
-
-
-<TODO>

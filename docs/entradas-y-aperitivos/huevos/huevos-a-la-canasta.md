@@ -2,6 +2,7 @@
 slug: huevos-a-la-canasta
 uuid: 06292f12-86d9-42ce-b32a-71f5cc3ab843
 page_title: Huevos a la canasta
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos a la canasta
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Poner el huevo sobre el hueco que deja la semilla de la palta, condimentar y coc
 
 
 ### Variantes
-
-
-<TODO>

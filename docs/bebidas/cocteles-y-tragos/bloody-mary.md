@@ -2,6 +2,7 @@
 slug: bloody-mary
 uuid: 656b1123-a307-4d61-8897-fe9199bd9975
 page_title: Bloody Mary
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bloody Mary
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ En un vaso alto:
 
 
 ### Variantes
-
-
-<TODO>

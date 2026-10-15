@@ -2,6 +2,7 @@
 slug: daikiri-frutilla
 uuid: ba863e18-8f36-4bc5-94ae-0b9e9defc88b
 page_title: Daikiri frutilla
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Daikiri frutilla
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ page_title: Daikiri frutilla
 
 
 ### Variantes
-
-
-<TODO>

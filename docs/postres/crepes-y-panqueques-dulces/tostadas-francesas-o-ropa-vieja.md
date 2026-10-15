@@ -2,6 +2,7 @@
 slug: tostadas-francesas-o-ropa-vieja
 uuid: df6c6317-be4b-42d2-9c5f-522abcc842d0
 page_title: Tostadas francesas o ropa vieja
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tostadas francesas o ropa vieja
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Servirlos con miel, kero, chocolate, caramelo líquido o dulce.
 
 
 ### Variantes
-
-
-<TODO>

@@ -2,6 +2,7 @@
 slug: sacher-tarte
 uuid: b942470f-c438-4e92-b4f9-24281401f01b
 page_title: Sacher tarte (torta de chocolate)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Sacher tarte (torta de chocolate)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -43,6 +44,3 @@ Bañar con el Baño de chocolate de Mamama
 
 
 ### Variantes
-
-
-<TODO>

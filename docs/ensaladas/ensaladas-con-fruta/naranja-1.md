@@ -2,6 +2,7 @@
 slug: naranja-1
 uuid: b5501b7b-f2d9-48a6-97f3-9c41d41a30a2
 page_title: Naranja 1
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Naranja 1
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ page_title: Naranja 1
 
 
 ### Variantes
-
-
-<TODO>

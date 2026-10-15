@@ -2,6 +2,7 @@
 slug: coliflor-o-brocoli-a-la-sarten
 uuid: 8df74393-3a45-4458-a01f-0fbf2eaff4b5
 page_title: Coliflor o brocoli a la sarten
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Coliflor o brocoli a la sarten
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Esparcir sobre ellos la salsa al ajo u otra.
 
 
 ### Variantes
-
-
-<TODO>

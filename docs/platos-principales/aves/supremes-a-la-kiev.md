@@ -2,6 +2,7 @@
 slug: supremes-a-la-kiev
 uuid: e29f9c8c-b97a-4200-8e94-eefe78bd2424
 page_title: Supremes a la Kiev
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Supremes a la Kiev
 |**Tiempo de Cocci√≥n Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Sazonar las supremas de pollo con sal y pimienta, untarlas con la salsa a la Ma√
 
 
 ### Variantes
-
-
-<TODO>

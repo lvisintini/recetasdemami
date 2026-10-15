@@ -2,6 +2,7 @@
 slug: salsa-de-aceitunas-de-356
 uuid: 8e83348d-c2b6-4003-9c28-fcebdde9300d
 page_title: Salsa de aceitunas de 356
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa de aceitunas de 356
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -31,6 +32,3 @@ Cocinar hasta obtener la consistencia adecuada.
 
 
 ### Variantes
-
-
-<TODO>

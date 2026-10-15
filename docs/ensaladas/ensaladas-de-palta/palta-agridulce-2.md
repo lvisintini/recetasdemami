@@ -2,6 +2,7 @@
 slug: palta-agridulce-2
 uuid: 9dd51bbe-4713-4a59-8617-2160a930aacb
 page_title: Palta agridulce 2
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Palta agridulce 2
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Palta, lechuga, huevo, manzana roja, pepinos, aderezada con albahaca, jugo de li
 
 
 ### Variantes
-
-
-<TODO>

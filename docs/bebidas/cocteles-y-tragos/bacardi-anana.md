@@ -2,6 +2,7 @@
 slug: bacardi-anana
 uuid: 9257e040-416f-48d4-9d2a-90e764cf6622
 page_title: Bacardi ananá
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bacardi ananá
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Licuar:
 
 
 ### Variantes
-
-
-<TODO>

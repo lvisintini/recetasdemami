@@ -2,6 +2,7 @@
 slug: cachetes-de-abadejo-a-la-sarten
 uuid: 49e91322-ed6c-4ce4-851f-60030e8ceb9d
 page_title: Cachetes de abadejo a la sartén
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cachetes de abadejo a la sartén
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Colocar sobre pan lactal tostado.
 
 
 ### Variantes
-
-
-<TODO>

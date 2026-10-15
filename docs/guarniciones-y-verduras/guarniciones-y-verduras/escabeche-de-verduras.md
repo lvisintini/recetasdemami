@@ -2,6 +2,7 @@
 slug: escabeche-de-verduras
 uuid: 8289ad1a-dfd7-4552-8370-ba8c37fc8339
 page_title: Escabeche de verduras
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Escabeche de verduras
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -43,6 +44,3 @@ Cocinar hasta que las zanahorias estén tiernas.
 
 
 ### Variantes
-
-
-<TODO>

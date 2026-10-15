@@ -2,6 +2,7 @@
 slug: palta-y-mortadela
 uuid: 4b38f8c8-e7a6-4c8f-873b-9f8d55cbd69e
 page_title: Palta y mortadela
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Palta y mortadela
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Mortadela en cubos, tomates cherry, rucula, cebolla, palta, crustones, aceite de
 
 
 ### Variantes
-
-
-<TODO>

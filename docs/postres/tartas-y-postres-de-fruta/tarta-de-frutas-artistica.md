@@ -2,6 +2,7 @@
 slug: tarta-de-frutas-artistica
 uuid: a3554cb9-4d58-4c0e-886a-61c154fb5d46
 page_title: Tarta de frutas artística
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Tarta de frutas artística
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -34,6 +35,3 @@ Cubrir con gelatina a punto de cuajar, de naranja u otra fruta y llevar a la hel
 
 
 ### Variantes
-
-
-<TODO>

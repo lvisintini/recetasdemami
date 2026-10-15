@@ -2,6 +2,7 @@
 slug: brownies-de-antonela
 uuid: bb73bc12-5d2a-4419-b250-473fc0547610
 page_title: Brownies de Antonela
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Brownies de Antonela
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -45,6 +46,3 @@ A los 25 minutos aproximadamente están listos.
 
 
 ### Variantes
-
-
-<TODO>

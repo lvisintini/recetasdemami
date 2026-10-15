@@ -2,6 +2,7 @@
 slug: filetes-de-pescado-a-la-cerveza
 uuid: 3d49ffe2-ce20-4d0d-8bdd-fa540daab57b
 page_title: Filetes de pescado a la cerveza (pueden ser aros de calamar previamente hervidos por 5 minutos).
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Filetes de pescado a la cerveza (pueden ser aros de calamar previame
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Rebozar los trozos de pescado de 5 x 10 cm (o los aros de 1 cm de ancho) en la m
 
 
 ### Variantes
-
-
-<TODO>

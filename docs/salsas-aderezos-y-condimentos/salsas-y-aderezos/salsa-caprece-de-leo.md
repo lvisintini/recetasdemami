@@ -2,6 +2,7 @@
 slug: salsa-caprece-de-leo
 uuid: ea51b1c4-bad4-44e3-92c2-07892e20b2de
 page_title: Salsa caprece de Leo
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa caprece de Leo
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -39,6 +40,3 @@ Al final, agregar las hojas de albahaca (no se cocinan) y abundante queso rallad
 
 
 ### Variantes
-
-
-<TODO>

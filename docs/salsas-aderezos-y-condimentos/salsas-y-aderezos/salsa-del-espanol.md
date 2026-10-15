@@ -2,6 +2,7 @@
 slug: salsa-del-espanol
 uuid: b454d0fa-c238-4988-b730-a973695318d0
 page_title: Salsa del Español
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Salsa del Español
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -35,6 +36,3 @@ Cocinar por 20 minutos aproximadamente, agregando la cantidad de caldo necesaria
 
 
 ### Variantes
-
-
-<TODO>

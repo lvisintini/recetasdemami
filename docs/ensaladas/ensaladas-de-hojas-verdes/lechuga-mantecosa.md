@@ -2,6 +2,7 @@
 slug: lechuga-mantecosa
 uuid: bdfba309-3a53-4300-841f-319f253b7b0c
 page_title: Lechuga mantecosa
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Lechuga mantecosa
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -29,6 +30,3 @@ Aceite, vinagre y sal o salsa César.
 
 
 ### Variantes
-
-
-<TODO>

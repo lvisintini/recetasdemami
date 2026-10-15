@@ -2,6 +2,7 @@
 slug: huevos-benedictinos
 uuid: f6bb0cbf-eb15-41f4-bb0c-9ccee0a38416
 page_title: Huevos benedictinos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Huevos benedictinos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -27,6 +28,3 @@ Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verde
 
 
 ### Variantes
-
-
-<TODO>

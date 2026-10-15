@@ -2,6 +2,7 @@
 slug: cerdo-a-la-florentin
 uuid: 01d09260-5f40-4ae8-839e-7a7f6602b285
 page_title: Cerdo a la florentin (agridulce)
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Cerdo a la florentin (agridulce)
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -33,6 +34,3 @@ Una vez cocido, también se puede cortar e intercalar rodajas de ananá, dándol
 
 
 ### Variantes
-
-
-<TODO>

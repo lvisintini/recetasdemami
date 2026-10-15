@@ -2,6 +2,7 @@
 slug: caipirinha
 uuid: e169a3a8-ca03-4ebd-8aed-75c45363c7f0
 page_title: Caipirinha
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Caipirinha
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -32,6 +33,3 @@ page_title: Caipirinha
 
 
 ### Variantes
-
-
-<TODO>

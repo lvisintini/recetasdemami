@@ -2,6 +2,7 @@
 slug: bifes-rellenos-a-la-plancha
 uuid: 005ff145-1843-45d3-9a7c-6333fea8e3eb
 page_title: Bifes rellenos a la plancha
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Bifes rellenos a la plancha
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Pueden también bañarse con diferentes salsa, como la salsa maître d'hôtel.
 
 
 ### Variantes
-
-
-<TODO>

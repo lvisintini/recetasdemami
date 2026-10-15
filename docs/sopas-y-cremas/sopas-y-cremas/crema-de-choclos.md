@@ -2,6 +2,7 @@
 slug: crema-de-choclos
 uuid: 548b119d-4000-4e63-9be4-72ca74343d93
 page_title: Crema de Choclos
+curated: false
 ---
 
 {nav}
@@ -13,7 +14,7 @@ page_title: Crema de Choclos
 |**Tiempo de Cocción Estimado:**| |
 |**Raciones:**| |
 
-{summary}
+<SUMMARY>
 
 ### Ingredientes
 
@@ -41,6 +42,3 @@ Por último agregarle queso rallado.
 
 
 ### Variantes
-
-
-<TODO>
