@@ -84,6 +84,16 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   references (left untouched in output), non-index page with `slug: index`.
 - **Target is wiped and rebuilt every run.** Non-markdown files are copied unchanged.
   A target that is, contains, or sits inside the source or site dir is refused (ValueError).
+- **Curation report**: every build writes `curacion.md` at the output root (served at
+  `/curacion`, linked as "Curación" from the sidebar footer). It is not in the tree (no
+  `{toc}`/sidebar entry, no `custom_edit_url`) and has three parts: progress (overall and
+  per top-level section, plus recipes still missing summary / Ingredientes / data table);
+  suggestions (title/slug/file/directory name mismatches against the slug rule, extra `## `
+  headings, "Ingredientes"/"Preparación" titles inside the steps, "Linkear…" text, empty
+  Preparación, curated recipes still incomplete); and every page with its
+  `[page_link](<uuid>)` snippet (brackets as HTML entities so kramdown leaves them alone)
+  and an editar link (only with `--edit-base-url`). Recipes are pages with `### Preparación`.
+  No spellcheck: typo passes are done on request.
 - **Site files live in `site/`** and are copied over the output (`--site-dir`); a site file
   that overwrites a generated one is a warning. They must come from the source branch
   because the publish uses `force_orphan: true`, which wipes anything added to gh-pages by hand.
@@ -91,7 +101,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 ## Gotchas
 - The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`).
   `site/_layouts/default.html` is a copy of the theme's v0.2.0 layout with the sidebar
-  index in `<header>` (the sidebar) and the project link, edit link and credits in a
+  index in `<header>` (the sidebar) and the project link, Curación link, edit link and credits in a
   `.sidebar-footer` pinned at its bottom; keep it in step with the theme if the theme
   changes. `site/assets/css/style.scss` imports the theme's CSS, widens the sidebar and
   makes it a flex column where only the index scrolls. The theme positions `header ul`
@@ -107,9 +117,6 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - `legacy/Recetas.md` is the original source text `docs/` was migrated from (the migration
   is complete; its scripts were removed).
 
-## Open items
-- Curation workflow: a local report/checklist of pending pages (`curated: false`, leftover
-  `<SUMMARY>`, empty Ingredientes or metadata table) could complement the on-site marks.
 
 ## Style
 Single-file script, stdlib + PyYAML only. Keep functions small and recursive where walking

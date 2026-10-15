@@ -5,7 +5,7 @@ from pathlib import Path
 import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
-from build_docs import build_docs  # noqa: E402
+from build_docs import build_docs, expected_slug  # noqa: E402
 
 INSTALL_UUID = "14179fca-0bc7-4181-ba7d-7cdb16fd296c"
 CONFIG_UUID = "00000000-0000-0000-0000-000000000004"
@@ -56,6 +56,11 @@ def built(src, tmp_path):
     return out, warnings
 
 
+def site_pages(out):
+    """Output pages, minus the curation report (its editar links point at GitHub .md files)."""
+    return [f for f in out.rglob("*.md") if f != out / "curacion.md"]
+
+
 def read(out, rel):
     return (out / rel).read_text(encoding="utf-8")
 
@@ -82,13 +87,13 @@ def test_directory_urls_keep_trailing_slash_and_never_contain_index(built):
     toc = read(out, "index.md")
     assert "{{ site.baseurl }}/getting-started/)" in toc
     assert "{{ site.baseurl }}/advanced/)" in toc
-    for f in out.rglob("*.md"):
+    for f in site_pages(out):
         assert "/index" not in f.read_text(encoding="utf-8").split("---", 2)[2]
 
 
 def test_every_link_uses_baseurl_prefix(built):
     out, _ = built
-    for f in out.rglob("*.md"):
+    for f in site_pages(out):
         body = f.read_text(encoding="utf-8").split("---", 2)[2]
         assert "](../" not in body and ".md)" not in body
 
@@ -431,3 +436,75 @@ def test_target_overlapping_source_is_refused(src, target):
     with pytest.raises(ValueError):
         build_docs(str(src), str(src / target), edit_base_url=EDIT_BASE)
     assert (src / "index.md").exists()
+
+
+RECIPE = ("{{nav}}\n\n## {title}\n\n|**Raciones:**|{data}|\n\n{summary}### Ingredientes\n\n"
+          "{ingredients}\n\n### Preparación\n\n{steps}\n\n### Variantes\n")
+
+
+def recipe(title, data=" ", summary="<SUMMARY>\n\n", ingredients="- \n- ", steps="Mezclar."):
+    return RECIPE.format(title=title, data=data, summary=summary, ingredients=ingredients,
+                         steps=steps)
+
+
+def build_report_tree(tmp_path, edit_base_url=EDIT_BASE):
+    s = tmp_path / "src"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000a1", "Inicio",
+                              "{nav}\n\n{toc}"))
+    write(s, "sopas/index.md", page("index", "00000000-0000-0000-0000-0000000000a2", "Sopas",
+                                    "{nav}\n\n{toc}"))
+    write(s, "sopas/sopa-de-nino.md",
+          page("sopa-de-nino", "00000000-0000-0000-0000-0000000000a3",
+               "Sopa de niño (rica)",
+               recipe("Sopa de niño (rica)", data=" 4 ", summary="Rica.\n\n",
+                      ingredients="- agua")))
+    write(s, "sopas/crema.md",
+          page("crema", "00000000-0000-0000-0000-0000000000a4", "Crema de ajo",
+               recipe("Crema de ajo", steps="Pelar.\n\n## Relleno\n\nIngredientes:\n\n"
+                      "Linkear aquí."), curated=False))
+    write(s, "sopas/vacia.md",
+          page("vacia", "00000000-0000-0000-0000-0000000000a5", "Vacía",
+               recipe("Vacía", steps="")))
+    out = tmp_path / "out"
+    build_docs(str(s), str(out), edit_base_url=edit_base_url)
+    return read(out, "curacion.md")
+
+
+def test_expected_slug_follows_the_slug_rule():
+    assert expected_slug("Tartas de María Rosa (muy buenas; saladas)") == "tartas-de-maria-rosa"
+    assert expected_slug("Ñoquis de calabaza") == "noquis-de-calabaza"
+    assert expected_slug("Salsa maître d'hôtel") == "salsa-maitre-d-hotel"
+
+
+def test_report_progress_and_page_links(tmp_path):
+    report = build_report_tree(tmp_path)
+    assert report.startswith("---\ntitle: Curación\n")
+    assert "**4 de 5 páginas revisadas (80%)**" in report
+    assert "| Sopas | 3 | 4 | 75% |" in report
+    for n in range(1, 6):
+        assert f'<code class="copy">&#91;page_link&#93;(00000000-0000-0000-0000-0000000000a{n})</code>' \
+            in report
+    assert ("| [Crema de ajo]({{ site.baseurl }}/sopas/crema)<span class=\"pending-mark\""
+            in report)
+    assert f"[editar]({EDIT_BASE}/sopas/crema.md)" in report
+
+
+def test_report_suggestions(tmp_path):
+    report = build_report_tree(tmp_path)
+    sugg = report.split("### Sugerencias")[1].split("### Páginas")[0]
+    assert "slug `crema`, esperado `crema-de-ajo`" in sugg
+    assert "slug `vacia`, esperado `vacia`" not in sugg
+    assert "`## Relleno`: usar `###` o `####`" in sugg
+    assert "#### Plantilla dentro de Preparación (1)" in sugg
+    assert "#### Enlaces pendientes (1)" in sugg
+    assert "[Vacía]({{ site.baseurl }}/sopas/vacia): no tiene pasos" in sugg
+    assert "[Vacía]({{ site.baseurl }}/sopas/vacia): falta: Resumen, Ingredientes, Datos" in sugg
+    assert "Sopa de niño" not in sugg  # clean curated recipe
+    assert "- Resumen: 2\n- Ingredientes: 2\n- Datos: 2" in report
+
+
+def test_report_without_edit_base_and_outside_the_tree(tmp_path):
+    report = build_report_tree(tmp_path, edit_base_url=None)
+    assert "[editar]" not in report
+    assert "curacion" not in read(tmp_path / "out", "index.md")
+    assert "curacion" not in read(tmp_path / "out", "_includes/site-toc/toc.html")

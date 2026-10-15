@@ -574,6 +574,177 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
 
 
 # --------------------------------------------------------------------------
+# Curation report: curacion.md at the output root (served as /curacion)
+#
+# Progress, fix-up suggestions and every page's `[page_link](<uuid>)` text,
+# for whoever is curating. Generated, so it is not part of the tree: no
+# {toc}/sidebar entry, no custom_edit_url. The layout links it from the
+# sidebar footer.
+# --------------------------------------------------------------------------
+
+REPORT_FILE = "curacion.md"
+REPORT_TITLE = "Curación"
+PARENS_RE = re.compile(r"\([^)]*\)")
+H2_RE = re.compile(r"^## +(.*?)\s*$", re.MULTILINE)
+H3_RE = re.compile(r"^### +(.*?)\s*$", re.MULTILINE)
+TEMPLATE_LINE_RE = re.compile(r"^(?:#+ *)?(?:Ingredientes|Preparaci[oó]n)\s*:?\s*$",
+                              re.MULTILINE | re.IGNORECASE)
+TABLE_ROW_RE = re.compile(r"^\|\*\*[^|]*\*\*\|(.*)\|\s*$", re.MULTILINE)
+MISSING_LABELS = {"summary": "Resumen", "ingredients": "Ingredientes", "data": "Datos"}
+
+
+def walk(dir_node: Dir):
+    """Every page under dir_node in {toc} order: index, pages, then subdirs."""
+    if dir_node.index_page:
+        yield dir_node.index_page
+    yield from dir_node.pages
+    for sub in dir_node.subdirs:
+        yield from walk(sub)  # <-- recursion
+
+
+def expected_slug(title: str) -> str:
+    """Slug rule: title minus (notes), no accents, lowercase, other runs as '-'."""
+    text = unicodedata.normalize("NFD", PARENS_RE.sub("", str(title)).lower())
+    text = "".join(c for c in text if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", "-", text).strip("-")
+
+
+def recipe_sections(body: str) -> dict[str, str]:
+    """{heading: text} for each `### ` section of a page body."""
+    parts = H3_RE.split(body)
+    return {parts[i]: parts[i + 1] for i in range(1, len(parts) - 1, 2)}
+
+
+def name_issues(page: Page, h2s: list[str]) -> list[str]:
+    issues = []
+    if h2s and h2s[0] != str(page.title):
+        issues.append(f"el título `## {h2s[0]}` no coincide con page_title")
+    is_index = page.dir_node.index_page is page
+    if is_index:
+        name = page.dir_node.rel_path.name
+        if page.dir_node.parent and name != expected_slug(page.title):
+            issues.append(f"directorio `{name}`, esperado `{expected_slug(page.title)}`")
+        return issues
+    if page.slug != expected_slug(page.title):
+        issues.append(f"slug `{page.slug}`, esperado `{expected_slug(page.title)}`")
+    if page.rel_path.stem != page.slug:
+        issues.append(f"archivo `{page.rel_path.name}` no coincide con el slug")
+    return issues
+
+
+def page_issues(page: Page) -> tuple[list[str], list[tuple[str, str]]]:
+    """(missing checklist items, [(kind, detail)] suggestions) for one page."""
+    _, _, body = split_frontmatter(page.src_path.read_text(encoding="utf-8"))
+    h2s = H2_RE.findall(body)
+    suggestions = [("Nombres", issue) for issue in name_issues(page, h2s)]
+    if len(h2s) > 1:
+        extra = ", ".join(f"`## {h}`" for h in h2s[1:])
+        suggestions.append(("Encabezados `##` extra", f"{extra}: usar `###` o `####`"))
+    if re.search(r"linkear", body, re.IGNORECASE):
+        suggestions.append(("Enlaces pendientes", "texto «Linkear…» sin enlace"))
+
+    sections = recipe_sections(body)
+    if "Preparación" not in sections:
+        return [], suggestions
+    steps = sections["Preparación"]
+    missing = []
+    if any(m in body for m in CURATION_MARKERS):
+        missing.append("summary")
+    if not re.search(r"[^\s-]", sections.get("Ingredientes", "")):
+        missing.append("ingredients")
+    if not any(cell.strip(" |") for cell in TABLE_ROW_RE.findall(body)):
+        missing.append("data")
+    if TEMPLATE_LINE_RE.search(steps):
+        suggestions.append(("Plantilla dentro de Preparación",
+                            "«Ingredientes»/«Preparación» como títulos en los pasos: "
+                            "pasar a las secciones de la plantilla"))
+    if not steps.strip():
+        suggestions.append(("Preparación vacía", "no tiene pasos"))
+    if missing and not page.pending:
+        labels = ", ".join(MISSING_LABELS[m] for m in missing)
+        suggestions.append(("Revisadas incompletas", f"falta: {labels}"))
+    return missing, suggestions
+
+
+def report_link(page: Page) -> str:
+    return f"[{page.title}]({site_link(page)}){pending_mark(page)}"
+
+
+def edit_link(page: Page, edit_base_url: str | None) -> str:
+    return f"[editar]({compute_edit_url(page, edit_base_url)})" if edit_base_url else ""
+
+
+def percent(done: int, total: int) -> str:
+    return f"{round(100 * done / total)}%" if total else "—"
+
+
+def report_sections(tree: Dir) -> list[tuple[str, list[Page]]]:
+    """(name, pages) per top-level section; root-level pages under "Inicio"."""
+    root = ([tree.index_page] if tree.index_page else []) + tree.pages
+    groups = [("Inicio", root)] if root else []
+    for sub in tree.subdirs:
+        name = sub.index_page.title if sub.index_page else sub.rel_path.name
+        groups.append((str(name), list(walk(sub))))
+    return groups
+
+
+def curation_report(tree: Dir, edit_base_url: str | None) -> str:
+    groups = report_sections(tree)
+    pages = [p for _, group in groups for p in group]
+    issues = {id(p): page_issues(p) for p in pages}
+    done = sum(not p.pending for p in pages)
+
+    lines = [f"---\ntitle: {REPORT_TITLE}\npage_title: {REPORT_TITLE}\n---\n",
+             f"## {REPORT_TITLE}", "",
+             "Generada en cada publicación: progreso de la revisión, sugerencias y el "
+             "texto `[page_link](<uuid>)` de cada página para enlazarla desde otra.", "",
+             "### Progreso", "",
+             f"**{done} de {len(pages)} páginas revisadas ({percent(done, len(pages))})**", "",
+             f'<progress value="{done}" max="{len(pages)}"></progress>', "",
+             "| Sección | Revisadas | Total | % |", "|---|---:|---:|---:|"]
+    for name, group in groups:
+        ok = sum(not p.pending for p in group)
+        lines.append(f"| {name} | {ok} | {len(group)} | {percent(ok, len(group))} |")
+
+    lines += ["", "Recetas a las que todavía les falta:", ""]
+    for key, label in MISSING_LABELS.items():
+        count = sum(key in issues[id(p)][0] for p in pages)
+        lines.append(f"- {label}: {count}")
+
+    lines += ["", "### Sugerencias", ""]
+    by_kind: dict[str, list[str]] = {}
+    for p in pages:
+        for kind, detail in issues[id(p)][1]:
+            item = f"- {report_link(p)}: {detail} {edit_link(p, edit_base_url)}".rstrip()
+            by_kind.setdefault(kind, []).append(item)
+    if not by_kind:
+        lines.append("_Nada que sugerir._")
+    for kind, items in by_kind.items():
+        lines += [f"#### {kind} ({len(items)})", "", *items, ""]
+
+    lines += ["", "### Páginas", ""]
+    for name, group in groups:
+        lines += [f"#### {name}", "", "| Página | Falta | Enlace | |", "|---|---|---|---|"]
+        for p in group:
+            missing = ", ".join(MISSING_LABELS[m] for m in issues[id(p)][0])
+            # entities, so kramdown doesn't turn the snippet inside the HTML into a link
+            code = (f'<code class="copy">&#91;page_link&#93;({p.uuid})</code>'
+                    if p.uuid else "")
+            lines.append(f"| {report_link(p)} | {missing} | {code} | "
+                         f"{edit_link(p, edit_base_url)} |")
+        lines.append("")
+    return "\n".join(lines)
+
+
+def write_report(tree: Dir, target_root: Path, edit_base_url: str | None,
+                 warnings: list) -> None:
+    out_path = target_root / REPORT_FILE
+    if out_path.exists():
+        warnings.append(f"curation report overrides a generated file: {REPORT_FILE}")
+    out_path.write_text(curation_report(tree, edit_base_url), encoding="utf-8")
+
+
+# --------------------------------------------------------------------------
 # Site files (_config.yml, _layouts/, ...) copied over the output
 # --------------------------------------------------------------------------
 
@@ -632,6 +803,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
     write_recs(recs, target_root, uuid_map, warnings)
     write_sidebar(tree, target_root)
+    write_report(tree, target_root, edit_base_url, warnings)
     if pending:
         warnings.append(f"{pending} page(s) not curated yet (curated: true missing)")
 

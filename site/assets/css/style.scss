@@ -106,6 +106,17 @@ section {
   margin-right:6px;
 }
 
+// curation report (/curacion, written by build_docs.py): one click selects a snippet
+code.copy {
+  user-select:all;
+  cursor:copy;
+  white-space:nowrap;
+}
+
+progress {
+  width:100%;
+}
+
 .sidebar-footer {
   flex:none;
   border-top:1px solid #e5e5e5;
