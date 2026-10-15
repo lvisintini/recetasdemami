@@ -1,13 +1,13 @@
 ---
 slug: nicoise
 uuid: 6cc7b27a-5b0e-4af9-ada3-47715f5786b8
-page_title: Nicoise
+page_title: Niçoise
 curated: false
 ---
 
 {nav}
 
-## Nicoise
+## Niçoise
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: salsa-a-la-maitre-dhotel
 uuid: ff6e25c9-2d2e-42b6-9cb2-c1376120ca27
-page_title: Salsa a la maitre d´hotel
+page_title: Salsa maître d'hôtel
 curated: false
 ---
 
 {nav}
 
-## Salsa a la maitre d´hotel
+## Salsa maître d'hôtel
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

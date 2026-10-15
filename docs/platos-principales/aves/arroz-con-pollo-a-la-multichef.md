@@ -1,13 +1,13 @@
 ---
 slug: arroz-con-pollo-a-la-multichef
 uuid: 0eadcad2-d8b1-4a56-bb8a-c559f4c5f77e
-page_title: Arroz con pollo a la Multichef (o sin multichef)
+page_title: Arroz con pollo a la Multichef (o sin Multichef)
 curated: false
 ---
 
 {nav}
 
-## Arroz con pollo a la Multichef (o sin multichef)
+## Arroz con pollo a la Multichef (o sin Multichef)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

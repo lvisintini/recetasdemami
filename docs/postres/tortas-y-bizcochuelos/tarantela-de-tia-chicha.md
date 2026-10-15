@@ -1,13 +1,13 @@
 ---
 slug: tarantela-de-tia-chicha
 uuid: 7d5b1cd6-6239-422c-8f26-6ba9bff9ad25
-page_title: Tarantela de Tía Chicha
+page_title: Tarantela de tía Chicha
 curated: false
 ---
 
 {nav}
 
-## Tarantela de Tía Chicha
+## Tarantela de tía Chicha
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

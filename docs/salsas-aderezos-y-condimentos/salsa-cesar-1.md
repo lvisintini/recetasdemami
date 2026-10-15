@@ -1,13 +1,13 @@
 ---
 slug: salsa-cesar-1
 uuid: 8ac69e36-17d4-4195-b7aa-98a44cd896a4
-page_title: Salsa Cesar 1
+page_title: Salsa César 1
 curated: false
 ---
 
 {nav}
 
-## Salsa Cesar 1
+## Salsa César 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

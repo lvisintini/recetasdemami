@@ -1,13 +1,13 @@
 ---
 slug: old-fashion
 uuid: 1b44e33f-166f-4b34-9dca-b2c3fcd67d35
-page_title: Old fashion
+page_title: Old fashioned
 curated: false
 ---
 
 {nav}
 
-## Old fashion
+## Old fashioned
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

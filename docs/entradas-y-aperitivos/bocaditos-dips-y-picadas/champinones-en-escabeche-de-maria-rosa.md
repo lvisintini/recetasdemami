@@ -1,13 +1,13 @@
 ---
 slug: champinones-en-escabeche-de-maria-rosa
 uuid: b47d242a-7e46-4dad-b69e-60c89735e07f
-page_title: Champiñones en escabeche de Maria Rosa
+page_title: Champiñones en escabeche de María Rosa
 curated: false
 ---
 
 {nav}
 
-## Champiñones en escabeche de Maria Rosa
+## Champiñones en escabeche de María Rosa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

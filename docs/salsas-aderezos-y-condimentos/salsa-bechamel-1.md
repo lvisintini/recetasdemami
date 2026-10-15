@@ -1,13 +1,13 @@
 ---
 slug: salsa-bechamel-1
 uuid: b47c0731-c8b7-4f34-be29-65f3b1ad0563
-page_title: Salsa Bechamel 1
+page_title: Salsa bechamel 1
 curated: false
 ---
 
 {nav}
 
-## Salsa Bechamel 1
+## Salsa bechamel 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

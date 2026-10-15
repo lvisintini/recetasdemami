@@ -1,13 +1,13 @@
 ---
 slug: criolla
 uuid: c7bdc20d-46ba-47bb-b440-e5652db908fe
-page_title: Criolla
+page_title: Salsa criolla 1
 curated: false
 ---
 
 {nav}
 
-## Criolla
+## Salsa criolla 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: salsa-caprece-de-leo
 uuid: ea51b1c4-bad4-44e3-92c2-07892e20b2de
-page_title: Salsa caprece de Leo
+page_title: Salsa caprese de Leo
 curated: false
 ---
 
 {nav}
 
-## Salsa caprece de Leo
+## Salsa caprese de Leo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

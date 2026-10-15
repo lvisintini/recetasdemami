@@ -1,13 +1,13 @@
 ---
 slug: bacardi-durazno
 uuid: 7df589ff-e7bb-4e50-8032-a864f72cbf99
-page_title: bacardi durazno
+page_title: Bacardi durazno
 curated: false
 ---
 
 {nav}
 
-## bacardi durazno
+## Bacardi durazno
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

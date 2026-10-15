@@ -1,13 +1,13 @@
 ---
 slug: brusquetas-5
 uuid: 67dc7038-243b-43ea-af4d-276412c9b0c7
-page_title: Brusquetas 5
+page_title: Bruschettas 5
 curated: false
 ---
 
 {nav}
 
-## Brusquetas 5
+## Bruschettas 5
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

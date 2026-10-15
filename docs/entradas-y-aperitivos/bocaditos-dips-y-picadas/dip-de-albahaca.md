@@ -1,13 +1,13 @@
 ---
 slug: dip-de-albahaca
 uuid: cebd58e0-a78f-4a8a-857b-e0486b2ae182
-page_title: Dip de Albahaca
+page_title: Dip de albahaca
 curated: false
 ---
 
 {nav}
 
-## Dip de Albahaca
+## Dip de albahaca
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

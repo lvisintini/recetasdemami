@@ -1,13 +1,13 @@
 ---
 slug: brusquetas-4
 uuid: 36872845-8d08-4536-92cb-dafe9de8f4c1
-page_title: Brusquetas 4
+page_title: Bruschettas 4
 curated: false
 ---
 
 {nav}
 
-## Brusquetas 4
+## Bruschettas 4
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

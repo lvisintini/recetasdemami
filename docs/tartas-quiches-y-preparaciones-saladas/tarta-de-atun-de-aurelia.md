@@ -1,13 +1,13 @@
 ---
 slug: tarta-de-atun-de-aurelia
 uuid: b0727237-c008-438b-8c1e-b2499add7064
-page_title: Tarta de atun de Aurelia
+page_title: Tarta de atún de Aurelia
 curated: false
 ---
 
 {nav}
 
-## Tarta de atun de Aurelia
+## Tarta de atún de Aurelia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

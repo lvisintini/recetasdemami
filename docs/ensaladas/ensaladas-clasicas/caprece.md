@@ -1,13 +1,13 @@
 ---
 slug: caprece
 uuid: 629efaab-35bc-4249-84d9-c60a3cbb3c62
-page_title: Caprece
+page_title: Caprese
 curated: false
 ---
 
 {nav}
 
-## Caprece
+## Caprese
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

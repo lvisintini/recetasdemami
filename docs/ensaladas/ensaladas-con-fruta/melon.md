@@ -1,13 +1,13 @@
 ---
 slug: melon
 uuid: 8deba576-8eb7-4db7-8240-582cecc2121b
-page_title: Melon
+page_title: Melón
 curated: false
 ---
 
 {nav}
 
-## Melon
+## Melón
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

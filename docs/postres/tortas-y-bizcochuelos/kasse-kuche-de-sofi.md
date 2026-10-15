@@ -1,13 +1,13 @@
 ---
 slug: kasse-kuche-de-sofi
 uuid: 59781cc7-1701-4792-bfa9-3cf76410ec78
-page_title: Kâsse kuche de Sofi
+page_title: Käsekuchen de Sofi
 curated: false
 ---
 
 {nav}
 
-## Kâsse kuche de Sofi
+## Käsekuchen de Sofi
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

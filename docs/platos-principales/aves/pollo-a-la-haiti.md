@@ -1,13 +1,13 @@
 ---
 slug: pollo-a-la-haiti
 uuid: 0665920f-c9c5-49e5-9646-25b1a847e160
-page_title: Pollo a la Haiti.
+page_title: Pollo a la Haití
 curated: false
 ---
 
 {nav}
 
-## Pollo a la Haiti.
+## Pollo a la Haití
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

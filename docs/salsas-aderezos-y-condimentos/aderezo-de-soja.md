@@ -1,13 +1,13 @@
 ---
 slug: aderezo-de-soja
 uuid: 550aeae1-f11b-4879-a72c-70e0039fee52
-page_title: Aderezo de Soja
+page_title: Aderezo de soja
 curated: false
 ---
 
 {nav}
 
-## Aderezo de Soja
+## Aderezo de soja
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

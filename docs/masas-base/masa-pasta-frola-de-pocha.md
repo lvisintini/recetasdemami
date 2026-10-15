@@ -1,13 +1,13 @@
 ---
 slug: masa-pasta-frola-de-pocha
 uuid: 8cb4c56b-8c36-4402-93fc-50ffc3942ac1
-page_title: Masa pasta frola de Pocha
+page_title: Masa de pasta frola de Pocha
 curated: false
 ---
 
 {nav}
 
-## Masa pasta frola de Pocha
+## Masa de pasta frola de Pocha
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

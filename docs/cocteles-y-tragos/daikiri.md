@@ -1,13 +1,13 @@
 ---
 slug: daikiri
 uuid: c297145e-4f00-4523-8ca3-4e646263dcc1
-page_title: Daikiri
+page_title: Daiquiri
 curated: false
 ---
 
 {nav}
 
-## Daikiri
+## Daiquiri
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

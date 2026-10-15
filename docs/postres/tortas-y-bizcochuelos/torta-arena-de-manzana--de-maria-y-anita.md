@@ -1,13 +1,13 @@
 ---
 slug: torta-arena-de-manzana--de-maria-y-anita
 uuid: a365d985-ca5b-419a-b85a-9f62c0491b2d
-page_title: Torta arena de manzana (y otras frutas) de Maria y Anita
+page_title: Torta arena de manzana (y otras frutas) de María y Anita
 curated: false
 ---
 
 {nav}
 
-## Torta arena de manzana (y otras frutas) de Maria y Anita
+## Torta arena de manzana (y otras frutas) de María y Anita
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

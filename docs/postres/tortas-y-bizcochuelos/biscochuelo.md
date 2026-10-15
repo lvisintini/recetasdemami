@@ -1,13 +1,13 @@
 ---
 slug: biscochuelo
 uuid: 36762624-66d5-4ec7-b6b6-1418de949b4a
-page_title: Biscochuelo
+page_title: Bizcochuelo
 curated: false
 ---
 
 {nav}
 
-## Biscochuelo
+## Bizcochuelo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

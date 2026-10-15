@@ -1,13 +1,13 @@
 ---
 slug: remedios-caseros
 uuid: 1b7f84d1-6943-4ecf-a15a-a8247edccc32
-page_title: Remedios Caseros
+page_title: Remedios caseros
 curated: true
 ---
 
 {nav}
 
-## Remedios Caseros
+## Remedios caseros
 
 ### Dolores y molestias
 

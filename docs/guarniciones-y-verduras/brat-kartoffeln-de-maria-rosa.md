@@ -1,13 +1,13 @@
 ---
 slug: brat-kartoffeln-de-maria-rosa
 uuid: b1b4db30-bdb5-4c04-b42f-8ed786c10475
-page_title: Brat kartoffeln de Maria Rosa
+page_title: Bratkartoffeln de María Rosa
 curated: false
 ---
 
 {nav}
 
-## Brat kartoffeln de Maria Rosa
+## Bratkartoffeln de María Rosa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

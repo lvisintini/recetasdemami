@@ -1,13 +1,13 @@
 ---
 slug: salsa-vitel-tone
 uuid: 53515cff-78f7-4a38-bd36-3f1fb4121419
-page_title: Salsa Vitel Toné
+page_title: Salsa vitel toné
 curated: false
 ---
 
 {nav}
 
-## Salsa Vitel Toné
+## Salsa vitel toné
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

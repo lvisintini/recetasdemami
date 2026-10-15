@@ -1,13 +1,13 @@
 ---
 slug: brocoli-zanahoria-pollo
 uuid: 439458ad-eb60-41d6-8cb0-0676c5b2ea7b
-page_title: Brócoli, zanahoria, pollo.
+page_title: Brócoli, zanahoria y pollo
 curated: false
 ---
 
 {nav}
 
-## Brócoli, zanahoria, pollo.
+## Brócoli, zanahoria y pollo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

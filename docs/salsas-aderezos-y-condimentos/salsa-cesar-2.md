@@ -1,13 +1,13 @@
 ---
 slug: salsa-cesar-2
 uuid: aaf4d362-2885-46ee-b39c-6adebe3b5693
-page_title: Salsa Cesar 2
+page_title: Salsa César 2
 curated: false
 ---
 
 {nav}
 
-## Salsa Cesar 2
+## Salsa César 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: dip-de-atun
 uuid: 581c17a7-070d-4fc2-9dd1-e2363c61a33b
-page_title: Dip de atun
+page_title: Dip de atún
 curated: false
 ---
 
 {nav}
 
-## Dip de atun
+## Dip de atún
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

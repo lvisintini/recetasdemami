@@ -1,13 +1,13 @@
 ---
 slug: crema-catalana
 uuid: 20c9611e-bdac-4172-bacf-c2e4df40052b
-page_title: Crema Catalana
+page_title: Crema catalana
 curated: false
 ---
 
 {nav}
 
-## Crema Catalana
+## Crema catalana
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

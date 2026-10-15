@@ -1,13 +1,13 @@
 ---
 slug: torta-peruana-de-tia-nilda
 uuid: d7654e81-7995-4744-9201-4180253566f9
-page_title: Torta peruana de Tía Nilda.
+page_title: Torta peruana de tía Nilda
 curated: false
 ---
 
 {nav}
 
-## Torta peruana de Tía Nilda.
+## Torta peruana de tía Nilda
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

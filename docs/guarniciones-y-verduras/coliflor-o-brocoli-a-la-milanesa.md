@@ -1,13 +1,13 @@
 ---
 slug: coliflor-o-brocoli-a-la-milanesa
 uuid: c65f4f50-c21c-4318-a8a5-0905ed9820d1
-page_title: Coliflor o brocoli a la milanesa
+page_title: Coliflor o brócoli a la milanesa
 curated: false
 ---
 
 {nav}
 
-## Coliflor o brocoli a la milanesa
+## Coliflor o brócoli a la milanesa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -181,6 +181,19 @@ def test_toc_sorts_numbered_titles_naturally(tmp_path):
     assert toc.index("2. Entradas") < toc.index("10. Postres")
 
 
+def test_toc_sorts_ignoring_accents_with_n_tilde_after_n(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000a1", "Home", "{toc}"))
+    for i, title in enumerate(["Omelette", "Ñoquis", "Brusquetas", "Nicoise", "Brócoli"]):
+        write(s, f"p{i}.md", page(f"p{i}", f"00000000-0000-0000-0000-0000000000a{i + 2}",
+                                  title, ""))
+    out = tmp_path / "o"
+    build_docs(str(s), str(out), edit_base_url=EDIT_BASE)
+    toc = read(out, "index.md")
+    order = ["Brócoli", "Brusquetas", "Nicoise", "Ñoquis", "Omelette"]
+    assert [toc.index(f"[{t}]") for t in order] == sorted(toc.index(f"[{t}]") for t in order)
+
+
 def test_weight_orders_before_title(tmp_path):
     s = tmp_path / "s"
     write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000e1", "Home", "{toc}"))

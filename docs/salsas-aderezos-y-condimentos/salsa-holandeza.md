@@ -1,13 +1,13 @@
 ---
 slug: salsa-holandeza
 uuid: 2e9f6eae-6e8c-4def-8415-a09d3375ca6b
-page_title: Salsa holandeza
+page_title: Salsa holandesa
 curated: false
 ---
 
 {nav}
 
-## Salsa holandeza
+## Salsa holandesa
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

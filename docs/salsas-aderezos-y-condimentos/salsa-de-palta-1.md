@@ -1,13 +1,13 @@
 ---
 slug: salsa-de-palta-1
 uuid: 727d2fa4-010c-49ca-99d0-63f2140c2934
-page_title: Salsa de Palta 1
+page_title: Salsa de palta 1
 curated: false
 ---
 
 {nav}
 
-## Salsa de Palta 1
+## Salsa de palta 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

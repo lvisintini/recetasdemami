@@ -1,13 +1,13 @@
 ---
 slug: doughnuts-de-las-tias-maria-y-anita-o-donas
 uuid: 925aeec6-a4b9-4c0f-9c61-02081ba75d80
-page_title: Doughnuts de las tías maría y anita o donas
+page_title: Doughnuts o donas de las tías María y Anita
 curated: false
 ---
 
 {nav}
 
-## Doughnuts de las tías maría y anita o donas
+## Doughnuts o donas de las tías María y Anita
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

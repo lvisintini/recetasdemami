@@ -22,6 +22,10 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   below), and optionally `weight` (a number) to fix its position: weighted entries come first, ascending, before
   unweighted ones; a directory's weight is its `index.md`'s. Titles carry no numbering
   (the top-level sections use `weight: 1`..`14`). A non-numeric weight is warned and ignored.
+- Titles (`page_title`, repeated as the page's `## ` heading) are Spanish sentence case:
+  capital first letter plus proper nouns and people's names (María Rosa, tía Nely, Mamama),
+  correct accents and dish spelling, no trailing period. Mami's parenthetical notes stay.
+  Sorting ignores accents and puts ñ between n and o.
 - Every directory has an `index.md`; all index files have `slug: index`.
 - Placeholders in bodies: `{nav}` (breadcrumb, all pages) and `{toc}` (index pages only).
 - Cross-references: `[page_link](<uuid>)` -> link text becomes the target's `page_title`,

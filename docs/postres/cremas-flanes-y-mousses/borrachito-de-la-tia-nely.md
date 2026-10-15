@@ -1,13 +1,13 @@
 ---
 slug: borrachito-de-la-tia-nely
 uuid: fbbbfc49-dcc7-4766-8a7c-4ac96323c530
-page_title: Borrachito de la Tía Nely
+page_title: Borrachito de la tía Nely
 curated: false
 ---
 
 {nav}
 
-## Borrachito de la Tía Nely
+## Borrachito de la tía Nely
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

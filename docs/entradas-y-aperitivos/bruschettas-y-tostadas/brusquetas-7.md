@@ -1,13 +1,13 @@
 ---
 slug: brusquetas-7
 uuid: a123ee41-1995-4a39-8029-7096d8ce3190
-page_title: Brusquetas 7
+page_title: Bruschettas 7
 curated: false
 ---
 
 {nav}
 
-## Brusquetas 7
+## Bruschettas 7
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

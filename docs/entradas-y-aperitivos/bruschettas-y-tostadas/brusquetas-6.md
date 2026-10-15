@@ -1,13 +1,13 @@
 ---
 slug: brusquetas-6
 uuid: 4285cd64-a580-4216-8cdd-b92484151e36
-page_title: Brusquetas 6
+page_title: Bruschettas 6
 curated: false
 ---
 
 {nav}
 
-## Brusquetas 6
+## Bruschettas 6
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

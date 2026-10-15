@@ -1,13 +1,13 @@
 ---
 slug: mouse-de-chocolate-de-marie-claude
 uuid: 1632f9b8-c776-4f56-9345-278569d95cce
-page_title: Mouse de chocolate de Marie Claude
+page_title: Mousse de chocolate de Marie Claude
 curated: false
 ---
 
 {nav}
 
-## Mouse de chocolate de Marie Claude
+## Mousse de chocolate de Marie Claude
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

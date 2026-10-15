@@ -1,13 +1,13 @@
 ---
 slug: souffle-de-pollo
 uuid: f08c93f2-57b5-452c-8f68-f5c70b986061
-page_title: Souffle de pollo
+page_title: Soufflé de pollo
 curated: false
 ---
 
 {nav}
 
-## Souffle de pollo
+## Soufflé de pollo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

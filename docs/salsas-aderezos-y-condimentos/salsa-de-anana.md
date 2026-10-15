@@ -1,13 +1,13 @@
 ---
 slug: salsa-de-anana
 uuid: ed83d6d2-fd93-493c-8072-c15edf2319b2
-page_title: Salsa de Ananá
+page_title: Salsa de ananá
 curated: false
 ---
 
 {nav}
 
-## Salsa de Ananá
+## Salsa de ananá
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

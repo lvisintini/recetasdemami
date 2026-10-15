@@ -1,13 +1,13 @@
 ---
 slug: souffle-de-choclos-mamama
 uuid: 72c09536-3caf-454f-8143-5f53c3253388
-page_title: Souffle de choclos Mamama
+page_title: Soufflé de choclos de Mamama
 curated: false
 ---
 
 {nav}
 
-## Souffle de choclos Mamama
+## Soufflé de choclos de Mamama
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: escalopes-al-vino-marsala
 uuid: e5ab49bd-f267-4fd5-8299-1e479e125211
-page_title: Escalopes al vino Marsala.
+page_title: Escalopes al vino Marsala
 curated: false
 ---
 
 {nav}
 
-## Escalopes al vino Marsala.
+## Escalopes al vino Marsala
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

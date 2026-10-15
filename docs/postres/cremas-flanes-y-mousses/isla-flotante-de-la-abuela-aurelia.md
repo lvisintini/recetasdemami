@@ -1,13 +1,13 @@
 ---
 slug: isla-flotante-de-la-abuela-aurelia
 uuid: c58fbce7-0be3-4e31-9a25-cd6ab0392df7
-page_title: Isla flotante de la Abuela Aurelia
+page_title: Isla flotante de la abuela Aurelia
 curated: false
 ---
 
 {nav}
 
-## Isla flotante de la Abuela Aurelia
+## Isla flotante de la abuela Aurelia
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

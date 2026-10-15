@@ -1,13 +1,13 @@
 ---
 slug: pure-de-manzanas
 uuid: f2b00edb-e006-4971-b30a-ac05071ce53f
-page_title: Pure de manzanas
+page_title: Puré de manzanas
 curated: false
 ---
 
 {nav}
 
-## Pure de manzanas
+## Puré de manzanas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: quiche-lorraine-de-luigi
 uuid: 71fa28ce-f02d-46f0-8600-d029ccd9a0f2
-page_title: Quiche lorraine de luigi.
+page_title: Quiche lorraine de Luigi
 curated: false
 ---
 
 {nav}
 
-## Quiche lorraine de luigi.
+## Quiche lorraine de Luigi
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

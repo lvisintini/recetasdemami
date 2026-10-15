@@ -1,13 +1,13 @@
 ---
 slug: spatzle
 uuid: ecd9ee0b-5bcd-42f2-a2fd-7536eb836a8f
-page_title: Spâtzle (4 personas)
+page_title: Spätzle (4 personas)
 curated: false
 ---
 
 {nav}
 
-## Spâtzle (4 personas)
+## Spätzle (4 personas)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

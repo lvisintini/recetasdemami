@@ -1,13 +1,13 @@
 ---
 slug: albondigas
 uuid: a94a511f-9f0b-4427-9386-51bc50ae3acf
-page_title: Albondigas
+page_title: Albóndigas
 curated: false
 ---
 
 {nav}
 
-## Albondigas
+## Albóndigas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

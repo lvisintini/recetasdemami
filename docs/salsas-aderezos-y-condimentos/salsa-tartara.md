@@ -1,13 +1,13 @@
 ---
 slug: salsa-tartara
 uuid: 1acbf51d-d260-4e83-8796-740001dbcb81
-page_title: Salsa tartara
+page_title: Salsa tártara
 curated: false
 ---
 
 {nav}
 
-## Salsa tartara
+## Salsa tártara
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

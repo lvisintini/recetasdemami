@@ -1,13 +1,13 @@
 ---
 slug: bano-de-chocolate-de-mamama
 uuid: 7ab6edff-1996-4fc5-886b-e9a4694aa408
-page_title: Baño de chocolate de mamama
+page_title: Baño de chocolate de Mamama
 curated: false
 ---
 
 {nav}
 
-## Baño de chocolate de mamama
+## Baño de chocolate de Mamama
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

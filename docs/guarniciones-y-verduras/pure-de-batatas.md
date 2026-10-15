@@ -1,13 +1,13 @@
 ---
 slug: pure-de-batatas
 uuid: 20282eba-6d07-43cf-9c67-316c4c75bcf6
-page_title: Pure de batatas
+page_title: Puré de batatas
 curated: false
 ---
 
 {nav}
 
-## Pure de batatas
+## Puré de batatas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

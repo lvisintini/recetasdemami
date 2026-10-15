@@ -1,13 +1,13 @@
 ---
 slug: cerdo-a-la-florentin
 uuid: 01d09260-5f40-4ae8-839e-7a7f6602b285
-page_title: Cerdo a la florentin (agridulce)
+page_title: Cerdo a la florentina (agridulce)
 curated: false
 ---
 
 {nav}
 
-## Cerdo a la florentin (agridulce)
+## Cerdo a la florentina (agridulce)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

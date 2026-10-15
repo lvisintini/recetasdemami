@@ -1,13 +1,13 @@
 ---
 slug: huevos-napoleon
 uuid: c30a551c-37f6-4d0a-a55c-1ddc9f830ae5
-page_title: Huevos napoleon
+page_title: Huevos Napoleón
 curated: false
 ---
 
 {nav}
 
-## Huevos napoleon
+## Huevos Napoleón
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

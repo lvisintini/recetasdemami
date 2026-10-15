@@ -1,13 +1,13 @@
 ---
 slug: rucula-1
 uuid: 0198aa07-9b4d-4bf3-b660-268385347dfd
-page_title: Rucula 1
+page_title: Rúcula 1
 curated: false
 ---
 
 {nav}
 
-## Rucula 1
+## Rúcula 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

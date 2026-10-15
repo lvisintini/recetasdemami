@@ -1,13 +1,13 @@
 ---
 slug: crema-de-choclos
 uuid: 548b119d-4000-4e63-9be4-72ca74343d93
-page_title: Crema de Choclos
+page_title: Crema de choclos
 curated: false
 ---
 
 {nav}
 
-## Crema de Choclos
+## Crema de choclos
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

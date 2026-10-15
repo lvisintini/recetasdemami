@@ -1,13 +1,13 @@
 ---
 slug: brusquetas-1
 uuid: b8c3ed23-cd87-499f-8935-8e30b63dced9
-page_title: Brusquetas 1
+page_title: Bruschettas 1
 curated: false
 ---
 
 {nav}
 
-## Brusquetas 1
+## Bruschettas 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

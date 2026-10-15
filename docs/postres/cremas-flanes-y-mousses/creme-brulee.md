@@ -1,13 +1,13 @@
 ---
 slug: creme-brulee
 uuid: 41486d12-01a3-4e6a-9a4c-5ef56f854429
-page_title: Creme brulee
+page_title: Crème brûlée
 curated: false
 ---
 
 {nav}
 
-## Creme brulee
+## Crème brûlée
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

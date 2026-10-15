@@ -1,13 +1,13 @@
 ---
 slug: torta-de-simple-marmolada
 uuid: d3d368b4-ac0a-4ff9-aaf5-21e1d77cb21f
-page_title: Torta de simple marmolada
+page_title: Torta simple marmolada
 curated: false
 ---
 
 {nav}
 
-## Torta de simple marmolada
+## Torta simple marmolada
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: cesar
 uuid: de7560d4-5ae1-4cd6-8c32-59e277598094
-page_title: Cesar
+page_title: César
 curated: false
 ---
 
 {nav}
 
-## Cesar
+## César
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

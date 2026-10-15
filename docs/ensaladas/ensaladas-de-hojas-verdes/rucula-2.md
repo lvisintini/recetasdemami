@@ -1,13 +1,13 @@
 ---
 slug: rucula-2
 uuid: ab913491-fa3c-4582-b877-20713c48de27
-page_title: Rucula 2
+page_title: Rúcula 2
 curated: false
 ---
 
 {nav}
 
-## Rucula 2
+## Rúcula 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

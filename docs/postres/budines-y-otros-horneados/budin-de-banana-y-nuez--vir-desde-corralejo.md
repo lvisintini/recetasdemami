@@ -1,13 +1,13 @@
 ---
 slug: budin-de-banana-y-nuez--vir-desde-corralejo
 uuid: 8782f1bc-39c4-4e1f-a187-df0a4f19bdad
-page_title: Budín de banana y nuez (y chocolate). Vir desde corralejo.
+page_title: Budín de banana y nuez (y chocolate) de Vir, desde Corralejo
 curated: false
 ---
 
 {nav}
 
-## Budín de banana y nuez (y chocolate). Vir desde corralejo.
+## Budín de banana y nuez (y chocolate) de Vir, desde Corralejo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

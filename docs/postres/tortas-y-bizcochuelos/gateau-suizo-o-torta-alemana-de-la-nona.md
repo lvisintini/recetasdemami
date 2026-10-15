@@ -1,13 +1,13 @@
 ---
 slug: gateau-suizo-o-torta-alemana-de-la-nona
 uuid: 53f26d58-18ba-4f4d-9b34-295f8ba7328d
-page_title: Gateau suizo o torta alemana de la nona
+page_title: Gâteau suizo o torta alemana de la nona
 curated: false
 ---
 
 {nav}
 
-## Gateau suizo o torta alemana de la nona
+## Gâteau suizo o torta alemana de la nona
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

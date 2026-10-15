@@ -1,13 +1,13 @@
 ---
 slug: tartas-de-maria-rosa
 uuid: adf72bb5-db11-4f1a-9a57-ea85f1e27a5b
-page_title: Tartas de maria rosa (muy buenas; saladas)
+page_title: Tartas de María Rosa (muy buenas; saladas)
 curated: false
 ---
 
 {nav}
 
-## Tartas de maria rosa (muy buenas; saladas)
+## Tartas de María Rosa (muy buenas; saladas)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

@@ -1,13 +1,13 @@
 ---
 slug: carne-agri-dulce
 uuid: 20953f3c-7e48-4e9d-8ecd-a579ea1aa440
-page_title: Carne agri-dulce (receta de gigi)
+page_title: Carne agridulce (receta de Gigi)
 curated: false
 ---
 
 {nav}
 
-## Carne agri-dulce (receta de gigi)
+## Carne agridulce (receta de Gigi)
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

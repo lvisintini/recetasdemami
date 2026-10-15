@@ -1,13 +1,13 @@
 ---
 slug: huevos-poche-2
 uuid: c956f725-f9b1-48b0-a419-a4cb7e83a8d8
-page_title: Huevos poche 2
+page_title: Huevos poché 2
 curated: false
 ---
 
 {nav}
 
-## Huevos poche 2
+## Huevos poché 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

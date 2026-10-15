@@ -1,13 +1,13 @@
 ---
 slug: turron-de-quaker
 uuid: ae866956-77ab-4a5a-b941-27a584000660
-page_title: Turron de quaker
+page_title: Turrón de Quaker
 curated: false
 ---
 
 {nav}
 
-## Turron de quaker
+## Turrón de Quaker
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

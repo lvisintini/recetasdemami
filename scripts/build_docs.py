@@ -64,6 +64,7 @@ import html
 import re
 import shutil
 import sys
+import unicodedata
 from pathlib import Path
 
 import yaml
@@ -152,9 +153,15 @@ def split_frontmatter(text: str) -> tuple[str, dict, str]:
     return raw, data, text[m.end():]
 
 
+def fold_accents(text: str) -> str:
+    """Lowercase without accents, Spanish order: 'Brócoli' ~ 'brocoli', ñ between n and o."""
+    text = text.lower().replace("ñ", "n\x7f")
+    return "".join(c for c in unicodedata.normalize("NFD", text) if not unicodedata.combining(c))
+
+
 def natural_key(text: str) -> list:
     """Sort key that compares digit runs as numbers: '2. B' < '10. A'."""
-    return [int(t) if t.isdigit() else t.lower() for t in re.split(r"(\d+)", text)]
+    return [int(t) if t.isdigit() else fold_accents(t) for t in re.split(r"(\d+)", text)]
 
 
 def order_key(page: "Page | None", fallback: str) -> tuple:

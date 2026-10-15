@@ -1,13 +1,13 @@
 ---
 slug: salsa-de-queso-crema
 uuid: 30d62f53-0bb4-4bb6-aa57-14cc2e58d00b
-page_title: Salsa de Queso Crema
+page_title: Salsa de queso crema
 curated: false
 ---
 
 {nav}
 
-## Salsa de Queso Crema
+## Salsa de queso crema
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

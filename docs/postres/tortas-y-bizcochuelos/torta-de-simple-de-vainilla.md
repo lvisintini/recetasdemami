@@ -1,13 +1,13 @@
 ---
 slug: torta-de-simple-de-vainilla
 uuid: be22e580-1d32-4e71-8d7a-a072f922ff9c
-page_title: Torta de simple de vainilla
+page_title: Torta simple de vainilla
 curated: false
 ---
 
 {nav}
 
-## Torta de simple de vainilla
+## Torta simple de vainilla
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

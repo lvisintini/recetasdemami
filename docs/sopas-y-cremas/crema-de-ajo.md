@@ -1,13 +1,13 @@
 ---
 slug: crema-de-ajo
 uuid: 6e350b4d-bd35-47d5-b3fe-af9e54795bc8
-page_title: Crema de Ajo
+page_title: Crema de ajo
 curated: false
 ---
 
 {nav}
 
-## Crema de Ajo
+## Crema de ajo
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

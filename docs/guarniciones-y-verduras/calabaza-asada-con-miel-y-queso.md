@@ -1,13 +1,13 @@
 ---
 slug: calabaza-asada-con-miel-y-queso
 uuid: aa905215-d0ea-4c62-971c-7fa7ddf8dd0f
-page_title: Calabaza asada con miel y queso.
+page_title: Calabaza asada con miel y queso
 curated: false
 ---
 
 {nav}
 
-## Calabaza asada con miel y queso.
+## Calabaza asada con miel y queso
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

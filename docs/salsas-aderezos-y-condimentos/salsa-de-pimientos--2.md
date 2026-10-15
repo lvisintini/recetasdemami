@@ -1,13 +1,13 @@
 ---
 slug: salsa-de-pimientos--2
 uuid: dc13ea37-4ad2-4e3f-9a82-b8ae57deee09
-page_title: Salsa de pimientos  2
+page_title: Salsa de pimientos 2
 curated: false
 ---
 
 {nav}
 
-## Salsa de pimientos  2
+## Salsa de pimientos 2
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

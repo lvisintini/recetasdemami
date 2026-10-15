@@ -1,13 +1,13 @@
 ---
 slug: aderezo-agridulce
 uuid: f5f8899b-17b9-440c-89db-2b2fe016b785
-page_title: Aderezo Agridulce
+page_title: Aderezo agridulce
 curated: false
 ---
 
 {nav}
 
-## Aderezo Agridulce
+## Aderezo agridulce
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

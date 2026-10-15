@@ -1,13 +1,13 @@
 ---
 slug: carne-a-la-gravy
 uuid: 81f3379e-98ec-466c-b90c-e5e4ae65a38c
-page_title: Carne a la gravy.
+page_title: Carne a la gravy
 curated: false
 ---
 
 {nav}
 
-## Carne a la gravy.
+## Carne a la gravy
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

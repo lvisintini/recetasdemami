@@ -1,13 +1,13 @@
 ---
 slug: coliflor-o-brocoli-a-la-sarten
 uuid: 8df74393-3a45-4458-a01f-0fbf2eaff4b5
-page_title: Coliflor o brocoli a la sarten
+page_title: Coliflor o brócoli a la sartén
 curated: false
 ---
 
 {nav}
 
-## Coliflor o brocoli a la sarten
+## Coliflor o brócoli a la sartén
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

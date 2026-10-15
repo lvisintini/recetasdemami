@@ -1,13 +1,13 @@
 ---
 slug: supremes-a-la-kiev
 uuid: e29f9c8c-b97a-4200-8e94-eefe78bd2424
-page_title: Supremes a la Kiev
+page_title: Supremas a la Kiev
 curated: false
 ---
 
 {nav}
 
-## Supremes a la Kiev
+## Supremas a la Kiev
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

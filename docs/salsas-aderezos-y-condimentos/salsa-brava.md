@@ -1,13 +1,13 @@
 ---
 slug: salsa-brava
 uuid: e72e155a-3950-42c8-b248-7f3335ce0dd0
-page_title: Salsa Brava
+page_title: Salsa brava
 curated: false
 ---
 
 {nav}
 
-## Salsa Brava
+## Salsa brava
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

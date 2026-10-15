@@ -1,13 +1,13 @@
 ---
 slug: tiramisu
 uuid: 74c66312-4c62-41d6-a5fb-3f10c6e517f2
-page_title: Tiramisu
+page_title: Tiramisú
 curated: false
 ---
 
 {nav}
 
-## Tiramisu
+## Tiramisú
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

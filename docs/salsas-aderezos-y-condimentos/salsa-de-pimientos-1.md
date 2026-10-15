@@ -1,13 +1,13 @@
 ---
 slug: salsa-de-pimientos-1
 uuid: b99662b7-4398-43cb-ac1e-74fc59d6803d
-page_title: Salsa de Pimientos 1
+page_title: Salsa de pimientos 1
 curated: false
 ---
 
 {nav}
 
-## Salsa de Pimientos 1
+## Salsa de pimientos 1
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |

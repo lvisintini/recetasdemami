@@ -1,13 +1,13 @@
 ---
 slug: bruschettas-para-muchas-personas
 uuid: 2994e094-9bfb-4f42-9775-841c7a788600
-page_title: Bruschettas para muchas personas.
+page_title: Bruschettas para muchas personas
 curated: false
 ---
 
 {nav}
 
-## Bruschettas para muchas personas.
+## Bruschettas para muchas personas
 
 |**Crédito(s):**| |
 |**Tiempo de Preparación Estimado:**| |
