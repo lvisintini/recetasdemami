@@ -21,7 +21,7 @@ recursive) and builds a fresh copy into a target directory:
     placeholder needed, and any pre-existing value is replaced
   * curation markers ({summary}, <TODO>) left in the sources as manual
     to-dos are stripped from the output, with one summary warning
-  * every directory gets flat sidebar lists written to _includes/site-toc/<dir>/
+  * every directory gets sidebar lists written to _includes/site-toc/<dir>/
     for the site layout to include by page.dir: toc.html (its pages and
     subdirectories, for its regular pages) and index-toc.html (its parent's
     list with it expanded, for its index page)
@@ -272,7 +272,7 @@ def build_toc(dir_node: Dir, depth: int = 0) -> list[str]:
 # --------------------------------------------------------------------------
 # Sidebar index: _includes/site-toc/<dir>/{toc,index-toc}.html (recursive)
 #
-# Each directory gets two flat lists (pages, then subdirectories in bold),
+# Each directory gets two lists (pages, then subdirectories in bold),
 # under a heading linking the root index and the trail of sections from the
 # root down to the listed directory. The layout picks one by page.dir:
 #   * toc.html, for regular pages: the directory's own children, i.e. the

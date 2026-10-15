@@ -44,6 +44,11 @@ section {
   padding:0;
 }
 
+// each nested level (the path's sections, a section's own contents) is indented
+.site-toc .site-toc {
+  padding-left:16px;
+}
+
 .site-toc li {
   margin:2px 0;
 }
