@@ -28,7 +28,7 @@ Licuar:
 
 - Palta
 - Miel
-- Cilandro
+- Cilantro
 - Cebolla atenuada (cebollita de verdeo o ciboulette)
 - Aceite de oliva
 - Sal

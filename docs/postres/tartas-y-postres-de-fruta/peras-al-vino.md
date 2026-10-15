@@ -31,7 +31,7 @@ curated: false
 - 2 tiritas cáscara de limón
 - 2 tiritas cáscara de naranja
 - 3 clavos de olor
-- Anis estrellado
+- Anís estrellado
 - 1 ramita de canela.
 
 Colocar todo en la cacerola, menos las peras y cuando comience a hervir echar las peras.

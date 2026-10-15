@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Hacer un puré con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azúcar y 100 de leche,
+Hacer un puré con 5 batatas, agregarle 50 gr de manteca, ¼ taza de azúcar y 100 ml de leche.
 
 
 ### Variantes

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-½ kg de lentejas, ½ taza de aceite, 1 cebolla picada, 100 gr de panceta en cubitos o tiritas, 2 chorizos colorados en rodajas, 3 tomates picados, 2 dientes de ajo picados, 3 tazas de caldo, sal, pimienta, laurel, perejil picado. opcional: 2 papas, 2 zanahorias, 1 puerro ,1 pimiento rojo.
+½ kg de lentejas, ½ taza de aceite, 1 cebolla picada, 100 gr de panceta en cubitos o tiritas, 2 chorizos colorados en rodajas, 3 tomates picados, 2 dientes de ajo picados, 3 tazas de caldo, sal, pimienta, laurel, perejil picado. Opcional: 2 papas, 2 zanahorias, 1 puerro, 1 pimiento rojo.
 
 Freír la cebolla y la panceta, agregar los ajos, los tomates, el caldo (incluir los opcionales y en ese caso más caldo) y por último las lentejas previamente remojadas.
 

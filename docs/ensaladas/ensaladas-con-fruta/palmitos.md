@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-palmitos, ananá, manzana, almendras, queso, apio, jugo de limón, aceite, sal.
+Palmitos, ananá, manzana, almendras, queso, apio, jugo de limón, aceite, sal.
 
 
 ### Variantes

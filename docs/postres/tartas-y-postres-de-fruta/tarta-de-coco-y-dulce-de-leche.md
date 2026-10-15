@@ -27,10 +27,10 @@ curated: false
 
 ## Masa
 
-- 250 grs. de harina 0000
+- 250 gr de harina 0000
 - 1 cucharadita de polvo de hornear royal
-- 75 grs. de azúcar
-- 100 grs. de manteca
+- 75 gr de azúcar
+- 100 gr de manteca
 - 1 huevo
 - 1 yema
 - ½ cucharada de jugo de limón
@@ -42,11 +42,11 @@ Por último, ir agregando de a poco el polvo de hornear y la harina.
 
 ## Relleno
 
-Sobre la masa extender 500 grs. de dulce de leche.
+Sobre la masa extender 500 gr de dulce de leche.
 
 Luego, arriba de todo, la siguiente preparación:
 
-- 250 grs. de coco rallado
+- 250 gr de coco rallado
 - 2 huevos
 - ¾ taza de azúcar
 - 70 cc de crema de leche

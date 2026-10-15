@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-2 tazas de polenta, 6 tazas de agua (caldo) a punto de hervor. condimentar. rinde 6 platos de polenta.
+2 tazas de polenta, 6 tazas de agua (caldo) a punto de hervor. Condimentar. Rinde 6 platos de polenta.
 
 
 ### Variantes

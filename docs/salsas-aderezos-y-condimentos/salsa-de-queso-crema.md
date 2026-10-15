@@ -27,7 +27,7 @@ curated: false
 Mezclar:
 - Queso crema
 - Aceitunas
-- Cebolla bien picadas (pasadas por agua helada y enjuagadas)
+- Cebolla bien picada (pasadas por agua helada y enjuagadas)
 - Crema de leche
 
 

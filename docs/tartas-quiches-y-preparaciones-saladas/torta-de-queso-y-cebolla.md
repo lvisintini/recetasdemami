@@ -24,11 +24,11 @@ curated: false
 
 ### Preparación
 
-Puede usarse la masa de tarta de vir o la siguiente, pero pre cocinarlas antes de rellenarlas.
+Puede usarse la masa de tarta de Vir o la siguiente, pero precocinarla antes de rellenarlas.
 
-Amasar un poco 1 ½ taza de harina con ½ cucharadita de polvo de hornear, sal y ½ taza de manteca, agregando 4 ó 5 cucharadas de agua. dejar descansar y luego forrar una fuente de horno enmantecada.
+Amasar un poco 1 ½ taza de harina con ½ cucharadita de polvo de hornear, sal y ½ taza de manteca, agregando 4 o 5 cucharadas de agua. Dejar descansar y luego forrar una fuente de horno enmantecada.
 
-Saltear en 2 cucharadas de manteca 2 o 3 cebollas cortadas finitas, sin dorar. una vez frías, colocarlas sobre la masa.
+Saltear en 2 cucharadas de manteca 2 o 3 cebollas cortadas finitas, sin dorar. Una vez frías, colocarlas sobre la masa.
 
 Se baten 3 huevos con sal y pimienta, 1 taza de queso rallado y ½ taza de crema de leche o leche. Todo ese líquido se pone sobre las cebollas y se lleva a horno moderado por 45 minutos aproximadamente.
 

@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-Separar los arbolitos y dividirlos si hace falta para que queden todos, más o menos, del mismo tamaño. hervir agua con sal. cocinarlos por aproximadamente 10 minutos el coliflor y 5 minutos el brócoli. para absorber el olor colocar una corteza de pan duro. cuando estén tiernos escurrirlos y colocarlos en la heladera un rato.
+Separar los arbolitos y dividirlos si hace falta para que queden todos, más o menos, del mismo tamaño. Hervir agua con sal. Cocinarlos por aproximadamente 10 minutos la coliflor y 5 minutos el brócoli. Para absorber el olor colocar una corteza de pan duro. Cuando estén tiernos escurrirlos y colocarlos en la heladera un rato.
 
-Pasarlos por huevo batido condimentado con sal y ají molido, o ajo con perejil picado. y luego pasados por pan rallado. freírlos hasta dorarlos. quedan crocantes.
+Pasarlos por huevo batido condimentado con sal y ají molido, o ajo con perejil picado. Y luego pasarlos por pan rallado. Freírlos hasta dorarlos. Quedan crocantes.
 
 
 ### Variantes

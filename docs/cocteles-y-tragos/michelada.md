@@ -27,7 +27,7 @@ curated: false
 
 - Cerveza rubia
 - ¼ de jugo de limón
-- pisca de sal.
+- pizca de sal.
 
 
 ### Variantes

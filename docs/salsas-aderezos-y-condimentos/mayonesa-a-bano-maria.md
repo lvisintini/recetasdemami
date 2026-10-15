@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Calentar a baño maria:
+Calentar a baño maría:
 
 - 4 yemas
 - 2 cucharadas de agua fría

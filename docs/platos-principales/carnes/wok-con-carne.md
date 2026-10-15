@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) en tiras. queda bien agregando vino blanco y jengibre rallado.
+Es el mismo procedimiento, pero incorporando la carne (principalmente de cerdo) en tiras. Queda bien agregando vino blanco y jengibre rallado.
 
 
 ### Variantes

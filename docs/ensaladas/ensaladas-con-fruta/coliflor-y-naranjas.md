@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-1 coliflor grande hervido y separado en ramos, los gajos de 4 naranjas.
+1 coliflor grande hervida y separada en ramos, los gajos de 4 naranjas.
 
 ## Aderezo
 Machacar 1 ajo, añadir el jugo de 1 naranja, sal, vinagre y aceite.

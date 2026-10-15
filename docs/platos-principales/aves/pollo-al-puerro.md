@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Sellar 4 filetes de pollo en aceite y retirarlos. freir 1 cebolla picada. agregar 3 puerros picados, los filetes y 300 gr de crema de leche. condimentar. cocinar hasta que los filet estén tiernos.
+Sellar 4 filetes de pollo en aceite y retirarlos. Freír 1 cebolla picada. Agregar 3 puerros picados, los filetes y 300 gr de crema de leche. Condimentar. Cocinar hasta que los filetes estén tiernos.
 Puede agregarse ½ vaso de vino blanco.
 
 

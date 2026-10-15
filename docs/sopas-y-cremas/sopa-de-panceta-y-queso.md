@@ -31,7 +31,7 @@ Cortar en pedazos:
 
 - 5 zanahorias
 - 1 puerro
-- 1 kg de panceta espesiada
+- 1 kg de panceta especiada
 
 Ponerlos a cocinar con 2 litros de agua por 1 hora
 

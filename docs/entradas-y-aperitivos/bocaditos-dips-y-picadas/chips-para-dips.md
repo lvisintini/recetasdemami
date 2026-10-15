@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Usar los crepes, cortarlos en 32 triángulos. ponerlos en molde sobre papel manteca, pintarlos con manteca batida y rociarlos con sal. hornearlos por 8 minutos a 350°C, darlos vuelta y dejarlos por 5 o 7 minutos más.
+Usar los crepes, cortarlos en 32 triángulos. Ponerlos en molde sobre papel manteca, pintarlos con manteca batida y rociarlos con sal. Hornearlos por 8 minutos a 180°C, darlos vuelta y dejarlos por 5 o 7 minutos más.
 
 
 ### Variantes

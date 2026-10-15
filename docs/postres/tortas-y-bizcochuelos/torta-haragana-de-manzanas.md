@@ -39,13 +39,13 @@ Hacer un arenado con ayuda de las manos con la harina, azúcar y manteca fría c
 
 Acomodamos las manzanas cortadas en láminas, cubriendo bien toda la superficie.
 
-Si se desea agregar nueces picadas,
+Si se desea, agregar nueces picadas.
 
 Con el polvo restante cubrir las manzanas.
 
-Aparte mezclar huevos, leche, esencia de vainilla ... es integrar todo solamente.
+Aparte mezclar huevos, leche, esencia de vainilla... es integrar todo solamente.
 
-Volcar sobre toda la superficie, ir de a poco filtrándose por la torta, esperar un ratito antes de llevar al horno, espolvorear con un poco de azúcar ... y llevar a horno moderado aproximadamente 1 hora.
+Volcar sobre toda la superficie, ir de a poco filtrándose por la torta, esperar un ratito antes de llevar al horno, espolvorear con un poco de azúcar... y llevar a horno moderado aproximadamente 1 hora.
 
 Debe cocinarse lentamente.
 

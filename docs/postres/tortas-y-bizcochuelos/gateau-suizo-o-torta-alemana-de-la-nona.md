@@ -29,7 +29,7 @@ curated: false
 Puede hacerse con masa de pasta frola o masa de pan
 
 ### Pasta frola
-2 tazas de harina, ½ tazas de azúcar, 125 grs. manteca, 1 huevo, 3 cucharadas de leche.
+2 tazas de harina, ½ taza de azúcar, 125 gr manteca, 1 huevo, 3 cucharadas de leche.
 
 Mezclar y dejar descansar 15 minutos en la heladera.
 
@@ -37,10 +37,10 @@ Mezclar y dejar descansar 15 minutos en la heladera.
 2 tazas de harina leudante, 4 cucharadas de aceite y soda para unir.
 
 ## Crema
-200 grs. crema de leche, 1 huevo y 8 cucharadas de azúcar.
+200 gr crema de leche, 1 huevo y 8 cucharadas de azúcar.
 
 ## Preparación
-Forrar el molde con la masa y ponerle la crema sobre la masas
+Forrar el molde con la masa y ponerle la crema sobre la masa
 
 Sobre la masa se puede colocar rodajas de 3 manzanas y cubrirlas con más crema (También queda muy rico).
 

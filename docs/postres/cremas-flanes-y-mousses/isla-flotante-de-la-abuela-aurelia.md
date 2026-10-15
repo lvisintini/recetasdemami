@@ -30,7 +30,7 @@ Se ponen las islas en agua bien caliente 2 minutos de cada lado (el agua que hay
 
 Si se cocinan al horno se puede agregar nueces picadas y acaramelar el molde.
 
-### Crema sambayon
+### Crema sambayón
 Se baten 6 yemas con ½ tacita de agua fría, 1 vaso de vino dulce (oporto o moscato) y 80 gr de azúcar.
 
 Cocinar a baño maría, mientras se bate hasta que espese.
@@ -47,7 +47,7 @@ Procedimiento como más arriba, pero con las siguientes proporciones:
 
 Cocinarlas en agua caliente, 2 minutos de cada lado.
 
-### Crema sambayon
+### Crema sambayón
 
 8 yemas, 160 gr (8 cucharadas) azúcar, 8 cucharadas de oporto o marsala.
 

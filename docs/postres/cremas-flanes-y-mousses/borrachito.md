@@ -26,19 +26,19 @@ curated: false
 
 Colocar en el molde 12 vainillas previamente bañadas en vino dulce (marsala, oporto, moscato), de modo que no queden totalmente blandas.
 
-Hacer un postre cocinando 75 gr  de chocolate con ¾ de litro de leche (o menos)
+Hacer un postre cocinando 75 gr de chocolate con ¾ de litro de leche (o menos)
 
 Esperar que se entibie y volcarlo sobre las vainillas.
 
-Colocar una segunda capa de vainilla también bañadas con el vino dulce.
+Colocar una segunda capa de vainillas también bañadas con el vino dulce.
 
-Hacer una crema pastelera volcarla y sobre la segunda capa de vainillas.
+Hacer una crema pastelera volcarla sobre la segunda capa de vainillas.
 
 Llevar a la heladera.
 
 Decorar la superficie con ralladura de chocolate, chocolino, etc.
 
-También se pueden invertir los postres y terminar con el de chocolate, decorandolo con azúcar impalpable (una vez frío) merengue molido, etc.
+También se pueden invertir los postres y terminar con el de chocolate, decorándolo con azúcar impalpable (una vez frío) merengue molido, etc.
 
 
 ### Variantes

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Poner sobre la sartén tibia un papel manteca enmantecado y el huevo arriba, cocinar hasta que la clara se ponga blanca y todavía la yema líquida. llevar el papel hasta el plato y resbalar el huevo
+Poner sobre la sartén tibia un papel manteca enmantecado y el huevo arriba, cocinar hasta que la clara se ponga blanca y todavía la yema líquida. Llevar el papel hasta el plato y resbalar el huevo
 
 
 ### Variantes

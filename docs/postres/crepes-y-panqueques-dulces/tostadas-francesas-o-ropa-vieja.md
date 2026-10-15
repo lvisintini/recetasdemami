@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-Pasar rodajas de pan por leche con azúcar, luego por huevo batido y después freírlos en aceite.
+Pasar rodajas de pan por leche con azúcar, luego por huevo batido y después freírlas en aceite.
 
-Servirlos con miel, kero, chocolate, caramelo líquido o dulce.
+Servirlas con miel, kero, chocolate, caramelo líquido o dulce.
 
 
 ### Variantes

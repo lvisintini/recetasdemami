@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-Mezclar 500 grs. de harina, 200 grs. azúcar, 150 grs. azúcar negra, 1 cucharada de canela y 4 cucharaditas de polvo de hornear.
+Mezclar 500 gr de harina, 200 gr azúcar, 150 gr azúcar negra, 1 cucharada de canela y 4 cucharaditas de polvo de hornear.
 
-A los ingredientes secos integrales de a poco 200 grs. de manteca (derretida y fría) y 2 huevos, trabajando con las manos para que quede como arena; es decir sueltos.
+A los ingredientes secos integrarles de a poco 200 gr de manteca (derretida y fría) y 2 huevos, trabajando con las manos para que quede como arena; es decir sueltos.
 
 Se coloca en un molde enmantecado y enharinado la mitad de la preparación y se lleva al horno por 15 minutos.
 

@@ -33,7 +33,7 @@ curated: false
 - 3 dientes de ajo
 - 4 cucharadas vinagre de vino
 - 2 cucharadas aceite de oliva
-- ¼ cucharadita aji molido
+- ¼ cucharadita ají molido
 - ¼ cucharadita comino
 - ¼ cucharadita pimienta negra
 - perejil

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Pasar los cachetes por harina y freírlos en aceite de oliva, 3 minutos de cada lado. agregar 2 dientes de ajo picados y cocinar hasta que estén transparentes. sal pimentar. a fuego lento, incluir 100 cc de vino blanco, ½ taza de perejil picado, y esperar que rompa el hervor (aproximadamente 5 minutos). poner 100 cc de jugo de limón y 2 cucharadas de manteca para que se espese.
+Pasar los cachetes por harina y freírlos en aceite de oliva, 3 minutos de cada lado. Agregar 2 dientes de ajo picados y cocinar hasta que estén transparentes. Salpimentar. A fuego lento, incluir 100 cc de vino blanco, ½ taza de perejil picado, y esperar que rompa el hervor (aproximadamente 5 minutos). Poner 100 cc de jugo de limón y 2 cucharadas de manteca para que se espese.
 
 Colocar sobre pan lactal tostado.
 

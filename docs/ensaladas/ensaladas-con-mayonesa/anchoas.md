@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-anchoas, papas hervidas, chauchas hervidas, aceitunas negras, huevo duro, aceite oliva, mayonesa, sal.
+Anchoas, papas hervidas, chauchas hervidas, aceitunas negras, huevo duro, aceite oliva, mayonesa, sal.
 
 
 ### Variantes

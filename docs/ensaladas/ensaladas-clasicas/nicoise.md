@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-chauchas hervidas, huevo duro, cibulette, aceitunas verdes, perejil, rayadura gruesa de limón, aceto, aceite de oliva y sal.
+Chauchas hervidas, huevo duro, ciboulette, aceitunas verdes, perejil, ralladura gruesa de limón, aceto, aceite de oliva y sal.
 
 
 ### Variantes

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Rucula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, pimienta y aceto.
+Rúcula, manzana, nueces, queso rallado, fetas de jamón, aceite de oliva, sal, pimienta y aceto.
 
 
 ### Variantes

@@ -34,7 +34,7 @@ Sobre papel de aluminio poner la masa y darle forma de chorizo.
 
 Cerrar las puntas como si fuera un caramelo y llevarlo al freezer por 3 horas como mínimo.
 
-En mi opinion, pondria mas masitas mana.
+En mi opinión, pondría más masitas Maná.
 
 
 ### Variantes

@@ -40,7 +40,7 @@ Pasar cada crepe por esta mezcla, doblar en cuatro y poner en una fuente de meta
 
 Bañarlos con el almíbar restante.
 
-Calentar todo, bañar con 2 copitas de cointreau y encender.
+Calentar todo, bañar con 2 copitas de Cointreau y encender.
 
 Se puede reemplazar el Cointreau con: ¼ taza de triple sec y ¼ taza de brandy calentados y volcarlos sobre los crepes y prenderles fuego, flambearlos.
 

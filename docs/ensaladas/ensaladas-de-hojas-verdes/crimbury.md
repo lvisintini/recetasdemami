@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Almendras (muchas), lechuga, rucula, queso gruyere, dados de jamon crudo, tomates secos, mostaza grillon, aceite oliva, aceto, sal.
+Almendras (muchas), lechuga, rúcula, queso gruyere, dados de jamón crudo, tomates secos, mostaza grillon, aceite oliva, aceto, sal.
 
 
 ### Variantes

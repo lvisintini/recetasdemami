@@ -24,10 +24,10 @@ curated: false
 
 ### Preparación
 
-espinaca cruda, champignones, huevo duro, panceta ahumada en daditos y cocida, croutones, aceite de oliva, vinagre y sal.
+Espinaca cruda, champignones, huevo duro, panceta ahumada en daditos y cocida, crutones, aceite de oliva, vinagre y sal.
 
 ## Variante Virginia
-los hongos salteados con ajo.
+Los hongos salteados con ajo.
 
 
 ### Variantes

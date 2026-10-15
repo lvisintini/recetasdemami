@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
+Sobre la tostada colocar espinaca al ajo, bacon y salsa bechamel.
 
 
 ### Variantes

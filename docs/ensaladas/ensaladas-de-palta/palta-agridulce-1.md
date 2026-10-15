@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Palta, brocoli, frutilla, arandano.
+Palta, brócoli, frutilla, arándano.
 
 ## Aderezo
 Salsa de soja, aceite de oliva y jugo de limón.

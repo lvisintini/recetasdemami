@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-a la anterior agregar pimiento verde, pepino, jugo de limón y albahaca. Frotar la ensaladera con ajo.
+A la anterior agregar pimiento verde, pepino, jugo de limón y albahaca. Frotar la ensaladera con ajo.
 
 
 ### Variantes

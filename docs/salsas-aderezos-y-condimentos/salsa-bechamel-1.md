@@ -26,7 +26,7 @@ curated: false
 
 Ingredientes:
 
-- 50 grs de manteca
+- 50 gr de manteca
 - 1 cucharada de harina
 - 1 diente de ajo (opcional)
 - ½ litro de leche

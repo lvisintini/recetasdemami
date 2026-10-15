@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Espinaca, atun, zanahoria, tomate, huevo, crutones.
+Espinaca, atún, zanahoria, tomate, huevo, crutones.
 
 
 ### Variantes

@@ -29,7 +29,7 @@ Poner frutos rojos (150 gr) dentro de un molde (bajo y de 20 cm de diámetro) en
 Cubrir con una masa ligera hecha batiendo:
 - 4 huevos
 - 4 cucharadas de harina de almendras
-- 5 cucharadas de maicena
+- 5 cucharadas de maizena
 - 2 tazas de leche
 - 1 taza de azúcar
 - 1 cucharadita de esencia de vainilla.

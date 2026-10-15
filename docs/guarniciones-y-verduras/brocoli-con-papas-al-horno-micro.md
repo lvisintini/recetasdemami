@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-En fuente para micro poner los arbolitos de brócoli, 2 papas cortadas en rodajas por 10 minutos a 700 w. esparcir sobre ellos la salsa al ajo.
+En fuente para micro poner los arbolitos de brócoli, 2 papas cortadas en rodajas por 10 minutos a 700 w. Esparcir sobre ellos la salsa al ajo.
 
-Salsa al ajo: frito 3 dientes de ajo en láminas, añadir sal, pimienta, pimentón, aceite y vinagre.
+Salsa al ajo: freír 3 dientes de ajo en láminas, añadir sal, pimienta, pimentón, aceite y vinagre.
 
 
 ### Variantes

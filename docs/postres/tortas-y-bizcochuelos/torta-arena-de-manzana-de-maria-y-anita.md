@@ -24,15 +24,15 @@ curated: false
 
 ### Preparación
 
-En un bol, colocar 2 tazas de harina, 1 taza de azúcar y 100 gr de manteca y desmenuzar con los dedos hasta dejar como arena. Ingresar la mitad de esta preparación en un molde enmantecado y enharinado, aplastandola.
+En un bol, colocar 2 tazas de harina, 1 taza de azúcar y 100 gr de manteca y desmenuzar con los dedos hasta dejar como arena. Ingresar la mitad de esta preparación en un molde enmantecado y enharinado, aplastándola.
 
 Precocinar la masa.
 
-Cortar tres manzanas en fetas, sin cáscara ni semillas y distribuirlas en forma homogénea en el molde, espolvoreandolas con canela, azúcar y gotas de cognac.
+Cortar tres manzanas en fetas, sin cáscara ni semillas y distribuirlas en forma homogénea en el molde, espolvoreándolas con canela, azúcar y gotas de cognac.
 
 Poner arriba la otra mitad de la preparación, sin presionar y la siguiente crema:
 
-- 200 grs. crema de leche
+- 200 gr crema de leche
 - 1 huevo
 - 8 cucharadas de azúcar
 

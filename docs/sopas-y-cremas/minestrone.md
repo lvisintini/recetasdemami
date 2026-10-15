@@ -26,7 +26,7 @@ curated: false
 
 Rehogar una cebolla picada en aceite.
 
-Cuando esta transparente agregar panceta cortada en trocitos y ajo picado
+Cuando está transparente agregar panceta cortada en trocitos y ajo picado
 
 Incorporar zanahoria, cebolla de verdeo, puerro, zucchini, zapallito y apio, todo finamente picado.
 

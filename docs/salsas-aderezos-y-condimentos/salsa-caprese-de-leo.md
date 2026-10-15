@@ -26,7 +26,7 @@ curated: false
 
 Tomar 5 tomates grandes (1 por persona), retirarles el rabo y rociarlos con aceite de oliva.
 
-Envolverlos con papel de aluminio y al horno o en la essen. (El aluminio es para que no se quemen o se peguen).
+Envolverlos con papel de aluminio y al horno o en la Essen. (El aluminio es para que no se quemen o se peguen).
 
 Cocinarlos hasta que estén blandos.
 
@@ -36,7 +36,7 @@ Retirar el aluminio y las cáscaras de los ajos.
 
 Unir la crema de tomate con la crema de ajo y condimentar.
 
-Al final, agregar las hojas de albahaca (no se cocinan) y abundante queso rallado, Y a las pastas!!!
+Al final, agregar las hojas de albahaca (no se cocinan) y abundante queso rallado, ¡Y a las pastas!
 
 
 ### Variantes

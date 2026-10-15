@@ -30,7 +30,7 @@ Luego agregar 3 tazas de harina, 2 tazas de azúcar, 1 cucharada de polvo de hor
 
 Mezclar y colocar en molde enmantecado y enharinado.
 
-Llevar a horno precalentado de 80°C por 40 minutos.
+Llevar a horno precalentado de 180°C por 40 minutos.
 
 **Cobertura:** 1 cajita de crema de leche, 1 lata de leche condensada y chocolate amargo, calentar hasta que hierva.
 

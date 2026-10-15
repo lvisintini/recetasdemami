@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Sazonar las supremas de pollo con sal y pimienta, untarlas con la salsa a la Maître d’Hôtel (manteca, perejil picado y limón) y estragón picado. puede incluirse una feta de jamón y arrollarlas. rebozarlas con harina, luego pasarlas por huevo batido y finalmente por pan rallado. freír hasta que estén cocidas y doradas.
+Sazonar las supremas de pollo con sal y pimienta, untarlas con la salsa a la Maître d’Hôtel (manteca, perejil picado y limón) y estragón picado. Puede incluirse una feta de jamón y arrollarlas. Rebozarlas con harina, luego pasarlas por huevo batido y finalmente por pan rallado. Freír hasta que estén cocidas y doradas.
 
 
 ### Variantes

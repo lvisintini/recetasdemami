@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-tostada frotada con ajo, palta, huevo en rodajas, sal, ají molido, perejil.
+Tostada frotada con ajo, palta, huevo en rodajas, sal, ají molido, perejil.
 
 
 ### Variantes

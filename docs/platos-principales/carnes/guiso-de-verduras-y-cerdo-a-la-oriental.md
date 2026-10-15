@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Cortar ½ kg de carne de cerdo, espolvorear con 1 cucharada de maizena y freírlo en una cazuela. sazonar con sal, pimienta, 2 cucharadas de salsa de soja y agregarle ½ kg de verduras surtidas (zanahoria, apio, chaucha, coliflor, brócoli, cebollita de verdeo, puerro, etc) cortadas en juliana y un caldito de carne.
+Cortar ½ kg de carne de cerdo, espolvorear con 1 cucharada de maizena y freírlo en una cazuela. Sazonar con sal, pimienta, 2 cucharadas de salsa de soja y agregarle ½ kg de verduras surtidas (zanahoria, apio, chaucha, coliflor, brócoli, cebollita de verdeo, puerro, etc) cortadas en juliana y un caldito de carne.
 
 
 ### Variantes

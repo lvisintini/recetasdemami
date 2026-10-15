@@ -31,7 +31,7 @@ Dorar puerro picado en aceite, agregar zanahorias en rodajas y papas en trozos.
 
 Salar y hervir con caldo por 15 a 20 minutos.
 
-Agregar el brocoli
+Agregar el brócoli
 
 Pasar todo por licuadora.
 

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Batir la clara a punto nieve, colocar en una placa para horno. hacer un hueco en la clara y ubicar allí la yema, condimentar. cocinar por 10 minutos en horno a 180°C
+Batir la clara a punto nieve, colocar en una placa para horno. Hacer un hueco en la clara y ubicar allí la yema, condimentar. Cocinar por 10 minutos en horno a 180°C
 
 
 ### Variantes

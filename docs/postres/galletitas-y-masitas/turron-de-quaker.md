@@ -25,7 +25,7 @@ curated: false
 ### Preparación
 
 
-- 200 grs. Manteca
+- 200 gr Manteca
 - 2 tazas de quaker
 - 2 tazas de azúcar
 - 8 cucharadas de cacao

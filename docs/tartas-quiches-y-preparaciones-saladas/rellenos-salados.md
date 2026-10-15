@@ -31,7 +31,7 @@ Lo que sigue es una lista de opciones, pero también se puede usar la imaginaci�
 
 - jamón, queso, tomate, huevo, aceitunas, morrón, lechuga, mayonesa.
 - Roquefort, nueces, huevo, queso crema (mezclar el roquefort pisado con el queso crema), gotas de cognac.
-- Palmitos, jamón, queso maquina, tomate, salsa golf.
+- Palmitos, jamón, queso de máquina, tomate, salsa golf.
 - Atún, cebolla rehogada, morrón, aceitunas, mayonesa.
 - Apio, manzana verde, nueces, jamón, huevo, queso crema.
 - Jamón, ananá, queso, salsa golf, zanahoria.
@@ -42,8 +42,8 @@ Lo que sigue es una lista de opciones, pero también se puede usar la imaginaci�
 - Anchoas, huevo, queso, nueces, mayonesa (mezclar las anchoas picadas con la mayonesa).
 - Espinaca al ajo y salsa blanca
 - Queso crema y morrón
-- Champignones y cebolla rehogadas
-- Restos de pollo cocido, cebollitas de verdeo picadas,tomates picados, manteca, trocitos de panceta, sal y pimienta. (Puede agregarse salsa blanca)
+- Champignones y cebolla rehogada
+- Restos de pollo cocido, cebollitas de verdeo picadas, tomates picados, manteca, trocitos de panceta, sal y pimienta. (Puede agregarse salsa blanca)
 - Aceitunas, queso crema, queso rallado, salsa tomate, orégano, sal y pimienta.
 - Champignones fileteados, queso en trozos, cebolla rehogada, puerro, morrón, aceite de oliva, sal y pimienta.
 

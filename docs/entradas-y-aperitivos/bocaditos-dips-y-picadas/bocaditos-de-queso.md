@@ -42,7 +42,7 @@ Espolvorear con sal gruesa.
 
 Cocinar a horno caliente durante 12 minutos.
 
-Servir frio o caliente.
+Servir frío o caliente.
 
 
 ### Variantes

@@ -28,7 +28,7 @@ Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: 
 
 En el centro del plato y sobre todas las verduras se coloca un huevo poché.
 
-Como terminacion adicionar sal, alguna semilla (amapola, sesamo, etc) o perejil picado.
+Como terminación adicionar sal, alguna semilla (amapola, sésamo, etc) o perejil picado.
 
 
 ### Variantes

@@ -26,7 +26,7 @@ curated: false
 
 
 - ½ medida de ron o vodka,
-- ½ de maracuya
+- ½ de maracuyá
 - limón
 - Albahaca
 - Almíbar (ver al inicio)

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Sellar la carne (colita de cuadril, bondiola de cerdo), retirar y freír cebolla hasta dorarla. ingresar nuevamente la carne y cubrirla con caldo de carne. cocinar.
+Sellar la carne (colita de cuadril, bondiola de cerdo), retirar y freír cebolla hasta dorarla. Ingresar nuevamente la carne y cubrirla con caldo de carne. Cocinar.
 
 Preparar una salsa con 2 cucharadas de ketchup, 3 cucharadas de mermelada de damasco y 1 cucharada de salsa inglesa, agregar esta salsa un rato antes de que la carne esté tierna.
 

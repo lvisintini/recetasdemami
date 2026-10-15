@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Freir 1 cebolla picada en manteca.
+Freír 1 cebolla picada en manteca.
 
 Agregar 1 pimiento, 1 diente ajo y 1 puerro, todo finamente picado.
 
@@ -34,7 +34,7 @@ Cocinar a fuego moderado.
 
 Condimentar con:
 
-- Pimenton dulce
+- Pimentón dulce
 - menta
 - albahaca
 - nuez moscada

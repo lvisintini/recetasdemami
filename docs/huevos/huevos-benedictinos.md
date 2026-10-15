@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verdeo picada, huevo poché (ver más abajo) y salsa holandesa.
+Formar una torre con: tostada, panceta cocida o jamón crudo, cebollita de verdeo picada, huevo poché (ver [page_link](03ead31a-a137-46a5-a85a-345de849fb38)) y salsa holandesa.
 
 
 ### Variantes

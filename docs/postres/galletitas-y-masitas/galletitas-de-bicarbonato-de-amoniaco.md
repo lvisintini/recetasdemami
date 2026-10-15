@@ -27,7 +27,7 @@ curated: false
 
 Hacer una corona con 250 gr de azúcar y 800 gr de harina común.
 
-Colocar en el centro 4 huevos batidos y 200 de manteca ablandada y escencia de vainilla (o rayadura de limón). Mezclar.
+Colocar en el centro 4 huevos batidos y 200 gr de manteca ablandada y esencia de vainilla (o ralladura de limón). Mezclar.
 
 Por último agregar 50 gr de amoniaco diluido en 250 ml de leche tibia. Incorporarlo rápido y armar el bollo.
 

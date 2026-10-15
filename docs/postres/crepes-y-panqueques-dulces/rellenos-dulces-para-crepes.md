@@ -26,9 +26,9 @@ curated: false
 
 
 1. Crema, azúcar, frutillas.
-1. Bananas caramelizadas y flambleadas al rum.
+1. Bananas caramelizadas y flambeadas al ron.
 1. Crema, azúcar, canela, esencia de vainilla, durazno al natural, almendras.
-1. Ananá, azúcar negra, crema, mani.
+1. Ananá, azúcar negra, crema, maní.
 
 
 ### Variantes

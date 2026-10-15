@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Masa para tarta, puede ser: 200 grs de harina,100 grs de manteca y 100 de agua salada. cocinarla un poco.
+Masa para tarta, puede ser: 200 gr de harina, 100 gr de manteca y 100 de agua salada. Cocinarla un poco.
 
 ## Relleno
 Cocinar 9 fetas de panceta
@@ -44,7 +44,7 @@ Sobre la masa precocida poner ⅓ de la panceta frita, ⅓ de las cebollas y ⅓
 
 Agregar ⅓ de la crema.
 
-Continuar con el resto de los elementos, por capas: cebollas, queso. la crema restante y por último los trozos de panceta.
+Continuar con el resto de los elementos, por capas: cebollas, queso. La crema restante y por último los trozos de panceta.
 
 Llevar al horno caliente por 45 minutos.
 

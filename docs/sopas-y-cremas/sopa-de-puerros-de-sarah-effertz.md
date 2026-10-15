@@ -35,7 +35,7 @@ Agregar aceite como para que estén todos uniformemente mojados (sin aceite en e
 
 Cocinar a fuego lento hasta que los vegetales se cocinen un poco.
 
-Opcionalmente, incorporar 500 gr de carne picada, sellandola.
+Opcionalmente, incorporar 500 gr de carne picada, sellándola.
 
 Agregar 200 gr de queso cremoso y 200 gr de crema de leche doble.
 

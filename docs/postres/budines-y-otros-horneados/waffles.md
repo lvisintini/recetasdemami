@@ -29,7 +29,7 @@ curated: false
 - ½ taza harina leudante
 - 1 taza azúcar
 - 3 Huevos
-- 50 grs. Manteca
+- 50 gr Manteca
 - Leche Cantidad Necesaria
 
 ## Otras proporciones
@@ -38,7 +38,7 @@ curated: false
 - 1 taza harina leudante
 - ½ taza azúcar
 - 2 Huevos 2
-- 100 grs. Manteca
+- 100 gr Manteca
 - 1 ½ taza Leche
 
 

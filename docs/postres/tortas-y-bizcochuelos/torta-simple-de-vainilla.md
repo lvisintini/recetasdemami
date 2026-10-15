@@ -28,7 +28,7 @@ Se ablanda 100 gr de manteca y se agrega 1 ¼ taza de azúcar.
 
 Se agregan 3 huevos de a uno batiendo bien y ½ cucharadita de esencia de vainilla.
 
-Se mezclan 1 ¼ tazas de harina, ½ tazas de maicena, 2 ½ cucharaditas de polvo royal y ¼ cucharadita de sal.
+Se mezclan 1 ¼ tazas de harina, ½ tazas de maizena, 2 ½ cucharaditas de polvo royal y ¼ cucharadita de sal.
 
 Se unen los ingredientes secos a la primera preparación, alternando con ⅔ taza de leche.
 

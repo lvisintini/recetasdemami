@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-tomate, aceitunas negras, daditos de queso, albahaca, aceite de oliva, vinagre y sal.
+Tomate, aceitunas negras, daditos de queso, albahaca, aceite de oliva, vinagre y sal.
 
 
 ### Variantes

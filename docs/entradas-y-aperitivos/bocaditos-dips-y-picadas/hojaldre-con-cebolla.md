@@ -28,7 +28,7 @@ Cortar la cebolla de menos de ½ cm de espesor, sazonarlas con sal y aceite de o
 
 Disolver 140 gr de queso con 1 ½ taza de leche, sazonada con pimienta.
 
-Sobre papel para hornear colocar 1 pasta de hojaldre. sobre ella colocar el queso y cubrirlo con las cebollas. hornear a 200°C por 20 minutos. el hojaldre se esponja y las cebollas quedan doradas.
+Sobre papel para hornear colocar 1 pasta de hojaldre. Sobre ella colocar el queso y cubrirlo con las cebollas. Hornear a 200°C por 20 minutos. El hojaldre se esponja y las cebollas quedan doradas.
 
 Espolvorear con tomillo y romero frescos, rociar con aceite de oliva y servir.
 

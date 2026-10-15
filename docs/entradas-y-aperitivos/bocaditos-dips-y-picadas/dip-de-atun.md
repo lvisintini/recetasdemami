@@ -26,7 +26,7 @@ curated: false
 
 Mezclar:
 
-- 1 lata de atun (escurrido y procesado)
+- 1 lata de atún (escurrido y procesado)
 - 1 huevo duro
 - 2 cucharadas de crema de leche
 - 1 cucharadita de mostaza

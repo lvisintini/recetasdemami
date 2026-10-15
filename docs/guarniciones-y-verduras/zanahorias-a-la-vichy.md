@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Derretir un poco de manteca y dorar apenas un diente de ajo picado. agregarle una cucharada colmada de harina, removiendo para que no forme grumos. añadirle caldo caliente y las zanahorias cortadas en rodajas. Cuando las zanahorias estén tiernas, agregar perejil picado y un chorrito de vinagre. y servir.
+Derretir un poco de manteca y dorar apenas un diente de ajo picado. Agregarle una cucharada colmada de harina, removiendo para que no forme grumos. Añadirle caldo caliente y las zanahorias cortadas en rodajas. Cuando las zanahorias estén tiernas, agregar perejil picado y un chorrito de vinagre. Y servir.
 
 La cantidad de caldo depende de la cantidad de zanahorias y de lo que demoren en estar blandas.
 

@@ -17,7 +17,7 @@ Generalmente, todas las manchas salen si se las limpian antes de que sequen o la
 
 Si no se puede hacer en el momento, por lo menos echarle sal o fécula de maíz o talco, para que absorba los líquidos.
 
-### Te o Cafe
+### Té o café
 Echarle agua caliente, y si no sale, frotarla con agua oxigenada (con esponja), dejarla blanquear al sol y enjuagar.
 
 No usar jabón desde un principio pues puede fijar la mancha.
@@ -66,13 +66,13 @@ Dejar varias horas, enjuagar y repetir la operación hasta que la mancha salga.
 ### Yodo
 Lavar con espuma caliente y poner al sol.
 
-### Lapiz labial
+### Lápiz labial
 No debe usarse jabón al principio pues la fija.
 
 Frotar con alcohol o bencina (en el caso de prendas de color o lana)
 
 ### Sangre
-Primero agua fria y despues frotar con esponja humedecida con agua oxigenada.
+Primero agua fría y después frotar con esponja humedecida con agua oxigenada.
 
 Repetir hasta que desaparezca.
 

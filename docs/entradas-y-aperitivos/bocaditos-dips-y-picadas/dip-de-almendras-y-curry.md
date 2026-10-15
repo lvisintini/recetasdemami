@@ -26,7 +26,7 @@ curated: false
 
 Mezclar:
 
-- 50 grs de almendras procesadas
+- 50 gr de almendras procesadas
 - 1 ½ tazas de mayonesa
 - 4 cucharadas de crema de leche
 - 1 cucharadita de curry.

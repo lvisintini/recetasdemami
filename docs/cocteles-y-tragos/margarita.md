@@ -27,7 +27,7 @@ curated: false
 
 - 1 ½ oz tequila
 - ½ oz triple sec
-- 1 onz limón
+- 1 oz limón
 - hielo picado
 
 Humedecer el borde de la copa con jugo de limón y sal.

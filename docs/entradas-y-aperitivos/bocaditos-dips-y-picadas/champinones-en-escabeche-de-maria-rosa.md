@@ -53,7 +53,7 @@ Colocar todo junto en un bowl de vidrio apto para microondas. Mezclar bien.
 
 Cocinar 4 minutos en el microondas, mezclar y volver a cocinar otros 4 minutos.
 
-Las cantidades son aproximadas, pero la esa cantidad de líquido debería ser suficiente para esa cantidad de hongos.
+Las cantidades son aproximadas, pero esa cantidad de líquido debería ser suficiente para esa cantidad de hongos.
 
 
 ### Variantes

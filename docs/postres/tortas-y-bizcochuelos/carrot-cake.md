@@ -26,13 +26,13 @@ curated: false
 
 Hacer la torta en un molde de 18-20 cm de diámetro.
 
-Una vez fría dividirla para rellenarla con el ”frosting de queso crema”
+Una vez fría dividirla para rellenarla con el “frosting de queso crema”
 
 Forrar con papel manteca el molde y precalentar el horno a 180°C
 
 Batir 4 huevos con ¾ taza de azúcar (negra o blanca), añadir ¾ taza de aceite de girasol y seguir batiendo hasta que se integre.
 
-Incorporar 2 tazas de harina y 3 cucharaditas de polvo de hornear, 1 ½ de canela en polvo y una pizca de sal.
+Incorporar 2 tazas de harina y 3 cucharaditas de polvo de hornear, 1 ½ cucharadita de canela en polvo y una pizca de sal.
 
 Lograr una masa homogénea.
 
@@ -48,7 +48,7 @@ Sacar del horno y dejar enfriar por 5 minutos.
 
 Desmoldar y colocarlo sobre una rejilla hasta que se enfríe por completo.
 
-Una vez fría dividirla para rellenarla con ”frosting de queso crema” (hacer el doble de las medidas)
+Una vez fría dividirla para rellenarla con “frosting de queso crema” (hacer el doble de las medidas)
 
 ## Frosting de queso crema
 Batir ¾ taza de queso crema, 2 o 4 cucharadas de miel (o ⅓ taza de azúcar impalpable) y 2 o 4 cucharadas de yogur natural, hasta que todo se integre.

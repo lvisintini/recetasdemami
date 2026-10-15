@@ -34,13 +34,13 @@ curated: false
 - 1 cucharada de bicarbonato de sodio
 - 1 cucharada sopera de mezcla para spekulatius.
 
-**Mescla de especias para spekulatius:**
+**Mezcla de especias para spekulatius:**
 
 - 4 cucharaditas de canela
 - ½ de nuez moscada
 - 1 de clavo de olor molido
 - ½ de jengibre molido
-- ½ de cardamono
+- ½ de cardamomo
 - ½ de pimienta blanca.
 
 Hacer una crema con la manteca.

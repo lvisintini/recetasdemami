@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Sobre biscochos “Rex” (también llamados "Ritz") colocar una rodajita de leberwurst, rodajita de pepinitos en vinagre y un copetito de savora.
+Sobre bizcochos “Rex” (también llamados "Ritz") colocar una rodajita de leberwurst, rodajita de pepinitos en vinagre y un copetito de savora.
 
 
 ### Variantes

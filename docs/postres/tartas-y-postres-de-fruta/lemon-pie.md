@@ -30,12 +30,12 @@ curated: false
 - 1 ½ taza de harina
 - ½ cucharadita de polvo royal
 - ½ cucharadita de sal
-- 75 grs. de manteca
+- 75 gr de manteca
 - 4 cucharadas agua helada
 
 Poner juntos la harina, el polvo royal y la sal.
 
-Agregar la manteca, deshasciendola con los dedos.
+Agregar la manteca, deshaciéndola con los dedos.
 
 Añadir agua helada y unir en masa suave.
 
@@ -50,7 +50,7 @@ Cocinar en horno caliente de 8 a 10 minutos.
 - 1 taza de azúcar
 - 1 cucharadita de cáscara de limón rallada
 - 4 cucharadas de jugo de limón
-- 100 grs. de manteca
+- 100 gr de manteca
 
 Batir todos los ingredientes y llevar a baño maría hasta que espese.
 

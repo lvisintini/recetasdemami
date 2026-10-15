@@ -28,8 +28,8 @@ Puede ser mezcla de varias verduras o de una sola:
 
 - coliflor
 - zanahorias
-- brocoli
-- repollitos brucelas
+- brócoli
+- repollitos de Bruselas
 - cebollitas
 - cebollitas de verdeo
 - etc.

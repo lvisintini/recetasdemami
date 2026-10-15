@@ -30,9 +30,9 @@ Agregar 4 yemas, de a una y batiendo.
 
 Sumar un poco de cognac.
 
-Disolver en ¼ pocillo de leche 4 barras de chocolate (o 2 cucharadas de nesquik) y seguir mezclando.
+Disolver en ¼ pocillo de leche 4 barras de chocolate (o 2 cucharadas de Nesquik) y seguir mezclando.
 
-Incorporar 300 gr de harina leudante y 100 gr de maicena.
+Incorporar 300 gr de harina leudante y 100 gr de maizena.
 
 Por último poner las 4 claras batidas a punto nieve.
 

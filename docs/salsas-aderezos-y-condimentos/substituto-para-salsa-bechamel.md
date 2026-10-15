@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-En determinadas comidas se puede reemplazar la salsa blanca con maicena (3 cucharadas) disuelta en leche(¾ taza).
+En determinadas comidas se puede reemplazar la salsa blanca con maizena (3 cucharadas) disuelta en leche(¾ taza).
 
 
 ### Variantes

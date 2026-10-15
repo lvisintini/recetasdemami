@@ -30,7 +30,7 @@ Relleno: 200 gr de crema de queso, 100 gr queso rallado, 100 gr queso mantecoso 
 
 Poner en cada crepe 2 cucharadas del relleno y sobre este colocar la salsa de pimientos.
 
-Salsa de pimientos: mezclar 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pimiento rojo picado y cocido, y tres cucharadas de leche. licuar. Llevar a horno por 10 minutos y servir. decorar con hojas de albahaca.
+Salsa de pimientos: mezclar 1 taza de salsa blanca, 1 taza queso mantecoso, 1 pimiento rojo picado y cocido, y tres cucharadas de leche. Licuar. Llevar a horno por 10 minutos y servir. Decorar con hojas de albahaca.
 
 
 ### Variantes

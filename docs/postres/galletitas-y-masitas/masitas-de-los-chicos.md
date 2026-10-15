@@ -48,15 +48,15 @@ Se cocina a 190°C por 8 minutos.
 
 Esperar a que estén frías para despegarlas del papel, porque si no se rompen.
 
-Si se quieren mas blanditas, poner 2 tazas de harina común y 1 taza de harina leudante.
+Si se quieren más blanditas, poner 2 tazas de harina común y 1 taza de harina leudante.
 
-Salen 83 masitas de 5 cm de diametro.
+Salen 83 masitas de 5 cm de diámetro.
 
 ## Diferentes sabores:
 
 - **Vainilla:** agregar ½ cucharadita de esencia de vainilla.
 - **Limón:** Añádase la cáscara rallada de 2 limones.
-- **Nueces:** Añadase ¾ de taza de nueces picadas.
+- **Nueces:** Añádase ¾ de taza de nueces picadas.
 - **Naranja:** Añádase la cáscara de una naranja rallada.
 - **Canela:** agregar 3 cucharadas de canela molida
 - **Marmoladas:** ½ de masa con vainilla y ½ masa con chocolate amargo y azúcar.

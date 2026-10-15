@@ -16,7 +16,7 @@ No se recomienda para mujeres embarazadas pues estimulan el útero.
 
 ### Resfriados
 
-Una Sopa:
+Una sopa:
 
 - 2 tazas de agua
 - 1 cucharadita de comino
@@ -48,12 +48,12 @@ Otros laxantes naturales:
 - Lino quebrado
 
 ### Cortaduras
-Aplicar miel pura, es anti bacteriana porque absorbe el agua que los gérmenes necesitan para multiplicarse.
+Aplicar miel pura, es antibacteriana porque absorbe el agua que los gérmenes necesitan para multiplicarse.
 
 Luego de aplicar la miel, cubrirla con gasa.
 
 ### Indigestión
-Una infusión con una cucharadita de jengibre seca y pulverizada o fresca.
+Una infusión con una cucharadita de jengibre seco y pulverizada o fresca.
 
 También se puede añadir a los alimentos.
 
@@ -72,4 +72,4 @@ No usar durante el período de embarazo.
 Emplear con precaución.
 
 ### Colitis
-Comer manzana, te negro, queso, arroz y membrillo. 
+Comer manzana, té negro, queso, arroz y membrillo. 

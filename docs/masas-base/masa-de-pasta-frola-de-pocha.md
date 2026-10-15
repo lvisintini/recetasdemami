@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-250 gr harina (1 ½ taza), 80 grs azúcar (½ taza), 100 gr manteca, 2 yemas, 1 pizca bicarbonato, 2 cucharadas de leche y 1 cucharadita de polvo de hornear. se logra una pasta suave, no crocante.
+250 gr harina (1 ½ taza), 80 gr azúcar (½ taza), 100 gr manteca, 2 yemas, 1 pizca bicarbonato, 2 cucharadas de leche y 1 cucharadita de polvo de hornear. Se logra una pasta suave, no crocante.
 
 
 ### Variantes

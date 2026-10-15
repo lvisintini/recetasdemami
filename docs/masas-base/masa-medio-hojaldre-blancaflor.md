@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-2 ½ taza de harina blancaflor (300 gr), 200 gr manteca y ½ taza agua fría (125 cm3)
+2 ½ taza de harina Blancaflor (300 gr), 200 gr manteca y ½ taza agua fría (125 cm3)
 
-Cortar la manteca en cubitos de 1 ½ cm de lado sin deshacerlos, mezclarlos con la harina. agregar el agua fría (mejor helada), revolviendo con un cuchillo. Vuelque esa masa espesa sobre el mármol enharinado y estirarla hasta que quede fina. Espolvorear con harina y doblar en 3 partes y estirar nuevamente la masa. repetir esto 3 veces más. al estirarla por última vez, darle la forma deseada.
+Cortar la manteca en cubitos de 1 ½ cm de lado sin deshacerlos, mezclarlos con la harina. Agregar el agua fría (mejor helada), revolviendo con un cuchillo. Volcar esa masa espesa sobre el mármol enharinado y estirarla hasta que quede fina. Espolvorear con harina y doblar en 3 partes y estirar nuevamente la masa. Repetir esto 3 veces más. Al estirarla por última vez, darle la forma deseada.
 
 Si no se usa en seguida, ponerla en la heladera.
 

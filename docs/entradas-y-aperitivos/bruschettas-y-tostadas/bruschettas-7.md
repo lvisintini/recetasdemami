@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Brusquetas mediterraneas
+Bruschettas mediterráneas
 
 Sobre tostadas calientes colocar la siguiente preparación:
 

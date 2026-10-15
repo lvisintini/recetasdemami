@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-2 tazas de harina, ½ taza de azúcar, 125 grs manteca. 1 huevo, 3 cucharadas de leche (si es necesario). mezclar y dejar descansar 15 minutos en la heladera y luego forrar el molde. sale crocante.
+2 tazas de harina, ½ taza de azúcar, 125 gr manteca. 1 huevo, 3 cucharadas de leche (si es necesario). Mezclar y dejar descansar 15 minutos en la heladera y luego forrar el molde. Sale crocante.
 
 
 ### Variantes

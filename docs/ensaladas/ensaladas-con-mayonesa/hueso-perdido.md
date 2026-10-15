@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-naranja, cebolla (previamente pasada por agua caliente) o ciboulette, zanahoria, mayonesa. Aceitunas.
+Naranja, cebolla (previamente pasada por agua caliente) o ciboulette, zanahoria, mayonesa. Aceitunas.
 
 
 ### Variantes

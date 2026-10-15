@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Se pisa bien la papa cocida, se puede agragar un poco de agua, y se le agrega harina mezclando bien sobre el fuego.
+Se pisa bien la papa cocida, se puede agregar un poco de agua, y se le agrega harina mezclando bien sobre el fuego.
 
 Cuando tiene cierta consistencia se fríe en manteca.
 

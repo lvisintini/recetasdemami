@@ -29,7 +29,7 @@ Batir:
 
 - 50 ml pisco
 - 30 ml jugo de limón
-- 15 Ml de almibar
+- 15 ml de almíbar
 - 1 clara de huevo
 - Gotas de bitter angostura (opcional)
 - 5 cubitos de hielo

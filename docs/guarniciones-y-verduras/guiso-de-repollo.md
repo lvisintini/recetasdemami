@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con caldo de carne hasta que esté blando y con poco líquido. para darle el sabor ácido del chucrut, agregar vinagre de vino. luego proceder del mismo modo que con el chucrut.
+Si no hay repollo fermentado (chucrut), hervir el repollo finamente picado con caldo de carne hasta que esté blando y con poco líquido. Para darle el sabor ácido del chucrut, agregar vinagre de vino. Luego proceder del mismo modo que con el chucrut.
 
 
 ### Variantes

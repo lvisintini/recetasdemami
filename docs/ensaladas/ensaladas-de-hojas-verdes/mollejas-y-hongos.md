@@ -27,7 +27,7 @@ curated: false
 
 Mollejas y hongos doraditos a la parrilla con rúcula, aceite oliva, vinagre y sal, servir las mollejas y los hongos tibios.
 
-## Con salsa tartara
+## Con salsa tártara
 
 - Pescado y papas
 - Papas, panceta y queso

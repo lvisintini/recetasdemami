@@ -24,10 +24,10 @@ curated: false
 
 ### Preparación
 
-- 350 Harina comun
-- 300 Crema de leche
-- 350 Vino blanco
-- 200 azúcar
+- 350 gr de harina común
+- 300 ml de crema de leche
+- 350 ml de vino blanco
+- 200 gr de azúcar
 
 
 ### Variantes

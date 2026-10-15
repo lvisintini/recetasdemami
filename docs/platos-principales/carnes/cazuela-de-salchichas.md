@@ -26,7 +26,7 @@ curated: false
 
 En una fuente para horno o horno microondas, colocar salchichas (2 por persona) cortadas en trocitos, tomates en rodajas finas, 1 huevo por persona y queso mantecoso.
 
-Sal, pimienta, orégano, perejil, o la aromática que prefiera. puede agregar trocitos de panceta, queso rallado, cebollita de verdeo, etc. cocinar hasta que la clara se solidifique.
+Sal, pimienta, orégano, perejil, o la aromática que prefiera. Puede agregar trocitos de panceta, queso rallado, cebollita de verdeo, etc. Cocinar hasta que la clara se solidifique.
 
 
 ### Variantes

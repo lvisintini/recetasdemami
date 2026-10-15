@@ -25,7 +25,7 @@ curated: false
 ### Preparación
 
 
-Linkear aqui una receta para piononos.
+Linkear aquí una receta para piononos.
 
 Usar cualquiera de los rellenos salados
 

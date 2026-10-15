@@ -30,7 +30,7 @@ Mezclar batiendo apenas 4 huevos grandes, 5 yemas y 120 gr de azúcar.
 
 Unir ambas preparaciones y colar.
 
-Volcar en molde previamente acaramelado y hornear a baño maria.
+Volcar en molde previamente acaramelado y hornear a baño maría.
 
 Si el molde es con tubo central de 24 cm, puede demorar 1 hora a 150°C o 160°C, si son individuales, menos.
 

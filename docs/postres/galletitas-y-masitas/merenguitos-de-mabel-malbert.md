@@ -31,7 +31,7 @@ Poner en un bol, en donde se van a batir los merenguitos:
 - 2 cucharadas de vinagre de manzana
 - 250 gr de azúcar común
 
-Mezclar a penas.
+Mezclar apenas.
 
 Al día siguiente, con la batidora eléctrica, batir al máximo hasta que esté bien consistente.
 

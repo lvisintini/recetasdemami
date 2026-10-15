@@ -26,24 +26,24 @@ curated: false
 
 Ingredientes:
 
-- 500 grs harina
-- 10 grs sal
+- 500 gr harina
+- 10 gr sal
 - 250 agua
 - 5 azúcar
-- 65 grs grasa de cerdo
+- 65 gr grasa de cerdo
 - 1 huevo (opcional)
 
 Hacer la masa el día anterior.
 
-Freír con 400 grs de grasa de cerdo.
+Freír con 400 gr de grasa de cerdo.
 
 Que la grasa no esté tan caliente.
 
 Cocinar despacio, 5 minutos c/u.
 
-Cada torta frita debe pesar aprox. 35 grs.
+Cada torta frita debe pesar aprox. 35 gr.
 
-Hacerlas finitas (½ cm)y practicarles un agujero en el centro.
+Hacerlas finitas (½ cm) y practicarles un agujero en el centro.
 
 
 ### Variantes

@@ -32,7 +32,7 @@ La cocción debe ser lenta, prolongada y constante (fríos se endurecen) y duran
 
 Preparar un sofrito con 4 cucharadas soperas de aceite, 2 cebollas picadas y 4 pimientos picados (cocinar de 10 a 12 minutos), agregar 6 dientes de ajo picados, 6 gr de pimienta, 1 hoja de laurel, 2 cucharaditas de comino, sal y orégano.
 
-Incluir los frijoles y terminar la cocción a fuego lento. rinde 8 porciones.
+Incluir los frijoles y terminar la cocción a fuego lento. Rinde 8 porciones.
 
 Puede agregarse ½ kg de carne de cerdo en cubitos, previamente sellados.
 

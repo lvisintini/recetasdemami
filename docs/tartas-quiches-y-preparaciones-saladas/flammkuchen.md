@@ -38,14 +38,14 @@ Servir.
 
 Sobre el queso crema colocar espinaca al ajo con panceta.
 
-Se puede hacer con tomate seco, ajo, cebolla ,champiñones, puré de choclo, etc.
+Se puede hacer con tomate seco, ajo, cebolla, champiñones, puré de choclo, etc.
 
 ## Arrollado candombe de Luigi
 Dispersar sobre una masa de tarta rectangular, en forma de capas:
 
 100 gr de jamón, 100 gr de queso de máquina, 2 huevos duros picados, rodajas de 1 tomate y un manojo de perejil bien picado.
 
-Arrollar la masa y llevar al horno a fuego moderado hasta que se dore. cuando se entibie, cortar en rodajas.
+Arrollar la masa y llevar al horno a fuego moderado hasta que se dore. Cuando se entibie, cortar en rodajas.
 
 
 ### Variantes

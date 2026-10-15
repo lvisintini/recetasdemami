@@ -26,14 +26,14 @@ curated: false
 
 
 ## Masa
-Mezclar 100 grs. De manteca, 1 taza de azúcar, 2 tazas de harina leudante y formar un granulado.
+Mezclar 100 gr de manteca, 1 taza de azúcar, 2 tazas de harina leudante y formar un granulado.
 
 Agregar 1 huevo y leche si fuera necesario, hasta formar una masa suave.
 
 Dejarla un rato en la heladera.
 
 ## Crema
-Batir 200 grs. De crema de leche con 2 huevos, 100 grs. de azúcar y gotas de vainilla.
+Batir 200 gr de crema de leche con 2 huevos, 100 gr de azúcar y gotas de vainilla.
 
 ## Preparación
 
@@ -48,7 +48,7 @@ Hornear 45 minutos y pintar las peras (cuando se enfrían) con dulce de damascos
 ## Pueden utilizarse otras frutas
 Duraznos, cerezas, bananas, ciruelas, damascos, ananá, etc.
 
-En el caso de ciruelas, lleva 750 grs. de ciruelas cortadas por la mitad y descarozadas.
+En el caso de ciruelas, lleva 750 gr de ciruelas cortadas por la mitad y descarozadas.
 
 Las bananas y el ananá deben ser previamente caramelizados.
 

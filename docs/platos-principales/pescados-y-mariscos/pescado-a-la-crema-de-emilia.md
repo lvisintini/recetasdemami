@@ -24,9 +24,9 @@ curated: false
 
 ### Preparación
 
-Rociar ½ kg de filetes de atún u otro con jugo de limón y colocarles condimento para pescado, sal y pimienta. mezclar 1 taza de harina con 2 de pan rallado y untar superficialmente los filetes, colocar arriba pimientos y cebolla cortados en juliana.
+Rociar ½ kg de filetes de atún u otro con jugo de limón y colocarles condimento para pescado, sal y pimienta. Mezclar 1 taza de harina con 2 de pan rallado y untar superficialmente los filetes, colocar arriba pimientos y cebolla cortados en juliana.
 
-Arrollar los filetes, y en una fuente aceitada, rociarlos con caldo de verdura. cocinarlos por 10 minutos.
+Arrollar los filetes, y en una fuente aceitada, rociarlos con caldo de verdura. Cocinarlos por 10 minutos.
 
 Diluir 200 gr de crema de leche con el caldo.
 

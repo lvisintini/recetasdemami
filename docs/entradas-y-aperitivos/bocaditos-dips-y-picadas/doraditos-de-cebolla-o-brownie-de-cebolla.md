@@ -25,7 +25,7 @@ curated: false
 ### Preparación
 
 
-- ½ kg. De cebolla picada
+- ½ kg de cebolla picada
 - ½ taza de aceite (cualquiera menos oliva)
 - 4 huevos
 - 1 taza de leche

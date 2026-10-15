@@ -28,7 +28,7 @@ En una cacerola se pone un poco de aceite y después por capas:
 
 Cebolla picada, papas cortadas en rodajas, zanahorias y tomates también en rodajas, los bifes de carne de vaca y repetimos las capas.
 
-Entre capa y capa condimentar con sal, pimienta, ají molido, orégano o perejil. para humedecer todo, agregar una taza o más de caldo de carne.
+Entre capa y capa condimentar con sal, pimienta, ají molido, orégano o perejil. Para humedecer todo, agregar una taza o más de caldo de carne.
 
 Cocinar a fuego moderado, controlando que no se pegue en el fondo.
 

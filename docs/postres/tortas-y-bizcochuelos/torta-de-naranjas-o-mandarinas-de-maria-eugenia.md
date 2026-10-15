@@ -40,7 +40,7 @@ Llevar a horno mediano por 45 minutos aproximadamente.
 
 Desmoldar caliente (se aplasta un poco) y echarle almíbar con cascaritas finitas de naranja.
 
-## Para el almibar
+## Para el almíbar
 
 2 tazas de agua y 4 cucharadas de azúcar.
 

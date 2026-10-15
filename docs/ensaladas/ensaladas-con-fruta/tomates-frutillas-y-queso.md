@@ -25,7 +25,7 @@ curated: false
 ### Preparación
 
 
-Mezclar los tomates cherry (500 gr), las frutillas (500 gr) y el queso mussarela (200 gr) cortados en pedazos.
+Mezclar los tomates cherry (500 gr), las frutillas (500 gr) y el queso mozzarella (200 gr) cortados en pedazos.
 
 Condimentarlos con aceite de oliva y pimienta negra.
 

@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Lechuga, rúcula, queso azul, castaña de cayu (o nueces), panceta ahumada, pera, palta, jugo de limón, sal, aceite de oliva.
+Lechuga, rúcula, queso azul, castañas de cajú (o nueces), panceta ahumada, pera, palta, jugo de limón, sal, aceite de oliva.
 
 Puede agregarse miel.
 

@@ -36,9 +36,9 @@ Doblar el bife en libro y ponerle adentro:
 - Cebolla, anchoas y perejil.
 - Etc.
 
-Ajustarlos con palillos. ponerlos en la plancha con un poquito de aceite y a fuego suave, si es posible taparlos.
+Ajustarlos con palillos. Ponerlos en la plancha con un poquito de aceite y a fuego suave, si es posible taparlos.
 
-Pueden también bañarse con diferentes salsa, como la salsa maître d'hôtel.
+Pueden también bañarse con diferentes salsas, como la salsa maître d'hôtel.
 
 
 ### Variantes

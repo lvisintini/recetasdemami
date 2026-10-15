@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ de azúcar molida y una pizca de sal.
+Mezclar 2 tazas de pulpa de frutas y su jugo con ¾ taza de azúcar molida y una pizca de sal.
 
 Agregar una copita de marrasquino y llevarlo al freezer hasta que comience a solidificarse.
 

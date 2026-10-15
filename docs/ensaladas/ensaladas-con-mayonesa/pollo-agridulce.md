@@ -27,7 +27,7 @@ curated: false
 Pollo macerado con hierbas aromáticas, sal, pimienta y jugo de limón, ciboulette, arroz, champiñones, duraznos al natural, alcaparras, almendras.
 
 ## Aderezo
-Calentar a baño maria
+Calentar a baño maría
 
 - 4 yemas
 - 2 cucharadas agua fría

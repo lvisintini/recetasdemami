@@ -26,16 +26,16 @@ curated: false
 
 250 gr de espinaca, media cucharada de manteca, 2 dientes de ajo, pizca de sal.
 
-Freír los ajos en la manteca, con cuidado que no se quemen. agregarla espinaca lavada y cortada, cocinar por 5 minutos. espolvorear con queso rallado.
+Freír los ajos en la manteca, con cuidado que no se quemen. Agregar la espinaca lavada y cortada, cocinar por 5 minutos. Espolvorear con queso rallado.
 Tortilla de espinaca
 
-Freír una cebolla grande finamente cortada y 3 dientes de ajo picados, en aceite o manteca. retirar y colocar en un bol.
+Freír una cebolla grande finamente cortada y 3 dientes de ajo picados, en aceite o manteca. Retirar y colocar en un bol.
 
-Lavar y cortar la espinaca y colocarla también en el bol. agregarle 3 o 4 yemas, sal, pimienta, queso rallado, pimiento morrón cortadito y otras especias. mezclar bien.
+Lavar y cortar la espinaca y colocarla también en el bol. Agregarle 3 o 4 yemas, sal, pimienta, queso rallado, pimiento morrón cortadito y otras especias. Mezclar bien.
 
-Por otro lado, batir a punto nieve las claras apartadas y agregarlas también al bol, mezclandolas suavemente.
+Por otro lado, batir a punto nieve las claras apartadas y agregarlas también al bol, mezclándolas suavemente.
 
-Llevar a la sartén, con un poco de aceite o manteca. tapar para que se vaya cocinando de abajo y arriba. antes de darla vuelta, agregar nuevamente aceite o manteca a la sartén. ir moviéndola para que no se pegue.
+Llevar a la sartén, con un poco de aceite o manteca. Tapar para que se vaya cocinando de abajo y arriba. Antes de darla vuelta, agregar nuevamente aceite o manteca a la sartén. Ir moviéndola para que no se pegue.
 
 También puede agregarse trocitos de panceta cocida.
 

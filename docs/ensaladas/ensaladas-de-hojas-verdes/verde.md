@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-queso de cabra, rúcula, lechuga, radicheta, tomates secos, aceitunas negras, croutones, aceite de oliva, aceto, sal.
+Queso de cabra, rúcula, lechuga, radicheta, tomates secos, aceitunas negras, crutones, aceite de oliva, aceto, sal.
 
 
 ### Variantes

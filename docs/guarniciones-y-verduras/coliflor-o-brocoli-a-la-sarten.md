@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Cortar los arbolitos en láminas y cocinarlos en la sartén de un lado y del otro, con un poco de aceite. quedan crujientes.
+Cortar los arbolitos en láminas y cocinarlos en la sartén de un lado y del otro, con un poco de aceite. Quedan crujientes.
 
 Esparcir sobre ellos la salsa al ajo u otra.
 

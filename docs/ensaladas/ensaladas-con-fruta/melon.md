@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-melon, lechuga, cibulette.
+Melón, lechuga, ciboulette.
 
 ## Aderezo
 4 cucharadas de ketchup, 2 de limón, 4 de aceite, 1 cdita de mostaza, sal y pimienta (condimento francés).

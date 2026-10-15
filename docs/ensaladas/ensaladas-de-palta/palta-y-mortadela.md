@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Mortadela en cubos, tomates cherry, rucula, cebolla, palta, crustones, aceite de oliva, sal y pimienta.
+Mortadela en cubos, tomates cherry, rúcula, cebolla, palta, crutones, aceite de oliva, sal y pimienta.
 
 
 ### Variantes

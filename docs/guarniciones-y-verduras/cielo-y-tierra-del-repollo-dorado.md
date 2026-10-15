@@ -24,7 +24,7 @@ curated: false
 
 ### Preparación
 
-Puré de papa, cebolla caramelizada, morcilla y puré de manzana. como no tenía manzanas, acompañe con zanahorias caramelizadas y adicione ciruelas descarozadas rellenas de nueces con una gota de miel. re rico.
+Puré de papa, cebolla caramelizada, morcilla y puré de manzana. Como no tenía manzanas, acompañé con zanahorias caramelizadas y adicioné ciruelas descarozadas rellenas de nueces con una gota de miel. Re rico.
 
 
 ### Variantes

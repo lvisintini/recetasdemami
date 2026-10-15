@@ -34,7 +34,7 @@ Batir 8 huevos con 100 gr de azúcar.
 
 Incorporar la leche chocolatada y las peras fileteadas.
 
-Verterlo en molde acaramelado y cocinar a baño maria de 40 a 50 minutos.
+Verterlo en molde acaramelado y cocinar a baño maría de 40 a 50 minutos.
 
 ## Cáscaras de naranjas confitadas
 Cocinar el jugo de 2 naranjas, igual cantidad de agua y de azúcar, hasta que se diluya el azúcar.

@@ -30,7 +30,7 @@ Ingredientes:
 - 1 taza de queso de rallar
 - 1 cucharadita de polvo de hornear
 - 1 cucharadita de sal
-- 75 grs de manteca
+- 75 gr de manteca
 - 2 huevos
 - ½ taza de soda para unir o cantidad necesaria.
 - 1 taza queso fontina picante, o cáscara colorada cortado en cubitos.
@@ -49,7 +49,7 @@ A media cocción, si es necesario, darlos vuelta.
 
 Preferentemente comerlos tibios.
 
-Son los mas ricos.
+Son los más ricos.
 
 
 ### Variantes

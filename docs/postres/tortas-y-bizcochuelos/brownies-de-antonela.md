@@ -25,7 +25,7 @@ curated: false
 ### Preparación
 
 
-- 150 grs. de manteca
+- 150 gr de manteca
 - 1 taza de azúcar
 - 2 huevos
 - 4 cucharadas de chocolate amargo en polvo (el que venden en la repostería)
@@ -40,7 +40,7 @@ Agregar las nueces picadas e integrar todo.
 
 Enmantecar el molde y llevar a horno precalentado por 20 minutos.
 
-Verificar que estén listos clavandoles un palillo y sacándolo limpio.
+Verificar que estén listos clavándoles un palillo y sacándolo limpio.
 
 A los 25 minutos aproximadamente están listos.
 

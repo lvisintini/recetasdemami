@@ -32,7 +32,7 @@ El montón de ajo picado debe ser similar al montón de anchoas picadas.
 
 Muchos también le agregan nueces picadas.
 
-Otros, a parte de los ajos picados, ponen en una bolsita ajos enteros que, después de la cocción, se retiran.
+Otros, aparte de los ajos picados, ponen en una bolsita ajos enteros que, después de la cocción, se retiran.
 
 Se fríen los ajos en aceite de oliva, sin llegar a dorarlos
 
