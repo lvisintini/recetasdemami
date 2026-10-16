@@ -1,0 +1,34 @@
+---
+slug: torta-de-queso
+uuid: 037a69b5-f0ea-4ec2-83da-27b504dad5cb
+page_title: Torta de queso
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/tortas-y-bizcochuelos/torta-de-queso.md
+title: Torta de queso
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Postres]({{ site.baseurl }}/postres/) / [Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/) / Torta de queso
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Torta de queso
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+500 gr queso blanco, 6 huevos, 175 gr de azúcar, esencia de vainilla, 1 cucharada de crema de leche, cáscara picada y jugo de un limón.
+
+Mezclar todos los ingredientes hasta obtener una preparación bien homogénea. Cocinar aproximadamente 45 minutos. Terminada la cocción desmoldar. Decorar con cáscara de limón. Acompañar con salsa de frutilla.
+
+
+### Variantes

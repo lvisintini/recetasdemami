@@ -1,0 +1,34 @@
+---
+slug: gambas-al-ajillo
+uuid: aa290aa3-4dca-4a58-9e18-cb2494e0118a
+page_title: Gambas al ajillo
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/pescados-y-mariscos/gambas-al-ajillo.md
+title: Gambas al ajillo
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Platos principales]({{ site.baseurl }}/platos-principales/) / [Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/) / Gambas al ajillo
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Gambas al ajillo
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+250 gr langostinos, camarones, gambas: limpios, sin agua (si son congelados), 8 dientes de ajo en rodajitas, ají picante o pimienta cayena o 2 guindillas secas, sal y 5 o 6 cucharadas de aceite de oliva.
+
+Freír los ajos a fuego medio y retirarlos antes de dorarse y apagar el fuego. Poner los langostinos en ese aceite por 2 minutos aproximadamente, de esta manera se cocinan. Añadir los ajos y darle un golpe de fuego para calentar todo y servirlo con el jugo y perejil picado fresco.
+
+
+### Variantes

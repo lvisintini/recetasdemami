@@ -1,0 +1,32 @@
+---
+slug: arroz-completa
+uuid: 32364efa-55ec-44f1-b3a8-ceb309cfbc9e
+page_title: Arroz completa
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-con-mayonesa/arroz-completa.md
+title: Arroz completa
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/) / Arroz completa
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Arroz completa
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+4 tazas de arroz, 1 apio picado, 2 pimientos picados, 4 cucharadas nueces picadas, 10 aceitunas verdes picadas, 1 manzana verde en dados, 3 tomates en dados, 1 huevo duro picado, alcaparras, 1 taza mayonesa, 1 cucharada mostaza, jugo de 1 limón, 4 cucharadas de ketchup, sal y pimienta.
+
+
+### Variantes

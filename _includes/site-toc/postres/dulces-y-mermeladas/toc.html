@@ -1,0 +1,14 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/">Postres</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/">Dulces y mermeladas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche"{% if here == '/postres/dulces-y-mermeladas/dulce-de-leche' %} class="current"{% endif %}>Dulce de leche</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas"{% if here == '/postres/dulces-y-mermeladas/mermelada-de-frutas' %} class="current"{% endif %}>Mermelada de frutas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>

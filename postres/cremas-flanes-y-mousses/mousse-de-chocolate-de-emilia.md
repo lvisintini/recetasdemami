@@ -1,0 +1,37 @@
+---
+slug: mousse-de-chocolate-de-emilia
+uuid: 2c0db0f0-9f3c-42c9-8044-969589ee83f2
+page_title: Mousse de chocolate de Emilia
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/mousse-de-chocolate-de-emilia.md
+title: Mousse de chocolate de Emilia
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Mousse de chocolate de Emilia
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Mousse de chocolate de Emilia
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+
+1. Batir 5 yemas con 5 cucharadas colmadas de azúcar.
+1. Derretir 150 gr de chocolate a baño maría (con un trocito de manteca o un poquito de agua), agregarle batiendo suavemente un pote de 200 gr de crema de leche.
+1. Batir las 5 claras a punto nieve.
+1. Mezclar las dos primeras preparaciones hasta que se note uniforme e incorporarle las claras con movimientos envolventes.
+1. Poner en el freezer en un recipiente tapado y sobre algo que lo mantenga separado del piso por 1 hora y después pasarlo a la heladera.
+
+
+### Variantes

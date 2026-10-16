@@ -1,0 +1,39 @@
+---
+slug: salsa-de-pimiento
+uuid: 584bd7fa-64f8-42b4-bc04-35c3189e735b
+page_title: Salsa de pimiento
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salsas-aderezos-y-condimentos/salsa-de-pimiento.md
+title: Salsa de pimiento
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Salsas, aderezos y condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/) / Salsa de pimiento
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Salsa de pimiento
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Ingredientes:
+
+- 1 taza de salsa blanca
+- 1 taza queso mantecoso
+- 1 pimiento sin piel picado
+- 3 cucharadas de leche
+
+Cocinar a fuego suave.
+
+
+### Variantes

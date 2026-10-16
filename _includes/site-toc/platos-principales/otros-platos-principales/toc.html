@@ -1,0 +1,15 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/platos-principales/">Platos principales</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/platos-principales/otros-platos-principales/">Otros platos principales</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/platos-principales/otros-platos-principales/fondue-suiza"{% if here == '/platos-principales/otros-platos-principales/fondue-suiza' %} class="current"{% endif %}>Fondue suiza</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/platos-principales/otros-platos-principales/guiso-de-lentejas"{% if here == '/platos-principales/otros-platos-principales/guiso-de-lentejas' %} class="current"{% endif %}>Guiso de lentejas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/platos-principales/otros-platos-principales/tortilla-de-papas-a-la-espanola"{% if here == '/platos-principales/otros-platos-principales/tortilla-de-papas-a-la-espanola' %} class="current"{% endif %}>Tortilla de papas a la española</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>

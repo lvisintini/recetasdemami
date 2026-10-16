@@ -1,0 +1,40 @@
+---
+slug: bruschettas-para-muchas-personas
+uuid: 2994e094-9bfb-4f42-9775-841c7a788600
+page_title: Bruschettas para muchas personas
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-para-muchas-personas.md
+title: Bruschettas para muchas personas
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/) / Bruschettas para muchas personas
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Bruschettas para muchas personas
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Poner 10 rebanadas de pan sobre una fuente para horno.
+
+Verterles algunas gotas de aceite de oliva y colocar en el horno a 200°C por 10 minutos.
+
+Entretanto lavar y cortar 3 tomates. Mezclarlos con un diente de ajo picado, 3 cucharaditas de aceite de oliva y los brotes de 3 a 5 días de germinación.
+
+Condimentar con sal marina, hierbas aromáticas y hojas de albahaca.
+
+Repartir sobre las rebanadas de pan todavía calientes y servir inmediatamente.
+
+
+### Variantes

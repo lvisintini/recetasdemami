@@ -1,0 +1,20 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/">Postres</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/budines-y-otros-horneados/">Budines y otros horneados</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/cremas-flanes-y-mousses/">Cremas, flanes y mousses</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/crepes-y-panqueques-dulces/">Crepes y panqueques dulces</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/" class="current">Dulces y mermeladas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche"{% if here == '/postres/dulces-y-mermeladas/dulce-de-leche' %} class="current"{% endif %}>Dulce de leche</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas"{% if here == '/postres/dulces-y-mermeladas/mermelada-de-frutas' %} class="current"{% endif %}>Mermelada de frutas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+</ul>
+</li>
+<li><strong><a href="{{ site.baseurl }}/postres/galletitas-y-masitas/">Galletitas y masitas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/tartas-y-postres-de-fruta/">Tartas y postres de fruta</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/tortas-y-bizcochuelos/">Tortas y bizcochuelos</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+</ul>
+</li>
+</ul>

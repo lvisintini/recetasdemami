@@ -1,0 +1,42 @@
+---
+slug: tiramisu
+uuid: 74c66312-4c62-41d6-a5fb-3f10c6e517f2
+page_title: Tiramisú
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/cremas-flanes-y-mousses/tiramisu.md
+title: Tiramisú
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Postres]({{ site.baseurl }}/postres/) / [Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/) / Tiramisú
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Tiramisú
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+
+1. Batir 2 yemas con 1 taza de azúcar y luego agregar 300 gr de queso crema.
+2. Batir 2 claras a punto nieve y agregar de a poco 1 taza de azúcar.
+
+Unir ambas preparaciones, agregando una copita de Tía María.
+
+Hidratar aproximadamente 18 vainillas con 1 taza de café.
+
+Colocar por capas las vainillas y la crema.
+
+Espolvorear con chocolate.
+
+
+### Variantes

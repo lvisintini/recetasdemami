@@ -1,0 +1,12 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/entradas-y-aperitivos/">Entradas y aperitivos</a></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/">Bocaditos, dips y picadas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+<li><strong><a href="{{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/">Bruschettas y tostadas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></strong></li>
+</ul>
+</li>
+</ul>
+{% assign recs = "entradas-y-tapas" %}
+{% include site-recs.html names=recs %}

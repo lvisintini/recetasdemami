@@ -1,0 +1,36 @@
+---
+slug: paleta-de-pintor-1
+uuid: e1cc9ba0-7a29-4224-9677-63df9c83599e
+page_title: Paleta de pintor 1
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/paleta-de-pintor-1.md
+title: Paleta de pintor 1
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Paleta de pintor 1
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Paleta de pintor 1
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Colocar en el cuarto de un plato: 2 fetas de jamón en tiritas. En otro cuarto: media zanahoria rallada, en el otro: medio zucchini también rallado y en el último cuarto: remolacha rallada, condimentada con aceite de oliva y sal.
+
+En el centro del plato y sobre todas las verduras se coloca un huevo poché.
+
+Como terminación adicionar sal, alguna semilla (amapola, sésamo, etc) o perejil picado.
+
+
+### Variantes
