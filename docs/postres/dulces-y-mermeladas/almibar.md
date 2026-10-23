@@ -2,7 +2,7 @@
 slug: almibar
 uuid: 14179fca-0bc7-4181-ba7d-7cdb16fd296c
 page_title: Almíbar
-curated: false
+curated: true
 ---
 
 {nav}
