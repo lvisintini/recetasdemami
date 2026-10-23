@@ -28,7 +28,7 @@ curated: false
 - 1 litro de vino blanco
 - jugo de 2 naranjas
 - jugo de 2 limones
-- Almíbar (ver al inicio)
+- [page_link](14179fca-0bc7-4181-ba7d-7cdb16fd296c)
 
 Poner en la heladera y servirlo con soda fría.
 

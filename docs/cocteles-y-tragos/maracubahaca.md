@@ -29,7 +29,7 @@ curated: false
 - ½ de maracuyá
 - limón
 - Albahaca
-- Almíbar (ver al inicio)
+- [page_link](14179fca-0bc7-4181-ba7d-7cdb16fd296c)
 
 
 ### Variantes
