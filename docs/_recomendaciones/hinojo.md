@@ -1,1 +1,1 @@
-Otro ingrediente que se puede agregar a las ensaladas verdes, es el hinojo.
+- El hinojo es otro buen ingrediente para agregar a las ensaladas verde.

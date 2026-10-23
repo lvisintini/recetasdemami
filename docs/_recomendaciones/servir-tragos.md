@@ -1,3 +1,2 @@
-Apretar un poco la rodaja de limón o naranja sobre el trago antes de ponerla como decoración.
-
-Poner las copas en la heladera antes de servir el trago.
+- Poner las copas en la heladera antes de servir el trago.
+- Para tragos con rodajas limón o naranja, apretarlas un poco sobre el trago antes de ponerlas como decoración.
