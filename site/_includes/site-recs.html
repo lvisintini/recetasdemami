@@ -4,7 +4,9 @@
   Included by the generated _includes/page-recs/<dir>/recs.html, once per group.
 {%- endcomment -%}
 {%- assign names = include.names | split: "," -%}
+<div class="page-rec">
 {%- for name in names %}
 {%- capture rec %}{% include recomendaciones/{{ name }}.md %}{% endcapture %}
-<div class="page-rec">{{ rec | markdownify }}</div>
+{{ rec | markdownify }}
 {%- endfor %}
+</div>
