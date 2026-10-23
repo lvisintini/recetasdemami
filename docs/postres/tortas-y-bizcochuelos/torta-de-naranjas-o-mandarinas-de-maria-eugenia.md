@@ -38,7 +38,7 @@ Colocar en un molde savarín enmantecado y **azucarado**.
 
 Llevar a horno mediano por 45 minutos aproximadamente.
 
-Desmoldar caliente (se aplasta un poco) y echarle almíbar ([page_link](14179fca-0bc7-4181-ba7d-7cdb16fd296c), el liviano para tortas) con cascaritas finitas de naranja.
+Desmoldar caliente (se aplasta un poco) y echarle [page_link](14179fca-0bc7-4181-ba7d-7cdb16fd296c) (el liviano para tortas) con cascaritas finitas de naranja.
 
 ## Opciones
 
