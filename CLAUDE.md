@@ -60,8 +60,13 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - **Sidebar index**: bulleted lists (same ordering as `{toc}`, subdirectories in bold;
   top level flush left, each nested level indented by the hierarchy) under a heading
   linking the root index, nested under the trail of ancestor sections from the root down
-  to the listed directory (the ancestors only, not their siblings). Never collapsible,
-  mobile included. Every build writes two per directory to `_includes/site-toc/<dir>/`,
+  to the listed directory (the ancestors only, not their siblings). The nested lists are
+  never collapsible. The whole sidebar body (index, Recomendaciones, footer) sits in one
+  `<details class="sidebar-menu">` with an "Índice" summary, no JavaScript: a closed menu
+  at <=960px; wider screens and print force it open via `::details-content` (CSS scoped to
+  `print, screen and (min-width: 961px)`, so phones get the plain native element) and hide the summary
+  (browsers without `::details-content` keep the summary on desktop too). Every build
+  writes two per directory to `_includes/site-toc/<dir>/`,
   and the layout picks one by `page.dir` / `page.name`:
   - `toc.html` (regular pages): the directory's direct children, i.e. the page's siblings;
     Liquid marks the current page with `class="current"` (exact URL).
@@ -105,7 +110,10 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   `.sidebar-footer` pinned at its bottom; keep it in step with the theme if the theme
   changes. `site/assets/css/style.scss` imports the theme's CSS, widens the sidebar and
   makes it a flex column where only the index scrolls. The theme positions `header ul`
-  absolutely at <=960px, hence the `position:static` override on `.site-toc`. `_config.yml` `defaults:` applies `layout: default`, so the
+  absolutely at <=960px, hence the `position:static` override on `.site-toc`. The sidebar's
+  flex column runs through `.sidebar-menu` and its `::details-content` (both `flex:1 1 auto;
+  min-height:0`), or the index stops scrolling on its own. GitHub Pages compiles the SCSS
+  with an old Sass that can't parse `@supports selector(...)`, so don't use it. `_config.yml` `defaults:` applies `layout: default`, so the
   script does not inject `layout:`. `jekyll-titles-from-headings` can't supply page titles
   because `{nav}` comes before the first heading, hence the injected `title`.
 - `peaceiris/actions-gh-pages` writes a `.nojekyll` by default, which disables Jekyll and

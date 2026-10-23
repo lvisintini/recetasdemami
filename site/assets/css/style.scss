@@ -5,7 +5,9 @@
 
 // Wider sidebar (fits the site title on one line) laid out as a column: title on top,
 // the current directory's index scrolling in the middle, and the project link, edit
-// link and credits pinned at the bottom. See _layouts/default.html.
+// link and credits pinned at the bottom. See _layouts/default.html. The index and footer
+// sit in <details class="sidebar-menu">: on wide screens it is forced open through
+// ::details-content (summary hidden); at <=960px it is a native, closed-by-default menu.
 
 .wrapper {
   width:auto;
@@ -25,6 +27,33 @@ section {
   float:none;
   width:auto;
   margin-left:360px;
+}
+
+// Wide screens (and print): the <details> is forced open and its summary hidden; the flex
+// column continues through it and its content box. Small screens get the native menu.
+@media print, screen and (min-width: 961px) {
+  .sidebar-menu {
+    flex:1 1 auto;
+    min-height:0;
+    display:flex;
+    flex-direction:column;
+  }
+
+  .sidebar-menu::details-content {
+    content-visibility:visible;
+    display:flex;
+    flex-direction:column;
+    flex:1 1 auto;
+    min-height:0;
+  }
+
+  // The second selector never matches; a browser without ::details-content drops the
+  // whole rule, so it keeps the summary and the sidebar can still be opened. (No
+  // @supports selector(): the Pages Sass version can't parse it.)
+  .sidebar-menu > summary,
+  .sidebar-menu > summary::details-content {
+    display:none;
+  }
 }
 
 .site-index {
@@ -141,5 +170,17 @@ progress {
 
   section {
     margin-left:0;
+  }
+}
+
+// small screens: the sidebar's index and footer sit behind a tappable "Índice" bar
+@media screen and (max-width: 960px) {
+  .sidebar-menu > summary {
+    padding:6px 12px;
+    border:1px solid #e5e5e5;
+    border-radius:5px;
+    margin-bottom:10px;
+    font-weight:bold;
+    cursor:pointer;
   }
 }

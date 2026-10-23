@@ -7,7 +7,9 @@
   _includes/site-recs.html) and, pinned at its bottom, the project
   link, the curation report link (/curacion, written by build_docs.py), the
   "Improve this page" link and the theme credits; the separate fixed <footer>
-  is gone. A book favicon (favicon.svg) is linked in <head>. Styles: assets/css/style.scss.
+  is gone. The index and footer sit in <details class="sidebar-menu"> ("Índice"): closed
+  on small screens, forced open by CSS on wide ones (no JavaScript). A book favicon
+  (favicon.svg) is linked in <head>. Styles: assets/css/style.scss.
 {%- endcomment %}
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -33,23 +35,27 @@
 
         {% if page.name == "index.md" %}{% assign toc_file = "index-toc.html" %}{% else %}{% assign toc_file = "toc.html" %}{% endif %}
         {% capture site_toc %}site-toc{{ page.dir }}{{ toc_file }}{% endcapture %}
-        <nav class="site-index">
-          {% include {{ site_toc }} %}
-        </nav>
+        <details class="sidebar-menu">
+          <summary>Índice</summary>
 
-        <div class="sidebar-footer">
-          {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-          {% endif %}
+          <nav class="site-index">
+            {% include {{ site_toc }} %}
+          </nav>
 
-          <p class="curation-link"><a href="{{ "/curacion" | relative_url }}">Curación</a></p>
+          <div class="sidebar-footer">
+            {% if site.github.is_project_page %}
+            <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+            {% endif %}
 
-          {% if page.custom_edit_url %}
-          <p class="edit-link"><a href="{{ page.custom_edit_url }}">Improve this page</a></p>
-          {% endif %}
+            <p class="curation-link"><a href="{{ "/curacion" | relative_url }}">Curación</a></p>
 
-          <p class="credits"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        </div>
+            {% if page.custom_edit_url %}
+            <p class="edit-link"><a href="{{ page.custom_edit_url }}">Improve this page</a></p>
+            {% endif %}
+
+            <p class="credits"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          </div>
+        </details>
       </header>
       <section>
 

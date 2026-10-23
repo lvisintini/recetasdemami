@@ -431,6 +431,15 @@ def test_site_dir_copied_into_output(src, tmp_path):
     assert read(out, "_layouts/default.html") == "{{ content }}"
 
 
+def test_layout_sidebar_is_one_details_menu():
+    layout = (Path(__file__).resolve().parent.parent / "site/_layouts/default.html").read_text(
+        encoding="utf-8").split("{%- endcomment %}")[1]
+    start = layout.index('<details class="sidebar-menu">')
+    assert start < layout.index("<summary>Índice</summary>") < layout.index('class="site-index"')
+    assert layout.index('class="sidebar-footer"') < layout.index("</details>")
+    assert layout.count("<details") == 1
+
+
 @pytest.mark.parametrize("target", [".", "..", "sub/out"])
 def test_target_overlapping_source_is_refused(src, target):
     with pytest.raises(ValueError):
