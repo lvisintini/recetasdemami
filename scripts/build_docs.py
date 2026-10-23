@@ -492,7 +492,8 @@ def write_recs(recs: dict, target_root: Path, uuid_map: dict, warnings: list) ->
     for name, text in recs.items():
         out_dir.mkdir(parents=True, exist_ok=True)
         text = resolve_uuid_links(text, f"{REC_DIR}/{name}.md", uuid_map, warnings)
-        (out_dir / f"{name}.md").write_text(text, encoding="utf-8")
+        # one trailing newline, so a group's tips join into one list (site-recs.html)
+        (out_dir / f"{name}.md").write_text(text.rstrip() + "\n", encoding="utf-8")
 
 
 # --------------------------------------------------------------------------

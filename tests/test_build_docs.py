@@ -438,6 +438,23 @@ def test_rec_files_written_as_includes_not_pages(tmp_path):
     assert "recomendaciones must be a list of names, ignored: other/bad.md" in warnings
 
 
+def test_group_tips_join_into_one_list(tmp_path):
+    s = tmp_path / "s"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-0000000000f1", "Root", "{toc}",
+                              extra="recomendaciones: [a, b]\n"))
+    write(s, "_recomendaciones/a.md", "- Tip a")  # no trailing newline
+    write(s, "_recomendaciones/b.md", "- Tip b\n\n\n")
+    out = tmp_path / "o"
+    build_docs(str(s), str(out))
+    # each tip ends in one newline, so concatenated they are one markdown list...
+    assert read(out, "_includes/recomendaciones/a.md") + read(
+        out, "_includes/recomendaciones/b.md") == "- Tip a\n- Tip b\n"
+    # ...which site-recs.html renders with a single markdownify per group
+    recs = (Path(__file__).resolve().parent.parent / "site/_includes/site-recs.html").read_text(
+        encoding="utf-8").split("{%- endcomment -%}")[1]
+    assert recs.count("markdownify") == 1 and recs.index("endfor") < recs.index("markdownify")
+
+
 def test_no_recs_block_without_tips(tmp_path):
     inc = build_sidebar_tree(tmp_path).parent
     assert read(inc, "page-recs/recs.html") == read(inc, "page-recs/two/sub/recs.html") == ""

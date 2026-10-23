@@ -85,8 +85,9 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   The build writes each tip (links resolved) to `_includes/recomendaciones/<name>.md`, and,
   for every directory, `_includes/page-recs/<dir>/recs.html` (empty without tips; per-page
   tips picked by exact URL, like `class="current"`), which the layout includes by `page.dir`
-  after `{{ content }}`. Each group renders its tips through `site/_includes/site-recs.html`
-  (`markdownify`). Unknown or unused tip names, and a non-list value, are warnings.
+  after `{{ content }}`. Each group renders its tips through `site/_includes/site-recs.html`:
+  concatenated (each tip is written ending in exactly one newline) and run through one
+  `markdownify`, so list-item tips form a single list. Unknown or unused tip names, and a non-list value, are warnings.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
