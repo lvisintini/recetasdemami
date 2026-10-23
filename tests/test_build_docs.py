@@ -382,26 +382,49 @@ def build_recs_tree(tmp_path):
     return out, warnings
 
 
-def test_recs_inherited_by_everything_under_a_section(tmp_path):
+def test_recs_grouped_by_source_section(tmp_path):
     out, _ = build_recs_tree(tmp_path)
-    inc = out / "_includes/site-toc"
-    # most general first, no repeats; the index page gets its own section's tips
-    assert read(inc, "sec/index-toc.html").endswith(
-        '{% assign recs = "general,seccion" %}\n{% include site-recs.html names=recs %}\n')
-    assert '{% assign recs = "general,seccion" %}' in read(inc, "sec/sub/index-toc.html")
-    assert '{% assign recs = "general" %}' in read(inc, "other/toc.html")  # sibling: root only
-    assert "seccion" not in read(inc, "other/toc.html")
+    inc = out / "_includes/page-recs"
+    # most general first, one labelled group per source, no repeats; the index page
+    # (and its subsections) get its own section's tips
+    assert read(inc, "sec/sub/recs.html").endswith(
+        "{% else %}\n"
+        '<aside class="page-recs">\n'
+        '<p class="page-recs-title">Recomendaciones</p>\n'
+        '<div class="page-recs-group">\n'
+        '<p class="page-recs-for">Para todas las recetas</p>\n'
+        '{% include site-recs.html names="general" %}\n'
+        "</div>\n"
+        '<div class="page-recs-group">\n'
+        '<p class="page-recs-for">Para toda la sección '
+        '<a href="{{ site.baseurl }}/sec/">Sec</a></p>\n'
+        '{% include site-recs.html names="seccion" %}\n'
+        "</div>\n"
+        "</aside>\n"
+        "{% endif %}\n")
+    assert read(inc, "sec/recs.html").count("page-recs-group") == 2
+    other = read(inc, "other/recs.html")  # sibling: root only
+    assert other.count("page-recs-group") == 1 and "seccion" not in other
+    assert "{% if" not in other
 
 
 def test_page_recs_only_for_that_page(tmp_path):
     out, _ = build_recs_tree(tmp_path)
-    sub = read(out, "_includes/site-toc/sec/sub/toc.html")
-    assert sub.endswith(
-        '{% assign recs = "general,seccion" %}\n'
-        "{% if here == '/sec/sub/dish' %}{% assign recs = \"general,seccion,plato\" %}"
-        "{% endif %}\n{% include site-recs.html names=recs %}\n")
-    assert "plain' %}{% assign recs" not in sub
-    assert "plato" not in read(out, "_includes/site-toc/sec/sub/index-toc.html")
+    sub = read(out, "_includes/page-recs/sec/sub/recs.html")
+    assert sub.startswith("{% assign here = page.url | remove: '.html' %}\n"
+                          "{% if here == '/sec/sub/dish' %}\n")
+    branch = sub[:sub.index("{% else %}")]
+    assert branch.index('names="seccion"') < branch.index(
+        '<p class="page-recs-for">Para esta receta</p>\n'
+        '{% include site-recs.html names="plato" %}')
+    assert "plato" not in sub[sub.index("{% else %}"):]
+    assert "/sec/sub/plain" not in sub and "elsif" not in sub
+
+
+def test_sidebar_has_no_recs(tmp_path):
+    out, _ = build_recs_tree(tmp_path)
+    for f in (out / "_includes/site-toc").rglob("*.html"):
+        assert "recs" not in f.read_text(encoding="utf-8")
 
 
 def test_rec_files_written_as_includes_not_pages(tmp_path):
@@ -416,9 +439,9 @@ def test_rec_files_written_as_includes_not_pages(tmp_path):
 
 
 def test_no_recs_block_without_tips(tmp_path):
-    inc = build_sidebar_tree(tmp_path)
-    assert "site-recs" not in read(inc, "two/toc.html")
-    assert not (inc.parent / "recomendaciones").exists()
+    inc = build_sidebar_tree(tmp_path).parent
+    assert read(inc, "page-recs/recs.html") == read(inc, "page-recs/two/sub/recs.html") == ""
+    assert not (inc / "recomendaciones").exists()
 
 
 def test_site_dir_copied_into_output(src, tmp_path):
@@ -436,8 +459,11 @@ def test_layout_sidebar_is_one_details_menu():
         encoding="utf-8").split("{%- endcomment %}")[1]
     start = layout.index('<details class="sidebar-menu">')
     assert start < layout.index("<summary>Índice</summary>") < layout.index('class="site-index"')
-    assert layout.index('class="sidebar-footer"') < layout.index("</details>")
     assert layout.count("<details") == 1
+    # only the index is in the menu; footer pinned in the sidebar, or after the content
+    assert layout.index("</details>") < layout.index('class="sidebar-footer"') \
+        < layout.index("</header>") < layout.index("{{ content }}") \
+        < layout.index("page-recs{{ page.dir }}recs.html") < layout.index('class="page-footer"')
 
 
 @pytest.mark.parametrize("target", [".", "..", "sub/out"])

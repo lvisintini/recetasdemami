@@ -34,7 +34,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 - Curation: `curated: true|false` in the front matter says whether a page has been reviewed
   by hand. Anything but `true` (missing, or non-boolean, which is warned) is "pending": the
   page gets a `Pendiente de revisión` note under its `{nav}` (on top if it has none), every
-  generated link to it in `{toc}`, the sidebar and uuid references gets a `.pending-mark`
+  generated link to it in `{toc}`, the sidebar, Recomendaciones labels and uuid references gets a `.pending-mark`
   icon (CSS in `site/assets/css/style.scss`), and the build warns once with the count.
   Breadcrumbs are left unmarked. `<SUMMARY>` in recipes is the placeholder for the summary
   still to write; it stays in the sources, is stripped from the output, and is warned if
@@ -61,7 +61,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   top level flush left, each nested level indented by the hierarchy) under a heading
   linking the root index, nested under the trail of ancestor sections from the root down
   to the listed directory (the ancestors only, not their siblings). The nested lists are
-  never collapsible. The whole sidebar body (index, Recomendaciones, footer) sits in one
+  never collapsible. The index (and only the index) sits in one
   `<details class="sidebar-menu">` with an "Índice" summary, no JavaScript: a closed menu
   at <=960px; wider screens and print force it open via `::details-content` (CSS scoped to
   `print, screen and (min-width: 961px)`, so phones get the plain native element) and hide the summary
@@ -73,13 +73,20 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   - `index-toc.html` (the directory's index page): the parent's list with this directory
     marked current and its own direct children listed right under it. The root has no
     parent, so it gets its own list.
-- **Sidebar Recomendaciones**: under the index, a page's sidebar lists every tip that applies
-  to it: those on each ancestor directory's `index.md` (root first), then its own, without
-  repeats. A tip on an `index.md` thus covers the whole directory, index page included. The
-  build writes each tip (links resolved) to `_includes/recomendaciones/<name>.md` and ends
-  each sidebar file with Liquid that picks the page's tip list (per-page tips by exact URL,
-  like `class="current"`) for `site/_includes/site-recs.html`, which includes and
-  `markdownify`s them. Unknown or unused tip names, and a non-list value, are warnings.
+- **Footer links** (project, Curación, Improve this page, credits) live in
+  `site/_includes/site-footer.html`, included twice by the layout: `.sidebar-footer` after the
+  `<details>` (pinned at the sidebar's bottom, hidden at <=960px) and `.page-footer` after the
+  content (shown only at <=960px). Never inside the Índice menu.
+- **Page Recomendaciones**: not in the sidebar. A tinted `<aside class="page-recs">` callout
+  after the page content lists every tip that applies to the page, one labelled group per
+  source: "Para todas las recetas" (root `index.md`), "Para toda la sección <link>" (each
+  ancestor directory's `index.md`, root first), then "Para esta receta" (the page's own), with
+  no repeats. A tip on an `index.md` thus covers the whole directory, index page included.
+  The build writes each tip (links resolved) to `_includes/recomendaciones/<name>.md`, and,
+  for every directory, `_includes/page-recs/<dir>/recs.html` (empty without tips; per-page
+  tips picked by exact URL, like `class="current"`), which the layout includes by `page.dir`
+  after `{{ content }}`. Each group renders its tips through `site/_includes/site-recs.html`
+  (`markdownify`). Unknown or unused tip names, and a non-list value, are warnings.
 - **`custom_edit_url`**: when `--edit-base-url` is given, ALWAYS injected into every output
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
@@ -106,9 +113,9 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
 ## Gotchas
 - The site uses the `jekyll-theme-minimal` theme (`site/_config.yml`).
   `site/_layouts/default.html` is a copy of the theme's v0.2.0 layout with the sidebar
-  index in `<header>` (the sidebar) and the project link, Curación link, edit link and credits in a
-  `.sidebar-footer` pinned at its bottom; keep it in step with the theme if the theme
-  changes. `site/assets/css/style.scss` imports the theme's CSS, widens the sidebar and
+  index in `<header>` (the sidebar), the page's Recomendaciones after the content, and the
+  footer links (`site-footer.html`) pinned at the sidebar's bottom or after the content on
+  small screens; keep it in step with the theme if the theme changes. `site/assets/css/style.scss` imports the theme's CSS, widens the sidebar and
   makes it a flex column where only the index scrolls. The theme positions `header ul`
   absolutely at <=960px, hence the `position:static` override on `.site-toc`. The sidebar's
   flex column runs through `.sidebar-menu` and its `::details-content` (both `flex:1 1 auto;

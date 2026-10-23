@@ -29,8 +29,10 @@ recursive) and builds a fresh copy into a target directory:
     SOURCE/_recomendaciones/<name>.md; a page attaches them by name in its
     `recomendaciones` front matter, and a tip on an index.md applies to the
     whole directory below it. Each tip is written (uuid links resolved) to
-    _includes/recomendaciones/<name>.md and the sidebar lists every tip that
-    applies to the page, most general first, under the index
+    _includes/recomendaciones/<name>.md, and every directory gets
+    _includes/page-recs/<dir>/recs.html: an end-of-page callout with the
+    tips that apply to the page, grouped by where they come from (most
+    general first), for the site layout to include by page.dir
   * every directory gets sidebar lists written to _includes/site-toc/<dir>/
     for the site layout to include by page.dir: toc.html (its pages and
     subdirectories, for its regular pages) and index-toc.html (its parent's
@@ -388,25 +390,11 @@ def build_sidebar(dir_node: Dir, open_dir: Dir | None = None) -> list[str]:
     return lines + sidebar_trail(trail, sidebar_list(dir_node, open_dir))
 
 
-def sidebar_recs(base: list[str], pages: list[Page]) -> list[str]:
-    """Liquid picking the rendered page's tips (by exact URL) for site-recs.html."""
-    own = [(p, merge_recs(base, p.recs)) for p in pages if p.recs]
-    if not base and not own:
-        return []
-    lines = [f'{{% assign recs = "{",".join(base)}" %}}']
-    lines += [f"{{% if here == '{page_url(p)}' %}}"
-              f'{{% assign recs = "{",".join(recs)}" %}}{{% endif %}}' for p, recs in own]
-    return lines + ["{% include site-recs.html names=recs %}"]
-
-
 def write_sidebar(dir_node: Dir, target_root: Path) -> None:
     out_dir = target_root / SIDEBAR_DIR / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
     own = build_sidebar(dir_node)
     in_parent = build_sidebar(dir_node.parent, dir_node) if dir_node.parent else own
-    recs = dir_recs(dir_node)
-    own += sidebar_recs(recs, dir_node.pages)
-    in_parent += sidebar_recs(recs, [])
     (out_dir / "toc.html").write_text("\n".join(own) + "\n", encoding="utf-8")
     (out_dir / "index-toc.html").write_text("\n".join(in_parent) + "\n", encoding="utf-8")
     for sub in dir_node.subdirs:
@@ -416,12 +404,20 @@ def write_sidebar(dir_node: Dir, target_root: Path) -> None:
 # --------------------------------------------------------------------------
 # Recomendaciones: tips in SOURCE/_recomendaciones/<name>.md, attached by name
 # in a page's `recomendaciones` front matter. A tip on a directory's index.md
-# applies to everything under it. The sidebar includes them (see
+# applies to everything under it. Each directory gets
+# _includes/page-recs/<dir>/recs.html, the callout the layout puts after the
+# page content: one group per source (root first, then each section on the
+# path, then the page itself), each tip included (see
 # site/_includes/site-recs.html) from _includes/recomendaciones/<name>.md.
+# Liquid picks a page's own tips by exact URL, like the sidebar's "current".
 # --------------------------------------------------------------------------
 
 REC_DIR = "_recomendaciones"
 REC_INCLUDES = Path("_includes") / "recomendaciones"
+PAGE_RECS_DIR = Path("_includes") / "page-recs"
+ROOT_RECS_LABEL = "Para todas las recetas"
+SECTION_RECS_LABEL = "Para toda la sección {}"
+PAGE_RECS_LABEL = "Para esta receta"
 
 
 def load_recs(source_root: Path) -> dict[str, str]:
@@ -431,15 +427,9 @@ def load_recs(source_root: Path) -> dict[str, str]:
     return {p.stem: p.read_text(encoding="utf-8") for p in sorted(rec_dir.glob("*.md"))}
 
 
-def merge_recs(*lists: list[str]) -> list[str]:
-    """Concatenate tip-name lists, dropping repeats but keeping first-seen order."""
-    return list(dict.fromkeys(name for names in lists for name in names))
-
-
-def dir_recs(dir_node: Dir) -> list[str]:
-    """Tips for a directory: its ancestors' (root first), then its index.md's."""
-    inherited = dir_recs(dir_node.parent) if dir_node.parent else []  # <-- recursion
-    return merge_recs(inherited, dir_node.index_page.recs if dir_node.index_page else [])
+def new_recs(names: list[str], seen: list[str]) -> list[str]:
+    """Tip names not in `seen`, without repeats, in first-seen order."""
+    return list(dict.fromkeys(name for name in names if name not in seen))
 
 
 def check_recs(dir_node: Dir, recs: dict, warnings: list, used: set) -> None:
@@ -453,6 +443,48 @@ def check_recs(dir_node: Dir, recs: dict, warnings: list, used: set) -> None:
         used.update(page.recs)
     for sub in dir_node.subdirs:
         check_recs(sub, recs, warnings, used)  # <-- recursion
+
+
+def rec_groups(dir_node: Dir) -> list[tuple[str, list[str]]]:
+    """(label, tip names) per directory on the path that adds tips, root first."""
+    groups, seen = [], []
+    for d in ancestor_chain(dir_node):
+        new = new_recs(d.index_page.recs if d.index_page else [], seen)
+        if new:
+            label = (SECTION_RECS_LABEL.format(link_html(d.index_page)) if d.parent
+                     else ROOT_RECS_LABEL)
+            groups.append((label, new))
+            seen += new
+    return groups
+
+
+def recs_block(groups: list[tuple[str, list[str]]]) -> list[str]:
+    if not groups:
+        return []
+    lines = ['<aside class="page-recs">', '<p class="page-recs-title">Recomendaciones</p>']
+    for label, names in groups:
+        lines += ['<div class="page-recs-group">', f'<p class="page-recs-for">{label}</p>',
+                  f'{{% include site-recs.html names="{",".join(names)}" %}}', "</div>"]
+    return lines + ["</aside>"]
+
+
+def write_page_recs(dir_node: Dir, target_root: Path) -> None:
+    base = rec_groups(dir_node)
+    seen = [name for _, names in base for name in names]
+    own = [(p, new_recs(p.recs, seen)) for p in dir_node.pages]
+    own = [(p, extra) for p, extra in own if extra]
+    lines = recs_block(base)
+    if own:
+        branches = [f"{{% {'if' if i == 0 else 'elsif'} here == '{page_url(p)}' %}}\n"
+                    + "\n".join(recs_block(base + [(PAGE_RECS_LABEL, extra)]))
+                    for i, (p, extra) in enumerate(own)]
+        lines = ["{% assign here = page.url | remove: '.html' %}", *branches,
+                 *(["{% else %}", *lines] if lines else []), "{% endif %}"]
+    out_dir = target_root / PAGE_RECS_DIR / dir_node.rel_path
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "recs.html").write_text("".join(f"{line}\n" for line in lines), encoding="utf-8")
+    for sub in dir_node.subdirs:
+        write_page_recs(sub, target_root)  # <-- recursion
 
 
 def write_recs(recs: dict, target_root: Path, uuid_map: dict, warnings: list) -> None:
@@ -803,6 +835,7 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
     pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
     write_recs(recs, target_root, uuid_map, warnings)
     write_sidebar(tree, target_root)
+    write_page_recs(tree, target_root)
     write_report(tree, target_root, edit_base_url, warnings)
     if pending:
         warnings.append(f"{pending} page(s) not curated yet (curated: true missing)")

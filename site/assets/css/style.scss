@@ -5,9 +5,10 @@
 
 // Wider sidebar (fits the site title on one line) laid out as a column: title on top,
 // the current directory's index scrolling in the middle, and the project link, edit
-// link and credits pinned at the bottom. See _layouts/default.html. The index and footer
-// sit in <details class="sidebar-menu">: on wide screens it is forced open through
-// ::details-content (summary hidden); at <=960px it is a native, closed-by-default menu.
+// link and credits pinned at the bottom. See _layouts/default.html. The index sits in
+// <details class="sidebar-menu">: on wide screens it is forced open through
+// ::details-content (summary hidden); at <=960px it is a native, closed-by-default menu,
+// and the footer links move after the page content (.page-footer).
 
 .wrapper {
   width:auto;
@@ -87,25 +88,44 @@ section {
   font-weight:bold;
 }
 
-// "Recomendaciones" under the index (site/_includes/site-recs.html)
-.site-recs {
-  border-top:1px solid #e5e5e5;
-  margin-top:12px;
-  padding-top:10px;
-  font-size:0.9em;
+// "Recomendaciones" callout after the page content (_includes/page-recs/<dir>/recs.html,
+// written by build_docs.py; each tip through site/_includes/site-recs.html)
+.page-recs {
+  margin-top:2em;
+  padding:12px 16px;
+  border-left:4px solid #267CB9;
+  border-radius:4px;
+  background:#f5f9fc;
+  font-size:0.95em;
 }
 
-.site-rec p,
-.site-rec ul {
+.page-recs-title {
+  font-weight:bold;
+  margin:0 0 8px;
+}
+
+.page-recs-title::before {
+  content:"\1F4A1";
+  margin-right:6px;
+}
+
+.page-recs-for {
+  color:#777;
+  font-size:0.9em;
+  margin:0 0 4px;
+}
+
+.page-recs-group + .page-recs-group {
+  margin-top:12px;
+}
+
+.page-rec p,
+.page-rec ul {
   margin:0 0 6px;
 }
 
-.site-rec ul {
-  padding-left:16px;
-}
-
-.site-rec + .site-rec {
-  margin-top:10px;
+.page-rec ul {
+  padding-left:20px;
 }
 
 // pages still pending curation: a mark after every link to them, a note on the page
@@ -155,6 +175,30 @@ progress {
 
 .sidebar-footer p {
   margin:0 0 8px;
+}
+
+// the footer links: pinned in the sidebar on wide screens, after the content on small ones
+@media print, screen and (min-width: 961px) {
+  .page-footer {
+    display:none;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .sidebar-footer {
+    display:none;
+  }
+
+  .page-footer {
+    border-top:1px solid #e5e5e5;
+    margin-top:2em;
+    padding-top:10px;
+    font-size:0.9em;
+  }
+
+  .page-footer p {
+    margin:0 0 8px;
+  }
 }
 
 @media print, screen and (max-width: 960px) {
