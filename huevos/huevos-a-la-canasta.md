@@ -1,0 +1,38 @@
+---
+slug: huevos-a-la-canasta
+uuid: 06292f12-86d9-42ce-b32a-71f5cc3ab843
+page_title: Huevos a la canasta
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/huevos/huevos-a-la-canasta.md
+title: Huevos a la canasta
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Huevos]({{ site.baseurl }}/huevos/) / Huevos a la canasta
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Huevos a la canasta
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+A una rodaja de pan lactal, sacarle un círculo de miga. Colocarla en la sartén con unas gotas de aceite o manteca, dorarla, darla vuelta y colocar el huevo en el centro. Bajar el fuego, para que se cocine sin arrebatarse, durante aproximadamente 4 minutos. Condimentar con sal y pimienta, o ají molido, etc
+
+Puede agregarse: cebollita de verdeo, queso rallado, trocitos de jamón, panceta, etc.
+
+También se puede utilizar la rodaja de un pimiento morrón y colocar el huevo en el centro. Condimentar y cocinar sobre la sartén.
+
+Poner el huevo sobre el hueco que deja la semilla de la palta, condimentar y cocinar al horno aproximadamente 10 minutos.
+
+
+### Variantes

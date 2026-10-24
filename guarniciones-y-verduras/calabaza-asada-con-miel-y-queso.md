@@ -1,0 +1,38 @@
+---
+slug: calabaza-asada-con-miel-y-queso
+uuid: aa905215-d0ea-4c62-971c-7fa7ddf8dd0f
+page_title: Calabaza asada con miel y queso
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/guarniciones-y-verduras/calabaza-asada-con-miel-y-queso.md
+title: Calabaza asada con miel y queso
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/) / Calabaza asada con miel y queso
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Calabaza asada con miel y queso
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Cortar 600 gr de calabaza en pequeños cubitos, rociarlos con aceite (3 cucharadas) y hornearlos por 20 minutos a 200°C. Retirarlos y espolvorearlos con semillas de sésamo (1 cucharada) y cocinarlos por 10 minutos más.
+
+Preparar una mezcla de 3 cucharadas de miel y 1 de aceto balsámico, salar y aliñar la calabaza. Por último cortar también 60 gr de queso Tybo (o queso Danbo) en pequeños cubitos y unirlos a la preparación.
+
+También puede agregarse nueces y decorar con hojitas de menta o albahaca.
+
+Puede servirse sobre tostadas, o como acompañamiento de diferentes carnes.
+
+
+### Variantes

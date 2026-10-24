@@ -1,0 +1,32 @@
+---
+slug: guacamole-1
+uuid: 17a789b8-a5d5-4031-a4a2-b07f03b96fe0
+page_title: Guacamole 1
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-1.md
+title: Guacamole 1
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Guacamole 1
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Guacamole 1
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+1 palta, 1 tomate, 1 cucharada de cebolla verdeo, jugo de limón, aceite oliva, sal.
+
+
+### Variantes

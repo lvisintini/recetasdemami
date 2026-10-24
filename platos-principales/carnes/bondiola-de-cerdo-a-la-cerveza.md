@@ -1,0 +1,36 @@
+---
+slug: bondiola-de-cerdo-a-la-cerveza
+uuid: 33ed7a4c-1ea3-4c2c-a649-577d8eb2936e
+page_title: Bondiola de cerdo a la cerveza
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/bondiola-de-cerdo-a-la-cerveza.md
+title: Bondiola de cerdo a la cerveza
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Platos principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Bondiola de cerdo a la cerveza
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Bondiola de cerdo a la cerveza
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Sellar la bondiola en aceite, retirar. Freír 1 cebolla grande picada, agregar la bondiola, 2 puerros picados y cocinar en caldo durante 45 minutos aproximadamente. Preparar una salsa con cerveza negra, miel, mostaza, sal y pimienta negra. Agregar esta salsa al final de la cocción, cuando el caldo ya esté reducido. Cocinar 10 minutos más o cuando la carne esté tierna, y servir.
+
+En vez de caldo se puede cocinar directamente con 1 litro de cerveza negra y 2 cucharadas de miel a fuego bajo. Al final agregar 2 cucharadas de mostaza, sal y pimienta negra molida.
+
+Esta es la receta de casancrem, por lo que también lleva 150 gr de casancrem que se incorpora 10 minutos antes de servir. No probé como queda.
+
+
+### Variantes

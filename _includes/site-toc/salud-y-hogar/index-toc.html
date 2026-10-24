@@ -1,0 +1,23 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/cocteles-y-tragos/">Cócteles y tragos</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/entradas-y-aperitivos/">Entradas y aperitivos</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/">Ensaladas</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/sopas-y-cremas/">Sopas y cremas</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/salsas-aderezos-y-condimentos/">Salsas, aderezos y condimentos</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/masas-base/">Masas base</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/huevos/">Huevos</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/platos-principales/">Platos principales</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/guarniciones-y-verduras/">Guarniciones y verduras</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/arroces-legumbres-y-granos/">Arroces, legumbres y granos</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/pastas-y-noquis/">Pastas y ñoquis</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/">Tartas, quiches y preparaciones saladas</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/">Postres</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/salud-y-hogar/" class="current">Salud y hogar</a></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/salud-y-hogar/manchas-dificiles"{% if here == '/salud-y-hogar/manchas-dificiles' %} class="current"{% endif %}>Manchas difíciles</a></li>
+<li><a href="{{ site.baseurl }}/salud-y-hogar/remedios-caseros"{% if here == '/salud-y-hogar/remedios-caseros' %} class="current"{% endif %}>Remedios caseros</a></li>
+</ul>
+</li>
+</ul>

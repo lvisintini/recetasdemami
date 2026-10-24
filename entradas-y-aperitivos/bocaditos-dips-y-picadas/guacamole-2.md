@@ -1,0 +1,40 @@
+---
+slug: guacamole-2
+uuid: 58e7a29d-469e-4c11-b440-854806e8a6c2
+page_title: Guacamole 2
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-2.md
+title: Guacamole 2
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Guacamole 2
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Guacamole 2
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Mezclar:
+
+- 1 Palta
+- 1 Cucharada de cebolla de verdeo
+- Ajo picado
+- Tomate
+- Jugo de limón
+- Aceite de oliva
+- Sal
+
+
+### Variantes

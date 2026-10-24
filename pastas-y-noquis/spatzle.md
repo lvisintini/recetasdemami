@@ -1,0 +1,36 @@
+---
+slug: spatzle
+uuid: ecd9ee0b-5bcd-42f2-a2fd-7536eb836a8f
+page_title: Spätzle (4 personas)
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/pastas-y-noquis/spatzle.md
+title: Spätzle (4 personas)
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Pastas y ñoquis]({{ site.baseurl }}/pastas-y-noquis/) / Spätzle (4 personas)
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Spätzle (4 personas)
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+½ kg de harina, 5 huevos, pizca de sal, y entre 150 y 200 ml de agua, o más agua, de acuerdo a la consistencia deseada.
+
+Una cucharada debe fluir sin interrumpirse.
+
+Ir cortando la masa que va cayendo en el agua hirviendo y cocinándose.
+
+
+### Variantes

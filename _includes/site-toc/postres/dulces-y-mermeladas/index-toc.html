@@ -1,0 +1,21 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/">Postres</a></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/postres/budines-y-otros-horneados/">Budines y otros horneados</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/cremas-flanes-y-mousses/">Cremas, flanes y mousses</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/crepes-y-panqueques-dulces/">Crepes y panqueques dulces</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/" class="current">Dulces y mermeladas</a></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/almibar"{% if here == '/postres/dulces-y-mermeladas/almibar' %} class="current"{% endif %}>Almíbar</a></li>
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche"{% if here == '/postres/dulces-y-mermeladas/dulce-de-leche' %} class="current"{% endif %}>Dulce de leche</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas"{% if here == '/postres/dulces-y-mermeladas/mermelada-de-frutas' %} class="current"{% endif %}>Mermelada de frutas</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+</ul>
+</li>
+<li><strong><a href="{{ site.baseurl }}/postres/galletitas-y-masitas/">Galletitas y masitas</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/tartas-y-postres-de-fruta/">Tartas y postres de fruta</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/postres/tortas-y-bizcochuelos/">Tortas y bizcochuelos</a></strong></li>
+</ul>
+</li>
+</ul>

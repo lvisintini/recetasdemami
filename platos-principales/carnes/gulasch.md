@@ -1,0 +1,38 @@
+---
+slug: gulasch
+uuid: 8bb7e45b-4879-43f1-bfab-89aa17cc7f32
+page_title: Gulasch
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/platos-principales/carnes/gulasch.md
+title: Gulasch
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Platos principales]({{ site.baseurl }}/platos-principales/) / [Carnes]({{ site.baseurl }}/platos-principales/carnes/) / Gulasch
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Gulasch
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+½ litro agua, ½ kg carne, un sobre de condimento para gulasch, 1 caldito de carne, 2 cebollas, 80 gr panceta, harina, sal, ají molido, pimienta.
+
+Freír las cebollas picadas y retirar, sellar la carne cortada en cubitos y previamente pasada por harina, agregar la cebolla.
+
+Diluir el caldito y el polvo gulasch en el agua caliente e ingresarlo a la carne. Agregar la panceta cortada en trocitos, sal, ají molido y pimienta. Cocinar hasta que la carne esté tierna.
+
+Acompañar con papas o arroz hervido.
+
+
+### Variantes

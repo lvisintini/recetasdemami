@@ -1,0 +1,42 @@
+---
+slug: bunuelos-de-papa-y-queso
+uuid: 6f461b45-3c26-4b7e-b358-4be4fea057e9
+page_title: Buñuelos de papa y queso
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/entradas-y-aperitivos/bocaditos-dips-y-picadas/bunuelos-de-papa-y-queso.md
+title: Buñuelos de papa y queso
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/) / [Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/) / Buñuelos de papa y queso
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Buñuelos de papa y queso
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Poner en un bol 3 tazas de harina leudante
+
+En el centro agregar 100 gr de queso fontina rallado, 3 huevos, 2 cucharadas de cebolla rallada, sal, pimienta y el puré de 4 papas.
+
+Mezclar todo y hacer una masa consistente, agregando un poco de leche.
+
+Tomar porciones por cucharadas y freírlos en aceite.
+
+Utilizar dos cucharas humedecidas en agua fría para moldearlas, cada vez que se busca la cucharada de la mezcla. Esto es para que no se desarme la croqueta cuando se la lleva al aceite.
+
+Servir caliente.
+
+
+### Variantes

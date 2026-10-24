@@ -1,0 +1,47 @@
+---
+slug: waffles
+uuid: 6e9ffdad-a201-454c-84a8-240c476c1dbc
+page_title: Waffles
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/budines-y-otros-horneados/waffles.md
+title: Waffles
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Postres]({{ site.baseurl }}/postres/) / [Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/) / Waffles
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Waffles
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+
+- ½ taza harina común
+- ½ taza harina leudante
+- 1 taza azúcar
+- 3 Huevos
+- 50 gr Manteca
+- Leche Cantidad Necesaria
+
+## Otras proporciones
+
+- 1 taza harina común
+- 1 taza harina leudante
+- ½ taza azúcar
+- 2 Huevos 2
+- 100 gr Manteca
+- 1 ½ taza Leche
+
+
+### Variantes

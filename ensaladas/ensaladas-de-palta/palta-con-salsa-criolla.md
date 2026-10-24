@@ -1,0 +1,34 @@
+---
+slug: palta-con-salsa-criolla
+uuid: 089dcde2-dcb2-4740-b906-48556c49e2cf
+page_title: Palta con salsa criolla
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/ensaladas/ensaladas-de-palta/palta-con-salsa-criolla.md
+title: Palta con salsa criolla
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Ensaladas]({{ site.baseurl }}/ensaladas/) / [Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/) / Palta con salsa criolla
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Palta con salsa criolla
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+Ciboulette, pimiento morrón en tiritas, tomates en cubo, perejil, jugo de limón, aceite de oliva, sal marina, pimienta (salsa criolla), rodajas de palta.
+
+Se puede completar con apio, lechuga, espinaca y rúcula (cama).
+
+
+### Variantes
