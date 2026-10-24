@@ -2,28 +2,21 @@
 slug: masitas-de-los-chicos
 uuid: c4a7335c-6fb7-4946-8fa8-b2db3dcbabe4
 page_title: Masitas de los chicos
-curated: false
+curated: true
 ---
 
 {nav}
 
 ## Masitas de los chicos
 
-|**Crédito(s):**| |
-|**Tiempo de Preparación Estimado:**| |
-|**Tiempo de Cocción Estimado:**| |
-|**Raciones:**| |
+|**Crédito(s):**| Monica Visintini |
+|**Tiempo de Preparación Estimado:**| 45' |
+|**Tiempo de Cocción Estimado:**| 8-12' por bandeja |
+|**Raciones:**| 83 masitas de 5 cm de diámetro |
 
-<SUMMARY>
+Mami horneaba estas masitas cuando eramos chicos. El sabor y el aroma estan grabados en nuestros corazones.
 
 ### Ingredientes
-
-- 
-- 
-- 
-
-### Preparación
-
 
 - 3 tazas de harina
 - 2 cucharaditas de polvo royal
@@ -32,7 +25,7 @@ curated: false
 - 100 gr manteca
 - 2 huevos
 
-Para darle el sabor, leer más abajo.
+### Preparación
 
 Mezclar todos los ingredientes secos y luego desarmar con los dedos la manteca.
 
@@ -48,18 +41,15 @@ Se cocina a 190°C por 8 minutos.
 
 Esperar a que estén frías para despegarlas del papel, porque si no se rompen.
 
+### Variantes
+
 Si se quieren más blanditas, poner 2 tazas de harina común y 1 taza de harina leudante.
 
-Salen 83 masitas de 5 cm de diámetro.
+Para darles diferentes sabores: 
 
-## Diferentes sabores:
-
-- **Vainilla:** agregar ½ cucharadita de esencia de vainilla.
+- **Vainilla:** Agregar ½ cucharadita de esencia de vainilla.
 - **Limón:** Añádase la cáscara rallada de 2 limones.
 - **Nueces:** Añádase ¾ de taza de nueces picadas.
 - **Naranja:** Añádase la cáscara de una naranja rallada.
-- **Canela:** agregar 3 cucharadas de canela molida
+- **Canela:** agregar 3 cucharadas de canela molida.
 - **Marmoladas:** ½ de masa con vainilla y ½ masa con chocolate amargo y azúcar.
-
-
-### Variantes
