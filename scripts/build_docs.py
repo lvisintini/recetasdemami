@@ -19,6 +19,10 @@ recursive) and builds a fresh copy into a target directory:
     `custom_edit_url` property injected/overridden with
     edit_base_url + the file's source-relative path -- no template
     placeholder needed, and any pre-existing value is replaced
+  * when --new-base-url is given, every page outside the root directory
+    gets a `new_page_url` (the "Nueva receta aquí" footer link): GitHub's
+    new-file form in the page's directory, prefilled with a recipe
+    template and a uuid made fresh on each build
   * the <SUMMARY> curation placeholder left in the sources is stripped
     from the output
   * a page without `curated: true` in its front matter is pending review:
@@ -56,7 +60,8 @@ Front matter is expected at the top of every .md file, e.g.:
 
 Usage:
     python build_docs.py SOURCE_DIR TARGET_DIR [--nav-sep " / "]
-                         [--edit-base-url URL] [--site-dir DIR]
+                         [--edit-base-url URL] [--new-base-url URL]
+                         [--site-dir DIR]
 """
 
 from __future__ import annotations
@@ -67,7 +72,9 @@ import re
 import shutil
 import sys
 import unicodedata
+import uuid
 from pathlib import Path
+from urllib.parse import quote
 
 import yaml
 
@@ -531,12 +538,48 @@ def compute_edit_url(page: Page, edit_base_url: str) -> str:
 
 
 # --------------------------------------------------------------------------
+# new_page_url -- "Nueva receta aquí" front-matter property
+#
+# GitHub's new-file form (new_base_url, e.g. .../new/main/docs) in the page's
+# directory, prefilled with a recipe template carrying a fresh uuid. The uuid
+# is fixed per build, so each link is good for one new page until the next
+# publish. Root pages get none: a recipe belongs in a section.
+# --------------------------------------------------------------------------
+
+NEW_PAGE_TITLE = "Título de la receta"
+
+
+def new_page_template(page_uuid: str) -> str:
+    return (f"---\nslug: {expected_slug(NEW_PAGE_TITLE)}\nuuid: {page_uuid}\n"
+            f"page_title: {NEW_PAGE_TITLE}\ncurated: false\n---\n\n"
+            f"{{nav}}\n\n## {NEW_PAGE_TITLE}\n\n"
+            "|**Crédito(s):**| |\n"
+            "|**Tiempo de Preparación Estimado:**| |\n"
+            "|**Tiempo de Cocción Estimado:**| |\n"
+            "|**Raciones:**| |\n\n"
+            "<SUMMARY>\n\n"
+            "### Ingredientes\n\n- \n\n"
+            "### Preparación\n\n1. \n\n"
+            "### Variantes\n")
+
+
+def compute_new_url(page: Page, new_base_url: str) -> str | None:
+    dir_path = page.rel_path.parent.as_posix()
+    if dir_path == ".":
+        return None
+    filename = expected_slug(NEW_PAGE_TITLE) + ".md"
+    template = quote(new_page_template(str(uuid.uuid4())), safe="")
+    return (f"{new_base_url.rstrip('/')}/{dir_path}"
+            f"?filename={filename}&value={template}")
+
+
+# --------------------------------------------------------------------------
 # Pass 2 (recursive, depth-first): render + copy into target
 # --------------------------------------------------------------------------
 
 def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
                  uuid_map: dict, warnings: list, nav_sep: str,
-                 edit_base_url: str | None) -> bool:
+                 edit_base_url: str | None, new_base_url: str | None = None) -> bool:
     """Render one page; return True if it is still pending curation."""
     text = page.src_path.read_text(encoding="utf-8")
     raw_fm, fm_dict, body = split_frontmatter(text)
@@ -562,6 +605,15 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
     if edit_base_url:
         # override in place (or append) -- computed value always wins
         fm_dict["custom_edit_url"] = compute_edit_url(page, edit_base_url)
+    elif "custom_edit_url" not in fm_dict:
+        warnings.append(
+            f"no --edit-base-url set and {page.rel_path} has no custom_edit_url "
+            f"of its own; front matter left unchanged"
+        )
+    new_url = compute_new_url(page, new_base_url) if new_base_url else None
+    if new_url:
+        fm_dict["new_page_url"] = new_url
+    if edit_base_url or new_base_url:
         # the theme's <title> (jekyll-seo-tag) reads `title`, not `page_title`
         if "title" not in fm_dict and "page_title" in fm_dict:
             fm_dict["title"] = fm_dict["page_title"]
@@ -569,11 +621,6 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
             fm_dict, sort_keys=False, default_flow_style=False, allow_unicode=True
         )
         raw_fm = f"---\n{new_yaml}---\n"
-    elif "custom_edit_url" not in fm_dict:
-        warnings.append(
-            f"no --edit-base-url set and {page.rel_path} has no custom_edit_url "
-            f"of its own; front matter left unchanged"
-        )
 
     out_path = target_root / page.rel_path
     out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -582,7 +629,8 @@ def render_page(page: Page, dir_node: Dir, is_index: bool, target_root: Path,
 
 
 def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
-                warnings: list, nav_sep: str, edit_base_url: str | None) -> int:
+                warnings: list, nav_sep: str, edit_base_url: str | None,
+                new_base_url: str | None = None) -> int:
     """Render a directory tree; return how many pages are pending curation."""
     out_dir = target_root / dir_node.rel_path
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -590,10 +638,10 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
     pending = 0
     if dir_node.index_page:
         pending += render_page(dir_node.index_page, dir_node, True, target_root,
-                               uuid_map, warnings, nav_sep, edit_base_url)
+                               uuid_map, warnings, nav_sep, edit_base_url, new_base_url)
     for page in dir_node.pages:
         pending += render_page(page, dir_node, False, target_root, uuid_map,
-                               warnings, nav_sep, edit_base_url)
+                               warnings, nav_sep, edit_base_url, new_base_url)
 
     # copy non-markdown files (images, etc.) through unchanged
     for entry in dir_node.src_path.iterdir():
@@ -602,7 +650,7 @@ def render_dir(dir_node: Dir, target_root: Path, uuid_map: dict,
 
     for sub in dir_node.subdirs:
         pending += render_dir(sub, target_root, uuid_map, warnings, nav_sep,
-                              edit_base_url)  # <-- recursion
+                              edit_base_url, new_base_url)  # <-- recursion
     return pending
 
 
@@ -807,7 +855,8 @@ def check_target(protected: Path, target_root: Path) -> None:
 # --------------------------------------------------------------------------
 
 def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
-               edit_base_url: str | None = None, site_dir: str | None = None):
+               edit_base_url: str | None = None, site_dir: str | None = None,
+               new_base_url: str | None = None):
     source_root = Path(source_dir).resolve()
     target_root = Path(target_dir).resolve()
     site_root = Path(site_dir).resolve() if site_dir else None
@@ -833,7 +882,8 @@ def build_docs(source_dir: str, target_dir: str, nav_sep: str = " / ",
         shutil.rmtree(target_root)
     target_root.mkdir(parents=True, exist_ok=True)
 
-    pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url)
+    pending = render_dir(tree, target_root, uuid_map, warnings, nav_sep, edit_base_url,
+                         new_base_url)
     write_recs(recs, target_root, uuid_map, warnings)
     write_sidebar(tree, target_root)
     write_page_recs(tree, target_root)
@@ -872,6 +922,15 @@ def main():
         ),
     )
     parser.add_argument(
+        "--new-base-url", default=None,
+        help=(
+            "Base URL of GitHub's new-file form, e.g. "
+            "'https://github.com/org/repo/new/main/docs'; every page outside the "
+            "root gets a new_page_url front-matter property opening it in the "
+            "page's directory, prefilled with a recipe template and a fresh uuid."
+        ),
+    )
+    parser.add_argument(
         "--site-dir", default=None,
         help=(
             "Directory of Jekyll site files (_config.yml, _layouts/, ...) copied "
@@ -880,7 +939,7 @@ def main():
     )
     args = parser.parse_args()
     build_docs(args.source, args.target, args.nav_sep, args.edit_base_url,
-               args.site_dir)
+               args.site_dir, args.new_base_url)
 
 
 if __name__ == "__main__":

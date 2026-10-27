@@ -1,15 +1,18 @@
 """Tests locking in the behaviors settled for build_docs.py."""
 import sys
 from pathlib import Path
+from urllib.parse import unquote
 
 import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
-from build_docs import build_docs, expected_slug  # noqa: E402
+from build_docs import (build_docs, expected_slug, new_page_template,  # noqa: E402
+                         split_frontmatter)
 
 INSTALL_UUID = "14179fca-0bc7-4181-ba7d-7cdb16fd296c"
 CONFIG_UUID = "00000000-0000-0000-0000-000000000004"
 EDIT_BASE = "https://github.com/org/repo/edit/main/docs"
+NEW_BASE = "https://github.com/org/repo/new/main/docs"
 
 
 def write(root: Path, rel: str, text: str) -> None:
@@ -152,6 +155,47 @@ def test_front_matter_untouched_without_edit_base_url(src, tmp_path):
     assert "custom_edit_url: https://example.com/stale" in read(out, "getting-started/config.md")
     assert "custom_edit_url" not in read(out, "getting-started/installation.md")
     assert "\ntitle:" not in read(out, "getting-started/installation.md")
+
+
+def test_new_page_template_is_a_pending_recipe():
+    _, fm, body = split_frontmatter(new_page_template(INSTALL_UUID))
+    assert fm["uuid"] == INSTALL_UUID and fm["curated"] is False
+    assert fm["slug"] == expected_slug(fm["page_title"])
+    assert body.startswith("\n{nav}\n\n## " + fm["page_title"])
+    for part in ("<SUMMARY>", "### Ingredientes", "### Preparación", "### Variantes"):
+        assert part in body
+
+
+def test_new_page_template_builds_cleanly(tmp_path):
+    s = tmp_path / "src"
+    write(s, "index.md", page("index", "00000000-0000-0000-0000-000000000001", "Home",
+                              "{nav}\n\n{toc}"))
+    write(s, "sec/index.md", page("index", "00000000-0000-0000-0000-000000000002", "Sec",
+                                  "{nav}\n\n{toc}"))
+    write(s, "sec/titulo-de-la-receta.md", new_page_template(INSTALL_UUID))
+    _, _, warnings = build_docs(str(s), str(tmp_path / "out"), edit_base_url=EDIT_BASE)
+    assert warnings == ["1 page(s) not curated yet (curated: true missing)"]
+
+
+def test_new_page_url_opens_template_in_the_page_directory(src, tmp_path):
+    out = tmp_path / "out"
+    build_docs(str(src), str(out), edit_base_url=EDIT_BASE, new_base_url=NEW_BASE)
+    prefix = f"{NEW_BASE}/getting-started?filename=titulo-de-la-receta.md&value="
+    urls = []
+    for rel in ("getting-started/index.md", "getting-started/installation.md"):
+        _, fm, _ = split_frontmatter(read(out, rel))
+        assert fm["new_page_url"].startswith(prefix)
+        template = unquote(fm["new_page_url"][len(prefix):])
+        new_uuid = split_frontmatter(template)[1]["uuid"]
+        assert template == new_page_template(new_uuid)
+        urls.append(new_uuid)
+    assert urls[0] != urls[1]
+    assert "new_page_url" not in read(out, "index.md")
+
+
+def test_no_new_page_url_without_new_base_url(built):
+    out, _ = built
+    assert "new_page_url" not in read(out, "getting-started/installation.md")
 
 
 def test_non_markdown_files_copied(built):

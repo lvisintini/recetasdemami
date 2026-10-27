@@ -57,7 +57,8 @@ jobs:
             "build_output" \
             --nav-sep "${{ env.NAV_SEPARATOR }}" \
             --site-dir "source/${{ env.SITE_DIR }}" \
-            --edit-base-url "https://github.com/${{ github.repository }}/edit/${{ github.ref_name }}/${{ env.SOURCE_DIR }}"
+            --edit-base-url "https://github.com/${{ github.repository }}/edit/${{ github.ref_name }}/${{ env.SOURCE_DIR }}" \
+            --new-base-url "https://github.com/${{ github.repository }}/new/${{ github.ref_name }}/${{ env.SOURCE_DIR }}"
 
       - name: Publish to target branch
         uses: peaceiris/actions-gh-pages@v4

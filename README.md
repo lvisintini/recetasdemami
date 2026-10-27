@@ -1,14 +1,17 @@
 # docs-builder
 
 Builds a Jekyll/GitHub Pages docs site from markdown templates: breadcrumb nav, hierarchical
-table of contents, uuid cross-references, and per-page `custom_edit_url`.
+table of contents, uuid cross-references, per-page `custom_edit_url`, and a
+"Nueva receta aquí" link that opens GitHub's new-file form prefilled with a recipe template.
 
 See `CLAUDE.md` for conventions and design decisions.
 
 ```bash
 pip install -r requirements-dev.txt
 python -m pytest tests -q
-python scripts/build_docs.py docs build_output --site-dir site --edit-base-url "https://github.com/<owner>/<repo>/edit/main/docs"
+python scripts/build_docs.py docs build_output --site-dir site \
+  --edit-base-url "https://github.com/<owner>/<repo>/edit/main/docs" \
+  --new-base-url "https://github.com/<owner>/<repo>/new/main/docs"
 ```
 
 ## Setup

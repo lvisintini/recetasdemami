@@ -13,7 +13,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   system Python has no ensurepip)
 - Test: `python -m pytest tests -q`
 - Build locally:
-  `python scripts/build_docs.py docs build_output --site-dir site --edit-base-url "https://github.com/<owner>/<repo>/edit/main/docs"`
+  `python scripts/build_docs.py docs build_output --site-dir site --edit-base-url "https://github.com/<owner>/<repo>/edit/main/docs" --new-base-url "https://github.com/<owner>/<repo>/new/main/docs"`
 - CI: `.github/workflows/build-and-publish-docs.yml` (tests, build, publish to `gh-pages`
   with `force_orphan: true`). Pages must be set to serve from the publish branch.
 
@@ -73,7 +73,7 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   - `index-toc.html` (the directory's index page): the parent's list with this directory
     marked current and its own direct children listed right under it. The root has no
     parent, so it gets its own list.
-- **Footer links** (project, Curación, Improve this page, credits) live in
+- **Footer links** (project, Curación, Improve this page, Nueva receta aquí, credits) live in
   `site/_includes/site-footer.html`, included twice by the layout: `.sidebar-footer` after the
   `<details>` (pinned at the sidebar's bottom, hidden at <=960px) and `.page-footer` after the
   content (shown only at <=960px). Never inside the Índice menu.
@@ -92,7 +92,14 @@ directory, then overlays the Jekyll site files from `site/` (`_config.yml`,
   page's front matter as `edit_base_url + source-relative path`, overriding any existing
   value. Templates never contain it. The same step sets `title` from `page_title` (unless
   `title` exists) because the theme's `<title>` reads `title`. Front matter is only re-serialized (PyYAML, key
-  order kept, comments lost) when the flag is set; otherwise it passes through untouched.
+  order kept, comments lost) when this flag or `--new-base-url` is set; otherwise it passes through untouched.
+- **`new_page_url`** ("Nueva receta aquí"): when `--new-base-url` is given (GitHub's
+  `.../new/<branch>/docs`), injected like `custom_edit_url` into every page outside the root
+  directory: the new-file form in the page's own directory, `?filename=titulo-de-la-receta.md`
+  and `&value=` the recipe template (`new_page_template`: front matter with a uuid4 made fresh
+  on each build and `curated: false`, `{nav}`, title, data table, `<SUMMARY>`, Ingredientes,
+  Preparación, Variantes). New recipes are created this way in the GitHub web editor. A uuid
+  is good for one page until the next publish (reuse shows as a duplicate-uuid warning).
 - **Warnings, not failures**: missing/duplicate uuid, missing index.md, unresolved uuid
   references (left untouched in output), non-index page with `slug: index`.
 - **Target is wiped and rebuilt every run.** Non-markdown files are copied unchanged.
