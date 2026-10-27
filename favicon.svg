@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- closed recipe book: cover, darker spine, page edges, title lines -->
+  <rect x="5" y="2" width="23" height="28" rx="2.5" fill="#b5482b"/>
+  <rect x="5" y="2" width="5" height="28" rx="2" fill="#8a3420"/>
+  <rect x="10" y="25" width="16" height="3" rx="1" fill="#f4e9d8"/>
+  <rect x="13" y="8" width="11" height="2.5" rx="1.25" fill="#f4e9d8"/>
+  <rect x="13" y="13" width="8" height="2.5" rx="1.25" fill="#f4e9d8"/>
+</svg>

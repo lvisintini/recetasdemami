@@ -1,0 +1,10 @@
+{%- comment -%}
+  The tips named in include.names (comma-separated), each from
+  _includes/recomendaciones/<name>.md (written by build_docs.py, each ending in exactly
+  one newline), joined and rendered as one markdown block so consecutive list items
+  form a single list. Included by the generated _includes/page-recs/<dir>/recs.html,
+  once per group.
+{%- endcomment -%}
+{%- assign names = include.names | split: "," -%}
+{%- capture recs %}{% for name in names %}{% include recomendaciones/{{ name }}.md %}{% endfor %}{% endcapture %}
+<div class="page-rec">{{ recs | markdownify }}</div>

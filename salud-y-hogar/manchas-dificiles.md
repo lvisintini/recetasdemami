@@ -1,0 +1,110 @@
+---
+slug: manchas-dificiles
+uuid: c075d4c7-94af-4ce8-955d-386296a343a2
+page_title: Manchas difíciles
+curated: true
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salud-y-hogar/manchas-dificiles.md
+new_page_url: https://github.com/lvisintini/recetasdemami/new/main/docs/salud-y-hogar?filename=titulo-de-la-receta.md&value=---%0Aslug%3A%20titulo-de-la-receta%0Auuid%3A%20a1818ab9-bab8-4c00-bb8c-adb93f7bd5c2%0Apage_title%3A%20T%C3%ADtulo%20de%20la%20receta%0Acurated%3A%20false%0A---%0A%0A%7Bnav%7D%0A%0A%23%23%20T%C3%ADtulo%20de%20la%20receta%0A%0A%7C%2A%2ACr%C3%A9dito%28s%29%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Preparaci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Cocci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ARaciones%3A%2A%2A%7C%20%7C%0A%0A%3CSUMMARY%3E%0A%0A%23%23%23%20Ingredientes%0A%0A-%20%0A%0A%23%23%23%20Preparaci%C3%B3n%0A%0A1.%20%0A%0A%23%23%23%20Variantes%0A
+title: Manchas difíciles
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Salud y hogar]({{ site.baseurl }}/salud-y-hogar/) / Manchas difíciles
+
+## Manchas difíciles
+
+### Recomendaciones generales
+
+Colocar la parte de la prenda manchada sobre un plato hondo o fuente, de tal manera que al sacar la mancha no manche el resto de la prenda y el líquido utilizado quede en la parte inferior del plato.
+
+Generalmente, todas las manchas salen si se las limpian antes de que sequen o las absorba el tejido.
+
+Si no se puede hacer en el momento, por lo menos echarle sal o fécula de maíz o talco, para que absorba los líquidos.
+
+### Té o café
+Echarle agua caliente, y si no sale, frotarla con agua oxigenada (con esponja), dejarla blanquear al sol y enjuagar.
+
+No usar jabón desde un principio pues puede fijar la mancha.
+
+### Chocolate
+Lavar la zona con agua caliente y detergente.
+
+Si no se afloja todo, frotar con agua oxigenada.
+
+### Leche, crema o helado
+Lavar primero con agua fría para sacar la proteína.
+
+Luego, si es helado de frutas o chocolate, tratarla como tales.
+
+### Huevos o jugo de carne
+Raspar con un cuchillo para sacar lo grueso y lavar con agua fría antes del lavado ordinario.
+
+### Frutas o jugos de fruta
+Colocar sobre la prenda algo que absorba los líquidos.
+
+Cepillar.
+
+Frotar con sal y jugo de limón.
+
+Y por último, lavar con espuma jabonosa caliente.
+
+### Aceite
+Disolver 1 cucharada de detergente suave con 2 de agua caliente. Frotar.
+
+Si queda marca, frotar con agua oxigenada y poner al sol.
+
+### Pasto
+Frotar con agua oxigenada o alcohol.
+
+### Grasosas o pegajosas
+Utilizar nafta blanca o bencina.
+
+### Chamuscado de plancha
+Frotar con jugo de limón y poner al sol.
+
+### Tinta
+Cubrir la mancha con sal y unas gotas de leche.
+
+Dejar varias horas, enjuagar y repetir la operación hasta que la mancha salga.
+
+### Yodo
+Lavar con espuma caliente y poner al sol.
+
+### Lápiz labial
+No debe usarse jabón al principio pues la fija.
+
+Frotar con alcohol o bencina (en el caso de prendas de color o lana)
+
+### Sangre
+Primero agua fría y después frotar con esponja humedecida con agua oxigenada.
+
+Repetir hasta que desaparezca.
+
+### Barniz
+Frotar con acetona o removedor de barniz.
+
+Lavar con agua caliente y si persiste exponer al sol.
+
+Si la mancha está en tela de rayón, debe tratarse con bencina y luego extracto de banana.
+
+### Pintura
+Para manchas recientes, raspar con cuchillo lo grueso y lavar con espuma caliente.
+
+Si es vieja, ablandar con glicerina o aceite y frotar luego con trementina.
+
+### Moho
+Lavar con agua y jabón blanco en caliente.
+
+Humedecer con jugo de limón y sal.
+
+Luego exponer al sol.
+
+Si es vieja, blanquear con una solución de 1 parte de agua oxigenada al 3% y 20 partes de agua.
+
+Enjuagar bien.
+
+### Cera de velas
+Sacar el exceso de cera.
+
+Poner la parte manchada sobre papel secante y pasarle la plancha caliente.
+
+Frotar con esponja humedecida con producto no inflamable para limpiar en seco.

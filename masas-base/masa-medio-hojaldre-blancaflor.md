@@ -1,0 +1,41 @@
+---
+slug: masa-medio-hojaldre-blancaflor
+uuid: cc16d521-9327-4b87-8b93-0a6dd74c4db3
+page_title: Masa medio hojaldre Blancaflor
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/masas-base/masa-medio-hojaldre-blancaflor.md
+new_page_url: https://github.com/lvisintini/recetasdemami/new/main/docs/masas-base?filename=titulo-de-la-receta.md&value=---%0Aslug%3A%20titulo-de-la-receta%0Auuid%3A%2048ea663a-d7fc-499c-b8d0-90deb71e93d5%0Apage_title%3A%20T%C3%ADtulo%20de%20la%20receta%0Acurated%3A%20false%0A---%0A%0A%7Bnav%7D%0A%0A%23%23%20T%C3%ADtulo%20de%20la%20receta%0A%0A%7C%2A%2ACr%C3%A9dito%28s%29%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Preparaci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Cocci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ARaciones%3A%2A%2A%7C%20%7C%0A%0A%3CSUMMARY%3E%0A%0A%23%23%23%20Ingredientes%0A%0A-%20%0A%0A%23%23%23%20Preparaci%C3%B3n%0A%0A1.%20%0A%0A%23%23%23%20Variantes%0A
+title: Masa medio hojaldre Blancaflor
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Masas base]({{ site.baseurl }}/masas-base/) / Masa medio hojaldre Blancaflor
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Masa medio hojaldre Blancaflor
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+2 ½ taza de harina Blancaflor (300 gr), 200 gr manteca y ½ taza agua fría (125 cm3)
+
+Cortar la manteca en cubitos de 1 ½ cm de lado sin deshacerlos, mezclarlos con la harina. Agregar el agua fría (mejor helada), revolviendo con un cuchillo. Volcar esa masa espesa sobre el mármol enharinado y estirarla hasta que quede fina. Espolvorear con harina y doblar en 3 partes y estirar nuevamente la masa. Repetir esto 3 veces más. Al estirarla por última vez, darle la forma deseada.
+
+Si no se usa en seguida, ponerla en la heladera.
+
+Los elementos que se usen deben estar fríos, tocar la masa lo menos posible. Cocinar en horno bien caliente (200°C a 240°C), los moldes en donde se hornea esta masa no se enmantecan, se humedecen con agua fría.
+
+Con esta masa se pueden hacer palmeritas, rellenar con frutas, hacer cañoncitos (enroscando tiras de masa en cilindros), pascualina, vol-au-vent, torta 1000 hojas (pinchar cada disco de masa antes de cocinar) con dulce de leche
+
+
+### Variantes

@@ -1,0 +1,12 @@
+title: Las Recetas de Mami
+description: Una forma conveniente de ver a las recetas de Mami
+baseurl: "/recetasdemami"
+theme: jekyll-theme-minimal
+lang: es
+
+# Every generated page uses _layouts/default.html (the theme's layout plus the sidebar index).
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

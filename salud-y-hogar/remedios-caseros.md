@@ -1,0 +1,78 @@
+---
+slug: remedios-caseros
+uuid: 1b7f84d1-6943-4ecf-a15a-a8247edccc32
+page_title: Remedios caseros
+curated: true
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/salud-y-hogar/remedios-caseros.md
+new_page_url: https://github.com/lvisintini/recetasdemami/new/main/docs/salud-y-hogar?filename=titulo-de-la-receta.md&value=---%0Aslug%3A%20titulo-de-la-receta%0Auuid%3A%20547528c4-cd64-4eb8-a321-42d98d47da77%0Apage_title%3A%20T%C3%ADtulo%20de%20la%20receta%0Acurated%3A%20false%0A---%0A%0A%7Bnav%7D%0A%0A%23%23%20T%C3%ADtulo%20de%20la%20receta%0A%0A%7C%2A%2ACr%C3%A9dito%28s%29%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Preparaci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Cocci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ARaciones%3A%2A%2A%7C%20%7C%0A%0A%3CSUMMARY%3E%0A%0A%23%23%23%20Ingredientes%0A%0A-%20%0A%0A%23%23%23%20Preparaci%C3%B3n%0A%0A1.%20%0A%0A%23%23%23%20Variantes%0A
+title: Remedios caseros
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Salud y hogar]({{ site.baseurl }}/salud-y-hogar/) / Remedios caseros
+
+## Remedios caseros
+
+### Dolores y molestias
+
+Las hojas de uña de gato (harpagofito) alivian el dolor de las articulaciones, reumatismo y artritis.
+No se recomienda para mujeres embarazadas pues estimulan el útero.
+
+### Resfriados
+
+Una sopa:
+
+- 2 tazas de agua
+- 1 cucharadita de comino
+- 1 cucharadita de pimienta negra molida
+- 3 tomates frescos pasados por agua caliente y pelados
+- 1 pizca de sal
+- 1 pizca de semillas de mostaza
+- 1 pizca de curry
+- 1 cucharadita de aceite de oliva.
+
+Se pone todo a cocer a fuego lento por 5 minutos.
+
+El ajo ayuda a combatir infecciones virales y bacterianas de las vías respiratorias. Es más eficaz si se come crudo, agregar a la sopa al final, muy poco pues puede producir trastornos gastrointestinales.
+
+### Estreñimiento
+Un puré hecho con tres tallos de ruibarbo chino, 1 taza de jugo de manzana, 4 tazas de agua, ¼ de limón sin cáscara y 1 cucharada de miel.
+
+Hervir a fuego lento durante 20 minutos.
+
+Es un laxante natural.
+
+Otros laxantes naturales:
+
+- Ciruelas secas o frescas
+- Remolacha
+- Palta
+- Cereales
+- Yogurt
+- Lino quebrado
+
+### Cortaduras
+Aplicar miel pura, es antibacteriana porque absorbe el agua que los gérmenes necesitan para multiplicarse.
+
+Luego de aplicar la miel, cubrirla con gasa.
+
+### Indigestión
+Una infusión con una cucharadita de jengibre seco y pulverizada o fresca.
+
+También se puede añadir a los alimentos.
+
+Las infusiones de hinojo favorecen la digestión, previenen los cólicos y estimulan la producción de leche materna.
+
+### Garganta irritada
+Ingredientes:
+
+- 2 ½ tazas de agua
+- 2 cucharaditas de salvia fresca o seca
+
+Hervir a fuego lento por 20 minutos, colar y beber o hacer gárgaras con esta infusión.
+
+No usar durante el período de embarazo.
+
+Emplear con precaución.
+
+### Colitis
+Comer manzana, té negro, queso, arroz y membrillo. 

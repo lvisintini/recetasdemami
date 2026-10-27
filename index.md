@@ -1,0 +1,422 @@
+---
+slug: index
+uuid: 19fcc2fb-3280-41c0-b45f-1bac788eb1d9
+page_title: Las Recetas de Mami
+curated: true
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/index.md
+title: Las Recetas de Mami
+---
+Las Recetas de Mami
+
+## Las Recetas de Mami
+
+- **[Cócteles y tragos]({{ site.baseurl }}/cocteles-y-tragos/)**
+  - [Bacardi ananá]({{ site.baseurl }}/cocteles-y-tragos/bacardi-anana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi banana]({{ site.baseurl }}/cocteles-y-tragos/bacardi-banana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi cola]({{ site.baseurl }}/cocteles-y-tragos/bacardi-cola)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi durazno]({{ site.baseurl }}/cocteles-y-tragos/bacardi-durazno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi frutilla]({{ site.baseurl }}/cocteles-y-tragos/bacardi-frutilla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi lima limón]({{ site.baseurl }}/cocteles-y-tragos/bacardi-lima-limon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bacardi limón]({{ site.baseurl }}/cocteles-y-tragos/bacardi-limon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bloody Mary]({{ site.baseurl }}/cocteles-y-tragos/bloody-mary)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Caipirinha]({{ site.baseurl }}/cocteles-y-tragos/caipirinha)
+  - [Caipiroska]({{ site.baseurl }}/cocteles-y-tragos/caipiroska)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Coup de Milieu, Tutti Frutti]({{ site.baseurl }}/cocteles-y-tragos/coup-de-milieu-tutti-frutti)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Crema de whisky]({{ site.baseurl }}/cocteles-y-tragos/crema-de-whisky)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Cuba libre]({{ site.baseurl }}/cocteles-y-tragos/cuba-libre)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Daiquiri]({{ site.baseurl }}/cocteles-y-tragos/daiquiri)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Daiquiri de frutilla]({{ site.baseurl }}/cocteles-y-tragos/daiquiri-de-frutilla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Daiquiri de frutilla 6 and 6]({{ site.baseurl }}/cocteles-y-tragos/daiquiri-de-frutilla-6-and-6)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Egg sour]({{ site.baseurl }}/cocteles-y-tragos/egg-sour)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Grog de miel]({{ site.baseurl }}/cocteles-y-tragos/grog-de-miel)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Limonada completa]({{ site.baseurl }}/cocteles-y-tragos/limonada-completa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Maracubahaca]({{ site.baseurl }}/cocteles-y-tragos/maracubahaca)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Margarita]({{ site.baseurl }}/cocteles-y-tragos/margarita)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Marquise al vino blanco]({{ site.baseurl }}/cocteles-y-tragos/marquise-al-vino-blanco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Martini seco]({{ site.baseurl }}/cocteles-y-tragos/martini-seco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Michelada]({{ site.baseurl }}/cocteles-y-tragos/michelada)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Mojito]({{ site.baseurl }}/cocteles-y-tragos/mojito)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Negroni]({{ site.baseurl }}/cocteles-y-tragos/negroni)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Old fashioned]({{ site.baseurl }}/cocteles-y-tragos/old-fashioned)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Piña colada]({{ site.baseurl }}/cocteles-y-tragos/pina-colada)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Pisco sour]({{ site.baseurl }}/cocteles-y-tragos/pisco-sour)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Ponche Manolete para muchos]({{ site.baseurl }}/cocteles-y-tragos/ponche-manolete-para-muchos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Ron-naranja]({{ site.baseurl }}/cocteles-y-tragos/ron-naranja)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Entradas y aperitivos]({{ site.baseurl }}/entradas-y-aperitivos/)**
+  - **[Bocaditos, dips y picadas]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/)**
+    - [Aceitunas en la picada]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/aceitunas-en-la-picada)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Aros de cebolla]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/aros-de-cebolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bagna cauda]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bagna-cauda)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bocadito alemán]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bocadito-aleman)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bocaditos de queso]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bocaditos-de-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bocaditos de quinoa]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bocaditos-de-quinoa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bomba de papa y queso]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bomba-de-papa-y-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Buñuelos de papa y queso]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/bunuelos-de-papa-y-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Canastitas redondas o cubitos con 4 picos]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/canastitas-redondas-o-cubitos-con-4-picos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Champiñones en escabeche de María Rosa]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/champinones-en-escabeche-de-maria-rosa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Chipá de Emilia]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/chipa-de-emilia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Chips para dips]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/chips-para-dips)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Croquetas de arroz]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/croquetas-de-arroz)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Croquetas de espinaca]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/croquetas-de-espinaca)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de albahaca]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-albahaca)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de almendras]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-almendras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de almendras y curry]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-almendras-y-curry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de atún]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-atun)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de perejil]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-perejil)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Dip de roquefort]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/dip-de-roquefort)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Doraditos de cebolla o Brownie de cebolla]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/doraditos-de-cebolla-o-brownie-de-cebolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Guacamole 1]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Guacamole 2]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Hojaldre con cebolla (no probado)]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/hojaldre-con-cebolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Paleta de pintor 1]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/paleta-de-pintor-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Paleta de pintor 2]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/paleta-de-pintor-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Sorpresa agridulce ananá y lomito]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/sorpresa-agridulce-anana-y-lomito)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Toast Hawaii]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/toast-hawaii)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Bruschettas y tostadas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/)**
+    - [Bruschettas 1]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 2]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 3]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-3)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 4]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-4)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 5]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-5)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 6]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-6)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas 7]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-7)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bruschettas para muchas personas]({{ site.baseurl }}/entradas-y-aperitivos/bruschettas-y-tostadas/bruschettas-para-muchas-personas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Ensaladas]({{ site.baseurl }}/ensaladas/)**
+  - **[Ensaladas clásicas]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/)**
+    - [Caprese]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/caprese)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [César]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/cesar)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Ensalada tricolor]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/ensalada-tricolor)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Griega]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/griega)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Griega completa]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/griega-completa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Niçoise]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/nicoise)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Waldorf]({{ site.baseurl }}/ensaladas/ensaladas-clasicas/waldorf)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Ensaladas con fruta]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/)**
+    - [Coliflor y naranjas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/coliflor-y-naranjas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Espinaca y frutillas]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/espinaca-y-frutillas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Melón]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/melon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Naranja 1]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Naranja 2]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Naranja 3]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/naranja-3)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Palmitos]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/palmitos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tatu]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tatu)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tomates, frutillas y queso (para 10 personas)]({{ site.baseurl }}/ensaladas/ensaladas-con-fruta/tomates-frutillas-y-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Ensaladas con mayonesa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/)**
+    - [Alcira]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/alcira)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Anchoas]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/anchoas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Arroz blanco]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/arroz-blanco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Arroz completa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/arroz-completa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Batata]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/batata)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Brócoli]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/brocoli)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Choclo]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/choclo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Ensalada de chauchas]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/ensalada-de-chauchas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Hueso perdido]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/hueso-perdido)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Imperial]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/imperial)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Indiana]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/indiana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Lentejas]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/lentejas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/pollo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo agridulce]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/pollo-agridulce)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo al curry]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/pollo-al-curry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Repollo]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/repollo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Rusa]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/rusa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Zanahoria]({{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/zanahoria)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Ensaladas de hojas verdes]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/)**
+    - [Agridulce]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/agridulce)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Californiana]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/californiana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crimbury]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/crimbury)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Espinaca Vir]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/espinaca-vir)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Espinaca y cherry]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/espinaca-y-cherry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Lechuga mantecosa]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/lechuga-mantecosa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Marroki]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/marroki)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Mollejas y hongos]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/mollejas-y-hongos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Rúcula 1]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/rucula-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Rúcula 2]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/rucula-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Verde]({{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/verde)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Ensaladas de palta]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/)**
+    - [Palta agridulce 1]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Palta agridulce 2]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-agridulce-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Palta completa]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-completa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Palta con salsa criolla]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-con-salsa-criolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Palta y mortadela]({{ site.baseurl }}/ensaladas/ensaladas-de-palta/palta-y-mortadela)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Ensaladas de remolacha]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/)**
+    - [Remolacha al estilo Vir]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolacha-al-estilo-vir)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Remolachas 1]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Remolachas 2]({{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Sopas y cremas]({{ site.baseurl }}/sopas-y-cremas/)**
+  - [Corn Chowder]({{ site.baseurl }}/sopas-y-cremas/corn-chowder)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Crema de ajo]({{ site.baseurl }}/sopas-y-cremas/crema-de-ajo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Crema de choclos]({{ site.baseurl }}/sopas-y-cremas/crema-de-choclos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Guarniciones para sopas]({{ site.baseurl }}/sopas-y-cremas/guarniciones-para-sopas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Minestrone]({{ site.baseurl }}/sopas-y-cremas/minestrone)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Sopa crema de brócoli con zanahoria]({{ site.baseurl }}/sopas-y-cremas/sopa-crema-de-brocoli-con-zanahoria)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Sopa crema de calabaza]({{ site.baseurl }}/sopas-y-cremas/sopa-crema-de-calabaza)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Sopa crema de tomate]({{ site.baseurl }}/sopas-y-cremas/sopa-crema-de-tomate)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Sopa de panceta y queso]({{ site.baseurl }}/sopas-y-cremas/sopa-de-panceta-y-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Sopa de puerros de Sarah Effertz]({{ site.baseurl }}/sopas-y-cremas/sopa-de-puerros-de-sarah-effertz)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Salsas, aderezos y condimentos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/)**
+  - [Aderezo agridulce]({{ site.baseurl }}/salsas-aderezos-y-condimentos/aderezo-agridulce)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Aderezo de albahaca]({{ site.baseurl }}/salsas-aderezos-y-condimentos/aderezo-de-albahaca)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Aderezo de soja]({{ site.baseurl }}/salsas-aderezos-y-condimentos/aderezo-de-soja)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Aderezo para ensaladas hermana Bernarda]({{ site.baseurl }}/salsas-aderezos-y-condimentos/aderezo-para-ensaladas-hermana-bernarda)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Alioli 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/alioli-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Alioli 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/alioli-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Chimichurri para 100 kg de Mamona]({{ site.baseurl }}/salsas-aderezos-y-condimentos/chimichurri-para-100-kg-de-mamona)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Chutney]({{ site.baseurl }}/salsas-aderezos-y-condimentos/chutney)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Condimento francés]({{ site.baseurl }}/salsas-aderezos-y-condimentos/condimento-frances)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Mayonesa a baño maría]({{ site.baseurl }}/salsas-aderezos-y-condimentos/mayonesa-a-bano-maria)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Pesto]({{ site.baseurl }}/salsas-aderezos-y-condimentos/pesto)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa 356 para peceto]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-356-para-peceto)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa bechamel 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-bechamel-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa bechamel 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-bechamel-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa brava]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-brava)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa caprese de Leo]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-caprese-de-leo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa César 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-cesar-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa César 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-cesar-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa criolla 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-criolla-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa criolla 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-criolla-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa curry]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-curry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de aceitunas]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-aceitunas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de aceitunas de 356]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-aceitunas-de-356)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de ananá]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-anana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de anchoas 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-anchoas-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de anchoas 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-anchoas-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de hongos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-hongos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de hongos con sopa crema de hongos]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-hongos-con-sopa-crema-de-hongos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de palta 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-palta-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de palta 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-palta-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de pimiento]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-pimiento)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de pimientos 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-pimientos-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de pimientos 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-pimientos-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de queso 1]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-queso-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de queso 2]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-queso-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa de queso crema]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-de-queso-crema)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa del Español]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-del-espanol)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa holandesa]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-holandesa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa italiana]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-italiana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa maître d'hôtel]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-maitre-d-hotel)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa maltesa]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-maltesa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa para peceto o carnes frías]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-para-peceto-o-carnes-frias)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa ranchera]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-ranchera)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa roquefort]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-roquefort)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa tártara]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-tartara)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Salsa vitel toné]({{ site.baseurl }}/salsas-aderezos-y-condimentos/salsa-vitel-tone)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Substituto para salsa bechamel]({{ site.baseurl }}/salsas-aderezos-y-condimentos/substituto-para-salsa-bechamel)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Masas base]({{ site.baseurl }}/masas-base/)**
+  - [Grumos de avena]({{ site.baseurl }}/masas-base/grumos-de-avena)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Grumos de harina o streusel]({{ site.baseurl }}/masas-base/grumos-de-harina-o-streusel)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa de la pasta frola de las tías]({{ site.baseurl }}/masas-base/masa-de-la-pasta-frola-de-las-tias)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa de pasta frola de Pocha]({{ site.baseurl }}/masas-base/masa-de-pasta-frola-de-pocha)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa de tarta Veer con semillas]({{ site.baseurl }}/masas-base/masa-de-tarta-veer-con-semillas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa medio hojaldre Blancaflor]({{ site.baseurl }}/masas-base/masa-medio-hojaldre-blancaflor)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa para crepes]({{ site.baseurl }}/masas-base/masa-para-crepes)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa para flammkuchen de Sofi]({{ site.baseurl }}/masas-base/masa-para-flammkuchen-de-sofi)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa para tartas dulces]({{ site.baseurl }}/masas-base/masa-para-tartas-dulces)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa para tarteletas saladas o dulces]({{ site.baseurl }}/masas-base/masa-para-tarteletas-saladas-o-dulces)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Masa quebrada]({{ site.baseurl }}/masas-base/masa-quebrada)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tapas de empanadas 1]({{ site.baseurl }}/masas-base/tapas-de-empanadas-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tapas de empanadas 2]({{ site.baseurl }}/masas-base/tapas-de-empanadas-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Huevos]({{ site.baseurl }}/huevos/)**
+  - [Huevos a la canasta]({{ site.baseurl }}/huevos/huevos-a-la-canasta)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos abrazados por la panceta]({{ site.baseurl }}/huevos/huevos-abrazados-por-la-panceta)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos benedictinos]({{ site.baseurl }}/huevos/huevos-benedictinos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos en las nieves]({{ site.baseurl }}/huevos/huevos-en-las-nieves)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos Napoleón]({{ site.baseurl }}/huevos/huevos-napoleon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos poché 1]({{ site.baseurl }}/huevos/huevos-poche-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos poché 2]({{ site.baseurl }}/huevos/huevos-poche-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Huevos revueltos]({{ site.baseurl }}/huevos/huevos-revueltos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Omelette]({{ site.baseurl }}/huevos/omelette)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Platos principales]({{ site.baseurl }}/platos-principales/)**
+  - **[Aves]({{ site.baseurl }}/platos-principales/aves/)**
+    - [Arroz con pollo a la Multichef (o sin Multichef)]({{ site.baseurl }}/platos-principales/aves/arroz-con-pollo-a-la-multichef)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo a la florentina]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-florentina)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo a la Haití]({{ site.baseurl }}/platos-principales/aves/pollo-a-la-haiti)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo al puerro]({{ site.baseurl }}/platos-principales/aves/pollo-al-puerro)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo con champiñones]({{ site.baseurl }}/platos-principales/aves/pollo-con-champinones)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pollo en escabeche]({{ site.baseurl }}/platos-principales/aves/pollo-en-escabeche)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Soufflé de pollo]({{ site.baseurl }}/platos-principales/aves/souffle-de-pollo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Supremas a la Kiev]({{ site.baseurl }}/platos-principales/aves/supremas-a-la-kiev)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Carnes]({{ site.baseurl }}/platos-principales/carnes/)**
+    - [Albóndigas]({{ site.baseurl }}/platos-principales/carnes/albondigas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bifes a la criolla]({{ site.baseurl }}/platos-principales/carnes/bifes-a-la-criolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bifes rellenos a la plancha]({{ site.baseurl }}/platos-principales/carnes/bifes-rellenos-a-la-plancha)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bondiola de cerdo a la cerveza]({{ site.baseurl }}/platos-principales/carnes/bondiola-de-cerdo-a-la-cerveza)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Brochette]({{ site.baseurl }}/platos-principales/carnes/brochette)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Carne a la gravy]({{ site.baseurl }}/platos-principales/carnes/carne-a-la-gravy)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Carne agridulce (receta de Gigi)]({{ site.baseurl }}/platos-principales/carnes/carne-agridulce)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Cazuela de salchichas]({{ site.baseurl }}/platos-principales/carnes/cazuela-de-salchichas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Cerdo a la florentina (agridulce)]({{ site.baseurl }}/platos-principales/carnes/cerdo-a-la-florentina)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Escalopes al vino Marsala]({{ site.baseurl }}/platos-principales/carnes/escalopes-al-vino-marsala)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Estofado de carne y verduras]({{ site.baseurl }}/platos-principales/carnes/estofado-de-carne-y-verduras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Guiso de verduras y cerdo a la oriental]({{ site.baseurl }}/platos-principales/carnes/guiso-de-verduras-y-cerdo-a-la-oriental)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Gulasch]({{ site.baseurl }}/platos-principales/carnes/gulasch)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Matambre relleno (2 kg)]({{ site.baseurl }}/platos-principales/carnes/matambre-relleno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Niños envueltos a la cacerola]({{ site.baseurl }}/platos-principales/carnes/ninos-envueltos-a-la-cacerola)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pastel de papa y carne]({{ site.baseurl }}/platos-principales/carnes/pastel-de-papa-y-carne)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Wok con carne]({{ site.baseurl }}/platos-principales/carnes/wok-con-carne)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Pescados y mariscos]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/)**
+    - [Arroz con mejillones (berberechos, u otro bicho de mar)]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/arroz-con-mejillones)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Cachetes de abadejo a la sartén]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/cachetes-de-abadejo-a-la-sarten)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Filetes de pescado a la cerveza]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/filetes-de-pescado-a-la-cerveza)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Filetes de pescado al curry al horno (receta del abuelito Lito)]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/filetes-de-pescado-al-curry-al-horno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Gambas al ajillo]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/gambas-al-ajillo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pastel de caballa]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/pastel-de-caballa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pescado a la crema de Emilia]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/pescado-a-la-crema-de-emilia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pescado al curry de Alcira en la sartén]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/pescado-al-curry-de-alcira-en-la-sarten)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Pescado sobre cama de verduras al horno]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/pescado-sobre-cama-de-verduras-al-horno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Salmón con hierbas al vino blanco]({{ site.baseurl }}/platos-principales/pescados-y-mariscos/salmon-con-hierbas-al-vino-blanco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Otros platos principales]({{ site.baseurl }}/platos-principales/otros-platos-principales/)**
+    - [Fondue suiza]({{ site.baseurl }}/platos-principales/otros-platos-principales/fondue-suiza)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Guiso de lentejas]({{ site.baseurl }}/platos-principales/otros-platos-principales/guiso-de-lentejas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tortilla de papas a la española]({{ site.baseurl }}/platos-principales/otros-platos-principales/tortilla-de-papas-a-la-espanola)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Guarniciones y verduras]({{ site.baseurl }}/guarniciones-y-verduras/)**
+  - [Bratkartoffeln de María Rosa]({{ site.baseurl }}/guarniciones-y-verduras/bratkartoffeln-de-maria-rosa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Brócoli con anchoa]({{ site.baseurl }}/guarniciones-y-verduras/brocoli-con-anchoa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Brócoli con papas al horno micro]({{ site.baseurl }}/guarniciones-y-verduras/brocoli-con-papas-al-horno-micro)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Brócoli, zanahoria y pollo]({{ site.baseurl }}/guarniciones-y-verduras/brocoli-zanahoria-y-pollo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Bruselas calientes]({{ site.baseurl }}/guarniciones-y-verduras/bruselas-calientes)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Calabaza asada con miel y queso]({{ site.baseurl }}/guarniciones-y-verduras/calabaza-asada-con-miel-y-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Cebollas caramelizadas]({{ site.baseurl }}/guarniciones-y-verduras/cebollas-caramelizadas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Chucrut]({{ site.baseurl }}/guarniciones-y-verduras/chucrut)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Cielo y tierra, del “repollo dorado”]({{ site.baseurl }}/guarniciones-y-verduras/cielo-y-tierra-del-repollo-dorado)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Colcannon]({{ site.baseurl }}/guarniciones-y-verduras/colcannon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Coliflor o brócoli a la milanesa]({{ site.baseurl }}/guarniciones-y-verduras/coliflor-o-brocoli-a-la-milanesa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Coliflor o brócoli a la sartén]({{ site.baseurl }}/guarniciones-y-verduras/coliflor-o-brocoli-a-la-sarten)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Coliflor o brócoli suprema]({{ site.baseurl }}/guarniciones-y-verduras/coliflor-o-brocoli-suprema)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Escabeche de verduras]({{ site.baseurl }}/guarniciones-y-verduras/escabeche-de-verduras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Espinaca al ajillo]({{ site.baseurl }}/guarniciones-y-verduras/espinaca-al-ajillo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Gratén de calabaza y choclo]({{ site.baseurl }}/guarniciones-y-verduras/graten-de-calabaza-y-choclo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Guiso de repollo]({{ site.baseurl }}/guarniciones-y-verduras/guiso-de-repollo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Humita]({{ site.baseurl }}/guarniciones-y-verduras/humita)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Panaché de verduras]({{ site.baseurl }}/guarniciones-y-verduras/panache-de-verduras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Papines]({{ site.baseurl }}/guarniciones-y-verduras/papines)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Pastel de calabaza al curry (muy rico)]({{ site.baseurl }}/guarniciones-y-verduras/pastel-de-calabaza-al-curry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Puré de batatas]({{ site.baseurl }}/guarniciones-y-verduras/pure-de-batatas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Repollo en torrejas de Enrique Sereno]({{ site.baseurl }}/guarniciones-y-verduras/repollo-en-torrejas-de-enrique-sereno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Repollo Roman (bisabuelo)]({{ site.baseurl }}/guarniciones-y-verduras/repollo-roman)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Soufflé de choclos de Mamama]({{ site.baseurl }}/guarniciones-y-verduras/souffle-de-choclos-de-mamama)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Wok de verduras]({{ site.baseurl }}/guarniciones-y-verduras/wok-de-verduras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Zanahorias a la Vichy]({{ site.baseurl }}/guarniciones-y-verduras/zanahorias-a-la-vichy)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Zanahorias caramelizadas]({{ site.baseurl }}/guarniciones-y-verduras/zanahorias-caramelizadas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Zapallitos crudos]({{ site.baseurl }}/guarniciones-y-verduras/zapallitos-crudos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Arroces, legumbres y granos]({{ site.baseurl }}/arroces-legumbres-y-granos/)**
+  - [Arroz a la oriental]({{ site.baseurl }}/arroces-legumbres-y-granos/arroz-a-la-oriental)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Arroz al curry]({{ site.baseurl }}/arroces-legumbres-y-granos/arroz-al-curry)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Frijoles]({{ site.baseurl }}/arroces-legumbres-y-granos/frijoles)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Garbanzos]({{ site.baseurl }}/arroces-legumbres-y-granos/garbanzos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Proporciones para polenta instantánea]({{ site.baseurl }}/arroces-legumbres-y-granos/proporciones-para-polenta-instantanea)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Quinoa]({{ site.baseurl }}/arroces-legumbres-y-granos/quinoa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Pastas y ñoquis]({{ site.baseurl }}/pastas-y-noquis/)**
+  - [Brócoli con pasta]({{ site.baseurl }}/pastas-y-noquis/brocoli-con-pasta)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Flout]({{ site.baseurl }}/pastas-y-noquis/flout)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Ñoquis caseros]({{ site.baseurl }}/pastas-y-noquis/noquis-caseros)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Spätzle (4 personas)]({{ site.baseurl }}/pastas-y-noquis/spatzle)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Tartas, quiches y preparaciones saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/)**
+  - [Crepes al champignon]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/crepes-al-champignon)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Crepes de queso y albahaca con salsa de pimientos]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/crepes-de-queso-y-albahaca-con-salsa-de-pimientos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Flammkuchen]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/flammkuchen)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Piononos arrollados salados]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/piononos-arrollados-salados)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Pizzas rellenas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/pizzas-rellenas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Quiche lorraine de Luigi]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/quiche-lorraine-de-luigi)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Relleno para tarta]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/relleno-para-tarta)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Rellenos salados]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/rellenos-salados)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Rellenos salados para los crepes]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/rellenos-salados-para-los-crepes)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tarta de atún de Aurelia]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tarta-de-atun-de-aurelia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tarta de choclos]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tarta-de-choclos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tartas de María Rosa (muy buenas; saladas)]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tartas-de-maria-rosa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Tarteletas saladas]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/tarteletas-saladas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Torta de queso y cebolla (muy buena)]({{ site.baseurl }}/tartas-quiches-y-preparaciones-saladas/torta-de-queso-y-cebolla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Postres]({{ site.baseurl }}/postres/)**
+  - **[Budines y otros horneados]({{ site.baseurl }}/postres/budines-y-otros-horneados/)**
+    - [Besitos - friche de Renato]({{ site.baseurl }}/postres/budines-y-otros-horneados/besitos-friche-de-renato)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Budín de banana y nuez (y chocolate) de Vir, desde Corralejo]({{ site.baseurl }}/postres/budines-y-otros-horneados/budin-de-banana-y-nuez-de-vir-desde-corralejo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Budín de batatas con gusto a castañas]({{ site.baseurl }}/postres/budines-y-otros-horneados/budin-de-batatas-con-gusto-a-castanas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Doughnuts o donas de las tías María y Anita]({{ site.baseurl }}/postres/budines-y-otros-horneados/doughnuts-o-donas-de-las-tias-maria-y-anita)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tortas fritas]({{ site.baseurl }}/postres/budines-y-otros-horneados/tortas-fritas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Waffles]({{ site.baseurl }}/postres/budines-y-otros-horneados/waffles)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Cremas, flanes y mousses]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/)**
+    - [Arroz con leche]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/arroz-con-leche)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Borrachito]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/borrachito)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Borrachito de la tía Nely]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/borrachito-de-la-tia-nely)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crema catalana]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/crema-catalana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crema pastelera de la abuela Pata]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/crema-pastelera-de-la-abuela-pata)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crema sevillana de naranjas]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/crema-sevillana-de-naranjas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crème brûlée]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/creme-brulee)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Flan de dulce de leche de Alcira]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/flan-de-dulce-de-leche-de-alcira)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Flan de dulce de leche de la abuela Aurelia]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/flan-de-dulce-de-leche-de-la-abuela-aurelia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Flan de peras y chocolate]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/flan-de-peras-y-chocolate)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Isla flotante de la abuela Aurelia]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/isla-flotante-de-la-abuela-aurelia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Mousse de chocolate de Emilia]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/mousse-de-chocolate-de-emilia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Mousse de chocolate de Marie Claude]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/mousse-de-chocolate-de-marie-claude)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Natilla]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/natilla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Otra natilla]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/otra-natilla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Postre Chocolino]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/postre-chocolino)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Postre sencillo de batatas al horno]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/postre-sencillo-de-batatas-al-horno)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tiramisú]({{ site.baseurl }}/postres/cremas-flanes-y-mousses/tiramisu)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/)**
+    - [Crepes suzette]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/crepes-suzette)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Panqueques (finitos)]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/panqueques)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Panqueques americanos (gruesos)]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/panqueques-americanos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Rellenos dulces para crepes]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/rellenos-dulces-para-crepes)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torre de panqueques o piononos]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/torre-de-panqueques-o-piononos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tostadas francesas o ropa vieja]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/tostadas-francesas-o-ropa-vieja)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Dulces y mermeladas]({{ site.baseurl }}/postres/dulces-y-mermeladas/)**
+    - [Almíbar]({{ site.baseurl }}/postres/dulces-y-mermeladas/almibar)
+    - [Dulce de leche]({{ site.baseurl }}/postres/dulces-y-mermeladas/dulce-de-leche)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Mermelada de frutas]({{ site.baseurl }}/postres/dulces-y-mermeladas/mermelada-de-frutas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Galletitas y masitas]({{ site.baseurl }}/postres/galletitas-y-masitas/)**
+    - [Alfajores de maizena]({{ site.baseurl }}/postres/galletitas-y-masitas/alfajores-de-maizena)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Anzac, masitas australianas]({{ site.baseurl }}/postres/galletitas-y-masitas/anzac-masitas-australianas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bizcochitos con grasa]({{ site.baseurl }}/postres/galletitas-y-masitas/bizcochitos-con-grasa)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Chorizo de chocolate]({{ site.baseurl }}/postres/galletitas-y-masitas/chorizo-de-chocolate)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Florentinos]({{ site.baseurl }}/postres/galletitas-y-masitas/florentinos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Galletitas con chispitas de chocolate]({{ site.baseurl }}/postres/galletitas-y-masitas/galletitas-con-chispitas-de-chocolate)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Galletitas de bicarbonato de amoniaco (CO3NH4)]({{ site.baseurl }}/postres/galletitas-y-masitas/galletitas-de-bicarbonato-de-amoniaco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Masitas de los chicos]({{ site.baseurl }}/postres/galletitas-y-masitas/masitas-de-los-chicos)
+    - [Merenguitos de Mabel Malbert]({{ site.baseurl }}/postres/galletitas-y-masitas/merenguitos-de-mabel-malbert)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Spekulatius]({{ site.baseurl }}/postres/galletitas-y-masitas/spekulatius)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Turrón de Quaker]({{ site.baseurl }}/postres/galletitas-y-masitas/turron-de-quaker)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Tartas y postres de fruta]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/)**
+    - [Caramelizar bananas u otras frutas]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/caramelizar-bananas-u-otras-frutas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Clafoutis de cereza]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/clafoutis-de-cereza)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Clafoutis de frutos rojos]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/clafoutis-de-frutos-rojos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Clafoutis de manzanas rojas]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/clafoutis-de-manzanas-rojas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Crisp de manzana (crujiente de manzanas)]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/crisp-de-manzana)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Lemon pie]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/lemon-pie)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Orange pie]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/orange-pie)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Peras al vino]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/peras-al-vino)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Puré de manzanas]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/pure-de-manzanas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarta de bananas crocantes de la Mamama]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/tarta-de-bananas-crocantes-de-la-mamama)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarta de coco y dulce de leche]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/tarta-de-coco-y-dulce-de-leche)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarta de frutas artística]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/tarta-de-frutas-artistica)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarta de peras (y otras frutas)]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/tarta-de-peras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarteletas dulces]({{ site.baseurl }}/postres/tartas-y-postres-de-fruta/tarteletas-dulces)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - **[Tortas y bizcochuelos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/)**
+    - [Baño de chocolate de Mamama]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/bano-de-chocolate-de-mamama)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Bizcochuelo]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/bizcochuelo)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Brisle]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/brisle)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Brownies de Antonela]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/brownies-de-antonela)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Carrot cake]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/carrot-cake)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Cheesecake]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/cheesecake)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Gâteau suizo o torta alemana de la nona]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/gateau-suizo-o-torta-alemana-de-la-nona)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Käsekuchen de Sofi]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/kasekuchen-de-sofi)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Sablée de almendras]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/sablee-de-almendras)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Sacher tarte (torta de chocolate)]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/sacher-tarte)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Tarantela de tía Chicha]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/tarantela-de-tia-chicha)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta arena con duraznos al natural]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-arena-con-duraznos-al-natural)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta arena de manzana (y otras frutas) de María y Anita]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-arena-de-manzana-de-maria-y-anita)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de chocolate de Lili Morey]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-chocolate-de-lili-morey)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de coco]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-coco)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de miel de Mónica]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-miel-de-monica)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de naranjas o mandarinas de María Eugenia (mejor que la de M. Piantoni)]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-naranjas-o-mandarinas-de-maria-eugenia)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de queso]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-queso)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de ricota]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-ricota)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta de zanahorias]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-de-zanahorias)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta haragana de manzanas]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-haragana-de-manzanas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta húngara, de los 120 golpes, o de los bollitos]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-hungara-de-los-120-golpes-o-de-los-bollitos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta invertida de ananá de Gigi]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-invertida-de-anana-de-gigi)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta invertida de manzanas]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-invertida-de-manzanas)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta peruana de tía Nilda]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-peruana-de-tia-nilda)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta simple de vainilla]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-simple-de-vainilla)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+    - [Torta simple marmolada]({{ site.baseurl }}/postres/tortas-y-bizcochuelos/torta-simple-marmolada)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+- **[Salud y hogar]({{ site.baseurl }}/salud-y-hogar/)**
+  - [Manchas difíciles]({{ site.baseurl }}/salud-y-hogar/manchas-dificiles)
+  - [Remedios caseros]({{ site.baseurl }}/salud-y-hogar/remedios-caseros)

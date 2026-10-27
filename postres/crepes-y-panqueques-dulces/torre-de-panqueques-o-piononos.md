@@ -1,0 +1,37 @@
+---
+slug: torre-de-panqueques-o-piononos
+uuid: e372d7a9-5a4d-47ff-8f14-5b635acb5d1e
+page_title: Torre de panqueques o piononos
+curated: false
+custom_edit_url: https://github.com/lvisintini/recetasdemami/edit/main/docs/postres/crepes-y-panqueques-dulces/torre-de-panqueques-o-piononos.md
+new_page_url: https://github.com/lvisintini/recetasdemami/new/main/docs/postres/crepes-y-panqueques-dulces?filename=titulo-de-la-receta.md&value=---%0Aslug%3A%20titulo-de-la-receta%0Auuid%3A%2072ef9523-a86d-4372-ac10-238957f4e55a%0Apage_title%3A%20T%C3%ADtulo%20de%20la%20receta%0Acurated%3A%20false%0A---%0A%0A%7Bnav%7D%0A%0A%23%23%20T%C3%ADtulo%20de%20la%20receta%0A%0A%7C%2A%2ACr%C3%A9dito%28s%29%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Preparaci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ATiempo%20de%20Cocci%C3%B3n%20Estimado%3A%2A%2A%7C%20%7C%0A%7C%2A%2ARaciones%3A%2A%2A%7C%20%7C%0A%0A%3CSUMMARY%3E%0A%0A%23%23%23%20Ingredientes%0A%0A-%20%0A%0A%23%23%23%20Preparaci%C3%B3n%0A%0A1.%20%0A%0A%23%23%23%20Variantes%0A
+title: Torre de panqueques o piononos
+---
+
+[Las Recetas de Mami]({{ site.baseurl }}/) / [Postres]({{ site.baseurl }}/postres/) / [Crepes y panqueques dulces]({{ site.baseurl }}/postres/crepes-y-panqueques-dulces/) / Torre de panqueques o piononos
+
+<p class="pending-note">Pendiente de revisión</p>
+
+## Torre de panqueques o piononos
+
+|**Crédito(s):**| |
+|**Tiempo de Preparación Estimado:**| |
+|**Tiempo de Cocción Estimado:**| |
+|**Raciones:**| |
+
+### Ingredientes
+
+- 
+- 
+- 
+
+### Preparación
+
+
+Linkear aquí una receta para panqueques y una para piononos
+
+Usar cualquiera de los rellenos salados
+
+
+
+### Variantes
