@@ -1,5 +1,5 @@
 ---
-slug: Cinnamon-swirls
+slug: cinnamon-swirls
 uuid: 0f90f8eb-5705-40ec-ba9f-f70994e33eaf
 page_title: Cinnamon swirls
 curated: false
