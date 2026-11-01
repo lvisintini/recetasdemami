@@ -1,0 +1,24 @@
+{%- comment -%}
+  Project link, curation report link (/curacion, written by build_docs.py), "Improve this
+  page" link, "Nueva receta aquí" link (new_page_url: GitHub's new-file form in this page's
+  folder, prefilled with the recipe template) and theme credits. The layout includes it twice: pinned at the bottom of the
+  sidebar (class "sidebar-footer", wide screens) and after the content ("page-footer",
+  small screens); the CSS shows one or the other.
+{%- endcomment %}
+<div class="{{ include.class }}">
+  {% if site.github.is_project_page %}
+  <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+  {% endif %}
+
+  <p class="curation-link"><a href="{{ "/curacion" | relative_url }}">Curación</a></p>
+
+  {% if page.custom_edit_url %}
+  <p class="edit-link"><a href="{{ page.custom_edit_url }}">Improve this page</a></p>
+  {% endif %}
+
+  {% if page.new_page_url %}
+  <p class="new-link"><a href="{{ page.new_page_url }}">Nueva receta aquí</a></p>
+  {% endif %}
+
+  <p class="credits"><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+</div>
