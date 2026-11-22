@@ -1,0 +1,20 @@
+{% assign here = page.url | remove: '.html' %}
+<p class="site-toc-title"><a href="{{ site.baseurl }}/">Las Recetas de Mami</a></p>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/ensaladas/">Ensaladas</a></strong>
+<ul class="site-toc">
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-clasicas/">Ensaladas clásicas</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-con-fruta/">Ensaladas con fruta</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-con-mayonesa/">Ensaladas con mayonesa</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-hojas-verdes/">Ensaladas de hojas verdes</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-palta/">Ensaladas de palta</a></strong></li>
+<li><strong><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/" class="current">Ensaladas de remolacha</a></strong>
+<ul class="site-toc">
+<li><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolacha-al-estilo-vir"{% if here == '/ensaladas/ensaladas-de-remolacha/remolacha-al-estilo-vir' %} class="current"{% endif %}>Remolacha al estilo Vir</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-1"{% if here == '/ensaladas/ensaladas-de-remolacha/remolachas-1' %} class="current"{% endif %}>Remolachas 1</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+<li><a href="{{ site.baseurl }}/ensaladas/ensaladas-de-remolacha/remolachas-2"{% if here == '/ensaladas/ensaladas-de-remolacha/remolachas-2' %} class="current"{% endif %}>Remolachas 2</a><span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>

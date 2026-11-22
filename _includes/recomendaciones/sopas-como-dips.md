@@ -1,0 +1,4 @@
+- Otras recetas, como algunas sopas, pueden presentarse como salsas o dips, por ejemplo:
+  - [Crema de choclos]({{ site.baseurl }}/sopas-y-cremas/crema-de-choclos)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Guacamole 1]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-1)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
+  - [Guacamole 2]({{ site.baseurl }}/entradas-y-aperitivos/bocaditos-dips-y-picadas/guacamole-2)<span class="pending-mark" role="img" title="Pendiente de revisión" aria-label="Pendiente de revisión"></span>
