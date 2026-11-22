@@ -36,4 +36,4 @@ Una bebida oriunda de Brazil muy refrescante, sobre todo con sol en la playa.
 ### Variantes
 
 - **Caipirinha limón**: Si no se consiguen limas, se puede reemplazar con un limones.
-- **[page_link](e169a3a8-ca03-4ebd-8aed-75c45363c7f0)**
+- **[page_link](803ba725-4311-4432-9e6d-218de68bed25)**
